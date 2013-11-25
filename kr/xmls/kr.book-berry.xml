@@ -1,0 +1,46 @@
+﻿<items>
+    <item>
+        <key>###H2###</key>
+        <val>Marine Club BERRY Booking Form</val>
+    </item>
+    <item>
+        <key>###Dive Experience###</key>
+        <val>체험 다이빙</val>
+    </item>
+    <item>
+        <key>###Water Sports and KAYAK Activity booking###</key>
+        <val>해양 스포츠와 카야킹 예약</val>
+    </item>
+    <item>
+        <key>###Leisure Diving Booking###</key>
+        <val>레저 다이빙 예약</val>
+    </item>
+    <item>
+        <key>###Fill in detail for scuba equipment rental###</key>
+        <val>스쿠버 장비 대여 세부사항을 입력해 주십시요.</val>
+    </item>
+    <item>
+        <key>###For equipement arrangement###</key>
+        <val>적합한 장비 준비를 위해서</val>
+    </item>
+    <item>
+        <key>###dives with rental equipment###</key>
+        <val>회 다이빙(장비대여)</val>
+    </item>
+    <item>
+        <key>###dives with own equipment###</key>
+        <val>회 다이빙(개인장비)</val>
+    </item>
+    <item>
+        <key>###Activity###</key>
+        <val>활동</val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+</items>

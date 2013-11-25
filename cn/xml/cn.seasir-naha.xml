@@ -1,0 +1,146 @@
+﻿<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>冲绳潜水, 浮潜俱乐部 Marine House Seasir 那霸</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>从那霸出发到庆良间诸岛的潜水, 浮潜和体验潜水行程. 庆良间诸岛是冲绳着名的潜水和浮潜胜地. 在庆良间诸岛周围有超过 50个潜水地点, 围绕着珊瑚礁鱼群和独特的海景. 庆良间群岛在平均的海况条件下, 你可以看到约 20 - 50米的距离 (能见度).</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Diving,Dive,Snorkeling,Scuba,Water,Marine,Sports,English,Foreign,Naha,Kerama,Aka,Manza,Kanucha,冲绳,冲縄,潜水,中文,广东话,中国,香港,水上活动,外国人,浮潜,体验潜水,那霸</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###H2###</key>
+        <val>SEASIR 那霸 - 当日来回庆良间诸岛的潜水和浮潜之旅</val>
+    </item>
+    <!-- {{{ intro -->
+    <item>
+        <key>###theTeam###</key>
+        <val>SEASIR 那霸团队与设备</val>
+    </item>
+    <item>
+        <key>###theTeamIntro###</key>
+        <val><![CDATA[
+Marine House SEASIR 那霸成立于 1993年, 是 PADI 5 星级的潜水员培育中心. 一共有 20 位全职的潜水指导员及两艘专门针对潜水而设计的潜水船 <span class="hl-red">LOVE</span> 和 <span class="hl-red">LUCKY</span>. 每艘船不但可容纳 40 位装备齐全的潜水员, 而且是冲縄最
+快的潜水船. 船上设有厕所, 卫浴设备, 冷热茶饮及干净的毛巾供潜水员使用. Marine House SEASIR 那霸满足外国客人需求，有说英文, 中文及广东话的潜水指导员.
+            ]]></val>
+    </item>
+    <item>
+        <key>###Diving and Snorkeling at Kerama islands###</key>
+        <val>在庆良间诸岛的潜水和浮潜</val>
+    </item>
+    <item>
+        <key>###keramaIntro###</key>
+        <val>庆良间诸岛是冲绳著名的潜水和浮潜胜地. 在庆良间诸岛周围有超过 50个潜水地点, 围绕着珊瑚礁鱼群和独特的海景. 庆良间群岛在一般的海况条件下, 你可以看到约 20 - 50米的距离 (能见度).从七月到九月期间, 几乎所有的潜水地点充满着 Chromis Viridis &amp; Arrow Cardinal 及其它的海洋生物, 如石斑, 热带魚, unicorn surgeon fish,  狮子鱼, 多种海兔. 以下是推荐的潜水地点: TWIN ROCK, KAMIGUSUKU, NAKA CHINSHI, TAKA CHINSHI, NOZAKI, UGAN, JITSURU SENTAN, UNSE, UNCHIZAN, TONAKI (blue Corner), TONAKI (Blue Hole), KUBA MINAMI, SAND TRIANGLE, KUBA NISHI, BURI JIMA, SIMOZONE and KITA HIDAJI.</val>
+    </item>
+    <!-- }}} intro -->
+    <item>
+        <key>###Leisure Diving Desc Full###</key>
+        <val>休闲潜水之旅是专门为有潜水证照的潜水员准备的海洋探索之旅, 包含完整的装备和2个气瓶的潜水. 我们每日往返庆良间诸岛的行程, 会在 3个不同的地点做潜水. 除非你计划一天3次下潜, 不然您可以选择在任 2个潜点潜水. 潜水的行程和淡旺季的价格, 请参考下面的价格表.
+        </val>
+    </item>
+    <item>
+        <key>###Intro Diving Desc Full###</key>
+        <val>对未持有潜水证照的客人, 能够通过参加体验潜水来感受庆良间诸岛的海底魅力, 体验潜水包含 1次的浮潜, 及至少 1次水中潜水. 感受近于无重力且被海洋，热带鱼群和珊瑚礁围绕的奇妙体验. </val>
+    </item>
+    <item>
+        <key>###Snorkeling Desc Full###</key>
+        <val>浮潜是最常见水上活动. 浮潜于庆良间诸岛周围, 您将有机会看到各样美丽的珊瑚礁生态, 海龟和多种不同的热带鱼. 我们会为所有客人提供如何使用面罩, 呼吸管和蛙鞋的教学.</val>
+    </item>
+    
+    <item>
+        <key>###packageIncludesDiving###</key>
+        <val><![CDATA[
+<li>全套潜水装备</li>
+<li>日式便当</li>
+<li>冷热茶饮及味噌汤</li>
+<li>毛巾</li>
+<li>保险</li>
+<li>酒店接送 (那霸市內来回)</li>
+        ]]></val>
+    </item>
+    <item>
+        <key>###packageIncludesSnorkeling###</key>
+        <val><![CDATA[
+<li>浮潜装备</li>
+<li>日式便当</li>
+<li>冷热茶饮及味噌汤</li>
+<li>毛巾</li>
+<li>保险</li>
+<li>酒店接送 (那霸市內来回)</li>
+        ]]></val>
+    </item>
+    <item>
+        <key>###keramaSchedule###</key>
+        <val>每日庆良间诸岛往返行程</val>
+    </item>
+    <item>
+        <key>###keramaScheduleLi###</key>
+        <val><![CDATA[
+<li>07:30	--	酒店接送 (限那霸市內)</li>			 
+<li>08:30	--  装备确认, 乘船登记, 贵重用品寄放</li>	 
+<li>09:00	--	出航前往庆良间诸岛</li>				
+<li>10:00	--	第一潜, 第二潜 (或浮潜)</li>			
+<li>13:00	--	午餐</li>				
+<li>14:00	--	第三潜 (或浮潜)</li>				
+<li>16:00	--	返航回那霸</li>			
+<li>17:00	--	酒店接送 (限那霸市內)</li>	
+        ]]></val>
+    </item>
+    <item>
+        <key>###keramaScheduleLi intro###</key>
+        <val><![CDATA[
+<li>07:30	--	酒店接送 (限那霸市內)</li>			 
+<li>08:30	--  装备确认, 乘船登记, 贵重用品寄放</li>	 
+<li>09:00	--	出航前往庆良间诸岛</li>				
+<li>10:00	--	浮潜</li>			
+<li>11:00	--	体验潜水</li>			
+<li>13:00	--	午餐</li>				
+<li>14:00	--	浮潜或选择第二次体验潜水 (需额外收费) </li>				
+<li>16:00	--	返航回那霸</li>			
+<li>17:00	--	酒店接送 (限那霸市內)</li>	
+        ]]></val>
+    </item>
+    <item>
+        <key>###keramaScheduleLi snorkeling###</key>
+        <val><![CDATA[
+<li>07:30	--	酒店接送 (限那霸市內)</li>			 
+<li>08:30	-- 装备确认, 乘船登记, 贵重用品寄放</li>	 
+<li>09:00	--	出航前往庆良间诸岛</li>				
+<li>10:00	--	浮潜</li>			
+<li>13:00	--	午餐</li>				
+<li>14:00	--	浮潜</li>			
+<li>16:00	--	返航回那霸</li>			
+<li>17:00	--	酒店接送 (限那霸市內)</li>	
+        ]]></val>
+    </item>
+    <item>
+        <key>###keramaScheduleLi refresher###</key>
+        <val><![CDATA[
+<li>07:30	--	酒店接送 (限那霸市內)</li>			 
+<li>08:30	--  装备确认, 乘船登记, 贵重用品寄放</li>	 
+<li>09:00	--	出航前往庆良间诸岛</li>				
+<li>10:00	--	知识复习及复习潜水第一潜</li>			
+<li>13:00	--	午餐</li>				
+<li>14:00	--	refresh dive 2</li>				
+<li>16:00	--	返航回那霸</li>			
+<li>17:00	--	酒店接送 (限那霸市內)</li>	
+        ]]></val>
+    </item>
+    <item>
+        <key>###Season Price for leisure Diving Package###</key>
+        <val>休闲潜水淡旺季价目表</val>
+    </item>
+    <item>
+        <key>###Season Price for leisure Diving With Own Diving Equipments###</key>
+        <val>休闲潜水自备装备淡旺季价目表</val>
+    </item>
+    <item>
+        <key>###Introductory Diving Package Price###</key>
+        <val>体验潜水淡旺季价目表</val>
+    </item>
+</items>

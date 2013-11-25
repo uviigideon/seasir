@@ -1,0 +1,237 @@
+﻿<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Scuba Diving Course – SEASIR Group</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>Okinawa PADI 5 Star Instructor Development Resort, provide English, Mandarin, Cantonese and Japanese diving courses</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,scuba,diving,course,PADI,English,Foreign,Chinese,Mandarin,Cantonese</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###H2###</key>
+        <val>영어, 중국어, 광동어로 제공되는 PADI 다이빙 과정</val>
+    </item>
+    <item>
+        <key>###course intro###</key>
+        <val>우리의 교육시설내에서 PADI 국제 인정 자격증을 제공합니다. 친근하고 풍부한 경험의 우리 강사진은 일본어, 영어, 중국어, 광동어, 말레이시아어로 교육과정을 제공합니다.</val>
+    </item>
+    <item>
+        <key>###English or Mandarin###</key>
+        <val><![CDATA[<span class="lt">(English or Mandarin)</span>]]></val>
+    </item>
+    <!-- {{{ ow -->
+    <item>
+        <key>###PADI Open Water Diver Course###</key>
+        <val>PADI Open Water 오픈워터 다이버 코스</val>
+    </item>
+    <item>
+        <key>###OW Schedule###</key>
+        <val><![CDATA[
+            <li>첫째 날 - 이론교육 & 제한 수역 교육(반나절 잠수풀 교육)</li>
+            <li>둘째 날 - 오픈워터 교육 다이브 2회(해양실습) </li>
+            <li>셋쩨 날 - 오픈워터 교육 다이브 2회(해양실습)</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###OW Schedule comment###</key>
+        <val><![CDATA[상기의 교육 과정은 홈스터디 프로그램 또는 PADI e-Learning 프로그램 기준으로 작성되어 있습니다. 더 상세한 정보와 일정이 궁금하시면 저희 지점으로 <a href="mailto:english@seasir.com" target="_blank">연락</a>해 주시기 바랍니다.]]></val>
+    </item>
+    <item>
+        <key>###Requirement from candidate###</key>
+        <val>지원자 요구사항</val>
+    </item>
+    <item>
+        <key>###Requirement from candidate li###</key>
+        <val><![CDATA[
+            <li>SEASIR <a href="./health.htm" target="_blank">건강 체크 리스트</a>에 따라 주시기 바랍니다. 만약 건강 체크 리스트의 질문 중 해당사항이 있을 시 스쿠버 다이빙 교육 프로그램에 참여하기 이전에 반드시 전문의와 상담 후 전문의의 소견서 제출을 요구하는 바입니다.</li>
+            <li>시즌 캘린더에 의해 성수기에 해당되는 날짜에 진행되는 교육은 지원자 개개인 5000엔씩 추가요금이 부과됩니다.</li>
+            <li>여권용 사진 2매</li>
+            <li>교육 과정은 최소 2명의 지원자를 요구합니다. 한명의 지원자인 경우엔 일정 조정을 위해 <a href="mailto:english@seasir.com" target="_blank">연락</a>해 주시기 바랍니다.</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Training Material###</key>
+        <val>교육 자료</val>
+    </item>
+    <item>
+        <key>###Training Material dt###</key>
+        <val><![CDATA[PADI 오픈워터 다이버 메뉴얼]]></val>
+    </item>
+    <item>
+        <key>###Equipment###</key>
+        <val>장비</val>
+    </item>
+    <item>
+        <key>###Equipment dt###</key>
+        <val>교육과정중 스쿠버 장비 사용</val>
+    </item>
+    <item>
+        <key>###Registration###</key>
+        <val>등록</val>
+    </item>
+    <item>
+        <key>###Registration dt###</key>
+        <val>PADI 오픈워터 다이버 C-카드</val>
+    </item>
+    <item>
+        <key>###Meal###</key>
+        <val>식사</val>
+    </item>
+    <item>
+        <key>###Meal dt###</key>
+        <val>오픈워터 교육과정중 점심식사 제공</val>
+    </item>
+    <item>
+        <key>###Boat fee###</key>
+        <val>보트 가격</val>
+    </item>
+    <item>
+        <key>###Boat fee dt###</key>
+        <val>오픈워터 교육과정 둘째 날</val>
+    </item>
+    <item>
+        <key>###Item included in Course###</key>
+        <val>교육과정에 포함된 항목</val>
+    </item>
+    <!-- }}} ow -->
+    <!-- {{{ aow -->
+    <item>
+        <key>###PADI Advance Diver Course###</key>
+        <val>PADI Advanced Diver 어드밴스드 다이버 코스</val>
+    </item>
+    <item>
+        <key>###CORE DIVES###</key>
+        <val>코어 다이브(필수)</val>
+    </item>
+    <item>
+        <key>###CORE DIVES li###</key>
+        <val><![CDATA[
+            <li>딥 다이브</li>
+            <li>네비게이션 다이브</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###ELECTIVE DIVES###</key>
+        <val>선택 다이브</val>
+    </item>
+    <item>
+        <key>###ELECTIVE DIVES li###</key>
+        <val><![CDATA[
+            <li>보트 다이브</li>
+            <li>표류 다이브</li>
+            <li>고도 부력 연습 다이브</li>
+            <li>수색과 인양 다이브</li>
+            <li>수중 자연주의자 다이브</li>
+            <li>수중 디지털 사진 다이브</li>
+            <li>나이트 다이브</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Requirement from candidate aow li###</key>
+        <val><![CDATA[
+            <li>SEASIR <a href="./health.htm" target="_blank">건강 체크 리스트</a>에 따라 주시기 바랍니다. 만약 건강 체크 리스트의 질문 중 해당사항이 있을 시 스쿠버 다이빙 교육 프로그램에 참여하기 이전에 반드시 전문의와 상담 후 전문의의 소견서 제출을 요구하는 바입니다.</li>
+            <li>시즌 캘린더에 의해 성수기에 해당되는 날짜에 진행되는 교육은 지원자 개개인 5000엔씩 추가요금이 부과됩니다.</li>
+            <li>유효한 PADI 오픈워터 자격증 또는 그와 동등한 수준의 자격증.</li>
+            <li>여권용 사진 2매.</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Training Material aow dt###</key>
+        <val>PADI 어드밴스드 다이버 메뉴얼</val>
+    </item>
+    <item>
+        <key>###Registration aow dt###</key>
+        <val>PADI 어드밴스드 다이버 C-카드</val>
+    </item>
+    <item>
+        <key>###Meal aow dt###</key>
+        <val>이틀 동안 점심식사 제공</val>
+    </item>
+    <item>
+        <key>###Training Period###</key>
+        <val>교육 기간</val>
+    </item>
+    <item>
+        <key>###Training Period dt###</key>
+        <val>이틀간 5번의 교육다이브</val>
+    </item>
+    <!-- }}} aow -->
+    <!-- {{{ efr -->
+    <item>
+        <key>###Emergency First Responder Course###</key>
+        <val>Emergency First Responder 응급처치사 코스</val>
+    </item>
+    <item>
+        <key>###efr Schedule###</key>
+        <val><![CDATA[<li>반나절과정의 기본&보조 대응 이론 및 실습</li>]]></val>
+    </item>
+    <item>
+        <key>###Training Period efr dt###</key>
+        <val>반나절 교육</val>
+    </item>
+    <item>
+        <key>###Training Material efr dt###</key>
+        <val>응급처치사 메뉴얼</val>
+    </item>
+    <item>
+        <key>###Equipment efr dt###</key>
+        <val>교육 키트</val>
+    </item>
+    <item>
+        <key>###Registration efr dt###</key>
+        <val>응급처치사 C-카드</val>
+    </item>
+    <!-- }}} efr -->
+    <item>
+        <key>###PADI Rescue Diver Course###</key>
+        <val>PADI Rescue Diver 레스큐 다이버 코스</val>
+    </item>
+    <item>
+        <key>###res Schedule###</key>
+        <val><![CDATA[
+            <li>첫째 날 - 이론 세션 & 2세션 실습 교육</li>
+            <li>둘째 날 - 3 세션 실습 교육</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Requirement from candidate res li###</key>
+        <val><![CDATA[
+            <li>SEASIR <a href="./health.htm" target="_blank">건강 체크 리스트</a>에 따라 주시기 바랍니다. 만약 건강 체크 리스트의 질문 중 해당사항이 있을 시 스쿠버 다이빙 교육 프로그램에 참여하기 이전에 반드시 전문의와 상담 후 전문의의 소견서 제출을 요구하는 바입니다.</li>
+            <li>시즌 캘린더에 의해 성수기에 해당되는 날짜에 진행되는 교육은 지원자 개개인 5000엔씩 추가요금이 부과됩니다.</li>
+            <li>유효한 PADI 어드밴스드 자격증 혹은 그와 동등한 수준의 자격증 + PADI 응급처치사 / 심폐소생술 레스큐 자격증 혹은 PADI 지역 사무실에서 인증된 심폐소생술 자격증</li>
+            <li>여권용 사진 2매</li>
+            ]]></val>
+    </item>
+            <tr><td>###Meal###</td><td></td></tr>
+    <item>
+        <key>###Training Material res dt###</key>
+        <val>PADI 레스큐 다이버 메뉴얼</val>
+    </item>
+    <item>
+        <key>###Registration res dt###</key>
+        <val>PADI 레스큐 다이버 C-카드</val>
+    </item>
+    <item>
+        <key></key>
+        <val><![CDATA[]]></val>
+    </item>
+
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+</items>

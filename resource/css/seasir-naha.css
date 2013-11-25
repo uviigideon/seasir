@@ -1,0 +1,21 @@
+/* image box {{{ */
+.image-box-naha {background-image:url("../img/naha-img-map-1.jpg");}
+.image-box-kerama{background-image:url("../img/kerama-img-map.jpg");}
+/* }}} image box */
+/* {{{ packages */
+/* {{{ Naha */
+.pkg-imgs-box {vertical-align:top}
+.in-bl {display:inline-block}
+.w400 {width:400px}
+.margin-r30 {margin:0 30px 0 0}
+.mb5 {margin-bottom:5px}
+.block {display:block;padding-bottom:20px}
+.img-map2-01 {background-image:url("./img/naha-img-map2-01.jpg")}
+.img-map2-02 {background-image:url("./img/naha-img-map2-02.jpg")}
+.img-map2-03 {background-image:url("./img/naha-img-map2-03.jpg")}
+.i-1 {background-position:4px 4px}
+.i-2 {background-position:-246px 4px}
+.i-3 {background-position:-496px 4px}
+/* }}} Naha */
+/* }}} packages */
+

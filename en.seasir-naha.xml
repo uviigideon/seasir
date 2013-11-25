@@ -1,0 +1,156 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Scuba Diving - Marine House Seasir NAHA</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>The only diving service with English, Mandarin, Cantonese and Japanese speaking Instructor in Okinawa</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Scuba,Diving,Snorkeling,NAHA,Kerama,English,Foreign</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###H2###</key>
+        <val>SEASIR Naha Daily Diving And Snorkeling Trip at Kerama Islands</val>
+    </item>
+    <!-- {{{ intro -->
+    <item>
+        <key>###theTeam###</key>
+        <val>SEASIR NAHA Dive Team and Facility</val>
+    </item>
+    <item>
+        <key>###theTeamIntro###</key>
+        <val><![CDATA[
+Marine House SEASIR NAHA is a PADI 5 STAR INSTRUCTOR DEVELOPMENT RESORT, been operating since 1993. Total of 20 full time Instructors running the daily operation with two diving boats <span class="hl-red">LOVE</span> and <span class="hl-red">LUCKY</span> that special designed for 40 fully equipped divers in each boat and is the fastest dive boat in Okinawa, with toilet, fresh water and shower facilities. Marine House SEASIR NAHA provides English, Mandarin and Cantonese speaking instructor for foreigner guest.
+            ]]></val>
+    </item>
+    <item>
+        <key>###Diving and Snorkeling at Kerama islands###</key>
+        <val>Diving and Snorkeling at Kerama islands</val>
+    </item>
+    <item>
+        <key>###keramaIntro###</key>
+        <val>Kerama islands the famous diving and snorkeling destination in Okinawa. In Kerama islands surrounding by more than 50 diving site with full of coral fish and unique seascape. Average sea condition in Kerama islands you able to see around 20 – 50 meters distance (visibility). From July to September almost every dive sites is full of Chromis Viridis &amp; Arrow Cardinal, other than this common marine life such as grouper, butterfly fish, unicorn surgeon fish, lion fish and variety of Nudibranch. Here are the recommended dive sites TWIN ROCK, KAMIGUSUKU, NAKA CHINSHI, TAKA CHINSHI, NOZAKI, UGAN, JITSURU SENTAN, UNSE, UNCHIZAN, TONAKI (blue Corner), TONAKI (Blue Hole), KUBA MINAMI, SAND TRIANGLE, KUBA NISHI, BURI JIMA, SIMOZONE and KITA HIDAJI.</val>
+    </item>
+    <!-- }}} intro -->
+    <item>
+        <key>###Leisure Diving Desc Full###</key>
+        <val>This leisure diving package is for certified diver, package come with full equipment and 2 tank dives. Our daily trip to Kerama islands we do stop at 3 different sites, diver can choose to dive at any of the 2 dive site unless you are planning 3 dives on the day. For 3 dives package and season price please refer to package price table at below.</val>
+    </item>
+    <item>
+        <key>###Intro Diving Desc Full###</key>
+        <val>For non-certified, first time diver are able to experience Kerama Islands underwater scenery by participating Discover scuba or commonly known as Introductory Dive. This Package come with 1 dives and you can enjoy snorkeling around during you free time, Snorkeling gear is included in the package.</val>
+    </item>
+    <item>
+        <key>###Snorkeling Desc Full###</key>
+        <val>One of the most common water activity, opportunity to snorkeling around Kerama islands where you get the chance to see beautiful coral form, sea turtle and coral fish. We provide 10 mins lesson for all guests how to use mask, snorkel tube and Fins in the proper way.</val>
+    </item>
+    
+    <item>
+        <key>###packageIncludesDiving###</key>
+        <val><![CDATA[
+<li>Full scuba equipment</li>
+<li>Japanese Lunch Box</li>
+<li>Drinking water &amp; Japanese miso soup</li>
+<li>Towel</li>
+<li>Insurance</li>
+<li>Hotel transfer (round-trip Naha area only)</li>
+        ]]></val>
+    </item>
+    <item>
+        <key>###packageIncludesSnorkeling###</key>
+        <val><![CDATA[
+<li>Snorkeling Set</li>
+<li>Japanese Lunch Box</li>
+<li>Drinking water &amp; Japanese miso soup</li>
+<li>Towel</li>
+<li>Insurance</li>
+<li>Hotel transfer (round-trip Naha area only)</li>
+        ]]></val>
+    </item>
+    <item>
+        <key>###keramaSchedule###</key>
+        <val>Kerama Daily Trip Schedule</val>
+    </item>
+    <item>
+        <key>###keramaScheduleLi###</key>
+        <val><![CDATA[
+<li>07:30	--	Hotel transfer (Naha area only)</li>			 
+<li>08:30	--	Guest registration and equipment check</li>	 
+<li>09:00	--	Depart to KERAMA Islands</li>				
+<li>10:00	--	1st dive and 2nd dive (or snorkeling)</li>			
+<li>13:00	--	Lunch</li>				
+<li>14:00	--	3rd dive (or snorkeling)</li>				
+<li>16:00	--	Depart back to NAHA	</li>			
+<li>17:00	--	Transfer back to Hotel (Naha area only)</li>	
+        ]]></val>
+    </item>
+    <item>
+        <key>###Season Price for leisure Diving Package###</key>
+        <val>Season Price for leisure Diving Package</val>
+    </item>
+    <item>
+        <key>###Season Price for leisure Diving With Own Diving Equipments###</key>
+        <val>Season Price for leisure Diving With Own Diving Equipments</val>
+    </item>
+    <item>
+        <key>###keramaScheduleLi intro###</key>
+        <val><![CDATA[
+<li>07:30	--	Hotel transfer (Naha area only)</li>			 
+<li>08:30	--	Guest registration and equipment check</li>	 
+<li>09:00	--	Depart to KERAMA Islands</li>				
+<li>10:00	--	snorkeling</li>			
+<li>11:00	--	Intro diving</li>			
+<li>13:00	--	Lunch</li>				
+<li>14:00	--	snorkeling or optional 2nd dive</li>				
+<li>16:00	--	Depart back to NAHA	</li>			
+<li>17:00	--	Transfer back to Hotel (Naha area only)</li>	
+        ]]></val>
+    </item>
+    <item>
+        <key>###Introductory Diving Package Price###</key>
+        <val>Introductory Diving Package Price</val>
+    </item>
+    <item>
+        <key>###keramaScheduleLi snorkeling###</key>
+        <val><![CDATA[
+<li>07:30	--	Hotel transfer (Naha area only)</li>			 
+<li>08:30	--	Guest registration and equipment check</li>	 
+<li>09:00	--	Depart to KERAMA Islands</li>				
+<li>10:00	--	snorkeling</li>			
+<li>13:00	--	Lunch</li>				
+<li>14:00	--	snorkeling</li>				
+<li>16:00	--	Depart back to NAHA	</li>			
+<li>17:00	--	Transfer back to Hotel (Naha area only)</li>	
+        ]]></val>
+    </item>
+    <item>
+        <key>###keramaScheduleLi refresher###</key>
+        <val><![CDATA[
+<li>07:30	--	Hotel transfer (Naha area only)</li>			 
+<li>08:30	--	Guest registration and equipment check</li>	 
+<li>09:00	--	Depart to KERAMA Islands</li>				
+<li>10:00	--	Knowledge review and refresh dive 1</li>			
+<li>13:00	--	Lunch</li>				
+<li>14:00	--	refresh dive 2</li>				
+<li>16:00	--	Depart back to NAHA	</li>			
+<li>17:00	--	Transfer back to Hotel (Naha area only)</li>	
+        ]]></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+</items>

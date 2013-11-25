@@ -1,0 +1,233 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Water Sports Center – Marine Club BERRY</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>Okinawa water sports center provide English, Mandarin and Cantonese speaking marine staff</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Water,Sports,Banana,Boat,Jet,Ski,Kayak,Scuba,Diving,Snorkeling,English,Foreign</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###theTeam###</key>
+        <val>MARINE CLUB Berry</val>
+    </item>
+    <item>
+        <key>###theTeamIntro###</key>
+        <val>Marine Club Berry is the main water sports center in Okinawa since year 2001 that operate whole year round. Due to weather concern Marine Club Berry have 3 branches that cover east and west side of Okinawa, with the location coverage there is no worry about the weather or sea condition on your holiday plan for water sports with Marine Club Berry. Marine Club Berry offer numbers of water sports activity in Okinawa.</val>
+    </item>
+    <item>
+        <key>###Water Sports###</key>
+        <val>Water Sports</val>
+    </item>
+    <item>
+        <key>###Intro Diving 1 dive###</key>
+        <val>Introductory Diving 1 dive</val>
+    </item>
+    <item>
+        <key>###Intro Diving 2 dive###</key>
+        <val>Introductory Diving 2 dive</val>
+    </item>
+    <item>
+        <key>###Marine Walk###</key>
+        <val>Marine Walk</val>
+    </item>
+    <item>
+        <key>###Intro Diving###</key>
+        <val>Intro Diving</val>
+    </item>
+    <item>
+        <key>###Min Age###</key>
+        <val>Min. Age</val>
+    </item>
+    <item>
+        <key>###Marine Walk dt###</key>
+        <val>An underwater experience walking around sandy bottom with lots of coral and fishes around you. Underwater experience around 20 mins.</val>
+    </item>
+    <item>
+        <key>###Intro Diving dt###</key>
+        <val>This is for anyone who are not certified as a diver but who wish to try, this program only conduct by Instructor. Under water swim around 20 mins</val>
+    </item>
+    <item>
+        <key>###Snorkeling dt###</key>
+        <val>Snorkeling around at the shallow reef with colour fishes and coral , accompany by Instructor</val>
+    </item>
+    <item>
+        <key>###Marine Club BERRY Activity Daily Time Schedule###</key>
+        <val>Activity Daily Time Schedule</val>
+    </item>
+    <item>
+        <key>###Weed Beach###</key>
+        <val>Kouki Beach</val>
+    </item>
+    <item>
+        <key>###Jet Ski###</key>
+        <val>Jet Ski</val>
+    </item>
+    <item>
+        <key>###Banana Boat Ride###</key>
+        <val>Banana Boat Ride</val>
+    </item>
+    <item>
+        <key>###Super Marble###</key>
+        <val>Super Marble</val>
+    </item>
+    <item>
+        <key>###Active 3###</key>
+        <val>Active 3</val>
+    </item>
+    <item>
+        <key>###Active Try###</key>
+        <val>Active Try</val>
+    </item>
+    <item>
+        <key>###Active 3 dt###</key>
+        <val></val>
+    </item>
+    <item>
+        <key>###Active Try dt###</key>
+        <val></val>
+    </item>
+    <item>
+        <key>###Jet Ski###</key>
+        <val>Jet Ski</val>
+    </item>
+    <item>
+        <key>###Banana Boat Ride###</key>
+        <val>Banana Boat Ride</val>
+    </item>
+    <item>
+        <key>###Super Marble###</key>
+        <val>Super Marble</val>
+    </item>
+    <item>
+        <key>###Wake Board Lesson###</key>
+        <val>Wake Board Lesson</val>
+    </item>
+    <item>
+        <key>###Jet Ski dt###</key>
+        <val>Instructor will bring you to a max speed of this water craft and twisting around the water space make you feel like losing balance.</val>
+    </item>
+    <item>
+        <key>###Banana Boat Ride dt###</key>
+        <val>Challenging water sports, max for 8 person.</val>
+    </item>
+    <item>
+        <key>###Super Marble dt###</key>
+        <val>A popular water drifter, just like you are sitting flat platform and is drifting all the time, max 3 person.</val>
+    </item>
+    <item>
+        <key>###Wake Board Lesson dt###</key>
+        <val>Learn how to wake boarding from our instructor and try on for 30 mins</val>
+    </item>
+    <item>
+        <key>###Operating Season###</key>
+        <val>Operating Season</val>
+    </item>
+    <item>
+        <key>###April-October###</key>
+        <val>April-October</val>
+    </item>
+    <item>
+        <key>###November-March###</key>
+        <val>November-March</val>
+    </item>
+    <item>
+        <key>###Mangrove Kayak###</key>
+        <val>Mangrove Kayak</val>
+    </item>
+    <item>
+        <key>###Sea Kayak###</key>
+        <val>Sea Kayak</val>
+    </item>
+    <item>
+        <key>###Sea Kayak YADOKARI###</key>
+        <val><![CDATA[Sea Kayak<br>(YADOKARI Island)]]></val>
+    </item>
+    <item>
+        <key>###Mangrove Kayak dt###</key>
+        <val>Beautiful mangrove river covers with green give you a peaceful moment and atmosphere.</val>
+    </item>
+    <item>
+        <key>###Sea Kayak dt###</key>
+        <val>A sea kayak tour to visit one of the blue cave, and, snorkeling around at YODOKARI island.</val>
+    </item>
+    <item>
+        <key>###Leisure Diveing dt###</key>
+        <val>Marine Club Berry organizes leisure diving around Manza and Nakama area in Okinawa. The diving site is unique from the seascape with beautiful nudibranch, shrimp or school of fusilier, sea turtle, and grouper. Popular dive site Cape, Onna Point, Honsyu, Manzamou Shita, Manza Coral, Over Head Rock, Manza Dream Hole, Mini Dream Hole, Seragaki Out leaf, Nakayukui, Cross Line, Nakama Point, Afro and Bitaro.</val>
+    </item>
+    <item>
+        <key>###dive dt###</key>
+        <val>Includes: tank, weight, boat and underwater guide only</val>
+    </item>
+    <item>
+        <key>###light eq###</key>
+        <val>Mask with Snorkel Tube, Bootie, Fins (Open Heel)</val>
+    </item>
+    <item>
+        <key>###Daily###</key>
+        <val>Daily</val>
+    </item>
+    <item>
+        <key>###Refresh Course dt###</key>
+        <val><![CDATA[Please <a href="mailto:english@seasir.com">E-mail</a> us for booking]]></val>
+    </item>
+    <item>
+        <key>###Refresh Course###</key>
+        <val>Refresh Course</val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val><![CDATA[]]></val>
+    </item>
+    <!-- {{{ !!!DO NOT TRANSLATE BELOW!!! -->
+    <item>
+        <key>###Active Schedule Time###</key>
+        <val><![CDATA[
+<li>09:00</li>
+<li>11:00</li>
+<li>13:30</li>
+<li>15:30</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Active Schedule Time active 3###</key>
+        <val><![CDATA[
+<li>09:30</li>
+<li>13:00</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Active Schedule Time dive###</key>
+        <val><![CDATA[
+<li>08:30</li>
+<li>13:30</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Active Schedule Time kayak###</key>
+        <val><![CDATA[
+<li>09:00</li>
+<li>13:30</li>
+            ]]></val>
+    </item>
+    <!-- }}} !!!DO NOT TRANSLATE BELOW!!! -->
+</items>
+

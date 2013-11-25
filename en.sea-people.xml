@@ -1,0 +1,36 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Scuba Diving Equipment Retail</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>From a standard Scuba set to a small accessory equipment, we have it all. We do carry the entire scuba equipment major brand in our retail including custom make wet and dry suit.</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,scuba,diving,equipment,retail,custom,wet,dry,suit</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###H2###</key>
+        <val>SEA PEOPLE Scuba Diving Equipment Retail</val>
+    </item>
+    <item>
+        <key>###sea people brief###</key>
+        <val>SEA PEOPLE Retail located in Okinawa Naha City, best known is in JEIS building 1st floor. If you are looking for any major or small equipment related to scuba diving this is your one stop shop that you are looking for. SEA PEOPLE retail been in diving retailer business since 1998 and we do provide to make any pre order from distributor, custom made wet and dry suit and equipment annual maintenance. Therefore we have the most knowledgeable staff available to serve you.</val>
+    </item>
+    <item>
+        <key>###Below are the###</key>
+        <val>Below are the equipment brands that we do stock in SEA PEOPLE Retail</val>
+    </item>
+    <item>
+        <key>###Own Transportation dt###</key>
+        <val><![CDATA[Please use this MAP CODE <span class="hl-red">33187632 *88</span> to locate our shop]]></val>
+    </item>
+    <item>
+        <key>###sea-people Addr###</key>
+        <val><![CDATA[3-1-8 Tomari, Naha city,<br>Okinawa 900-0001 Japan]]></val>
+    </item>
+</items>

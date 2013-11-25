@@ -1,0 +1,638 @@
+﻿<items>
+    <item>
+        <key>###DocType Html###</key>
+        <val><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-us">]]></val>
+    </item>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Diving Marine House Seasir</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>English Speaker Diving Marine Sports in Okinawa</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Diving,Snorkeling,Marine,Water,Sports,English,Foreign,Naha,Kerama,Aka,Manza,Kanucha</val>
+    </item>
+    <!-- }}} header -->
+    <!-- {{{ fllinks -->
+    <item>
+        <key>###flLink1###</key>
+        <val><![CDATA[<a href="http://www.seasir.com/en/">English</a>]]></val>
+    </item>
+    <item>
+        <key>###flLink2###</key>
+        <val><![CDATA[<a href="http://www.seasir.com/ct/">繁體中文</a>]]></val>
+    </item>
+    <item>
+        <key>###flLink3###</key>
+        <val><![CDATA[<a href="http://www.seasir.com/cn/">简体中文</a>]]></val>
+    </item>
+    <item>
+        <key>###flLink4###</key>
+        <val><![CDATA[<a href="http://www.seasir.com/kr/">한국어</a>]]></val>
+    </item>
+    <item>
+        <key>###flLink5###</key>
+        <val><![CDATA[<a href="http://www.seasir.com/">日本語</a>]]></val>
+    </item>
+    <!-- }}} fllinks -->
+    <!-- {{{ top part -->
+    <item>
+        <key>###topH1###</key>
+        <val>Okinawa Scuba Diving And Water Sports</val>
+    </item>
+    <item>
+        <key>###topMenuLi01###</key>
+        <val>Home</val>
+    </item>
+    <item>
+        <key>###topMenuLi02###</key>
+        <val>About Us</val>
+    </item>
+    <item>
+        <key>###topMenuLi03###</key>
+        <val>Gallery</val>
+    </item>
+    <item>
+        <key>###topMenuLi04###</key>
+        <val>Calendar</val>
+    </item>
+    <item>
+        <key>###topMenuLi05###</key>
+        <val>Cancellation Policy</val>
+    </item>
+    <item>
+        <key>###topMenuLi06###</key>
+        <val>Health Check</val>
+    </item>
+    <item>
+        <key>###topMenuLi07###</key>
+        <val>Contact Us</val>
+    </item>
+    <!-- }}} top part -->
+    <!-- {{{ activies Name and Desc -->
+    <item>
+        <key>###leisureDiving###</key>
+        <val>Leisure Diving</val>
+    </item>
+    <item>
+        <key>###lesureDivingPackage###</key>
+        <val>Leisure Diving Package</val>
+    </item>
+    <item>
+        <key>###leisureDivingDesc###</key>
+        <val>Great underwater advantures for people who have diving lincence</val>
+    </item>
+    <item>
+        <key>###introDiving###</key>
+        <val>Intro Diving</val>
+    </item>
+    <item>
+        <key>###introDivingPackage###</key>
+        <val>Introductory Diving Package</val>
+    </item>
+
+    <item>
+        <key>###introDivingDesc###</key>
+        <val>You have never dived before but you'd like to give it a go.</val>
+    </item>
+    <item>
+        <key>###snorkeling###</key>
+        <val>Snorkeling</val>
+    </item>
+    <item>
+        <key>###Snorkeling Package###</key>
+        <val>Snorkeling Package</val>
+    </item>
+    <item>
+        <key>###snorkelingDesc###</key>
+        <val>Easy way to explorer underwater wonders</val>
+    </item>
+    <item>
+        <key>###Scuba Diving###</key>
+        <val>Scuba Diving</val>
+    </item>
+    <item>
+        <key>###refresherDivePackage###</key>
+        <val>Refresher Course Dive</val>
+    </item>
+    <item>
+        <key>###refresherDive###</key>
+        <val>Refresher Dive</val>
+    </item>
+    <item>
+        <key>###refresherDiveDesc###</key>
+        <val>Forget how to use your BC? Let us help you to bring all your skills back</val>
+    </item>
+    <item>
+        <key>###Refresher Diving Desc Full###</key>
+        <val>For certified diver who not been diving for past 12 months, here are the refresher course that you are recommended to participate to refresh you diving knowledge and underwater skill.</val>
+    </item>
+    <item>
+        <key>###2 dives Package###</key>
+        <val>2 dives Package</val>
+    </item>
+    <item>
+        <key>###2 dives with own equipments###</key>
+        <val>2 dives with own equipments</val>
+    </item>
+    <item>
+        <key>###Marine walk###</key>
+        <val>Marine walk</val>
+    </item>
+    <item>
+        <key>###Water Sports###</key>
+        <val>Water Sports</val>
+    </item>
+    <item>
+        <key>###Full day charter###</key>
+        <val>Full day charter</val>
+    </item>
+    <item>
+        <key>###Half day charter###</key>
+        <val>Half day charter</val>
+    </item>
+    <item>
+        <key>###Dinner Cruise###</key>
+        <val>Dinner Cruise</val>
+    </item>
+    <item>
+        <key>###Whale Watching###</key>
+        <val>Whale Watching</val>
+    </item>
+    <item>
+        <key>###PADI Diving Courses###</key>
+        <val>PADI Diving Courses</val>
+    </item>
+    <item>
+        <key>###SEA PEOPLE Retail###</key>
+        <val>SEA PEOPLE Retail</val>
+    </item>
+    <item>
+        <key>###Open Water Diver Course###</key>
+        <val>Open Water Diver</val>
+    </item>
+    <item>
+        <key>###Advance Open Water Course###</key>
+        <val>Advance Open Water</val>
+    </item>
+    <item>
+        <key>###Rescue Diver Course###</key>
+        <val>Rescue Diver Course</val>
+    </item>
+    <!-- }}} activies Name and Desc -->
+    <!-- {{{ item name -->
+    <!-- {{{ place name -->
+    <item>
+        <key>###Aka###</key>
+        <val>Aka</val>
+    </item>
+    <item>
+        <key>###naha###</key>
+        <val>Naha</val>
+    </item>
+    <item>
+        <key>###SEASIR Naha###</key>
+        <val>SEASIR Naha</val>
+    </item>
+    <item>
+        <key>###SEASIR Aka###</key>
+        <val>SEASIR Aka</val>
+    </item>
+    <item>
+        <key>###SEASIR Aka Island###</key>
+        <val>SEASIR Aka Island</val>
+    </item>
+    <item>
+        <key>###Berry Manza###</key>
+        <val>Berry Manza</val>
+    </item>
+    <item>
+        <key>###Berry Kanucha###</key>
+        <val>Berry Kanucha</val>
+    </item>
+    <item>
+        <key>###Berry Weed Beach###</key>
+        <val>Berry Kouki Beach</val>
+    </item>
+    <item>
+        <key>###kerama###</key>
+        <val>Kerama</val>
+    </item>
+    <item>
+        <key>###Okinawa Churami Aquarium###</key>
+        <val>Okinawa Churami Aquarium</val>
+    </item>
+    <!-- }}} place name -->
+    <!-- {{{ ABCDE -->
+    <item>
+        <key>###Accommodation###</key>
+        <val>Accommodation</val>
+    </item>
+    <item>
+        <key>###bookingNow###</key>
+        <val><![CDATA[Booking Now]]></val>
+    </item>
+    <item>
+        <key>###Detail###</key>
+        <val>Detail</val>
+    </item>
+    <item>
+        <key>###diveTimes###</key>
+        <val>Dive Times</val>
+    </item>
+    <item>
+        <key>###checkAllYearCalendar###</key>
+        <val>Check All Year Calendar</val>
+    </item>
+    <item>
+        <key>###dives###</key>
+        <val>Dives</val>
+    </item>
+    <item>
+        <key>###dive###</key>
+        <val>Dive</val>
+    </item>
+    <item>
+        <key>###And###</key>
+        <val>And</val>
+    </item>
+
+    <!-- }}} ABCDE -->
+    <!-- {{{ FGHIJK -->
+    <!-- }}} FGHIJK -->
+    <!-- {{{ LMNOPQ -->
+    <item>
+        <key>###lessDetail###</key>
+        <val>Close Detail</val>
+    </item>
+    <item>
+        <key>###location###</key>
+        <val>Location</val>
+    </item>
+    <item>
+        <key>###La Mer Riche###</key>
+        <val>La Mer Riche</val>
+    </item>
+    <item>
+        <key>###more###</key>
+        <val>more</val>
+    </item>
+    <item>
+        <key>###normalSeason###</key>
+        <val>Normal Season</val>
+    </item>
+    <item>
+        <key>###packageIncludes###</key>
+        <val>Package includes</val>
+    </item>
+    <item>
+        <key>###peakSeason###</key>
+        <val>Peak Season</val>
+    </item>
+    <item>
+        <key>###priceFrom###</key>
+        <val>Price from</val>
+    </item>
+    <item>
+        <key>###price###</key>
+        <val>Price</val>
+    </item>
+    <item>
+        <key>###prices###</key>
+        <val>Prices</val>
+    </item>
+    <!-- }}} LMNOPQ -->
+    <!-- {{{ RSTUVWXYZ -->
+    <item>
+        <key>###Return previous page###</key>
+        <val>Return previous page</val>
+    </item>
+    <item>
+        <key>###seeOnGoogleMaps###</key>
+        <val>Find Out Our Place On Google Maps</val>
+    </item>
+    <item>
+        <key>###seeMoreDetail###</key>
+        <val>See More Detail</val>
+    </item>
+    <item>
+        <key>###We do accept creadit card###</key>
+        <val>We do accept credit card</val>
+    </item>
+    
+    <!-- }}} RSTUVWXYZ -->
+    <!-- }}} item name -->
+    <!-- {{{ addrs -->
+    <item>
+        <key>###Marine House SEASIR###</key>
+        <val>Marine House SEASIR</val>
+    </item>
+    <item>
+        <key>###Addr###</key>
+        <val><![CDATA[2-2-9 2nd Floor, Minato-machi, Naha city,<br>Okinawa 900-0001 JAPAN]]></val>
+    </item>
+    <item>
+        <key>###Marine House SEASIR NAHA branch###</key>
+        <val>Marine House SEASIR NAHA branch</val>
+    </item>
+    <item>
+        <key>###Naha Addr###</key>
+        <val><![CDATA[2-3-13, Minato-machi, Naha city,<br>Okinawa 900-0001 JAPAN]]></val>
+    </item>
+    <item>
+        <key>###Berry Manza Addr###</key>
+        <val><![CDATA[1860-4 Seragaki, Onna-son,<br>Okinawa 904-0404 JAPAN]]></val>
+    </item>
+    <item>
+        <key>###Weed Beach Addr###</key>
+        <val><![CDATA[117 Kouki, Nago City,<br>Okinawa 905-0025 JAPAN]]></val>
+    </item>
+    <item>
+        <key>###Own Transportation###</key>
+        <val>Own Transportation</val>
+    </item>
+    <item>
+        <key>###Own Transportation dt###</key>
+        <val><![CDATA[Please use this phone number <span class="hl-red">098 869 6329</span> key in the Car Navigation system or use this MAP CODE <span class="hl-red">33246627 *42</span> to locate our shop]]></val>
+    </item>
+    <item>
+        <key>###Own Transportation Weed Beach###</key>
+        <val><![CDATA[Please use this MAP CODE <span class="hl-red">206444213 *85</span> key in the Car Navigation system to locate Kouki beach]]></val>
+    </item>
+    <item>
+        <key>###Own Transportation Manza###</key>
+        <val><![CDATA[Please use this phone number <span class="hl-red">098 982 3800</span> key in the Car Navigation system to locate our shop]]></val>
+    </item>
+    <item>
+        <key>###View Larger Map###</key>
+        <val>View Larger Map in Google Maps</val>
+    </item>
+
+    
+    <!-- }}} addrs -->
+    <!-- {{{ contact -->
+    <item>
+        <key>###Charter###</key>
+        <val>Charter</val>
+    </item>
+    <item>
+        <key>###Contact###</key>
+        <val>Contact</val>
+    </item>
+    <item>
+        <key>###Toll Free###</key>
+        <val>Toll Free</val>
+    </item>
+    <item>
+        <key>###Japanese Line###</key>
+        <val>Japanese Line</val>
+    </item>
+    <item>
+        <key>###English Line###</key>
+        <val>English Line</val>
+    </item>
+    <item>
+        <key>###Mandarin Line###</key>
+        <val>Mandarin and Cantonese Line</val>
+    </item>
+    <item>
+        <key>###TEL###</key>
+        <val>TEL</val>
+    </item>
+    <item>
+        <key>###E-mail###</key>
+        <val>E-mail</val>
+    </item>
+    <item>
+        <key>###Please Download the booking form###</key>
+        <val>Please Download the booking form</val>
+    </item>
+    <item>
+        <key>###Fill in the booking form in English and send back to us###</key>
+        <val>Fill in the booking form in English and send back to us</val>
+    </item>
+    <item>
+        <key>###AKA booking form###</key>
+        <val>AKA booking form</val>
+    </item>
+
+    <!-- }}} contact -->
+    <!-- {{{ Equipment Rental -->
+    <item>
+        <key>###Scuba Equipment Rental###</key>
+        <val>Scuba Equipment Rental</val>
+    </item>
+    <item>
+        <key>###Equipment Rental###</key>
+        <val>Equipment Rental</val>
+    </item>
+    <item>
+        <key>###Full Scuba Equipment###</key>
+        <val>Full Scuba Equipment</val>
+    </item>
+    <item>
+        <key>###Each Item###</key>
+        <val>Each Item</val>
+    </item>
+    <item>
+        <key>###Full Set dt###</key>
+        <val>BCD, Regulator, Wetsuit, Dive Computer, Mask, Snorkel Tube, Bootie, Fins (Open Heel)</val>
+    </item>
+    <item>
+        <key>###heavy eq###</key>
+        <val>BCD, Regulator, Wetsuit, Dive Computer</val>
+    </item>
+    <!-- }}} Equipment Rental -->
+    <!-- {{{ booking form -->
+    <item>
+        <key>###Guest Information###</key>
+        <val>Guest Information</val>
+    </item>
+    <item>
+        <key>###Please fill the form alphabet###</key>
+        <val>Please fill in the form in alphabet</val>
+    </item>
+    <item>
+        <key>###Name###</key>
+        <val>Name</val>
+    </item>
+    <item>
+        <key>###Name Comment###</key>
+        <val>(English name same as in PASSPORT)</val>
+    </item>
+    <item>
+        <key>###Nationality###</key>
+        <val>Nationality</val>
+    </item>
+    <item>
+        <key>###Mobile###</key>
+        <val>Mobile Phone</val>
+    </item>
+    <item>
+        <key>###Date of Trip###</key>
+        <val>Date of Trip</val>
+    </item>
+    <item>
+        <key>###Add Another Day###</key>
+        <val>Add Another Day</val>
+    </item>
+    <item>
+        <key>###Introductory Diving And Snorkeling###</key>
+        <val>KERAMA ISLAND - Introductory Diving (IDV) &amp; Snorkeling (SNK) Package Booking</val>
+    </item>
+    <item>
+        <key>###Fill in Name###</key>
+        <val>Fill in Name</val>
+    </item>
+    <item>
+        <key>###Age###</key>
+        <val>Age</val>
+    </item>
+    <item>
+        <key>###Check###</key>
+        <val>Check</val>
+    </item>
+    <item>
+        <key>###For equipement rental###</key>
+        <val>For equipement rental</val>
+    </item>
+    <item>
+        <key>###Height###</key>
+        <val>Height</val>
+    </item>
+    <item>
+        <key>###Weight###</key>
+        <val>Weight</val>
+    </item>
+    <item>
+        <key>###Foot size###</key>
+        <val>Foot size</val>
+    </item>
+    <item>
+        <key>###Leisure Diving and Refresher Dive###</key>
+        <val>KERAMA ISLAND - Leisure Diving (FDV) &amp; Refresher Diving Package (RD) Booking</val>
+    </item>
+    <item>
+        <key>###Type of diving###</key>
+        <val>Type of diving</val>
+    </item>
+    <item>
+        <key>###Cert level###</key>
+        <val>Cert. level</val>
+    </item>
+    <item>
+        <key>###Total dives###</key>
+        <val>Total dives</val>
+    </item>
+    <item>
+        <key>###Date last dive###</key>
+        <val>Date last dive</val>
+    </item>
+    <item>
+        <key>###For equipement rental dive###</key>
+        <val>Equipment arrangement for Leisure diving package &amp; Refresher diving Package only</val>
+    </item>
+    <item>
+        <key>###Add A Line###</key>
+        <val>Add A Line</val>
+    </item>
+    <item>
+        <key>###Transportation###</key>
+        <val>Transportation / Hotel Transfer</val>
+    </item>
+    <item>
+        <key>###Do you need Hotel Transfer###</key>
+        <val>Do you need Hotel Transfer? (NAHA city area only)</val>
+    </item>
+    <item>
+        <key>###Do you need Hotel Transfer Onna###</key>
+        <val>Do you need Hotel Transfer? (Onna village area only)</val>
+    </item>
+    <item>
+        <key>###Yes###</key>
+        <val>Yes</val>
+    </item>
+    <item>
+        <key>###No###</key>
+        <val>No</val>
+    </item>
+    <item>
+        <key>###Transportation Msg###</key>
+        <val>Dear Guest, whether you need Hotel Transfer or not. We may need to contact you for any reason related to weather, please provide us your Hotel or any accomodation information in Okinawa</val>
+    </item>
+    <item>
+        <key>###Hotel Name###</key>
+        <val>Hotel Name</val>
+    </item>
+    <item>
+        <key>###Hotel Telephone no###</key>
+        <val>Hotel Telephone no.</val>
+    </item>
+    <item>
+        <key>###Name use to Check in Hotel###</key>
+        <val>Name use to Check in Hotel</val>
+    </item>
+    <item>
+        <key>###Hotel Pick-Up time###</key>
+        <val>Hotel Pick-Up time</val>
+    </item>
+    <item>
+        <key>###Hotel pick up time message###</key>
+        <val>Hotel pick up time message will send to guest room a day before around 18:00</val>
+    </item>
+    <item>
+        <key>###For own transportation###</key>
+        <val>For own transportation</val>
+    </item>
+    <item>
+        <key>###For own transportation dt###</key>
+
+        <val><![CDATA[Please key in this phone number for car NAVI system <strong>098 869 6329</strong> or this <strong>MAP CODE - 33246627*42</strong><br><span class="hl-red">Note * For own transport please be at our SEASIR NAHA before 08:00. We do provide FREE car parking space.</span>]]></val>
+    </item>
+    <item>
+        <key>###For own transportation berry###</key>
+        <val>For own transportation We do provide FREE car parking space</val>
+    </item>
+    <item>
+        <key>###For own transportation berry dt###</key>
+        <val><![CDATA[<ul><li>To Marine Club BERRY key in this Phone Number to CAR NAVI for direction <strong>098 928 3800</strong></li><li>To Kouki BEACH key in this MAP CODE  to CAR NAVI for direction <strong>206444213 *85</strong></li></ul>]]></val>
+    </item>
+    <item>
+        <key>###CANCELLATION POLICY and HEALTH CHECK LIST###</key>
+        <val>CANCELLATION POLICY and HEALTH CHECK LIST</val>
+    </item>
+    <item>
+        <key>###cancellation dt###</key>
+        <val><![CDATA[
+            Hereby checking this box, I agree and understand the cancellation policy set by Marine House SEASIR on the official English website link <a href="./cancel.htm" target="_blank">Marine House SEASIR Cancellation Policy</a>
+        ]]></val>
+    </item>
+    <item>
+        <key>###health dt###</key>
+        <val><![CDATA[
+            Hereby checking this box, we affirm that after checking <a href="./health.htm" target="_blank">Marine House SEASIR Health Check List</a> none of us have any question in the Health Check List that answers apply YES to any one of us. I and we agree to accept responsibility for omissions regarding our failure to disclose any existing or past health condition.
+        ]]></val>
+    </item>
+    <item>
+        <key>###Guest Contact###</key>
+        <val>Guest Contact</val>
+    </item>
+    <item>
+        <key>###Please fill right E-mail that we can contact with you###</key>
+        <val>Please fill right E-mail that we can contact with you</val>
+    </item>
+    <item>
+        <key>###Comment###</key>
+        <val>Comment</val>
+    </item>
+    <item>
+        <key>###Continue###</key>
+        <val>Continue</val>
+    </item>
+    <!-- }}} booking form -->
+</items>
+

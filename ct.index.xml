@@ -1,0 +1,37 @@
+<items>
+    <!-- {{{ briefs -->
+    <item>
+        <key>###briefNahaText###</key>
+        <val>提供一日往返美麗的慶良間諸島的潛水, 浮潛和體驗潛水的各樣活動行程</val>
+    </item>
+    <item>
+        <key>###brief berry text###</key>
+        <val>水底漫步, 獨木舟, 各式水上活動及潛水活動中心</val>
+    </item>
+    <item>
+        <key>###brief aka text###</key>
+        <val>阿嘉島住宿及在慶良間諸島的潛水, 浮潛和體驗潛水的各樣活動行程</val>
+    </item>
+    <item>
+        <key>###brief la mer text###</key>
+        <val>享受私人豪華遊艇, 或和最多 25人一同享受晚餐巡航, 滿足您的毎個願望</val>
+    </item>
+    <item>
+        <key>###brief whale text###</key>
+        <val>從一月初到三月末的賞鯨之旅, 快來參加沖縄冬季最有趣的水上活動.</val>
+    </item>
+    <item>
+        <key>###brief course text###</key>
+        <val>SEASIR PADI 5 星級的潛水指導中心, 和會說英文, 日文, 中文及廣東話的教練一起學潛水.</val>
+    </item>
+    <item>
+        <key>###brief sea people text###</key>
+        <val>想要為您的潛水裝備升級嗎? 潛水相關的大小裝備零售, 找我們就對了!</val>
+    </item>
+    <item>
+        <key>###SEA PEOPLE Scuba Diving Equipment Retail###</key>
+        <val>SEA PEOPLE 潛水相關裝備零售</val>
+    </item>
+    
+    <!-- }}} briefs -->
+</items>

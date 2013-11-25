@@ -1,0 +1,52 @@
+﻿<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Diving English Marine House Seasir</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>English Speaker Diving Marine Sports in Okinawa</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Diving,Dive,Snorkeling,Scuba,Marine,Sports,English,Foreign,Naha,冲绳,冲绳,潜水,中文,广东话,中国,香港,水上活动,外国人,浮潜,体验潜水,那霸，庆良间诸岛</val>
+    </item>
+    <!-- }}} header -->
+
+    <!-- {{{ briefs -->
+    <item>
+        <key>###briefNahaText###</key>
+        <val>提供当日往返美丽的庆良间诸岛的休闲潜水，浮潜和体验潜水的各种活动行程</val>
+    </item>
+    <item>
+        <key>###brief berry text###</key>
+        <val>水底漫步, 独木舟, 各式水上活动及潜水活动中心</val>
+    </item>
+    <item>
+        <key>###brief aka text###</key>
+        <val>阿嘉島住宿及在庆良间诸岛的休闲潜水，浮潜和体验潜水的各种活动行程</val>
+    </item>
+    <item>
+        <key>###brief la mer text###</key>
+        <val>享受私人豪华游艇, 或 和最多 25人一同享受晚餐巡航, 满足您的毎一个愿望</val>
+    </item>
+    <item>
+        <key>###brief whale text###</key>
+        <val>从一月初到三月末的赏鲸之旅, 快来参加冲绳最冬季最有趣的水上活动！</val>
+    </item>
+    <item>
+        <key>###brief course text###</key>
+        <val>SEASIR PADI 5 星级的潜水指导中心, 和会说英文, 日文,马来西亚语， 中文及广东话的教练一同学习潜水.</val>
+    </item>
+    <item>
+        <key>###brief sea people text###</key>
+        <val>想要为您的潜水装备升级吗? 潜水相关的大小装备零售, 找我们就对了!</val>
+    </item>
+    <item>
+        <key>###SEA PEOPLE Scuba Diving Equipment Retail###</key>
+        <val>SEA PEOPLE 潜水相关装备零售</val>
+    </item>
+    
+    <!-- }}} briefs -->
+</items>

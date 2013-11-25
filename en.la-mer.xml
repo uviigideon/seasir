@@ -1,0 +1,92 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Private Charter Cruise – SEASIR Group</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>The only luxury private charter cruise that cater to your desire providing English, Mandarin, Cantonese and Japanese speaking crew onboard</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Charter,cruise,Scuba,Diving,Snorkeling,English,Foreign,naha</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###Intro###</key>
+        <val><![CDATA[<p>La Mer Riche is a custom build luxury cruise that the space plan is unique which will give a feeling of space and light as well as direct but sheltered visual contact with the sea in all areas. The length of La Mer Riche is 17 meters and with maximum cruising speed of 25 knot. La Mer Riche is truly a luxuriously appointed charter yacht in Okinawa.</p><p>La Mer Riche and her crew look forward to welcoming you on board for an unforgettable Okinawa sea cruising experience.</p>]]></val>
+    </item>
+    <item>
+        <key>###La Mer Rich###</key>
+        <val>La Mer Rich</val>
+    </item>
+    <item>
+        <key>###Private Charter Price List###</key>
+        <val>Private Charter Price List</val>
+    </item>
+    <item>
+        <key>###Jul to Sep###</key>
+        <val>Jul to End of Sep</val>
+    </item>
+    <item>
+        <key>###Day Cruising###</key>
+        <val>Day Cruising(7 hours)</val>
+    </item>
+    <item>
+        <key>###Half Day Cruising###</key>
+        <val>Half Day Cruising (3 ½ hours)</val>
+    </item>
+    <item>
+        <key>###Opt Scuba###</key>
+        <val>Optional : Scuba Diving</val>
+    </item>
+    <item>
+        <key>###Opt Scuba Price###</key>
+        <val>￥6,000 per person (include equipments and guide)</val>
+    </item>
+    <item>
+        <key>###Opt Snorkeling###</key>
+        <val>Optional : Snorkeling</val>
+    </item>
+    <item>
+        <key>###Opt Snorkeling Price###</key>
+        <val>￥3,000 per person (with guide)</val>
+    </item>
+    <item>
+        <key>###Opt Extended###</key>
+        <val>Optional : Extended Hours</val>
+    </item>
+    <item>
+        <key>###Opt Extended Price###</key>
+        <val>￥20,000 per hour</val>
+    </item>
+    <item>
+        <key>###Charter Package Includes###</key>
+        <val>Charter Package Includes</val>
+    </item>
+    <item>
+        <key>###Charter Package Includes li###</key>
+        <val><![CDATA[<li>Captain and Crew</li><li>Insurance</li><li>Towel</li><li>1 hour of cruising.</li>]]></val>
+    </item>
+    <item>
+        <key>###Catering Service###</key>
+        <val>Catering Service</val>
+    </item>
+    <item>
+        <key>###Catering Service li###</key>
+        <val><![CDATA[<li>Catering service available upon request.</li>]]></val>
+    </item>
+    <item>
+        <key>###Min 5 person###</key>
+        <val>(Min 5 person)</val>
+    </item>
+    <item>
+        <key>###Dinner Cruise Price 1###</key>
+        <val><![CDATA[￥10,000 per person with 10 Okinawa dishes.<br>free beer, wine, awamori and soft drinks.]]></val>
+    </item>
+    <item>
+        <key>###Dinner Cruise Price 2###</key>
+        <val><![CDATA[￥11,000 per person with 11 Okinawa dishes.<br>free beer, wine, awamori and soft drinks.]]></val>
+    </item>
+</items>

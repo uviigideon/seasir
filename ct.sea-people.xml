@@ -1,0 +1,36 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>沖繩潛水相關裝備專賣店</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>SEA PEOPLE 專賣店成立於 1998年位於那霸市內 JEIS大樓的一樓. 如果您想要為您的潛水裝備升級, 那您一定不能錯過SEA PEOPLE 專賣店. 另外, 我們也提供客人訂製溼式潛水衣和乾式潛水衣的服務, 且可為客人的裝備做年度的檢驗和保養. 我們最專業的團隊隨時準備好要為您服務.</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>沖繩,沖縄,潛水,裝備,檢修,保養,訂製,溼式潛水衣,乾式潛水衣</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###H2###</key>
+        <val>SEA PEOPLE 潛水相關裝備專賣店</val>
+    </item>
+    <item>
+        <key>###sea people brief###</key>
+        <val>SEA PEOPLE 專賣店成立於 1998年位於那霸市內 JEIS大樓的一樓. 如果您想要為您的潛水裝備升級, 那您一定不能錯過SEA PEOPLE 專賣店. 另外, 我們也提供客人訂製溼式潛水衣和乾式潛水衣的服務, 且可為客人的裝備做年度的檢驗和保養. 我們最專業的團隊隨時準備好要為您服務.</val>
+    </item>
+    <item>
+        <key>###Below are the###</key>
+        <val>下面是我們所有販售的裝備供應商</val>
+    </item>
+    <item>
+        <key>###Own Transportation dt###</key>
+        <val><![CDATA[請您使用 MAP CODE <span class="hl-red">33187632 *88</span> 輸入您的汽車導航系統, 來尋找我們商店的位置]]></val>
+    </item>
+    <item>
+        <key>###sea-people Addr###</key>
+        <val><![CDATA[3-1-8 Tomari, Naha city,<br>Okinawa 900-0001 Japan]]></val>
+    </item>
+</items>

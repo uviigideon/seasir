@@ -1,0 +1,183 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Scuba Diving and Accommodation – Marine House SEASIR</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>Scuba diving, Snorkeling, Sea Kayaking activity and accommodation in AKA islands (KERAMA islands)</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Sea,Kayak,Scuba,Diving,Snorkeling,accommodation,English,Foreign,AKA,KERAMA</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###H2###</key>
+        <val>Marine House SEASIR AKA Island (Akajima)</val>
+    </item>
+    <item>
+        <key>###theTeamIntro###</key>
+        <val><![CDATA[
+Marine House SEASIR Akajima is where this dive company started in 1983. SEASIR
+Akajima is diving center and pension facility. You can visit and snorkeling around the
+island at Nishihama or Maja beach that is full of coral and fishers. SEASIR Akajima is a
+pension offering an assortment of amenities that specializes in scuba-diving in the KERAMA
+archipelago.
+        ]]></val>
+    </item>
+    <item>
+        <key>###Accommodation###</key>
+        <val>SEASIR Aka island pension</val>
+    </item>
+    <item>
+        <key>###1st Floor Room###</key>
+        <val>1st Floor Room</val>
+    </item>
+    <item>
+        <key>###1st Floor Room Desc###</key>
+        <val>3 Japanese Tatami room at 1st floor with max stay of 2 people in a room. Toilet and shower room is out site sharing base.</val>
+    </item>
+    <item>
+        <key>###2nd Floor Room###</key>
+        <val>2nd Floor Room</val>
+    </item>
+    <item>
+        <key>###2nd Floor Room Desc###</key>
+        <val>4 rooms with 2 single bed for twin sharing and 3 Japanese Tatami room for twin or triple sharing. All room attach with toilet and bathroom.</val>
+    </item>
+    <item>
+        <key>###3rd Floor Room###</key>
+        <val>3rd Floor Room</val>
+    </item>
+    <item>
+        <key>###3rd Floor Room Desc###</key>
+        <val>5 rooms with western bed style for triple sharing and 2 Japanese Tatami room for triple sharing on 3rd floor. All room attach with toilet and bathroom.</val>
+    </item>
+    <item>
+        <key>###Season Price###</key>
+        <val>Season Price</val>
+    </item>
+    <item>
+        <key>###Single###</key>
+        <val>Single</val>
+    </item>
+    <item>
+        <key>###Twin Sharing###</key>
+        <val>Twin Sharing</val>
+    </item>
+    <item>
+        <key>###Triple Sharing###</key>
+        <val>Triple Sharing</val>
+    </item>
+    <item>
+        <key>###Not Available###</key>
+        <val>N/A</val>
+    </item>
+    <item>
+        <key>###dt###</key>
+        <val>Price base on per person and per night stay with breakfast and dinner only.</val>
+    </item>
+    <item>
+        <key>###Japanese Tatami room###</key>
+        <val>Japanese Tatami room</val>
+    </item>
+    <item>
+        <key>###western bed style###</key>
+        <val>western bed style</val>
+    </item>
+    <item>
+        <key>###Daily###</key>
+        <val>Daily</val>
+    </item>
+    <item>
+        <key>###Intro Diving###</key>
+        <val>Introductory Diving</val>
+    </item>
+    <item>
+        <key>###Intro Diving dt###</key>
+        <val>This is for anyone who are not certified as a diver but who wish to try, this program only conduct by Instructor. Under water swim around 20 mins</val>
+    </item>
+    <item>
+        <key>###Snorkeling dt###</key>
+        <val>Snorkeling around at the shallow reef with colour fishes and coral , accompany by Instructor</val>
+    </item>
+    <item>
+        <key>###Adult###</key>
+        <val>Adult</val>
+    </item>
+    <item>
+        <key>###Child###</key>
+        <val>Child</val>
+    </item>
+    <item>
+        <key>###Price Includes###</key>
+        <val>Price Includes</val>
+    </item>
+    <item>
+        <key>###Price Includes dt###</key>
+        <val>Tank, weight, boat and Dive guide only</val>
+    </item>
+    <item>
+        <key>###light eq###</key>
+        <val>Mask, Snorkel Tube, Bootie, Fins (Open Heel)</val>
+    </item>
+    <item>
+        <key>###Daily Time Schedule###</key>
+        <val>Daily Time Schedule</val>
+    </item>
+    <item>
+        <key>###Night Diving###</key>
+        <val>Night Diving</val>
+    </item>
+    <item>
+        <key>###First Time###</key>
+        <val>First Time</val>
+    </item>
+    <item>
+        <key>###Experienced###</key>
+        <val>Experienced</val>
+    </item>
+    <item>
+        <key>###Refresher Course###</key>
+        <val>Refresher Course</val>
+    </item>
+    <item>
+        <key>###Price Includes ref dt###</key>
+        <val>Knowledge review, Tank, weight, boat and instructor only.</val>
+    </item>
+    <item>
+        <key>###Dining Area###</key>
+        <val>Dining Area</val>
+    </item>
+    <item>
+        <key>###Sunroof Jacuzzi###</key>
+        <val>Sunroof Jacuzzi</val>
+    </item>
+    <item>
+        <key>###Dining Area And Sunroof Jacuzii Desc###</key>
+        <val><![CDATA[Meal are serve at our 2nd floor restaurant and with Free internet and WiFi connection.<br><br>Each day after diving you might just want to pamper yourself in the jacuzzi.]]></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key>###Active Schedule Time dive###</key>
+        <val><![CDATA[
+<li>09:00</li>
+<li>11:00</li>
+<li>13:00</li>
+<li>15:00</li>
+            ]]></val>
+    </item>
+</items>

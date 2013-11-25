@@ -1,0 +1,216 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="kr">
+<!-- {{{ head -->    
+<head>
+    <title>오키나와 다이빙 마린 하우스 시사 Marine House Seasir</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="영어 사용 강사가 있는 오키나와의 다이빙 마린 스포츠">
+    <meta name="keywords" content="오키나와, 다이빙, 스노클링, 마린, 워터, 스포츠, 영어, 외국, 나하, 케라마, 아카, 만자, 카누차">
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="./css/main.css" media="all">
+    <style>
+        label {display:inline-block}
+        #guest-information label {width:150px}
+        #transfer-detail label {width:250px}
+        .priceT {
+            margin:10px 0;
+            width:910px;
+            line-height:150%;
+        }
+        .priceT th, .priceT td {font-size:12px;padding:5px 8px 4px 8px}
+        input[type="checkbox"] {vertical-align:middle}
+        fieldset {margin-bottom:10px}
+        legend {color:#69f}
+    </style>
+</head>
+<!-- }}} head -->    
+<body>
+<div id="container950">
+<!-- {{{ fllink -->    
+    <div id="fllink">
+	<ul id="fllink-ul">
+		<li class="fllink-li"><a href="http://www.seasir.com/en/">English</a></li>
+		<li class="fllink-li"><a href="http://www.seasir.com/ct/">繁體中文</a></li>
+		<li class="fllink-li"><a href="http://www.seasir.com/cn/">简体中文</a></li>
+		<li class="fllink-li"><a href="http://www.seasir.com/kr/">한국어</a></li>
+		<li class="fllink-li"><a href="http://www.seasir.com/">日本語</a></li>
+	</ul>
+    </div>
+<!-- }}} fllink -->    
+<!-- {{{ top menu -->    
+    <img id="seasir-naha-logo-img" src="./img/seasir-logo.png">
+    <img id="seasir-naha-logo-h1" src="./img/h1.png" alt="오키나와 스쿠버 다이빙 & 해양 스포츠 ">
+    <div id="top-menu"></div>
+<!-- }}} top menu -->    
+
+    <h1>Marine Club BERRY Booking Form</h1>
+    <span class="hl-red">영어로 아래 양식을 기입해 주십시요.</span>
+    <form action="./cgi/postmail.cgi" method="post">
+        <input type="hidden" name="subject" value="Booking For BERRY">
+        <!-- {{{ contact -->    
+        <fieldset name="contact">
+            <legend>Guest Contact</legend>
+            <label for="email">E-mail</label>
+            <input id="email" size="50" type="email" required="required" autocomplete="on" name="Guest E-mail"><br>
+            <span class="hl-red">귀하께 연락할 수 있게 E-mail을 올바르게 입력해 주십시요.</span><br>
+            <input id="open-rest" type="button" value="계속">
+        </fieldset>
+        <!-- }}} contact -->   
+        <div id="rest" style="display:none">
+        <!-- {{{ guest-information -->    
+        <fieldset id="guest-information" name="guest-information">
+            <legend>Guest Information</legend>
+            <label for="name" required="required" autocomplete="on" >이름</label>
+            <input type="text" id="name" name="name">
+            <span class="comment">(여권에 기입된 이름으로 기입해 주십시요.)</span><br>
+            <label for="nationality">국적</label>
+            <input type="text" id="nationality" name="nationality"><br>
+            <label for="mobile">핸드폰</label>
+            <input type="text" id="mobile" name="mobile" value="(+)"><br>
+            <label >투어 날짜</label>
+            <input type="text" class="date-of-trip" name="Date of Trip-1">
+            <input id="add-another-day" type="button" value="추가일">
+        </fieldset>
+        <!-- }}} guest-information -->    
+        <!-- {{{ activies -->    
+        <fieldset id="activity" name="activity">
+            <legend>해양 스포츠와 카야킹 예약</legend>
+            <table class="priceT">
+                <tr>
+                    <th>이름</th>
+                    <th>나이</th>
+                    <th>활동</th>
+                    <th colspan="3">적합한 장비 준비를 위해서</th>
+                </tr>
+                <tr id="addNewType1">
+                    
+                    <td colspan="6"><input type="button" value="줄 추가"></td>
+                </tr>
+            </table>
+        </fieldset>
+        <!-- }}} intro and snorkeling -->    
+        <!-- {{{ dive -->    
+        <fieldset id="FDV-RD" name="FDV-RD">
+            <legend>레저 다이빙 예약</legend>
+            <table class="priceT">
+                <tr>
+                    <th>이름</th>
+                    <th>다이빙 종류</th>
+                    <th>자격증 레벨</th>
+                    <th style="width:110px">최근 다이빙 일시</th>
+                    <th>체험 다이빙</th>
+                    <th colspan="3" style="width:450px">스쿠버 장비 대여 세부사항을 입력해 주십시요.</th>
+                </tr>
+                <tr id="addNewType2">
+                    <td colspan="8"><input type="button" value="줄 추가"></td>
+                </tr>
+            </table>
+        </fieldset>
+        <!-- }}} dive -->    
+        <!-- {{{ Transportation -->    
+        <fieldset name="transportation">
+            <legend>Transportation / Hotel Transfer</legend>
+            <label>호텔 픽업이 필요하십니까?(온나지역에 한해서)</label>
+            <label>네</label>
+            <input type="radio" name="need-transfer" value="yes" checked>/
+            <label>아니요</label>
+            <input type="radio" name="need-transfer" value="no">
+            <br><span class="hl-red">Dear Guest, whether you need Hotel Transfer or not. We may need to contact you for any reason related to weather, please provide us your Hotel or any accomodation information in Okinawa</span>
+            <div id="transfer-detail">
+                <label>호텔 이름</label>
+                <input type="text" name="hotel-name"><br>
+                <label>호텔 전화번호</label>
+                <input type="text" name="hotel-tel"><br>
+                <label>호텔에 체크인한 이름</label>
+                <input type="text" name="name-hotel-checkin"><br>
+                <label>호텔 픽업 시간</label>
+                <span>호텔 픽업 시간은 일정 전날 18시 이전에 객실로 발송됩니다.</span><br>
+            </div>
+            <h3>자가용 이용 고객을 위해 저희 가게에선 무료 주차장을 제공하고 있습니다.</h3><p><ul><li> Marine Club BERRY에 가시려면 네비게이션에 전화번호 <strong>098 928 3800</strong>를 입력해 주시기 바랍니다.</li><li>코우키 비치에 가시려면 네비게이션에 맵코드 <strong>206444213 *85</strong>를 입력해 주십시요.</li></ul></p>
+        </fieldset>
+        <!-- }}} Transportation -->    
+        <!-- {{{ comment -->    
+        <fieldset name="comment">
+            <legend>Comment</legend>
+            <textarea name="comment" rows="6" cols="110"></textarea>
+        </fieldset>
+        <!-- }}} contact -->   
+        <!-- {{{ agreement -->    
+        <fieldset name="agreements">
+            <legend>취소 규정 과 건강체크목록</legend>
+            <p>
+                <input type="checkbox" class="agreements" name="cancellation" value="checked">
+                Marine House SEASIR의 정식 영어 웹사이트에 명시된 <a href="./cancel.htm" target="_blank">Marine House SEASIR의 취소 규정</a>을 이해하고 동의합니다. 
+        
+            </p>
+            <p>
+                <input type="checkbox" class="agreements" name="health" value="checked">
+                <a href="./health.htm" target="_blank">Marine House SEASIR의 건강 체크 목록</a>을 확인했고 건강 체크 목록에 YES에 해당하는 질문이 없습니다. 기존 혹은 과거의 건강상태 공개에서 누락된 항목에 대해서의 책임짐을 동의합니다.
+        
+            </p>
+        </fieldset>
+        <!-- }}} agreement -->    
+        </div>
+        <input style="width:100px;" type="submit" disabled=true>
+    </form>
+   <div id="copyright">Marine House SEASIR &copy; All Rights Reserved.<br>
+        <div id="copyright-img"></div>
+        <div id="creadit">저희 가게는 신용카드도 받습니다.<br><div id="creadit-img"></div></div>
+    </div>
+</div> <!-- end of container950 -->
+<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+ <script src="./js/base.js"></script>
+<script src="http://code.jquery.com/ui/1.9.1/jquery-ui.js"></script>
+<script src="./js/bookform.js"></script>
+<script>
+$(function() {
+    var GUEST = window.GUEST;
+    GUEST.height="키";
+    GUEST.weight="몸무게";
+    GUEST.foot="발 사이즈";
+    GUEST.trans1='자가용 이용 고객을 위해 저희 가게에선 무료 주차장을 제공하고 있습니다.';
+    GUEST.trans2='<ul><li> Marine Club BERRY에 가시려면 네비게이션에 전화번호 <strong>098 928 3800</strong>를 입력해 주시기 바랍니다.</li><li>코우키 비치에 가시려면 네비게이션에 맵코드 <strong>206444213 *85</strong>를 입력해 주십시요.</li></ul>';
+    GUEST.genType1TR = function(){
+            /* {{{ */
+            // var num = (this._count)++;
+            var num = "NUM";
+            var strArr = [];
+            strArr[strArr.length] = '<tr><td><input type="hidden" name="guest-NUM" value="--------------------------------------------------"><select size="1" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-gender"><option value="Male">MR.</option><option value="Female">MS.</option></select><input type="text" class="guest-name" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-name"></td><td><input size="1" class="width-1" type="text" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-age"></td><td><select size="1" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-Activity"><option value="SNK 9:00">Snorkeling - 09:00</option><option value="SNK 11:00">Snorkeling - 11:00</option><option value="SNK 13:30">Snorkeling - 13:30</option><option value="SNK 15:30">Snorkeling - 15:30</option><option value="IDV 09:00">Intro-Diving - 09:00</option><option value="IDV 11:00">Intro-Diving - 11:00</option><option value="IDV 13:30">Intro-Diving - 13:30</option><option value="IDV 15:30">Intro-Diving - 15:30</option><option value="MW 09:00">Marine Walk - 09:00</option><option value="MW 11:00">Marine Walk - 11:00</option><option value="MW 13:30">Marine Walk - 13:30</option><option value="MW 15:30">Marine Walk - 15:30</option><option value="SEA KAYAK 09:00">SEA KAYAK - 09:00</option><option value="SEA KAYAK 13:30">SEA KAYAK - 13:30</option><option value="MANGROVE KAYAK 09:00">MANGROVE KAYAK - 09:00</option><option value="MANGROVE KAYAK 13:30">MANGROVE KAYAK - 13:30</option><option value="Active 3 09:30">Active 3 - 09:30</option><option value="Active 3 13:00">Active 3 - 13:00</option><option value="Active Try 09:30">Active Try - 09:30</option><option value="Active Try 13:00">Active Try - 13:00</option></select></td><td><label>';
+            strArr[strArr.length] = this.height;
+            strArr[strArr.length] = '</label><input class="width-1" size="1" type="text" id="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-height" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-height">cm</td><td><label>';
+            strArr[strArr.length] = this.weight;
+            strArr[strArr.length] = '</label><input class="width-1" size="1" type="text" id="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-weight" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-weight">kg</td><td><label>';
+            strArr[strArr.length] = this.foot;
+            strArr[strArr.length] = '</label><input size="1" class="width-1" type="text" id="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-foot-size" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-foot-size">cm</td></tr>';
+            return strArr.join('');
+            /* }}} */
+    };
+    GUEST.genType2TR = function(){
+        /* {{{ */
+        return '<tr><td><input type="hidden" name="guest-NUM" value="--------------------------------------------------"><select size="1" name="guest-NUM-gender"><option value="Male">MR.</option><option value="Female">MS.</option></select><input type="text" class="guest-name" name="guest-NUM-name"></td><td><select size=1 name="guest-NUM-activity" style="width:80px"><option value="FDV 08:30 2 dives rent EQUIP">08:30 / 2 회 다이빙(장비대여)</option><option value="FDV 08:30 3 dives rent EQUIP">08:30 / 3 회 다이빙(장비대여)</option><option value="FDV 13:00 3 dives rent EQUIP">13:00 / 2 회 다이빙(장비대여)</option><option value="FDV 08:30 2 dives own EQUIP">08:30 / 2 회 다이빙(개인장비)</option><option value="FDV 08:30 3 dives own EQUIP">08:30 / 3 회 다이빙(개인장비)</option><option value="FDV 13:00 3 dives own EQUIP">13:00 / 2 회 다이빙(개인장비)</option></select></td><td><select size=1 name="guest-NUM-cert" style="width:45px"><option value="SD">SD - Scuba Diver</option><option value="OWD">OWD - Open Water Scuba Diver</option><option value="AOW">AOW - Advance Diver</option><option value="RD">RD - Rescue Diver</option><option value="DM">DM - Dive Master</option><option value="Instr">Instr. - Instructor</option></select></td><td><input type="text" size="1" class="width-1" name="guest-NUM-last-dive-month" value="MM">/<input type="text" class="width-2" size="2" name="guest-NUM-last-dive-year" value="YYYY"></td><td><input type="text" size="1" class="width-1" name="guest-NUM-total-dives"></td><td><label>키</label><input size="1" class="width-1" type="text" name="guest-NUM-height">cm</td><td><label>몸무게</label><input size="1" class="width-1" type="text" name="guest-NUM-weight">kg</td><td><label>발 사이즈</label><input size="1" class="width-1" type="text" name="guest-NUM-foot-size">cm</td></tr>';
+        /* }}} */
+    };
+    GUEST.init();
+});
+</script>
+</body>
+</html>

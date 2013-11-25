@@ -1,0 +1,175 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="kr">
+<!-- {{{ head -->    
+<head>
+    <title>오키나와 다이빙 마린 하우스 시사 Marine House Seasir</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="영어 사용 강사가 있는 오키나와의 다이빙 마린 스포츠">
+    <meta name="keywords" content="오키나와, 다이빙, 스노클링, 마린, 워터, 스포츠, 영어, 외국, 나하, 케라마, 아카, 만자, 카누차">
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="./css/main.css" media="all">
+    <style>
+        label {display:inline-block}
+        #guest-information label {width:150px}
+        #transfer-detail label {width:250px}
+        .priceT {
+            margin:10px 0;
+            width:910px;
+            line-height:150%;
+        }
+        .priceT th, .priceT td {font-size:12px;padding:5px 8px 4px 8px}
+        input[type="checkbox"] {vertical-align:middle}
+        fieldset {margin-bottom:10px}
+        legend {color:#69f}
+    </style>
+</head>
+<!-- }}} head -->    
+<body>
+<div id="container950">
+<!-- {{{ fllink -->    
+    <div id="fllink">
+	<ul id="fllink-ul">
+		<li class="fllink-li"><a href="http://www.seasir.com/en/">English</a></li>
+		<li class="fllink-li"><a href="http://www.seasir.com/ct/">繁體中文</a></li>
+		<li class="fllink-li"><a href="http://www.seasir.com/cn/">简体中文</a></li>
+		<li class="fllink-li"><a href="http://www.seasir.com/kr/">한국어</a></li>
+		<li class="fllink-li"><a href="http://www.seasir.com/">日本語</a></li>
+	</ul>
+    </div>
+<!-- }}} fllink -->    
+<!-- {{{ top menu -->    
+    <img id="seasir-naha-logo-img" src="./img/seasir-logo.png">
+    <img id="seasir-naha-logo-h1" src="./img/h1.png" alt="오키나와 스쿠버 다이빙 & 해양 스포츠 ">
+    <div id="top-menu"></div>
+<!-- }}} top menu -->    
+
+    <h1>Marine House SEASIR NAHA 예약 양식</h1>
+    <span class="hl-red">영어로 아래 양식을 기입해 주십시요.</span>
+    <form action="./cgi/postmail.cgi" method="post">
+        <input type="hidden" name="subject" value="Booking For NAHA">
+        <!-- {{{ contact -->    
+        <fieldset name="contact">
+            <legend>Guest Contact</legend>
+            <label for="email">E-mail</label>
+            <input id="email" size="50" type="email" required="required" autocomplete="on" name="Guest E-mail"><br>
+            <span class="hl-red">귀하께 연락할 수 있게 E-mail을 올바르게 입력해 주십시요.</span><br>
+            <input id="open-rest" type="button" value="계속">
+        </fieldset>
+        <!-- }}} contact -->   
+        <div id="rest" style="display:none;">
+        <!-- {{{ guest-information -->    
+        <fieldset id="guest-information" name="guest-information">
+            <legend>Guest Information</legend>
+            <label for="name" required="required" autocomplete="on" >이름</label>
+            <input type="text" id="name" name="name">
+            <span class="comment">(여권에 기입된 이름으로 기입해 주십시요.)</span><br>
+            <label for="nationality">국적</label>
+            <input type="text" id="nationality" name="nationality"><br>
+            <label for="mobile">핸드폰</label>
+            <input type="text" id="mobile" name="mobile" value="(+)"><br>
+            <label >투어 날짜</label>
+            <input type="text" class="date-of-trip" name="Date of Trip-1">
+            <input id="add-another-day" type="button" value="추가일">
+        </fieldset>
+        <!-- }}} guest-information -->    
+        <!-- {{{ intro and snorkeling -->    
+        <fieldset id="IDV-SNK" name="IDV-SNK">
+            <legend>KERAMA ISLAND - Introductory Diving (IDV) & Snorkeling (SNK) Package Booking</legend>
+            <table class="priceT">
+                <tr>
+                    <th>이름</th>
+                    <th>나이</th>
+                    <th>체크</th>
+                    <th colspan="3">장비 대여를 위한</th>
+                </tr>
+                <tr id="addNewType1">
+                    <td colspan="6"><input type="button" value="줄 추가"></td>
+                </tr>
+            </table>
+        </fieldset>
+        <!-- }}} intro and snorkeling -->    
+        <!-- {{{ dive -->    
+        <fieldset id="FDV-RD" name="FDV-RD">
+            <legend>KERAMA ISLAND - Leisure Diving (FDV) & Refresher Diving Package (RD) Booking</legend>
+            <table class="priceT">
+                <tr>
+                    <th>이름</th>
+                    <th style="width:100px">다이빙 종류</th>
+                    <th style="white-space: nowrap;">자격증 레벨</th>
+                    <th style="white-space: nowrap;">총 다이빙 횟수</th>
+                    <th style="width:110px">최근 다이빙 일시</th>
+                    <th colspan="3" style="width:310px">펀다이버 & 리프레셔 다이버를 위한 장비 준비</th>
+                </tr>
+                <tr id="addNewType2">
+                    <td colspan="8"><input type="button" value="줄 추가"></td>
+                </tr>
+            </table>
+        </fieldset>
+        <!-- }}} dive -->    
+        <!-- {{{ Transportation -->    
+        <fieldset name="transportation">
+            <legend>Transportation / Hotel Transfer</legend>
+            <label>호텔 픽업이 필요하십니까?(나하지역에 한해서)</label>
+            <label>네</label>
+            <input type="radio" name="need-transfer" value="yes" checked>/
+            <label>아니요</label>
+            <input type="radio" name="need-transfer" value="no">
+            <br><span class="hl-red">Dear Guest, whether you need Hotel Transfer or not. We may need to contact you for any reason related to weather, please provide us your Hotel or any accomodation information in Okinawa</span>
+            <div id="transfer-detail">
+                <label>호텔 이름</label>
+                <input type="text" name="hotel-name"><br>
+                <label>호텔 전화번호</label>
+                <input type="text" name="hotel-tel"><br>
+                <label>호텔에 체크인한 이름</label>
+                <input type="text" name="name-hotel-checkin"><br>
+                <label>호텔 픽업 시간</label>
+                <span>호텔 픽업 시간은 일정 전날 18시 이전에 객실로 발송됩니다.</span><br>
+            </div>
+            <h3>자가용을 이용하시는 분은</h3><p>네비게이션에 이 전화번호 <strong>098 869 6329</strong>를 입력하거나 이 맵코드<strong>MAP CODE - 33246627*42</strong>를 입력하십시요.<br><span class="hl-red">주의 * 자가용 이용자는 SEASIR NAHA에 08시 이전에 도착해 주시기 바랍니다. 저희 가게에선 무료 주차장을 제공하고 있습니다.</span></p>
+        </fieldset>
+        <!-- }}} Transportation -->    
+        <!-- {{{ comment -->    
+        <fieldset name="comment">
+            <legend>Comment</legend>
+            <textarea name="comment" rows="6" cols="110"></textarea>
+        </fieldset>
+        <!-- }}} contact -->   
+        <!-- {{{ agreement -->    
+        <fieldset name="agreements">
+            <legend>취소 규정 과 건강체크목록</legend>
+            <p>
+                <input type="checkbox" class="agreements" name="cancellation" value="checked">
+                Marine House SEASIR의 정식 영어 웹사이트에 명시된 <a href="./cancel.htm" target="_blank">Marine House SEASIR의 취소 규정</a>을 이해하고 동의합니다. 
+        
+            </p>
+            <p>
+                <input type="checkbox" class="agreements" name="health" value="checked">
+                <a href="./health.htm" target="_blank">Marine House SEASIR의 건강 체크 목록</a>을 확인했고 건강 체크 목록에 YES에 해당하는 질문이 없습니다. 기존 혹은 과거의 건강상태 공개에서 누락된 항목에 대해서의 책임짐을 동의합니다.
+        
+            </p>
+        </fieldset>
+        <!-- }}} agreement -->    
+        </div>
+        <input style="width:100px;" type="submit" disabled=true>
+    </form>
+   <div id="copyright">Marine House SEASIR &copy; All Rights Reserved.<br>
+        <div id="copyright-img"></div>
+        <div id="creadit">저희 가게는 신용카드도 받습니다.<br><div id="creadit-img"></div></div>
+    </div>
+</div> <!-- end of container950 -->
+<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+ <script src="./js/base.js"></script>
+<script src="http://code.jquery.com/ui/1.9.1/jquery-ui.js"></script>
+<script src="./js/bookform.js"></script>
+<script>
+$(function() {
+    var GUEST = window.GUEST;
+    GUEST.height="키";
+    GUEST.weight="몸무게";
+    GUEST.foot="발 사이즈";
+    GUEST.trans1='자가용을 이용하시는 분은';
+    GUEST.trans2='네비게이션에 이 전화번호 <strong>098 869 6329</strong>를 입력하거나 이 맵코드<strong>MAP CODE - 33246627*42</strong>를 입력하십시요.<br><span class="hl-red">주의 * 자가용 이용자는 SEASIR NAHA에 08시 이전에 도착해 주시기 바랍니다. 저희 가게에선 무료 주차장을 제공하고 있습니다.</span>';
+    GUEST.init();
+});
+</script>
+</body>
+</html>

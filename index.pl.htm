@@ -1,0 +1,336 @@
+###DocType Html###
+<head>
+    <title>###headTitle###</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="###headDesc###">
+    <meta name="keywords" content="###headKeywords###">
+    <link rel="stylesheet" type="text/css" href="./css/main.css" media="all">
+    <style>
+/* {{{ map */
+#big-map {
+    position:relative;
+    width:950px;
+    height:300px;
+    background-image:url('./img/seasir-map.png');
+}
+.show-box {
+    background:white;
+    position:absolute;
+    margin:10px;
+    padding-left:20px;
+    width:315px;
+    height:280px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-top:solid 1px #ccc;
+    border-left:solid 1px #ccc;
+    border-right:solid 1px #666;
+    border-bottom:solid 1px #333;
+    top:0;left:0;
+}
+.tag-off {
+    cursor:pointer;
+    line-height:135%;
+    font-size:14px;
+    position:absolute;
+border:1px solid #96f0ff; -ms-border-radius: 3px; -moz-border-radius: 3px;border-radius: 3px;padding: 3px 10px 1px 10px; text-align: center; color: #333; background-color: #cef8ff;
+ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #cef8ff), color-stop(100%, #7fe0f8));
+ background-image: -webkit-linear-gradient(top, #cef8ff, #7fe0f8);
+ background-image: -moz-linear-gradient(top, #cef8ff, #7fe0f8);
+ background-image: -ms-linear-gradient(top, #cef8ff, #7fe0f8);
+ background-image: -o-linear-gradient(top, #cef8ff, #7fe0f8);
+ background-image: linear-gradient(top, #cef8ff, #7fe0f8);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#cef8ff, endColorstr=#7fe0f8);
+}
+.tag-on {
+    position:absolute;
+    border:1px solid #ff3434;text-shadow: -1px -1px 0 rgba(0,0,0,0.3); color: #FFFFFF; background-color: #ff6767;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff6767), color-stop(100%, #ff0d0d));
+    background-image: -webkit-linear-gradient(top, #ff6767, #ff0d0d);
+    background-image: -moz-linear-gradient(top, #ff6767, #ff0d0d);
+    background-image: -ms-linear-gradient(top, #ff6767, #ff0d0d);
+    background-image: -o-linear-gradient(top, #ff6767, #ff0d0d);
+    background-image: linear-gradient(top, #ff6767, #ff0d0d);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#ff6767, endColorstr=#ff0d0d);
+}
+#tag-seasir-naha {top:150px;left:500px;}
+#tag-berry-manza {top:100px;left:550px;}
+#tag-seasir-aka {top:260px;left:400px;}
+#tag-sea-people {top:260px;left:650px;}
+#tag-la-mer-rich {top:220px;left:680px;}
+#tag-berry-kanucha {top:160px;left:730px;}
+#tag-berry-weed-beach {top:70px;left:520px;}
+#tag-churaumi {position:absolute;color:#333;top:40px;left:700px;}
+/* }}} map */
+/* {{{ briefs */
+.brief {
+    width:307px;
+    height:280px;
+    display:inline-block;
+    margin:10px 8px 0 0;
+    vertical-align:top;
+} 
+.brief-in-box {
+    margin-top:0;
+}
+.brief-right {
+    margin:10px 0 0 0;
+}
+.brief-h2 {
+    position:relative;
+    margin:0;
+    padding:0;
+    font-size:24px;
+    font-weight:bold;
+    height:65px;
+}
+.brief-logo {
+    display:inline-block;
+    background-image:url('./img/logo-map.png');
+    background-repeat:no-repeat;
+    vertical-align:top;
+}
+#brief-logo-naha,#brief-logo-aka {
+    width:93px;height:27px;
+    background-position:0 0px;
+    margin-top:-2px;
+}
+.brief-a-naha-aka {
+    position:absolute;
+    color:red;
+    top:30px;
+}
+.brief-a-naha-aka:hover{color:red;}
+#brief-logo-berry {
+    width:125px;height:50px;
+    background-position:0 -50px;
+}
+#brief-a-berry {
+    position:absolute;
+    top:10px;
+}
+#brief-logo-la-mer {
+    width:138px;height:60px;
+    background-position:0 -100px;
+}
+#brief-a-la-mer {
+    position:absolute;
+} 
+.brief-a-whale-course {
+    top:30px;
+    position:absolute;
+    color:#333;
+}
+.brief-a-whale-course:hover {
+    color:black;
+}
+.brief-h2 a{
+    display:block;
+}
+.brief-img {
+    display:inline-block;
+    background-image:url('./img/index-img-map.jpg');
+    background-repeat:no-repeat;
+    width:135px;
+    height:180px;
+    padding:2px 2px 2px 2px;
+    border-top:solid 1px #ccc;
+    border-left:solid 1px #ccc;
+    border-right:solid 1px #666;
+    border-bottom:solid 1px #333;
+    vertical-align:top;
+}
+
+#brief-img-naha {background-position:2px 2px;}
+#brief-img-berry {background-position:-148px 2px;}
+#brief-img-aka {background-position:-298px 2px;}
+#brief-img-la-mer {background-position:-448px 2px;}
+#brief-img-whale {background-position:-598px 2px;}
+#brief-img-course {background-position:-748px 2px;}
+#brief-img-sea-people {background-position:-1898px 2px;}
+
+.brief-text-box {
+    position:relative;
+    display:inline-block;
+    width:150px;
+    font-size:13px;
+    line-height:19px;
+}
+.brief-text-main {
+    color:#666;
+}
+.brief-text-ul {
+    margin: 5px 0 5px 8px;
+    padding:0;
+    list-style: none;
+}
+.brief-text-li {
+    padding-left: 0.5em;
+    text-indent: -0.7em;
+}
+.brief-text-li:before {
+    font-size:18px;
+    content: "\002022";
+    color: #666;
+}
+.brief-text-ul a {color: #666;}
+.brief-text-ul a:hover {color:#000;}
+.more {
+    display:block;
+    position:absolute;
+    top:165px;left:2px;
+    font-size:14px;
+}
+#seapeople-banner {
+    background-image:url('./img/index-img-map.jpg');
+    background-repeat:no-repeat;
+    width:950px;
+    height:180px;
+    background-position:-900px 0;
+}
+#seapeople-banner-a {
+    display:block;
+    margin:20px 0 50px 0;
+    width:950px;
+    height:180px;
+}
+.seapeople-h2 {
+    font-size:24px;
+    text-align:center;
+}
+.seapeople-h2 a {
+    color:#333;
+}
+.seapeople-h2 a:hover {
+    color:black;
+}
+
+/* }}} briefs */
+    </style>
+</head>
+<body>
+<div id="container950">
+    <!-- {{{ top-part.htm }}}-->
+<!-- {{{ big map -->
+    <div id="big-map">
+        <div>
+            <div class="show-box"></div>
+        </div>
+        <div id="tag-seasir-naha" class="brief-seasir-naha brief-whale brief-course tag-off">###SEASIR Naha###</div>
+        <div id="tag-berry-manza" class="brief-berry-manza brief-course tag-off">###Berry Manza###</div>
+        <div id="tag-seasir-aka" class="brief-seasir-aka brief-course tag-off">###SEASIR Aka###</div>
+        <div id="tag-sea-people" class="brief-sea-people tag-off">###SEA PEOPLE Retail###</div>
+        <div id="tag-la-mer-rich" class="brief-le-mer tag-off">###La Mer Riche###</div>
+        <div id="tag-berry-kanucha" class="brief-berry-manza tag-off">###Berry Kanucha###</div>
+        <div id="tag-berry-weed-beach" class="brief-berry-manza tag-off">###Berry Weed Beach###</div>
+        <div id="tag-churaumi">###Okinawa Churami Aquarium###</div>
+
+    </div> <!-- end of big map -->
+    <!-- }}} big map -->
+    <!-- {{{ brief -->    
+    <!-- {{{ naha -->    
+<div id="brief-seasir-naha" class="brief">
+    <h2 class="brief-h2"><a class="brief-a-naha-aka" href="./seasir-naha.htm"><div id="brief-logo-naha" class="brief-logo"></div>###naha###</a></h2>
+    <a href="./seasir-naha.htm"><div id="brief-img-naha" class="brief-img"></div></a>
+    <div class="brief-text-box">
+        <div class="brief-text-main">###briefNahaText###</div>
+        <ul class="brief-text-ul">
+            <li class="brief-text-li"><a href="./seasir-naha.htm#leisure">###leisureDiving###</a></li>
+            <li class="brief-text-li"><a href="./seasir-naha.htm#intro">###introDiving###</a></li>
+            <li class="brief-text-li"><a href="./seasir-naha.htm#snorkeling">###snorkeling###</a></li>
+        </ul>
+        <a href="./seasir-naha.htm" class="more"><span class="underline">###seeMoreDetail###</span><span class="arrow-left">►</span></a>
+    </div>
+</div>
+    <!-- }}} naha -->    
+    <!-- {{{ berry -->    
+<div id="brief-berry-manza" class="brief">
+    <h2 class="brief-h2"><a id="brief-a-berry" href="./berry.htm"><div id="brief-logo-berry" class="brief-logo"></div></a></h2>
+    <a href="./berry.htm"><div id="brief-img-berry" class="brief-img"></div></a>
+    <div class="brief-text-box">
+        <div class="brief-text-main">###brief berry text###</div>
+        <ul class="brief-text-ul">
+            <li class="brief-text-li"><a href="./berry.htm#berry">###Marine walk###</a></li>
+            <li class="brief-text-li"><a href="./berry.htm#berry">###Water Sports###</a></li>
+            <li class="brief-text-li"><a href="./berry.htm#dive">###Scuba Diving###</a></li>
+        </ul>
+        <a href="./berry.htm" class="more"><span class="underline">###seeMoreDetail###</span><span class="arrow-left">►</span></a>
+    </div>
+</div>
+    <!-- }}} berry -->    
+    <!-- {{{ aka -->    
+<div id="brief-seasir-aka" class="brief brief-right">
+    <h2 class="brief-h2"><a class="brief-a-naha-aka" href="./seasir-aka.htm"><div id="brief-logo-aka" class="brief-logo"></div>###Aka###</a></h2>
+    <a href="./seasir-aka.htm"><div id="brief-img-aka" class="brief-img"></div></a>
+    <div class="brief-text-box">
+        <div class="brief-text-main">###brief aka text###</div>
+        <ul class="brief-text-ul">
+            <li class="brief-text-li"><a href="./seasir-aka.htm#accommodation">###Accommodation###</a></li>
+            <li class="brief-text-li"><a href="./seasir-aka.htm#leisure">###Scuba Diving###</a></li>
+            <li class="brief-text-li"><a href="./seasir-aka.htm#i-s">###snorkeling###</a></li>
+        </ul>
+        <a href="./seasir-aka.htm" class="more"><span class="underline">###seeMoreDetail###</span><span class="arrow-left">►</span></a>
+    </div>
+</div>
+    <!-- }}} aka -->    
+    <!-- {{{ la mer -->    
+<div id="brief-le-mer" class="brief">
+    <h2 class="brief-h2"><a id="brief-a-la-mer" href="./la-mer.htm"><div id="brief-logo-la-mer" class="brief-logo"></div></a></h2>
+    <a href="./la-mer.htm"><div id="brief-img-la-mer" class="brief-img"></div></a>
+    <div class="brief-text-box">
+        <div class="brief-text-main">###brief la mer text###</div>
+        <ul class="brief-text-ul">
+            <li class="brief-text-li"><a href="./la-mer.htm">###Full day charter###</a></li>
+            <li class="brief-text-li"><a href="./la-mer.htm">###Half day charter###</a></li>
+            <li class="brief-text-li"><a href="./la-mer.htm#dinner">###Dinner Cruise###</a></li>
+        </ul>
+        <a href="./la-mer.htm" class="more"><span class="underline">###seeMoreDetail###</span><span class="arrow-left">►</span></a>
+    </div>
+</div>
+    <!-- }}} la mer -->    
+    <!-- {{{ whale -->    
+<div id="brief-whale" class="brief">
+    <h2 class="brief-h2"><a class="brief-a-whale-course" href="./whale.htm">###Whale Watching###</a></h2>
+    <a href="./whale.htm"><div id="brief-img-whale" class="brief-img"></div></a>
+    <div class="brief-text-box">
+        <div class="brief-text-main">###brief whale text###</div>
+        <a href="./whale.htm" class="more"><span class="underline">###seeMoreDetail###</span><span class="arrow-left">►</span></a>
+    </div>
+</div>
+    <!-- }}} whale -->    
+    <!-- {{{ course -->    
+<div id="brief-course" class="brief brief-right">
+    <h2 class="brief-h2"><a class="brief-a-whale-course" href="./course.htm">###PADI Diving Courses###</a></h2>
+    <a href="./course.htm"><div id="brief-img-course" class="brief-img"></div></a>
+    <div class="brief-text-box">
+        <div class="brief-text-main">###brief course text###</div>
+        <ul class="brief-text-ul">
+            <li class="brief-text-li"><a href="./course.htm#intro-ow">###Open Water Diver Course###</a></li>
+            <li class="brief-text-li"><a href="./course.htm#intro-aow">###Advance Open Water Course###</a></li>
+            <li class="brief-text-li"><a href="./course.htm#intro-res">###Rescue Diver Course###</a></li>
+        </ul>
+        <a href="./course.htm" class="more"><span class="underline">###seeMoreDetail###</span><span class="arrow-left">►</span></a>
+    </div>
+</div>
+    <!-- }}} course -->    
+    <!-- {{{ sea people -->    
+<div id="brief-sea-people" class="brief" style="display:none">
+    <h2 class="brief-h2"><a class="brief-a-whale-course" href="./sea-people.htm">###SEA PEOPLE Retail###</a></h2>
+    <a href="./sea-people.htm"><div id="brief-img-sea-people" class="brief-img"></div></a>
+    <div class="brief-text-box">
+        <div class="brief-text-main">###brief sea people text###</div>
+        <a href="./sea-people.htm" class="more"><span class="underline">###seeMoreDetail###</span><span class="arrow-left">►</span></a>
+    </div>
+</div>
+<h2 class="seapeople-h2"><a href="./sea-people.htm">###SEA PEOPLE Scuba Diving Equipment Retail###</a></h2>
+<a id="seapeople-banner-a" href="./sea-people.htm"><div id="seapeople-banner"></div></a>
+    <!-- }}} sea people -->    
+    <!-- }}} brief -->    
+    <!-- {{{ copyright.htm }}}-->
+</div>
+<!-- {{{ base-js.htm }}}-->
+<script src="http://code.jquery.com/ui/1.9.0/jquery-ui.js"></script>
+<script src="./js/index.js"></script>
+<script>
+    window.mapShow.init();
+</script>
+</body>
+<html>

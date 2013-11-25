@@ -1,0 +1,177 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-us">
+<!-- {{{ head -->    
+<head>
+    <title>Okinawa Diving Marine House Seasir</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="English Speaker Diving Marine Sports in Okinawa">
+    <meta name="keywords" content="Okinawa,Diving,Snorkeling,Marine,Water,Sports,English,Foreign,Naha,Kerama,Aka,Manza,Kanucha">
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="./css/main.css" media="all">
+    <style>
+        label {display:inline-block}
+        #guest-information label {width:150px}
+        #transfer-detail label {width:250px}
+        .priceT {
+            margin:10px 0;
+            width:910px;
+            line-height:150%;
+        }
+        .priceT th, .priceT td {font-size:12px;padding:5px 8px 4px 8px}
+        input[type="checkbox"] {vertical-align:middle}
+        fieldset {margin-bottom:10px}
+        legend {color:#69f}
+    </style>
+</head>
+<!-- }}} head -->    
+<body>
+<div id="container950">
+<!-- {{{ fllink -->    
+    <div id="fllink">
+	<ul id="fllink-ul">
+		<li class="fllink-li"><a href="http://www.seasir.com/en/">English</a></li>
+		<li class="fllink-li"><a href="http://www.seasir.com/ct/">繁體中文</a></li>
+		<li class="fllink-li"><a href="http://www.seasir.com/cn/">简体中文</a></li>
+		<li class="fllink-li"><a href="http://www.seasir.com/kr/">한국어</a></li>
+		<li class="fllink-li"><a href="http://www.seasir.com/">日本語</a></li>
+	</ul>
+    </div>
+<!-- }}} fllink -->    
+<!-- {{{ top menu -->    
+    <img id="seasir-naha-logo-img" src="./img/seasir-logo.png">
+    <img id="seasir-naha-logo-h1" src="./img/h1.png" alt="Okinawa Scuba Diving And Water Sports">
+    <div id="top-menu"></div>
+<!-- }}} top menu -->    
+
+    <h1>Marine House SEASIR NAHA Booking Form</h1>
+    <span class="hl-red">Please fill in the form in alphabet</span>
+    <form action="./cgi/postmail.cgi" method="post">
+        <input type="hidden" name="subject" value="Booking For NAHA">
+        <!-- {{{ contact -->    
+        <fieldset name="contact">
+            <legend>Guest Contact</legend>
+            <label for="email">E-mail</label>
+            <input id="email" size="50" type="email" required="required" autocomplete="on" name="Guest E-mail"><br>
+            <span class="hl-red">Please fill right E-mail that we can contact with you</span><br>
+            <input id="open-rest" type="button" value="Continue">
+        </fieldset>
+        <!-- }}} contact -->   
+        <div id="rest" style="display:none;">
+        <!-- {{{ guest-information -->    
+        <fieldset id="guest-information" name="guest-information">
+            <legend>Guest Information</legend>
+            <label for="name" required="required" autocomplete="on" >Name</label>
+            <input type="text" id="name" name="name">
+            <span class="comment">(English name same as in PASSPORT)</span><br>
+            <label for="nationality">Nationality</label>
+            <input type="text" id="nationality" name="nationality"><br>
+            <label for="mobile">Mobile Phone</label>
+            <input type="text" id="mobile" name="mobile" value="(+)"><br>
+            <label >Date of Trip</label>
+            <input type="text" class="date-of-trip" name="Date of Trip-1">
+            <input id="add-another-day" type="button" value="Add Another Day">
+        </fieldset>
+        <!-- }}} guest-information -->    
+        <!-- {{{ intro and snorkeling -->    
+        <fieldset id="IDV-SNK" name="IDV-SNK">
+            <legend>KERAMA ISLAND - Introductory Diving (IDV) & Snorkeling (SNK) Package Booking</legend>
+            <table class="priceT">
+                <tr>
+                    <th>Fill in Name</th>
+                    <th>Age</th>
+                    <th>Check</th>
+                    <th colspan="3">For equipement rental</th>
+                </tr>
+                <tr id="addNewType1">
+                    <td colspan="6"><input type="button" value="Add A Line"></td>
+                </tr>
+            </table>
+        </fieldset>
+        <!-- }}} intro and snorkeling -->    
+        <!-- {{{ dive -->    
+        <fieldset id="FDV-RD" name="FDV-RD">
+            <legend>KERAMA ISLAND - Leisure Diving (FDV) & Refresher Diving Package (RD) Booking</legend>
+            <table class="priceT">
+                <tr>
+                    <th>Fill in Name</th>
+                    <th style="width:100px">Type of diving</th>
+                    <th style="white-space: nowrap;">Cert. level</th>
+                    <th style="white-space: nowrap;">Total dives</th>
+                    <th style="width:110px">Date last dive</th>
+                    <th colspan="3" style="width:310px">Equipment arrangement for Leisure diving package & Refresher diving Package only</th>
+                </tr>
+                <tr id="addNewType2">
+                    <td colspan="8"><input type="button" value="Add A Line"></td>
+                </tr>
+            </table>
+        </fieldset>
+        <!-- }}} dive -->    
+        <!-- {{{ Transportation -->    
+        <fieldset name="transportation">
+            <legend>Transportation / Hotel Transfer</legend>
+            <label>Do you need Hotel Transfer? (NAHA city area only)</label>
+            <label>Yes</label>
+            <input type="radio" name="need-transfer" value="yes" checked>/
+            <label>No</label>
+            <input type="radio" name="need-transfer" value="no">
+            <br><span class="hl-red">Dear Guest, whether you need Hotel Transfer or not. We may need to contact you for any reason related to weather, please provide us your Hotel or any accomodation information in Okinawa</span>
+            <div id="transfer-detail">
+                <label>Hotel Name</label>
+                <input type="text" name="hotel-name"><br>
+                <label>Hotel Telephone no.</label>
+                <input type="text" name="hotel-tel"><br>
+                <label>Name use to Check in Hotel</label>
+                <input type="text" name="name-hotel-checkin"><br>
+                <label>Hotel Pick-Up time</label>
+                <span>Hotel pick up time message will send to guest room a day before around 18:00</span><br>
+            </div>
+            <h3>For own transportation</h3><p>Please key in this phone number for car NAVI system <strong>098 869 6329</strong> or this <strong>MAP CODE - 33246627*42</strong><br><span class="hl-red">Note * For own transport please be at our SEASIR NAHA before 08:00. We do provide FREE car parking space.</span></p>
+        </fieldset>
+        <!-- }}} Transportation -->    
+        <!-- {{{ comment -->    
+        <fieldset name="comment">
+            <legend>Comment</legend>
+            <textarea name="comment" rows="6" cols="110"></textarea>
+        </fieldset>
+        <!-- }}} contact -->   
+        <!-- {{{ agreement -->    
+        <fieldset name="agreements">
+            <legend>CANCELLATION POLICY and HEALTH CHECK LIST</legend>
+            <p>
+                <input type="checkbox" class="agreements" name="cancellation" value="checked">
+                
+            Hereby checking this box, I agree and understand the cancellation policy set by Marine House SEASIR on the official English website link <a href="./cancel.htm" target="_blank">Marine House SEASIR Cancellation Policy</a>
+        
+            </p>
+            <p>
+                <input type="checkbox" class="agreements" name="health" value="checked">
+                
+            Hereby checking this box, we affirm that after checking <a href="./health.htm" target="_blank">Marine House SEASIR Health Check List</a> none of us have any question in the Health Check List that answers apply YES to any one of us. I and we agree to accept responsibility for omissions regarding our failure to disclose any existing or past health condition.
+        
+            </p>
+        </fieldset>
+        <!-- }}} agreement -->    
+        </div>
+        <input style="width:100px;" type="submit" disabled=true>
+    </form>
+   <div id="copyright">Marine House SEASIR &copy; All Rights Reserved.<br>
+        <div id="copyright-img"></div>
+        <div id="creadit">We do accept credit card<br><div id="creadit-img"></div></div>
+    </div>
+</div> <!-- end of container950 -->
+<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+ <script src="./js/base.js"></script>
+<script src="http://code.jquery.com/ui/1.9.1/jquery-ui.js"></script>
+<script src="./js/bookform.js"></script>
+<script>
+$(function() {
+    var GUEST = window.GUEST;
+    GUEST.height="Height";
+    GUEST.weight="Weight";
+    GUEST.foot="Foot size";
+    GUEST.trans1='For own transportation';
+    GUEST.trans2='Please key in this phone number for car NAVI system <strong>098 869 6329</strong> or this <strong>MAP CODE - 33246627*42</strong><br><span class="hl-red">Note * For own transport please be at our SEASIR NAHA before 08:00. We do provide FREE car parking space.</span>';
+    GUEST.init();
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Diving Marine House Seasir</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>English Speaker Diving Marine Sports in Okinawa</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Diving,Marine,Sports,English,Foreign</val>
+    </item>
+    <!-- }}} header -->
+
+    <!-- {{{ briefs -->
+    <item>
+        <key>###briefNahaText###</key>
+        <val>KERAMA ISLANDS a day trip for Snorkeling, Scuba Diving and other activities</val>
+    </item>
+    <item>
+        <key>###brief berry text###</key>
+        <val>Underwater Mermaid walk, Water sports and Scuba Diving activities center</val>
+    </item>
+    <item>
+        <key>###brief aka text###</key>
+        <val>Pension facility with scuba diving and others activities in KERAMA ISLANDS</val>
+    </item>
+    <item>
+        <key>###brief la mer text###</key>
+        <val>A private charter or dinner cruise up to 25 people that cater to your every desire</val>
+    </item>
+    <item>
+        <key>###brief whale text###</key>
+        <val>Okinawa one of the most fascinating winter season activity whale watching excursions from January until end of March</val>
+    </item>
+    <item>
+        <key>###brief course text###</key>
+        <val>SEASIR PADI 5 STAR facility provide English, Japanese, Mandarin and Cantonese courses</val>
+    </item>
+    <item>
+        <key>###brief sea people text###</key>
+        <val>If you are looking for any major or small equipment related to scuba diving this is your one stop shop that you are looking for.</val>
+    </item>
+    <item>
+        <key>###SEA PEOPLE Scuba Diving Equipment Retail###</key>
+        <val>SEA PEOPLE Scuba Diving Equipment Retail</val>
+    </item>
+    
+    <!-- }}} briefs -->
+</items>

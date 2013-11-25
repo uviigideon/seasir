@@ -1,0 +1,42 @@
+<items>
+    <item>
+        <key>###H2###</key>
+        <val>Cancellation Policy</val>
+    </item>
+    <item>
+        <key>###Charges###</key>
+        <val>Charges</val>
+    </item>
+    <item>
+        <key>###Charges 30###</key>
+        <val>Cancellation made less than 7 days notice.</val>
+    </item>
+    <item>
+        <key>###Charges 50###</key>
+        <val>Cancellation made less than 3 days notice.</val>
+    </item>
+    <item>
+        <key>###Full Charge###</key>
+        <val>Full Charge</val>
+    </item>
+    <item>
+        <key>###Charges 100-1###</key>
+        <val>Applies if cancellation made less than 24 hours notice.</val>
+    </item>
+    <item>
+        <key>###Charges 100-2###</key>
+        <val>Applies if guest late or miss the boat.</val>
+    </item>
+    <item>
+        <key>###Charges 100-3###</key>
+        <val>Applies if guest NO SHOW.</val>
+    </item>
+    <item>
+        <key>###extra li###</key>
+        <val><![CDATA[
+<li><span class="seasir-red">Marine House SEASIR</span> and <span class="berry-pink">Marine Club BERRY </span> holds all rights to cancel trip due to weather concern and safety</li>
+<li><span class="seasir-red">Marine House SEASIR</span> and <span class="berry-pink">Marine Club BERRY </span>holds all right to refuse the guest to onboard if suspected there is any behavior problem of this guest due to overall safety concern.</li>
+<li>All cancellation charges are imposed based on total cost of trip.</li>
+            ]]></val>
+    </item>
+</items>

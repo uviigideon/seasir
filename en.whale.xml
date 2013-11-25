@@ -1,0 +1,127 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Whale Watching – Marine House SEASIR NAHA</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>Okinawa winter special activity from January to end of March provide English, Mandarin, Cantonese and Japanese speaking naturalist staff and “BOOK of WHALE”</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,whale,watching,winter,spring,English,Foreign,naha</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###H2###</key>
+        <val>Okinawa Whale Watching Season January until end of March</val>
+    </item>
+    <item>
+        <key>###whale intro###</key>
+        <val><![CDATA[<p>In January until end of March winter season in Okinawa the most popular off shore activity is always the unbeatable whale watching excursion. Every whale watching excursion is unique  lots of tourist include the locals are always fascinating about this whale watching trip in Okinawa even some been to this excursion a few times, but each time when the whale appear around nearby the boat everybody get so exciting about it.</p><p><span class="hl-red">Marine House SEASIR NAHA </span>been organizing whale watching trip since 2005, each trip there is always a naturalist staff onboard and with all the advance equipment such as sonar and radar. Since 2005 each year <span class="hl-red">Marine House SEASIR NAHA </span> team successfully recorded 99% whale spotted. With most organize and experience whale watching excursion team in Okinawa, don’t miss your trip with <span class="hl-red">Marine House SEASIR NAHA </span> whale watching excursion.</p>]]></val>
+    </item>
+    <item>
+        <key>###Where is the Whale###</key>
+        <val>Where is the Whale</val>
+    </item>
+    <item>
+        <key>###Where is the Whale content###</key>
+        <val><![CDATA[<p>In Okinawa the most common whale spotted is Humpback Whale and dolphin (pseudorca crassidens). Most of the whale and dolphin can be spot at nearby Chibishi Island or Kerama lslands in Okinawa.</p>]]></val>
+    </item>
+    <item>
+        <key>###How to prepare yourself###</key>
+        <val>How to prepare yourself</val>
+    </item>
+    <item>
+        <key>###How to prepare yourself li###</key>
+        <val><![CDATA[<li>If you are worry about motion sickness then eat something about an hour before or take a motion sickness medication about 30 minutes before departure.</li>
+<li>If you have kids with you, bring some snack or toys for them.</li>
+<li>Wear sneakers or something rubber soled for good traction from the wet and slippery deck.</li>
+<li>Sometimes temperature do get very cold, bring a sweater is always recommended.</li>
+<li>Bring or rent and binoculars, having a binocular will provide a close up view better that others who don’t get.</li>]]></val>
+    </item>
+    <item>
+        <key>###How to prepare yourself content###</key>
+        <val><![CDATA[<p>Choppy sea condition or raining during the whale watching trip <span class="hl-red">Marine House SEASIR NAHA </span> will provide poncho pack for the guest.
+<span class="hl-red">Marine House SEASIR NAHA </span> guarantee will full refund if there is no guest see a whale or dolphin during the trip.</p>]]></val>
+    </item>
+    <item>
+        <key>###Whale watching trip schedule###</key>
+        <val>Whale watching trip schedule</val>
+    </item>
+    <item>
+        <key>###Am Trip###</key>
+        <val>Am Trip</val>
+    </item>
+    <item>
+        <key>###Am Trip li###</key>
+        <val><![CDATA[
+<li>08:15 - All guest gathering at <span class="hl-red">Marine House SEASIR NAHA</span></li>
+<li>08:45 - Safety briefing and departure</li>
+<li>09:00 - 11:30 (open sea)</li>
+<li>11:30 - Return to Naha</li>]]></val>
+    </item>
+    <item>
+        <key>###Pm Trip###</key>
+        <val>Pm Trip</val>
+    </item>
+    <item>
+        <key>###Pm Trip li###</key>
+        <val><![CDATA[
+<li>13:15 - All guest gathering at <span class="hl-red">Marine House SEASIR NAHA</span></li>
+<li>13:45 - Safety briefing and departure</li>
+<li>14:00 - 16:30 (open sea)</li>
+<li>16:30 - Return to Naha</li>]]></val>
+    </item>
+    <item>
+        <key>###Adult###</key>
+        <val>Adult</val>
+    </item>
+    <item>
+        <key>###Child6###</key>
+        <val>Child(6-12age)</val>
+    </item>
+    <item>
+        <key>###Child3###</key>
+        <val>Child(3-5age)</val>
+    </item>
+    <item>
+        <key>###Marine House SEASIR Whale watching excursion###</key>
+        <val>Marine House SEASIR Whale watching excursion</val>
+    </item>
+    <item>
+        <key>###Price Includes###</key>
+        <val>Price Includes</val>
+    </item>
+    <item>
+        <key>###Price Includes li###</key>
+        <val><![CDATA[<li>Hotel Transfer (Naha city area only)</li>
+<li>Drinking water and Japanese tea</li>
+<li>Guarantee of Whales (If no whale or dolphins spotted on the trip, get full refund)</li>]]></val>
+    </item>
+    <item>
+        <key>###Boat Facility###</key>
+        <val>Boat Facility</val>
+    </item>
+    <item>
+        <key>###Boat Facility li###</key>
+        <val><![CDATA[<li>Information guide</li>
+<li>Underwater sound receiver(to receive whale singing)</li>
+<li>Double deck boat with Toilet and dry cabin</li>
+<li>Rain jacket. (Poncho pack)</li>]]></val>
+    </item>
+    <item>
+        <key>###Conditions###</key>
+        <val>Conditions</val>
+    </item>
+    <item>
+        <key>###Conditions content###</key>
+        <val><![CDATA[<p><span class="hl-red">Marine House SEASIR NAHA</span> will not accepts any booking if the guests who are currently under health condition that state at below:</p>]]></val>
+    </item>
+    <item>
+        <key>###Conditions li###</key>
+        <val><![CDATA[<li>Epilepsy, seizures, convulsions or take medications to prevent it</li>
+<li>Guest who are currently pregnant</li>]]></val>
+    </item>
+</items>

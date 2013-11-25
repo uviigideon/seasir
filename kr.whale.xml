@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Whale Watching – Marine House SEASIR NAHA</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>Okinawa winter special activity from January to end of March provide English, Mandarin, Cantonese and Japanese speaking naturalist staff and “BOOK of WHALE”</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,whale,watching,winter,spring,English,Foreign,naha</val>
+    </item>
+    <!-- }}} header -->
+<item>
+<key>###H2###</key> 
+<val>오키나와 고래 관람 시즌, 1월부터 3월까지</val> 
+</item>
+<item>
+<key>###whale intro###</key> 
+<val>
+  오키나와의 겨울시즌인 1월부터 3월까지 가장 인기있는 해양활동은 다른 어떤것과 비교할 수 없는 고래 관람 투어입니다. 모든 고래 관람 투어는 희귀하고, 몇번이고 이 투어를 해봤던 지역 주민들도, 그리고 많은 관광객들은 항상 이 투어에 매력을 느낍니다. 또 고래가 보트 주위에 나타날 때면 모두가 흥분하게 됩니다. 
+  <span class="hl-red">Marine House SEASIR</span> 
+  는 2005년부터 고래 관람 투어을 시행하고 있습니다. 모든 여정엔 항상 내추럴리스트 스텝들이 동승하고 소나, 레이더같은 첨단장비를 이용합니다. 2005년부터 
+  <span class="hl-red">Marine House SEASIR NAHA</span> 
+  팀은 99% 확률로 고래를 발견했습니다. 오키나와에서 가장 숙련된 고래 관람 투어팀과 함께하세요. 
+  <span class="hl-red">Marine House SEASIR NAHA</span> 
+  와 함께떠나는 고래 관람 투어을 놓치지 마세요. 
+</val>
+</item>
+<item>
+<key>###Where is the Whale###</key> 
+<val>고래는 어디에 있을까요?</val> 
+</item>
+<item>
+<key>###Where is the Whale content###</key> 
+<val>
+<![CDATA[ <p>오키나와에서 발견되는 대부분의 고래는 혹등고래와 돌고래(흑범고래)입니다. 오키나와에서 대부분의 고래, 돌고래는 치비시섬과 케라마섬 주변에서 발견됩니다.</p>
+]]> 
+</val>
+</item>
+<item>
+<key>###How to prepare yourself###</key> 
+<val>어떻게 준비하면 될까요?</val> 
+</item>
+<item>
+<key>###How to prepare yourself li###</key> 
+<val>
+<![CDATA[ 
+<li> 배멀미에 걱정이시라면 출발 한시간쯤 전에 무엇이든 조금 먹어두고, 삼십분쯤 전엔 멀미약을 먹습니다.</li>
+<li> 아이와 동승한다면, 아이들에게 줄 약간의 과자와 장난감을 준비해 주세요.</li>
+<li> 젖어서 미끄러운 데크를 대비해서 스니커즈화나 밑창에 고무가 있는 신발을 신어 주세요.</li>
+<li> 가끔 추위를 많이 느낄 때가 있습니다. 여분의 옷을 가지고 오시길 추천합니다.</li>
+<li> 쌍안경을 가지고 오시거나 빌리시길 바랍니다. 쌍안경은 다른사람들은 보지못하는 근접한 광경을 제공합니다.</li>
+]]> 
+</val>
+</item>
+<item>
+<key>###How to prepare yourself content###</key> 
+<val>
+<![CDATA[ 
+<p>고래 관람여정중 바다에 파도가 있거나 비가 온다면<span class="hl-red">Marine House SEASIR NAHA </span>  는 손님들에게 판초팩을 제공할 겁니다.
+<span class="hl-red">Marine House SEASIR NAHA </span>는 여정중 고래&돌고래를 본 손님이 없을 경우 전액 환불을 보장합니다. 
+</p>
+]]> 
+</val>
+</item>
+<item>
+<key>###Whale watching trip schedule###</key> 
+<val>고래관람투어 스케줄</val> 
+</item>
+<item>
+<key>###Am Trip###</key> 
+<val>오전투어</val> 
+</item>
+<item>
+<key>###Am Trip li###</key> 
+<val>
+<![CDATA[ 
+<li>08:15 – 모든 손님들이 <span class="hl-red">Marine House SEASIR NAHA</span>에 모입니다.</li>
+<li>08:45 –안전수칙 브리핑 및 출항</li>
+<li>09:00 - 11:30 고래 관람</li>
+<li>11:30 – 나하로 귀항</li>
+]]> 
+</val>
+</item>
+<item>
+<key>###Pm Trip###</key> 
+<val>오후투어</val> 
+</item>
+<item>
+<key>###Pm Trip li###</key> 
+<val>
+<![CDATA[ 
+<li>13:15 -모든 손님들이<span class="hl-red">Marine House SEASIR NAHA</span>에 모입니다.</li>
+<li>13:45 -안전수칙 브리핑 및 출항</li>
+<li>14:00 - 16:30고래 관람</li>
+<li>16:30 -나하로 귀항</li>
+]]> 
+</val>
+</item>
+<item>
+<key>###Adult###</key> 
+<val>성인</val> 
+</item>
+<item>
+<key>###Child6###</key> 
+<val>어린이(6-12살)</val> 
+</item>
+<item>
+<key>###Child3###</key> 
+<val>어린이(3-5살)</val> 
+</item>
+<item>
+<key>###Marine House SEASIR Whale watching excursion###</key> 
+<val>Marine House SEASIR고래 관람 투어</val> 
+</item>
+<item>
+<key>###Price Includes###</key> 
+<val>요금은 아래 사항을 포함한 가격입니다.</val> 
+</item>
+<item>
+<key>###Price Includes li###</key> 
+<val>
+<![CDATA[ 
+<li>호텔 픽업(나하 지역만)</li>
+<li>생수와 일본식 차</li>
+<li>고래 관람  보장(투어중 고래&돌고래를 발견하지 못할 시 전액 환불)</li>
+]]> 
+</val>
+</item>
+<item>
+<key>###Boat Facility###</key> 
+<val>보트 시설</val> 
+</item>
+<item>
+<key>###Boat Facility li###</key> 
+<val>
+<![CDATA[ 
+<li>인포메이션 가이드</li>
+<li>수중 음향 수신기(고래울음소리를 들을 수 있습니다.)</li>
+<li>화장실과 dry cabin을 포함한 더블데크</li>
+<li>우의(판초팩)</li>
+]]> 
+</val>
+</item>
+<item>
+<key>###Conditions###</key> 
+<val>조건</val> 
+</item>
+<item>
+<key>###Conditions content###</key> 
+<val>
+<![CDATA[ <p><span class="hl-red">Marine House SEASIR NAHA</span> 는 아래 사항에 해당하는 몸상태인 손님의 승선을 거절할 수 있습니다. 
+</p>
+]]> 
+</val>
+</item>
+<item>
+<key>###Conditions li###</key> 
+<val>
+<![CDATA[ 
+<li>간질, 발작, 경련 또는 그 예방약을 복용중인 경우</li>
+<li>임신중인 손님</li>
+]]> 
+</val>
+</item>
+</items>
+

@@ -1,0 +1,10 @@
+<items>
+    <item>
+        <key>###Please reconfirm information that fill in before submit###</key>
+        <val>Please reconfirm information that fill in before submit</val>
+    </item>
+    <item>
+        <key>###Submit###</key>
+        <val>Submit booking</val>
+    </item>
+</items>

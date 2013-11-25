@@ -1,0 +1,159 @@
+﻿<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Scuba Diving - Marine House Seasir NAHA</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>The only diving service with English, Mandarin, Cantonese and Japanese speaking Instructor in Okinawa</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Scuba,Diving,Snorkeling,NAHA,Kerama,English,Foreign</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###H2###</key>
+        <val>날마다 떠나는 SEASIR 나하의 케라마섬 다이빙, 스노클링 투어</val>
+    </item>
+    <!-- {{{ intro -->
+    <item>
+        <key>###theTeam###</key>
+        <val>SEASIR 나하 팀과 시설</val>
+    </item>
+    <item>
+        <key>###theTeamIntro###</key>
+        <val><![CDATA[Marine House SEASIR 나하는 PADI 5 STAR INSTRUCTOR DEVELOPMENT RESORT으로 1993년부터 운영되고 있다. 총 20명의 전임강사들로 운영되는 하루 일정은 40명의 장비 풀 세팅 다이버를 실을 수 있고 화장실, 샤워실, 식수를 제공하는 오키나와에서 가장 빠른 두대의 다이빙 전용 보트<span class="hl-red">LOVE</span> 와 <span class="hl-red">LUCKY</span>로 진행됩니다. Marine House SEASIR 나하는 외국인 손님을 위해 영어, 중국어, 광동어가 가능한 강사진으로 서비스를 제공하고 있습니다.
+            ]]></val>
+    </item>
+    <item>
+        <key>###Diving and Snorkeling at Kerama islands###</key>
+        <val>케라마섬에서의 다이빙과 스노클링</val>
+    </item>
+    <item>
+        <key>###keramaIntro###</key>
+        <val>케라마섬은 오키나와에서 가장 유명한 다이빙 &amp; 스노클링 목적지 입니다. 케라마섬은 최소 50군데의 산호초, 물고기, 천연의 해양경관으로 가득찬 다이빙 포인트로 둘러쌓여 있습니다. 케라마섬 주변 바다에서는 평균 20-25미터의 시야를 자랑합니다. 7월부터 9월까지 대부분의 다이빙 포인트는 그린크로미스, 애로 카디널 그리고 그 이외에 그루퍼, 나비 물고기, 유니콘 서전 물고기, 라이언 피시와 각가지 갯민숭달팽이들로 가득차 있습니다. 추천하는 포인트로 트윈락, 가미구스쿠, 나카친시, 타카친시, 노자키, 우간, 지쯔르 세탄, 운세, 우치잔, 토나키(블루코너), 토나키(블루홀), 쿠바 미나미, 샌드 트라이앵글, 쿠바 니시, 부리 지마, 시마존, 기타 히다지가 있습니다.</val>
+    </item>
+    <!-- }}} intro -->
+    <item>
+        <key>###Leisure Diving Desc Full###</key>
+        <val>모든 장비와 2탱크 다이빙을 포함한 이 레져다이빙 패키지는 인증된 다이버를 위한 것 입니다. 우리는 당일 케라마섬 투어에서 서로 다른 3곳을 들르는데 다이버는 3다이빙를 하지 않는한 원하는 포인트 2군데를 선택해서 다이빙 할 수 있습니다. 3다이빙 패키지와 성수기 가격은 아래 가격표를 참조해 주시기 바랍니다.</val>
+    </item>
+    <item>
+        <key>###Intro Diving Desc Full###</key>
+        <val>자격증을 갖고 있지 않은, 다이빙을 처음하려는 사람도 체험다이빙을 통해 케라마섬의 수중풍경을 경험할 수 있습니다. 이 패키지는 1다이빙과 함께 자유시간동안의 스노클링을 포함하고, 스노클링 장비는 패키지 안에 포함되어 있습니다.</val>
+    </item>
+    <item>
+        <key>###Snorkeling Desc Full###</key>
+        <val>가장 일반적인 해양활동 중 하나로 아름다운 산호초, 바다거북, 산호초에 사는 물고기들을 볼 수 있는 케라마섬에서 스노클링하는 것이 있습니다.</val>
+    </item>
+    <item>
+        <key>###Refresher Diving Desc Full###</key>
+        <val>자격증을 갖고 있더라도 최근 12개월동안 다이빙 한 적이 없는 다이버라면 다이빙 지식과 수중 기술을 다시 상기시켜 줄 수 있는 리프레셔 코스를 추천합니다.</val>
+    </item>
+    
+    <item>
+        <key>###packageIncludesDiving###</key>
+        <val><![CDATA[
+<li>전체 스쿠버 장비</li>
+<li>일본식 점심 도시락</li>
+<li>마실 물 &amp; 일본식 미소 스프</li>
+<li>타월</li>
+<li>보험</li>
+<li>호텔 픽업(나하지역에 한함)</li>
+        ]]></val>
+    </item>
+    <item>
+        <key>###packageIncludesSnorkeling###</key>
+        <val><![CDATA[
+<li>스노클링 장비</li>
+<li>일본식 점심 도시락</li>
+<li>마실 물 &amp; 일본식 미소 스프</li>
+<li>타월</li>
+<li>보험</li>
+<li>호텔 픽업(나하지역에 한함)</li>
+        ]]></val>
+    </item>
+    <item>
+        <key>###keramaSchedule###</key>
+        <val>당일 케라마 투어 스케줄</val>
+    </item>
+    <item>
+        <key>###keramaScheduleLi###</key>
+        <val><![CDATA[
+<li>07:30	--	호텔 픽업(나하지역에 한함)</li>			 
+<li>08:30	--	손님 등록 및 장비 확인</li>	 
+<li>09:00	--	케라마 섬으로 출발</li>				
+<li>10:00	--	첫번째 다이빙과 두번째 다이빙(아니면 스노클링)</li>			
+<li>13:00	--	점심식사</li>				
+<li>14:00	--	세번째 다이빙(아니면 스노클링)</li>				
+<li>16:00	--	나하로 복귀</li>			
+<li>17:00	--	호텔로 복귀(나하지역에 한함)</li>	
+        ]]></val>
+    </item>
+    <item>
+        <key>###Season Price for leisure Diving Package###</key>
+        <val>레저 다이빙 패키지의 성수기 가격</val>
+    </item>
+    <item>
+        <key>###Season Price for leisure Diving With Own Diving Equipments###</key>
+        <val>개인 장비를 이용해 레저다이빙 할때의 성수기 가격</val>
+    </item>
+    <item>
+        <key>###keramaScheduleLi intro###</key>
+        <val><![CDATA[
+<li>07:30	--	호텔 픽업(나하지역에 한함)</li>			 
+<li>08:30	--	손님 등록 및 장비 확인</li>	 
+<li>09:00	--	케라마 섬으로 출발</li>				
+<li>10:00	--	스노클링</li>			
+<li>11:00	--	체험 다이빙</li>			
+<li>13:00	--	점심 식사</li>				
+<li>14:00	--	스노클링 또는 선택사항으로 두번째 다이빙</li>				
+<li>16:00	--	나하로 복귀	</li>			
+<li>17:00	--	호텔로 복귀(나하지역에 한함)</li>	
+        ]]></val>
+    </item>
+    <item>
+        <key>###Introductory Diving Package Price###</key>
+        <val>체험다이빙 패키지 가격</val>
+    </item>
+    <item>
+        <key>###keramaScheduleLi snorkeling###</key>
+        <val><![CDATA[
+<li>07:30	--	호텔 픽업(나하지역에 한함)</li>			 
+<li>08:30	--	손님 등록 및 장비 확인</li>	 
+<li>09:00	--	케라마 섬으로 출발</li>				
+<li>10:00	--	스노클링</li>		
+<li>13:00	--	점심 식사</li>				
+<li>14:00	--	스노클링</li>				
+<li>16:00	--	나하로 복귀	</li>			
+<li>17:00	--	호텔로 복귀(나하지역에 한함)</li>
+        ]]></val>
+    </item>
+    <item>
+        <key>###keramaScheduleLi refresher###</key>
+        <val><![CDATA[
+<li>07:30	--	호텔 픽업(나하지역에 한함)</li>			 
+<li>08:30	--	손님 등록 및 장비 확인</li>	 
+<li>09:00	--	케라마 섬으로 출발</li>					
+<li>10:00	--	다이빙 지식 검토 및 리프레시 다이빙 1</li>			
+<li>13:00	--	점심식사</li>				
+<li>14:00	--	리프레시 다이빙 2</li>				
+<li>16:00	--	나하로 복귀	</li>			
+<li>17:00	--	호텔로 복귀(나하지역에 한함)</li>
+        ]]></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+</items>

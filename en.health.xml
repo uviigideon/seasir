@@ -1,0 +1,47 @@
+<items>
+    <item>
+        <key>###H2###</key>
+        <val>HEALTH CHECK LIST</val>
+    </item>
+    <item>
+        <key>###health check intro###</key>
+        <val><![CDATA[<p>Please check the following questions on your past or present medical history with a YES or NO answer. <strong>If you are not sure, answer YES.</strong> If any of these questions apply to you, we must request that you consult with a physician prior to participating in scuba diving program or any marine sports program that we offer.</p>]]></val>
+    </item>
+    <item>
+        <key>###health check li###</key>
+        <val><![CDATA[
+<li>Could you be pregnant, or are you attempting to become pregnant?</li>
+<li>Are you presently taking any medications? (With the exception of Birth control or anti-malarial)</li>
+<li>Asthma, infantile asthma, or wheezing with breathing, or wheezing with exercise?</li>
+<li>Frequent or severe attacks of hay fever or allergy?</li>
+<li>Frequent colds, sinusitis or bronchitis?</li>
+<li>Any form of lung disease?</li>
+<li>Pneumothorax (collapsed lung)?</li>							
+<li>Other chest disease or chest surgery?</li>
+<li>Behavioral health, mental or psychological problems?(Panic attack, fear of closed or open spaces)</li>
+<li>Epilepsy, seizures, convulsions or take medications to prevent them?	</li>
+<li>Recurring complicated migraine headaches or take medications to prevent them?</li>
+<li>Blackouts or fainting (full/partial loss of consciousness)?	</li>
+<li>Frequent or severe suffering from motion sickness?</li>	
+<li>Dysentery or dehydration requiring medical intervention?	</li>
+<li>Any dive accidents or decompression sickness?	</li>
+<li>Head injury with loss of consciousness in the past five years?	</li>
+<li>Recurrent back problems?		</li>						
+<li>Back or spinal surgery?		</li>
+<li>Diabetes?</li>
+<li>Back, arm or leg problems following surgery, injury or fracture?</li>	
+<li>High blood pressure or take medicine to control blood pressure?	</li>
+<li>Heart disease or Heart attack?	</li>		
+<li>Angina, heart surgery or blood vessel surgery?</li>
+<li>Sinus or any Body air space surgery?</li>						
+<li>Bleeding or other blood disorders?</li>
+<li>Recreational drug use or treatment for, or alcoholism in the past five years?</li>
+<li>Hyperventilation syndrome?</li>							
+<li>Do you use full dentures?</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###health check foot###</key>
+        <val><![CDATA[<p>Please do <strong>inform us</strong> if there is any question above answers apply <strong>YES</strong> to you.</p>]]></val>
+    </item>
+</items>

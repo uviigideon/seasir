@@ -1,0 +1,238 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Scuba Diving Course – SEASIR Group</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>Okinawa PADI 5 Star Instructor Development Resort, provide English, Mandarin, Cantonese and Japanese diving courses</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,scuba,diving,course,PADI,English,Foreign,Chinese,Mandarin,Cantonese</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###H2###</key>
+        <val>PADI diving courses with English, Mandarin &amp; Cantonese speaking Instructor.</val>
+    </item>
+    <item>
+        <key>###course intro###</key>
+        <val>We offer international recognized certification PADI in our training facility. Our friendly and experience instructors conducting courses in Japanese, English, Mandarin, Cantonese and Bahasa Malaysia.</val>
+    </item>
+    <item>
+        <key>###English or Mandarin###</key>
+        <val><![CDATA[<span class="lt">(English or Mandarin)</span>]]></val>
+    </item>
+    <!-- {{{ ow -->
+    <item>
+        <key>###PADI Open Water Diver Course###</key>
+        <val>PADI Open Water Diver Course</val>
+    </item>
+    <item>
+        <key>###OW Schedule###</key>
+        <val><![CDATA[
+            <li>Day 1 - Academic session &amp; Confined water training (Pool training half day)</li>
+            <li>Day 2 - Open Water training dive 1 &amp; 2</li>
+            <li>Day 3 - Open Water training dive 3 &amp; 4</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###OW Schedule comment###</key>
+        <val><![CDATA[
+            Above training schedule is design for home study program or PADI e-Learning program, for more information please <a href="mailto:english@seasir.com" target="_blank">Contact us</a> for detail and arragement.]]></val>
+    </item>
+    <item>
+        <key>###Requirement from candidate###</key>
+        <val>Requirement from candidate</val>
+    </item>
+    <item>
+        <key>###Requirement from candidate li###</key>
+        <val><![CDATA[
+            <li>Please refer SEASIR <a href="./health.htm" target="_blank">Health Check List</a>.If any of the questions in the Health Check List answer apply “YES” to you, we must request that you consult with a physician and provide a proper document from your physician prior to participating in scuba diving training program.</li>
+            <li>Any courses date that fall in Peak Season in Season Calendar course fee add JPY5,000 per each candidate.</li>
+            <li>2 Passport size photograph.</li>
+            <li>Class start with minimum 2 candidates. If only 1 candidate please <a href="mailto:english@seasir.com" target="_blank">Contact us</a> for arrangement.</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Training Material###</key>
+        <val>Training Material</val>
+    </item>
+    <item>
+        <key>###Training Material dt###</key>
+        <val><![CDATA[PADI Open Water Diver Manual]]></val>
+    </item>
+    <item>
+        <key>###Equipment###</key>
+        <val>Equipment</val>
+    </item>
+    <item>
+        <key>###Equipment dt###</key>
+        <val>Use of Scuba equipment during training</val>
+    </item>
+    <item>
+        <key>###Registration###</key>
+        <val>Registration</val>
+    </item>
+    <item>
+        <key>###Registration dt###</key>
+        <val>PADI Open Water Diver C-Card</val>
+    </item>
+    <item>
+        <key>###Meal###</key>
+        <val>Meal</val>
+    </item>
+    <item>
+        <key>###Meal dt###</key>
+        <val>Lunch box for open water training days</val>
+    </item>
+    <item>
+        <key>###Boat fee###</key>
+        <val>Boat fee</val>
+    </item>
+    <item>
+        <key>###Boat fee dt###</key>
+        <val>2 days of Open Water Training</val>
+    </item>
+    <item>
+        <key>###Item included in Course###</key>
+        <val>Item included in Course</val>
+    </item>
+    <!-- }}} ow -->
+    <!-- {{{ aow -->
+    <item>
+        <key>###PADI Advance Diver Course###</key>
+        <val>PADI Advanced Diver Course</val>
+    </item>
+    <item>
+        <key>###CORE DIVES###</key>
+        <val>CORE DIVES (MANDATORY)</val>
+    </item>
+    <item>
+        <key>###CORE DIVES li###</key>
+        <val><![CDATA[
+            <li>Deep Dive</li>
+            <li>Navigation Dive</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###ELECTIVE DIVES###</key>
+        <val>ELECTIVE DIVES</val>
+    </item>
+    <item>
+        <key>###ELECTIVE DIVES li###</key>
+        <val><![CDATA[
+            <li>Boat Dive</li>
+            <li>Drift Dive</li>
+            <li>Peak performance Buoyancy Dive</li>
+            <li>Search and Recovery Dive</li>
+            <li>Underwater naturalist Dive</li>
+            <li>Underwater Digital Photography Dive</li>
+            <li>Night Dive</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Requirement from candidate aow li###</key>
+        <val><![CDATA[
+            <li>Please refer SEASIR <a href="./health.htm" target="_blank">Health Check List</a>.If any of the questions in the Health Check List answer apply “YES” to you, we must request that you consult with a physician and provide a proper document from your physician prior to participating in scuba diving training program.</li>
+            <li>Any courses date that fall in Peak Season in Season Calendar course fee add JPY5,000 per each candidate.</li>
+            <li>Valid PADI Open Water Diver license or equivalent.</li>
+            <li>2 Passport size photograph.</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Training Material aow dt###</key>
+        <val>PADI Advanced Diver Manual</val>
+    </item>
+    <item>
+        <key>###Registration aow dt###</key>
+        <val>PADI Advanced Diver C-Card</val>
+    </item>
+    <item>
+        <key>###Meal aow dt###</key>
+        <val>Lunch box for both days</val>
+    </item>
+    <item>
+        <key>###Training Period###</key>
+        <val>Training Period</val>
+    </item>
+    <item>
+        <key>###Training Period dt###</key>
+        <val>2 full days with 5 training dives</val>
+    </item>
+    <!-- }}} aow -->
+    <!-- {{{ efr -->
+    <item>
+        <key>###Emergency First Responder Course###</key>
+        <val>Emergency First Responder Course</val>
+    </item>
+    <item>
+        <key>###efr Schedule###</key>
+        <val><![CDATA[<li>Half day hand on training on primary and secondary care theory and pratical</li>]]></val>
+    </item>
+    <item>
+        <key>###Training Period efr dt###</key>
+        <val>Half day training</val>
+    </item>
+    <item>
+        <key>###Training Material efr dt###</key>
+        <val>Emergency First Responder Manual</val>
+    </item>
+    <item>
+        <key>###Equipment efr dt###</key>
+        <val>Training kit</val>
+    </item>
+    <item>
+        <key>###Registration efr dt###</key>
+        <val>Emergency First Responder C-Card</val>
+    </item>
+    <!-- }}} efr -->
+    <item>
+        <key>###PADI Rescue Diver Course###</key>
+        <val>PADI Rescue Diver Course</val>
+    </item>
+    <item>
+        <key>###res Schedule###</key>
+        <val><![CDATA[
+            <li>Day 1 - Academic session &amp; 2 session practical training</li>
+            <li>Day 2 - 3 session practical training</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Requirement from candidate res li###</key>
+        <val><![CDATA[
+            <li>Please refer SEASIR <a href="./health.htm" target="_blank">Health Check List</a>.If any of the questions in the Health Check List answer apply “YES” to you, we must request that you consult with a physician and provide a proper document from your physician prior to participating in scuba diving training program.</li>
+            <li>Any courses date that fall in Peak Season in Season Calendar course fee add JPY5,000 per each candidate.</li>
+            <li>Valid PADI Advanced license or equivalent + PADI EFR (Medic First Aid) / CPR Rescue License or equivalent CPR certificate that recognized by PADI local office</li>
+            <li>2 Passport size photograph.</li>
+            ]]></val>
+    </item>
+            <tr><td>###Meal###</td><td></td></tr>
+    <item>
+        <key>###Training Material res dt###</key>
+        <val>PADI Rescue Diver Manual</val>
+    </item>
+    <item>
+        <key>###Registration res dt###</key>
+        <val>PADI Rescue Diver C-Card</val>
+    </item>
+    <item>
+        <key></key>
+        <val><![CDATA[]]></val>
+    </item>
+
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+</items>
