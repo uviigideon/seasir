@@ -8,29 +8,67 @@
         <val>요금</val>
     </item>
     <item>
-        <key>###Charges 30###</key>
-        <val>일정 시작 7일 이전 취소 시</val>
+        <key>###Non Refundable###</key>
+        <val><![CDATA[Non Refundable<br>Deposit Condition]]></val>
+    </item>
+        <item>
+        <key>###Non Refundable dt###</key>
+        <val><![CDATA[
+<li>If cancellation make less than 14 days from trip date.</li>
+<li>If guest NO SHOW on the trip day cause of any reason.</li>
+<li>If guest miss boat departure or activity booking time slot.</li>
+<li>If guest unable to turn up at designated meeting location and time for any reason.</li>
+<li>If the Captain of the boat or Instructor of SEASIR Ltd suspects this individual or group behavior could jeopardize other guest or overall safety measure or the guest under Recreation Drug or Alcohol influence.</li>
+<li>Any changes from the original booking cause of the cancellation. This is considering INSUFFICIENT INFORMATION.</li>        
+        ]]></val>
     </item>
     <item>
-        <key>###Charges 50###</key>
-        <val>일정 시작 3일 이전 취소 시</val>
+        <key>###Deposit Refundable###</key>
+        <val><![CDATA[Deposit Refundable<br>Condition]]></val>
+    </item>
+        <item>
+        <key>###Deposit Refundable dt###</key>
+        <val><![CDATA[
+<li>Deposit refund collection only at SEASIR NAHA BRANCH office or Marine Club BERRY Branch office only.</li>
+<li>Trip cancellation by SEASIR Ltd. management due to weather or dangerous sea condition.</li>
+        ]]></val>
     </item>
     <item>
         <key>###Full Charge###</key>
         <val>전액</val>
     </item>
     <item>
-        <key>###Charges 100-1###</key>
-        <val>일정 시작 24시간 이내 취소 시</val>
+        <key>###Full Charge dt###</key>
+        <val><![CDATA[
+<li>Full charge imposed on total cost of the trip if cancellation made less than 24 hour notice from trip date. </li>
+<li>Full charge imposed on total cost of the trip if guest unable to turn up at designated meeting location and time for any reason.</li>
+<li>Any medical or health conditions are not informed to SEASIR Ltd when booking was made. Please refer to <a href="./health.htm" target="_blank">Marine House SEASIR Health Check List</a> for detail.</li>
+        ]]></val>
+    </item> 
+    <item>
+        <key>###Deposit Collection###</key>
+        <val>Deposit Collection</val>
+    </item>    
+    <item>
+        <key>###Deposit Collection dt###</key>
+        <val><![CDATA[
+<li>SEASIR NAHA Branch any activity JPY5,000 per person.</li>
+<li>SEASIR AKA Branch accomodation and any activity JPY5,000 per person.</li>
+<li>Marine Club BERRY any activity JPY4,000 per person.</li>
+<li>Whale Watching Excursion Trip by SEASIR NAHA Branch JPY2,000 per person.</li>
+        ]]></val>
     </item>
     <item>
-        <key>###Charges 100-2###</key>
-        <val>고객이 일정 시작 시간 이후 도착한 경우 또는 보트 출발 이후 도착한 경우</val>
-    </item>
+        <key>###Notice###</key>
+        <val>Notice</val>
+    </item>     
     <item>
-        <key>###Charges 100-3###</key>
-        <val>NO SHOW 인 경우</val>
-    </item>
+        <key>###Notice dt###</key>
+        <val><![CDATA[
+<li>Please do fill in or inform our office at least 48 hours before the trip ,if there is any special request such as Vegetarian or any allegy of certain food when making a activity booking.</li>
+<li>Only guest are register in the booking form are allow to participate or in the boat on the day.</li>
+        ]]></val>
+    </item>    
     <item>
         <key>###extra li###</key>
         <val><![CDATA[

@@ -20,6 +20,7 @@
         input[type="checkbox"] {vertical-align:middle}
         fieldset {margin-bottom:10px}
         legend {color:#69f}
+        .check-label{display:inline;}
     </style>
 </head>
 <!-- }}} head -->    
@@ -138,14 +139,18 @@
         <fieldset name="agreements">
             <legend>취소 규정 과 건강체크목록</legend>
             <p>
-                <input type="checkbox" class="agreements" name="cancellation" value="checked">
-                Marine House SEASIR의 정식 영어 웹사이트에 명시된 <a href="./cancel.htm" target="_blank">Marine House SEASIR의 취소 규정</a>을 이해하고 동의합니다. 
-        
+                <input id="check-cancel" type="checkbox" class="agreements" name="cancellation" value="checked">
+                <label class="check-label" for="check-cancel">Marine House SEASIR의 정식 영어 웹사이트에 명시된 <a href="./cancel.htm" target="_blank">Marine House SEASIR의 취소 규정</a>을 이해하고 동의합니다. 
+        </label>
             </p>
             <p>
-                <input type="checkbox" class="agreements" name="health" value="checked">
-                <a href="./health.htm" target="_blank">Marine House SEASIR의 건강 체크 목록</a>을 확인했고 건강 체크 목록에 YES에 해당하는 질문이 없습니다. 기존 혹은 과거의 건강상태 공개에서 누락된 항목에 대해서의 책임짐을 동의합니다.
-        
+                <input id="check-deposit" type="checkbox" class="agreements" name="deposit" value="checked">
+                <label class="check-label" for="check-deposit">Dear guest, A deposit request of JPY4,000 per person will send to your email from SEASIR PayPal account, please make the deposit to confirm your booking. A booking confirmation will send to you via email within 24 hours once deposit payment received.</label>      
+            </p>
+            <p>
+                <input id="check-health" type="checkbox" class="agreements" name="health" value="checked">
+                <label class="check-label" for="check-health"><a href="./health.htm" target="_blank">Marine House SEASIR의 건강 체크 목록</a>을 확인했고 건강 체크 목록에 YES에 해당하는 질문이 없습니다. 기존 혹은 과거의 건강상태 공개에서 누락된 항목에 대해서의 책임짐을 동의합니다.
+        </label>
             </p>
         </fieldset>
         <!-- }}} agreement -->    

@@ -10,6 +10,7 @@
         _numInit:2,
         _count:1,
         _dateCount:1,
+        _agreementChecked:0,
         _agreementCount:0,
         genType1TR :    function() {
             /* {{{ */
@@ -102,12 +103,14 @@
         checkAgreements : function () {
             /* {{{ */
             var me = this;
-            me._agreementCount = 0;
+            me._agreementChecked = 0;
+            me._agreementCount   = 0;
             $(".agreements").each(function(){
                 var me = GUEST;
-                if ($(this).is(":checked")) ++(me._agreementCount);
+                ++(me._agreementCount)
+                if ($(this).is(":checked")) ++(me._agreementChecked);
             });
-            if (me._agreementCount > 1) {
+            if (me._agreementCount == me._agreementChecked) {
                 $("input[type='submit']").prop('disabled',false);}
             else {
                 $("input[type='submit']").prop('disabled',true);}
@@ -138,9 +141,10 @@
                 GUEST._$transfer_detail.html(GUEST._transfer_form[$(this).attr("value")]);
             });
             */
-            $(".agreements").click(function(){
+            $(".agreements").click(function(event){
                 GUEST.checkAgreements();
             });
+
             this.checkAgreements();
             $("#open-rest").click(function(){
                 /* {{{ */

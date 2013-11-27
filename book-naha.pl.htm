@@ -20,6 +20,7 @@
         input[type="checkbox"] {vertical-align:middle}
         fieldset {margin-bottom:10px}
         legend {color:#69f}
+        .check-label{display:inline;}
     </style>
 </head>
 <!-- }}} head -->    
@@ -122,12 +123,16 @@
         <fieldset name="agreements">
             <legend>###CANCELLATION POLICY and HEALTH CHECK LIST###</legend>
             <p>
-                <input type="checkbox" class="agreements" name="cancellation" value="checked">
-                ###cancellation dt###
+                <input id="check-cancel" type="checkbox" class="agreements" name="cancellation" value="checked">
+                <label class="check-label" for="check-cancel">###cancellation dt###</label>
             </p>
             <p>
-                <input type="checkbox" class="agreements" name="health" value="checked">
-                ###health dt###
+                <input id="check-deposit" type="checkbox" class="agreements" name="deposit" value="checked">
+                <label class="check-label" for="check-deposit">###deposit dt###</label>
+            </p>
+            <p>
+                <input id="check-health" type="checkbox" class="agreements" name="health" value="checked">
+                <label class="check-label" for="check-health">###health dt###</label>
             </p>
         </fieldset>
         <!-- }}} agreement -->    

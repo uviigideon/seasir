@@ -20,6 +20,7 @@
         input[type="checkbox"] {vertical-align:middle}
         fieldset {margin-bottom:10px}
         legend {color:#69f}
+        .check-label{display:inline;}
     </style>
 </head>
 <!-- }}} head -->    
@@ -137,16 +138,20 @@
         <fieldset name="agreements">
             <legend>CANCELLATION POLICY and HEALTH CHECK LIST</legend>
             <p>
-                <input type="checkbox" class="agreements" name="cancellation" value="checked">
-                
+                <input id="check-cancel" type="checkbox" class="agreements" name="cancellation" value="checked">
+                <label class="check-label" for="check-cancel">
             Hereby checking this box, I agree and understand the cancellation policy set by Marine House SEASIR on the official English website link <a href="./cancel.htm" target="_blank">Marine House SEASIR Cancellation Policy</a>
-        
+        </label>
             </p>
             <p>
-                <input type="checkbox" class="agreements" name="health" value="checked">
-                
+                <input id="check-deposit" type="checkbox" class="agreements" name="deposit" value="checked">
+                <label class="check-label" for="check-deposit">Dear guest, A deposit request of JPY5,000 per person will send to your email from SEASIR PayPal account, please make the deposit to confirm your booking. A booking confirmation will send to you via email within 24 hours once deposit payment received.</label>
+            </p>
+            <p>
+                <input id="check-health" type="checkbox" class="agreements" name="health" value="checked">
+                <label class="check-label" for="check-health">
             Hereby checking this box, we affirm that after checking <a href="./health.htm" target="_blank">Marine House SEASIR Health Check List</a> none of us have any question in the Health Check List that answers apply YES to any one of us. I and we agree to accept responsibility for omissions regarding our failure to disclose any existing or past health condition.
-        
+        </label>
             </p>
         </fieldset>
         <!-- }}} agreement -->    

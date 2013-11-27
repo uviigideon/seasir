@@ -20,6 +20,7 @@
         input[type="checkbox"] {vertical-align:middle}
         fieldset {margin-bottom:10px}
         legend {color:#69f}
+        .check-label{display:inline;}
     </style>
 </head>
 <!-- }}} head -->    
@@ -138,16 +139,20 @@
         <fieldset name="agreements">
             <legend>关于预约取消和自我健检表</legend>
             <p>
-                <input type="checkbox" class="agreements" name="cancellation" value="checked">
-                
+                <input id="check-cancel" type="checkbox" class="agreements" name="cancellation" value="checked">
+                <label class="check-label" for="check-cancel">
             当我在这里打勾表示, 我同意且了解 <a href="./cancel.htm" target="_blank">Marine House SEASIR 的预约取消政策</a>
-        
+        </label>
             </p>
             <p>
-                <input type="checkbox" class="agreements" name="health" value="checked">
-                
+                <input id="check-deposit" type="checkbox" class="agreements" name="deposit" value="checked">
+                <label class="check-label" for="check-deposit">亲爱的顾客, 每人4000日元的押金请求将会通过SEASIR Paypal 账号发送到您的邮箱,请支付押金来确认您的预约.我们一旦收到您 的押金,会在24小时之内通过邮件寄送预约确认表给您.</label>      
+            </p>
+            <p>
+                <input id="check-health" type="checkbox" class="agreements" name="health" value="checked">
+                <label class="check-label" for="check-health">
            当我在这里打勾表示, 我们已经详细了解<a href="./health.htm" target="_blank">Marine House SEASIR 健康自检表</a>的内容. 并且我们没有在健康检查表中答案为 "是(YES)" 的成员. 若有疏漏或隐瞒自己的健康状况, 我及我们的成员愿意为自已的回答承担责任.
-        
+        </label>
             </p>
         </fieldset>
         <!-- }}} agreement -->    

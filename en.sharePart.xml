@@ -612,6 +612,14 @@
         ]]></val>
     </item>
     <item>
+        <key>###deposit dt###</key>
+        <val>Dear guest, A deposit request of JPY5,000 per person will send to your email from SEASIR PayPal account, please make the deposit to confirm your booking. A booking confirmation will send to you via email within 24 hours once deposit payment received.</val>
+    </item>
+    <item>
+        <key>###berry deposit dt###</key>
+        <val>Dear guest, A deposit request of JPY4,000 per person will send to your email from SEASIR PayPal account, please make the deposit to confirm your booking. A booking confirmation will send to you via email within 24 hours once deposit payment received.</val>
+    </item>
+    <item>
         <key>###health dt###</key>
         <val><![CDATA[
             Hereby checking this box, we affirm that after checking <a href="./health.htm" target="_blank">Marine House SEASIR Health Check List</a> none of us have any question in the Health Check List that answers apply YES to any one of us. I and we agree to accept responsibility for omissions regarding our failure to disclose any existing or past health condition.

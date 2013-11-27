@@ -611,6 +611,14 @@
         ]]></val>
     </item>
     <item>
+        <key>###deposit dt###</key>
+        <val>Dear guest, A deposit request of JPY5,000 per person will send to your email from SEASIR PayPal account, please make the deposit to confirm your booking. A booking confirmation will send to you via email within 24 hours once deposit payment received.</val>
+    </item>
+    <item>
+        <key>###berry deposit dt###</key>
+        <val>Dear guest, A deposit request of JPY4,000 per person will send to your email from SEASIR PayPal account, please make the deposit to confirm your booking. A booking confirmation will send to you via email within 24 hours once deposit payment received.</val>
+    </item>
+    <item>
         <key>###health dt###</key>
         <val><![CDATA[<a href="./health.htm" target="_blank">Marine House SEASIR의 건강 체크 목록</a>을 확인했고 건강 체크 목록에 YES에 해당하는 질문이 없습니다. 기존 혹은 과거의 건강상태 공개에서 누락된 항목에 대해서의 책임짐을 동의합니다.
         ]]></val>

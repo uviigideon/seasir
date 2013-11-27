@@ -607,6 +607,14 @@
         ]]></val>
     </item>
     <item>
+        <key>###deposit dt###</key>
+        <val>親愛的顧客, 每人5000日元的押金請求將會通過SEASIR Paypal 帳號發送到您的郵箱,請支付押金來確認您的預約.我們一旦收到您 的押金,會在24小時之內通過郵件寄送預約確認表給您.</val>
+    </item>
+    <item>
+        <key>###berry deposit dt###</key>
+        <val>親愛的顧客, 每人4000日元的押金請求將會通過SEASIR Paypal 帳號發送到您的郵箱,請支付押金來確認您的預約.我們一旦收到您 的押金,會在24小時之內通過郵件寄送預約確認表給您.</val>
+    </item>
+    <item>
         <key>###health dt###</key>
         <val><![CDATA[
             當我在這裡打勾表示, 我們已經詳細了解<a href="./health.htm" target="_blank">Marine House SEASIR 健康自檢表</a>的內容. 並且我們沒有人在健康檢查表中有答案為 "是(YES)" 的成員. 若有疏漏或隱瞞自己的健康狀況, 我及我們的成員願意為自已的回答承擔責任.

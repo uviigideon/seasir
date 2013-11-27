@@ -8,28 +8,66 @@
         <val>收费</val>
     </item>
     <item>
-        <key>###Charges 30###</key>
-        <val>在预约日的前七天内取消预约</val>
+        <key>###Non Refundable###</key>
+        <val><![CDATA[不予退款情況]]></val>
+    </item>
+        <item>
+        <key>###Non Refundable dt###</key>
+        <val><![CDATA[
+<li>在行程日期的前14天取消预约</li>
+<li>基于任何原因客人在行程日没有现身</li>
+<li>客人错过船出发的时间或活动开始的时间</li>
+<li>基于任何原因客人没有在指定的地点和时间到达</li>
+<li>船长或SEASIR Ltd 的教练怀疑该个人或团体的行为危及到其他客人或整体安全措施或客人有受消遣性药物或酒精影响</li>
+<li>任何原有预约的变更导致取消预约，这种情况视为不完全信息</li>
+        ]]></val>
     </item>
     <item>
-        <key>###Charges 50###</key>
-        <val>在预约日的前三天内取消预约</val>
+        <key>###Deposit Refundable###</key>
+        <val><![CDATA[押金退還情況]]></val>
+    </item>
+        <item>
+        <key>###Deposit Refundable dt###</key>
+        <val><![CDATA[
+<li>押金退款只限在SEASIR 那霸分店或Marine Club BERRY 分店</li>
+<li>基于天气和危险的海况考虑,SEASIR Ltd. 取消活动行程</li>
+        ]]></val>
     </item>
     <item>
         <key>###Full Charge###</key>
-        <val>全额</val>
+        <val>全額收費</val>
     </item>
     <item>
-        <key>###Charges 100-1###</key>
-        <val>在预约日的24小时之内取消预约</val>
+        <key>###Full Charge dt###</key>
+        <val><![CDATA[
+<li>预约在行程日前24小时之内取消，全额收费根据行程的总费用计算。</li>
+<li>基于任何原因客人当天没有在指定的地点和时间现身，全额收费根据行程的总费用计算。</li>
+<li>预约时任何医疗或健康状况问题没有告知SEASIR Ltd 导致取消，详情请<a href="./health.htm" target="_blank">参考SEASIR 健康检查表 </a></li>
+        ]]></val>
+    </item> 
+    <item>
+        <key>###Deposit Collection###</key>
+        <val>押金收取</val>
+    </item>    
+    <item>
+        <key>###Deposit Collection dt###</key>
+        <val><![CDATA[
+<li>预约SEASIR 那霸分店任何活动，需要押金JPY5,000每人.</li>
+<li>预约SEASIR 阿嘉岛分店住宿和任何活动， 需要押金JPY5,000 每人</li>
+<li>预约Marine Club BERRY 任何活动，需要押金JPY4,000 每人.</li>
+<li>预约SEASIR 那霸分店的赏鲸行程活动，需要押金JPY2,000 每人</li>
+        ]]></val>
     </item>
     <item>
-        <key>###Charges 100-2###</key>
-        <val>如果客人迟到或因为其他原因赶不上船出航时间</val>
-    </item>
+        <key>###Notice###</key>
+        <val>注意</val>
+    </item>     
     <item>
-        <key>###Charges 100-3###</key>
-        <val>客人未告知且没有现身</val>
+        <key>###Notice dt###</key>
+        <val><![CDATA[
+<li>當預約活動時，如果您有任何特殊要求，請在行程48小時之內填寫或通知我們，如素食主義者、對某種食物過敏等。</li>
+<li>行程當天，只允許預約表上的客人參加活動或乘船。</li>
+        ]]></val>
     </item>
     <item>
         <key>###extra li###</key>
