@@ -1,0 +1,31 @@
+<items>
+    <item>
+        <key>###H2###</key>
+        <val>Whale Watching Booking Form</val>
+    </item>
+    <item>
+        <key>###Trip Session###</key>
+        <val>Trip Session</val>
+    </item>
+    <item>
+        <key>###Trip Session am###</key>
+        <val>Morning Trip 08:15</val>
+    </item>
+    <item>
+        <key>###Trip Session pm###</key>
+        <val>Afternoon Trip 13:15</val>
+    </item>
+
+    <item>
+        <key>###Guest List and Age###</key>
+        <val>Guest List and Age</val>
+    </item>
+    <item>
+        <key>###For own transportation whale dt###</key>
+        <val><![CDATA[Please key in this phone number for car NAVI system <strong>098 869 6329</strong> or this <strong>MAP CODE - 33246627*42</strong><br><span class="hl-red">Note * For own transport please be at our SEASIR NAHA before 08:15 for morning trip or before 13:00 for noon trip. We do provide FREE car parking space.</span>]]></val>
+    </item>
+    <item>
+        <key>###whale deposit dt###</key>
+        <val>Dear guest, A deposit request of JPY2,000 per person will send to your email from SEASIR PayPal account, please make the deposit to confirm your booking. A booking confirmation will send to you via email within 24 hours once deposit payment received.</val>
+    </item>
+</items>

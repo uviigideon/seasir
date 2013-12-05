@@ -1,0 +1,166 @@
+﻿###DocType Html###
+<!-- {{{ head -->    
+<head>
+    <title>###headTitle###</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="###headDesc###">
+    <meta name="keywords" content="###headKeywords###">
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="./css/main.css" media="all">
+    <style>
+        label {display:inline-block}
+        #guest-information label {width:150px}
+        .guest-name {width:180px}
+        #transfer-detail label {width:250px}
+        .priceT {
+            margin:10px 0;
+            width:360px;
+            line-height:150%;
+        }
+        .priceT th, .priceT td {font-size:12px;padding:5px 8px 4px 8px}
+        input[type="checkbox"] {vertical-align:middle}
+        fieldset {margin-bottom:10px}
+        legend {color:#69f}
+        .check-label{display:inline;}
+    </style>
+</head>
+<!-- }}} head -->    
+<body>
+<div id="container950">
+    <!-- {{{ top-part-simple.htm }}}-->
+
+    <h1>###H2###</h1>
+    <span class="hl-red">###Please fill the form alphabet###</span>
+    <form action="./cgi/postmail.cgi" method="post">
+        <input type="hidden" name="subject" value="Booking For Whale Watching">
+        <!-- {{{ contact -->    
+        <fieldset name="contact">
+            <legend>###Guest Contact###</legend>
+            <label for="email">###E-mail###</label>
+            <input id="email" size="50" type="email" required="required" autocomplete="on" name="Guest E-mail"><br>
+            <span class="hl-red">###Please fill right E-mail that we can contact with you###</span><br>
+            <input id="open-rest" type="button" value="###Continue###">
+        </fieldset>
+        <!-- }}} contact -->   
+        <div id="rest" style="display:none">
+        <!-- {{{ guest-information -->    
+        <fieldset id="guest-information" name="guest-information">
+            <legend>###Guest Information###</legend>
+            <label for="name" required="required" autocomplete="on" >###Name###</label>
+            <input type="text" id="name" name="name">
+            <span class="comment">###Name Comment###</span><br>
+            <label for="nationality">###Nationality###</label>
+            <input type="text" id="nationality" name="nationality"><br>
+            <label for="mobile">###Mobile###</label>
+            <input type="text" id="mobile" name="mobile" value="(+)"><br>
+            <label>###Date of Trip###</label>
+            <input type="text" class="date-of-trip" name="Date of Trip-1"><br>
+            <label>###Trip Session###</label>
+            <input type="radio" id="session-am" name="Trip Session" value="am" checked="checked">
+            <label for="session-am" style="width:160px;">###Trip Session am###</label>
+            <input type="radio" id="session-pm" name="Trip Session" value="pm">
+            <label for="session-pm" style="width:170px">###Trip Session pm###</label><br>
+        </fieldset>
+        <!-- }}} guest-information -->    
+        <!-- {{{ guest list and age -->    
+        <fieldset id="activity" name="activity">
+            <legend>###Guest List and Age###</legend>
+            <table class="priceT">
+                <tr>
+                    <th>###Fill in Name###</th>
+                    <th>###Age###</th>
+                </tr>
+                <tr id="addNewType1">
+                    
+                    <td colspan="6"><input type="button" value="###Add A Line###"></td>
+                </tr>
+            </table>
+        </fieldset>
+        <!-- }}} guest list and age -->    
+        <!-- {{{ Transportation -->    
+        <fieldset name="transportation">
+            <legend>###Transportation###</legend>
+            <label>###Do you need Hotel Transfer###</label>
+            <label>###Yes###</label>
+            <input type="radio" name="need-transfer" value="yes" checked>/
+            <label>###No###</label>
+            <input type="radio" name="need-transfer" value="no">
+            <br><span class="hl-red">###Transportation Msg###</span>
+            <div id="transfer-detail">
+                <label>###Hotel Name###</label>
+                <input type="text" name="hotel-name"><br>
+                <label>###Hotel Telephone no###</label>
+                <input type="text" name="hotel-tel"><br>
+                <label>###Name use to Check in Hotel###</label>
+                <input type="text" name="name-hotel-checkin"><br>
+                <label>###Hotel Pick-Up time###</label>
+                <span>###Hotel pick up time message###</span><br>
+            </div>
+            <h3>###For own transportation###</h3><p>###For own transportation whale dt###</p>
+        </fieldset>
+        <!-- }}} Transportation -->    
+        <!-- {{{ comment -->    
+        <fieldset name="comment">
+            <legend>###Comment###</legend>
+            <textarea name="comment" rows="6" cols="110"></textarea>
+        </fieldset>
+        <!-- }}} contact -->   
+        <!-- {{{ agreement -->    
+        <fieldset name="agreements">
+            <legend>###CANCELLATION POLICY and HEALTH CHECK LIST###</legend>
+            <p>
+                <input id="check-cancel" type="checkbox" class="agreements" name="cancellation" value="checked">
+                <label class="check-label" for="check-cancel">###cancellation dt###</label>
+            </p>
+            <p>
+                <input id="check-deposit" type="checkbox" class="agreements" name="deposit" value="checked">
+                <label class="check-label" for="check-deposit">###whale deposit dt###</label>      
+            </p>
+            <p>
+                <input id="check-health" type="checkbox" class="agreements" name="health" value="checked">
+                <label class="check-label" for="check-health">###health dt###</label>
+            </p>
+        </fieldset>
+        <!-- }}} agreement -->    
+        </div>
+        <input style="width:100px;" type="submit" disabled=true>
+    </form>
+    <!-- {{{ copyright.htm }}}-->
+</div> <!-- end of container950 -->
+<!-- {{{ base-js.htm }}}-->
+<script src="http://code.jquery.com/ui/1.9.1/jquery-ui.js"></script>
+<script src="./js/bookform.js"></script>
+<script>
+$(function() {
+    //$("#rest").show();
+    var GUEST = window.GUEST;
+    GUEST.height="###Height###";
+    GUEST.weight="###Weight###";
+    GUEST.foot="###Foot size###";
+    GUEST.trans1='###For own transportation berry###';
+    GUEST.trans2='###For own transportation berry dt###';
+    GUEST.genType1TR = function(){
+            /* {{{ */
+            // var num = (this._count)++;
+            var num = "NUM";
+            var strArr = [];
+            strArr[strArr.length] = '<tr><td><input type="hidden" name="guest-NUM" value="--------------------------------------------------"><select size="1" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-gender"><option value="Male">MR.</option><option value="Female">MS.</option></select><input type="text" class="guest-name" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-name"></td><td><input size="1" class="width-1" type="text" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-age"></td></tr>';
+            return strArr.join('');
+            /* }}} */
+    };
+    GUEST.genType2TR = function(){
+        /* {{{ */
+        return '<tr><td><input type="hidden" name="guest-NUM" value="--------------------------------------------------"><select size="1" name="guest-NUM-gender"><option value="Male">MR.</option><option value="Female">MS.</option></select><input type="text" class="guest-name" name="guest-NUM-name"></td><td><select size=1 name="guest-NUM-activity" style="width:80px"><option value="FDV 08:30 2 dives rent EQUIP">08:30 / 2 ###dives with rental equipment###</option><option value="FDV 08:30 3 dives rent EQUIP">08:30 / 3 ###dives with rental equipment###</option><option value="FDV 13:00 3 dives rent EQUIP">13:00 / 2 ###dives with rental equipment###</option><option value="FDV 08:30 2 dives own EQUIP">08:30 / 2 ###dives with own equipment###</option><option value="FDV 08:30 3 dives own EQUIP">08:30 / 3 ###dives with own equipment###</option><option value="FDV 13:00 3 dives own EQUIP">13:00 / 2 ###dives with own equipment###</option></select></td><td><select size=1 name="guest-NUM-cert" style="width:45px"><option value="SD">SD - Scuba Diver</option><option value="OWD">OWD - Open Water Scuba Diver</option><option value="AOW">AOW - Advance Diver</option><option value="RD">RD - Rescue Diver</option><option value="DM">DM - Dive Master</option><option value="Instr">Instr. - Instructor</option></select></td><td><input type="text" size="1" class="width-1" name="guest-NUM-last-dive-month" value="MM">/<input type="text" class="width-2" size="2" name="guest-NUM-last-dive-year" value="YYYY"></td><td><input type="text" size="1" class="width-1" name="guest-NUM-total-dives"></td><td><label>###Height###</label><input size="1" class="width-1" type="text" name="guest-NUM-height">cm</td><td><label>###Weight###</label><input size="1" class="width-1" type="text" name="guest-NUM-weight">kg</td><td><label>###Foot size###</label><input size="1" class="width-1" type="text" name="guest-NUM-foot-size">cm</td></tr>';
+        /* }}} */
+    };
+    GUEST.init();
+});
+</script>
+</body>
+</html>
