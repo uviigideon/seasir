@@ -1,0 +1,32 @@
+<items>
+    <item>
+        <key>###H2###</key>
+        <val>赏鲸之旅预约表</val>
+    </item>
+    <item>
+        <key>###Trip Session###</key>
+        <val>赏鲸之旅行程</val>
+    </item>
+    <item>
+        <key>###Trip Session am###</key>
+        <val>上午出发 08:15</val>
+    </item>
+    <item>
+        <key>###Trip Session pm###</key>
+        <val>下午出发 13:15</val>
+    </item>
+
+    <item>
+        <key>###Guest List and Age###</key>
+        <val>顾客名字和年龄</val>
+    </item>
+    <item>
+        <key>###For own transportation whale dt###</key>
+        <val><![CDATA[请在您的汽车导航系统中输入我们的电话: <strong>098 869 6329</strong> 或是输入 <strong>MAP CODE - 33246627*42</strong>来找到我们<br><span class="hl-red">注意* 如果您上午出海, 请在早上 08:00前到达我们 SEASIR那霸店; 如果您下午出海, 请在 13:00前到达我们 SEASIR那霸店. 我们会为您提供免费的停车场.</span>]]></val>
+    </item>
+    <item>
+        <key>###whale deposit dt###</key>
+        <val>亲爱的顾客, 每人2000日元的押金请求将会通过SEASIR Paypal 帐号发送到您的邮箱,请支付押金来确认您的预约.我们一旦收到您 的押金,会在24小时之内通过邮件寄送预约确认表给您.</val>
+    </item>
+</items>
+
