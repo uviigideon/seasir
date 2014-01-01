@@ -9,28 +9,28 @@
     </item>
     <item>
         <key>###Non Refundable###</key>
-        <val><![CDATA[Non Refundable<br>Deposit Condition]]></val>
+        <val><![CDATA[보증금 환불 불가]]></val>
     </item>
         <item>
         <key>###Non Refundable dt###</key>
         <val><![CDATA[
-<li>If cancellation make less than 14 days from trip date.</li>
-<li>If guest NO SHOW on the trip day cause of any reason.</li>
-<li>If guest miss boat departure or activity booking time slot.</li>
-<li>If guest unable to turn up at designated meeting location and time for any reason.</li>
-<li>If the Captain of the boat or Instructor of SEASIR Ltd suspects this individual or group behavior could jeopardize other guest or overall safety measure or the guest under Recreation Drug or Alcohol influence.</li>
-<li>Any changes from the original booking cause of the cancellation. This is considering INSUFFICIENT INFORMATION.</li>        
+<li>취소일로부터 투어일까지의 남은 일수가 14일에 미치지 못할 경우.</li>
+<li>경우에 관계없이 고객님이 투어당일 출석하시지 않을 경우.</li>
+<li>고객님이 보트에 승선하시지 못한 경우, 또는 해당 활동 예약 시간에 참석하시지 않을 경우.</li>
+<li>어떠한 이유에서라도 고객님이 예정된 집합 장소 및 시간에 출석하시지 않을 경우.</li>
+<li>선장 혹은 SEASIR Ltd측의 강사가, 특정 개인 및 단체의 행동이 타 고객이나 전반적인 안전사항을 위협할 수 있다고 판단한 경우, 또한 술이나 약물을섭취했다고 판단한 경우.</li>
+<li>취소에 따라 원래 예약에서 변경된 사항. 이 경우는 정보 불충분으로 처리됩니다.</li>
         ]]></val>
     </item>
     <item>
         <key>###Deposit Refundable###</key>
-        <val><![CDATA[Deposit Refundable<br>Condition]]></val>
+        <val><![CDATA[보증금 환불 가 ]]></val>
     </item>
         <item>
         <key>###Deposit Refundable dt###</key>
         <val><![CDATA[
-<li>Deposit refund collection only at SEASIR NAHA BRANCH office or Marine Club BERRY Branch office only.</li>
-<li>Trip cancellation by SEASIR Ltd. management due to weather or dangerous sea condition.</li>
+<li>보증금 환불은 SEASIR 나하 지점 사무실, 혹은 Marine Club BERRY 지점 사무실에서만 취급합니다.</li>
+<li>SEASIR Ltd 측이 날씨나 위험한 해상조건에 의해 투어를 취소할 경우. </li>
         ]]></val>
     </item>
     <item>
@@ -40,33 +40,33 @@
     <item>
         <key>###Full Charge dt###</key>
         <val><![CDATA[
-<li>Full charge imposed on total cost of the trip if cancellation made less than 24 hour notice from trip date. </li>
-<li>Full charge imposed on total cost of the trip if guest unable to turn up at designated meeting location and time for any reason.</li>
-<li>Any medical or health conditions are not informed to SEASIR Ltd when booking was made. Please refer to <a href="./health.htm" target="_blank">Marine House SEASIR Health Check List</a> for detail.</li>
+<li>취소일로부터 투어일까지의 남은 시간이 24시간 미만일 경우에는 총 투어경비 전액을 부담하시게 됩니다. </li>
+<li>어떠한 이유에서라도 고객님이 예정된 집합 장소 및 시간에 출석하시지 않을 경우에는 총 투어경비 전액을 부담하시게 됩니다.</li>
+<li>예약 시점에 있어서 고객님의 병력 혹은 건강상태가 <a href="./health.htm" target="_blank">SEASIR Ltd 측에 보고 되지 않았을 경우. 자세한 사항은, SEASIR 건강체크 리스트</a>를 참조해 주십시오.</li>
         ]]></val>
     </item> 
     <item>
         <key>###Deposit Collection###</key>
-        <val>Deposit Collection</val>
+        <val>보증금  예치</val>
     </item>    
     <item>
         <key>###Deposit Collection dt###</key>
         <val><![CDATA[
-<li>SEASIR NAHA Branch any activity JPY5,000 per person.</li>
-<li>SEASIR AKA Branch accomodation and any activity JPY5,000 per person.</li>
-<li>Marine Club BERRY any activity JPY4,000 per person.</li>
-<li>Whale Watching Excursion Trip by SEASIR NAHA Branch JPY2,000 per person.</li>
+<li>SEASIR 나하 지국의 경우, 모든 활동에 대하여 1인당 5,000엔.</li>
+<li>SEASIR 아카 지국의 경우, 숙박 및 모든 활동에 대하여 1인당 5,000엔.</li>
+<li>Marine Club BERRY의 경우, 모든 활동에 대하여 1인당 4,000엔.</li>
+<li>SEASIR 나하 지국의 고래관람 투어의 경우, 1인당 2,000엔.</li>
         ]]></val>
     </item>
     <item>
         <key>###Notice###</key>
-        <val>Notice</val>
+        <val>주의사항</val>
     </item>     
     <item>
         <key>###Notice dt###</key>
         <val><![CDATA[
-<li>Please do fill in or inform our office at least 48 hours before the trip ,if there is any special request such as Vegetarian or any allegy of certain food when making a activity booking.</li>
-<li>Only guest are register in the booking form are allow to participate or in the boat on the day.</li>
+<li>예약 시 채식주의 혹은 음식 알러지 등 특별한 요구사항이 있으실 경우에는 신청서에 기입하시든지, 혹은 적어도 투어 개시 48시간 전에 저희 사무실에 통보해주십시오.</li>
+<li>당일에는 예약 신청서에 기록된 고객님만 보트 승선 혹은 해당 활동에 참여하실 수 있습니다.</li>
         ]]></val>
     </item>    
     <item>
