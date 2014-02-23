@@ -1,4 +1,4 @@
-<items>
+﻿<items>
     <item>
         <key>###H2###</key>
         <val>Whale Watching Booking Form</val>
@@ -26,6 +26,6 @@
     </item>
     <item>
         <key>###whale deposit dt###</key>
-        <val>Dear guest, A deposit request of JPY2,000 per person will send to your email from SEASIR PayPal account, please make the deposit to confirm your booking. A booking confirmation will send to you via email within 24 hours once deposit payment received.</val>
+        <val>고객님께,1인당 2,000엔에 해당하는 보증금 요청서를 SEASIR PayPal 계정으로부터 고객님의 이메일로보내드리오니, 보증금을 예치하셔서 예약을 완료해 주십시오. 예약완료 확인은 보증금예치가 확인된후 24시간 이내에 고객님의 이메일로 알려드립니다.</val>
     </item>
 </items>
