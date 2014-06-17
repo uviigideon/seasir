@@ -1,0 +1,103 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI provide English, Mandarin and Cantonese speaking marine staff</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Water,Sports,Dive,Diving,Snorkeling,English,Foreign,Cantonese,Chinese,Mandarin</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###theTeam###</key>
+        <val>Half Day Snorkeling and Introductory Diving to CHIBISI (Kerama Islands)</val>
+    </item>
+    <item>
+        <key>###theTeamIntro###</key>
+        <val><![CDATA[Kerama National Marine Park is well known of amazing crystal blue sea surrounding by colorful coral and coral fish. This is where a must go destination for a half-day escape that you should never miss when you are in Okinawa. <br>
+A special design for a half day marine activity for anyone, this destination comes with snorkeling and diving package. Departure from Naha City nearby Marine House SEASIR NAHA office. For detail and information please refer to below table.
+]]></val>
+    </item>
+    <item>
+        <key>###Schedule###</key>
+        <val>Schedule</val>
+    </item>
+    <item>
+        <key>###AM TRIP###</key>
+        <val>AM TRIP</val>
+    </item>
+    <item>
+        <key>###PM TRIP###</key>
+        <val>PM TRIP</val>
+    </item>
+    <item>
+        <key>###Hotel Transfer###</key>
+        <val>Hotel Transfer</val>
+    </item>
+    <item>
+        <key>###Registration and Equipment Preparation###</key>
+        <val>Registration and Equipment Preparation</val>
+    </item>
+    <item>
+        <key>###Depart to Kerama###</key>
+        <val>Depart to Kerama</val>
+    </item>
+    <item>
+        <key>###Snorkeling and Introductory Diving Activity###</key>
+        <val>Snorkeling and Introductory Diving Activity</val>
+    </item>
+    <item>
+        <key>###Depart back to Naha###</key>
+        <val>Depart back to Naha</val>
+    </item>
+    <item>
+        <key>###Hotel Transfer Back###</key>
+        <val>Hotel Transfer Back</val>
+    </item>
+    <item>
+        <key>###Package Price and Detail###</key>
+        <val>Package Price and Detail</val>
+    </item>
+    <item>
+        <key>###Package###</key>
+        <val>Package</val>
+    </item>
+    <item>
+        <key>###Snorkeling equipment###</key>
+        <val>Snorkeling equipment, drinking water, Insurance, Towel and Hotel Transfer(Naha City only)</val>
+    </item>
+    <item>
+        <key>###Same as Snorkeling Package###</key>
+        <val>Same as Snorkeling Package + 1 scuba dive (20 minutes)</val>
+    </item>
+    <item>
+       <key>###Booking procedure###</key>
+       <val>Booking procedure</val>
+    </item>
+    <item>
+        <key>###Booking procedure dt###</key>
+        <val><![CDATA[Click on <b>BOOKING NOW</b>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY3,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.]]></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val><![CDATA[]]></val>
+    </item>
+</items>
+
