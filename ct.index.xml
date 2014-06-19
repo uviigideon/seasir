@@ -1,4 +1,24 @@
 <items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Diving English Marine House Seasir</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>English Speaker Diving Marine Sports in Okinawa</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Diving,Dive,Snorkeling,Scuba,Marine,Sports,English,Foreign,Naha,衝繩,衝繩,潛水,中文,廣東話,中國,香港,水上活動,外國人,浮潛,體驗潛水,那霸，慶良間諸島</val>
+    </item>
+    <!-- }}} header -->
+
+    <item>
+        <key>###CHIBISI###</key>
+        <val>半天浮潛和體驗潛水</val>
+    </item>
+
     <!-- {{{ briefs -->
     <item>
         <key>###briefNahaText###</key>
@@ -13,8 +33,8 @@
         <val>阿嘉島住宿及在慶良間諸島的潛水, 浮潛和體驗潛水的各樣活動行程</val>
     </item>
     <item>
-        <key>###brief la mer text###</key>
-        <val>享受私人豪華遊艇, 或和最多 25人一同享受晚餐巡航, 滿足您的毎個願望</val>
+        <key>###brief chibisi text###</key>
+        <val>提供半天往返美麗的慶伊瀨島(慶良間諸島)體驗潛水和浮潛行程</val>
     </item>
     <item>
         <key>###brief whale text###</key>

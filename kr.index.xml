@@ -14,6 +14,10 @@
     </item>
     <!-- }}} header -->
 
+    <item>
+        <key>###CHIBISI###</key>
+        <val>Half Day Diving</val>
+    </item>
     <!-- {{{ briefs -->
     <item>
         <key>###briefNahaText###</key>
@@ -30,6 +34,10 @@
     <item>
         <key>###brief la mer text###</key>
         <val>개인 전세 크루즈 또는 최대 25명까지 식사가 가능한 디너크루즈</val>
+    </item>
+    <item>
+        <key>###brief chibisi text###</key>
+        <val>Kerama Chibishi island an excellent half day snorkeling and diving trip in Okinawa</val>
     </item>
     <item>
         <key>###brief whale text###</key>

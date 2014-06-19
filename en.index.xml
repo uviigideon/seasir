@@ -14,6 +14,11 @@
     </item>
     <!-- }}} header -->
 
+    <item>
+        <key>###CHIBISI###</key>
+        <val>Half Day Diving</val>
+    </item>
+
     <!-- {{{ briefs -->
     <item>
         <key>###briefNahaText###</key>
@@ -28,8 +33,8 @@
         <val>Pension facility with scuba diving and others activities in KERAMA ISLANDS</val>
     </item>
     <item>
-        <key>###brief la mer text###</key>
-        <val>A private charter or dinner cruise up to 25 people that cater to your every desire</val>
+        <key>###brief chibisi text###</key>
+        <val>Kerama Chibishi island an excellent half day snorkeling and diving trip in Okinawa</val>
     </item>
     <item>
         <key>###brief whale text###</key>

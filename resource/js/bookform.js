@@ -121,26 +121,25 @@
             var addNewType1 = $("#addNewType1");
             var addNewType2 = $("#addNewType2");
             var strArr = [];
-            for (var i = 0; i < this._numInit; ++i) {
-                strArr[strArr.length] = this.genType1TR();
+            if (0 !== addNewType1.length) {
+                for (var i = 0; i < this._numInit; ++i) {
+                    strArr[strArr.length] = this.genType1TR();
+                }
+                addNewType1.before(strArr.join(''));
+                addNewType1.click(function (){
+                    $(this).before(GUEST.genType1TR());});
+                strArr = [];
             }
-            addNewType1.before(strArr.join(''));
-            strArr = [];
-            for (var i = 0; i < this._numInit; ++i) {
-                strArr[strArr.length] = this.genType2TR();
+
+            if (0 !== addNewType2.length) {
+                for (var i = 0; i < this._numInit; ++i) {
+                    strArr[strArr.length] = this.genType2TR();
+                }
+                addNewType2.before(strArr.join(''));
+                addNewType2.click(function (){
+                    $(this).before(GUEST.genType2TR());});
             }
-            addNewType2.before(strArr.join(''));
-            addNewType1.click(function (){
-                $(this).before(GUEST.genType1TR());});
-            addNewType2.click(function (){
-                $(this).before(GUEST.genType2TR());});
-            /*
-            this._transfer_form["yes"] = this._$transfer_detail.html();
-            this._transfer_form["no"] = '<h3>'+GUEST.trans1+'</h3><p>'+GUEST.trans2+'</p>';
-            $("input[name='need-transfer']").click(function(){
-                GUEST._$transfer_detail.html(GUEST._transfer_form[$(this).attr("value")]);
-            });
-            */
+
             $(".agreements").click(function(event){
                 GUEST.checkAgreements();
             });
