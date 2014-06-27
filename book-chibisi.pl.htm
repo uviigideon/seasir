@@ -31,7 +31,7 @@
     <h1>###H2###</h1>
     <span class="hl-red">###Please fill the form alphabet###</span>
     <form action="./cgi/postmail.cgi" method="post">
-        <input type="hidden" name="subject" value="Booking For NAHA">
+        <input type="hidden" name="subject" value="Booking For CHIBISI">
         <!-- {{{ contact -->    
         <fieldset name="contact">
             <legend>###Guest Contact###</legend>
@@ -53,8 +53,12 @@
             <label for="mobile">###Mobile###</label>
             <input type="text" id="mobile" name="mobile" value="(+)"><br>
             <label >###Date of Trip###</label>
-            <input type="text" class="date-of-trip" name="Date of Trip-1">
-            <input id="add-another-day" type="button" value="###Add Another Day###">
+            <input type="text" class="date-of-trip" name="Date of Trip-1"><br>
+            <label>###Trip Session###</label>
+            <input type="radio" id="session-am" name="Trip Session" value="am" checked="checked">
+            <label for="session-am" style="width:160px;">###Trip Session am###</label>
+            <input type="radio" id="session-pm" name="Trip Session" value="pm">
+            <label for="session-pm" style="width:170px">###Trip Session pm###</label><br>
         </fieldset>
         <!-- }}} guest-information -->    
         <!-- {{{ intro and snorkeling -->    

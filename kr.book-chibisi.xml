@@ -4,6 +4,18 @@
         <val>Marine House SEASIR CHIBISI Booking Form</val>
     </item>
     <item>
+        <key>###Trip Session###</key>
+        <val>Trip Session</val>
+    </item>
+    <item>
+        <key>###Trip Session am###</key>
+        <val>Morning Trip 08:00</val>
+    </item>
+    <item>
+        <key>###Trip Session pm###</key>
+        <val>Afternoon Trip 13:00</val>
+    </item>
+    <item>
         <key>###For own transportation dt###</key>
         <val><![CDATA[Please key in this phone number for car NAVI system <strong>098 869 6329</strong> or this <strong>MAP CODE - 33246627*42</strong><br><span class="hl-red">Note * For own transport please be at our SEASIR NAHA before 08:00 for AM trip or 13:00 for PM trip. We do provide FREE car parking space.</span>]]></val>
     </item>

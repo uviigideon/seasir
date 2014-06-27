@@ -4,6 +4,18 @@
         <val>Marine House SEASIR CHIBISI 報名表</val>
     </item>
     <item>
+        <key>###Trip Session###</key>
+        <val>參與行程</val>
+    </item>
+    <item>
+        <key>###Trip Session am###</key>
+        <val>上午出發 08:00</val>
+    </item>
+    <item>
+        <key>###Trip Session pm###</key>
+        <val>下午出發 13:00</val>
+    </item>
+    <item>
         <key>###For own transportation dt###</key>
         <val><![CDATA[請在您的汽車導航系統中輸入我們的電話: <strong>098 869 6329</strong> 或是輸入 <strong>MAP CODE - 33246627*42</strong>來找到我們<br><span class="hl-red">注意* 如果您上午出海, 請在早上 08:00前到達我們 SEASIR那霸店; 如果您下午出海, 請在 13:00前到達我們 SEASIR那霸店. 我們會為您提供免費的停車場.</span>]]></val>
     </item>
