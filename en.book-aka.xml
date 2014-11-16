@@ -1,0 +1,91 @@
+<items>
+    <item>
+        <key>###H2###</key>
+        <val>SEASIR AKA Island Booking Form</val>
+    </item>
+    <item>
+        <key>###For equipement arrangement###</key>
+        <val>For equipement arrangement</val>
+    </item>
+    <item>
+        <key>###Marine Activity Booking###</key>
+        <val>Marine Activity Booking</val>
+    </item>
+    <item>
+        <key>###Check in date###</key>
+        <val>Check in date</val>
+    </item>
+    <item>
+        <key>###Check out date###</key>
+        <val>Check out date</val>
+    </item>
+    <item>
+        <key>###Ferry arrival date###</key>
+        <val>Ferry arrival date</val>
+    </item>
+    <item>
+        <key>###Ferry departure date###</key>
+        <val>Ferry departure date</val>
+    </item>
+    <item>
+        <key>###time###</key>
+        <val>time</val>
+    </item>
+    <item>
+        <key>###Type of room###</key>
+        <val>Type of room</val>
+    </item>
+    <item>
+        <key>###1F Tatami Room###</key>
+        <val>1F Tatami Room(sharing bathroom &amp; Toilet)</val>
+    </item>
+    <item>
+        <key>###2F Tatami Room###</key>
+        <val>2F Tatami Room</val>
+    </item>
+    <item>
+        <key>###2F Western Bed Room###</key>
+        <val>2F Western Bed Room</val>
+    </item>
+    <item>
+        <key>###3F Tatami Room###</key>
+        <val>3F Tatami Room</val>
+    </item>
+    <item>
+        <key>###3F Western Bed Room###</key>
+        <val>3F Western Bed Room</val>
+    </item>
+    <item>
+        <key>###Number of person stay###</key>
+        <val>Number of person stay</val>
+    </item>
+    <item>
+        <key>###Booking note###</key>
+        <val><![CDATA[<b>Dear Guest,</b><br> 
+                Each booking form is for 1 room purpose, please fill in detail of the guest which are in the same room only and the activity date, we need all this information for arrangement before your arrival. <span class="hl-red">Use a different form if you need to book more than a room</span>.]]></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+</items>

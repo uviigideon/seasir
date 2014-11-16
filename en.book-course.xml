@@ -1,0 +1,78 @@
+<items>
+    <item>
+        <key>###H2###</key>
+        <val>PADI Scuba Diving Course Booking Form</val>
+    </item>
+    <item>
+        <key>###deposit dt###</key>
+        <val>You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY3,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than 3 days notice from the departure date. All booking request will cancel if no deposit receive.</val>
+    </item>
+    <item>
+        <key>###Open water Diver###</key>
+        <val>Open water Diver</val>
+    </item>
+    <item>
+        <key>###Advanced Diver###</key>
+        <val>Advanced Diver</val>
+    </item>
+    <item>
+        <key>###Rescue Diver###</key>
+        <val>Rescue Diver</val>
+    </item>
+    <item>
+        <key>###Diving Courses###</key>
+        <val>Diving Courses</val>
+    </item>
+    <item>
+        <key>###Diver Information###</key>
+        <val>Diver Information</val>
+    </item>
+    <item>
+        <key>###diving manual lang###</key>
+        <val>Which language diving manual/books do you prefer</val>
+    </item>
+    <item>
+        <key>###training lang###</key>
+        <val>Which language do you prefer to conduct in your training</val>
+    </item>
+    <item>
+        <key>###Choose your language###</key>
+        <val>Choose your language</val>
+    </item>
+    <item>
+        <key>###English###</key>
+        <val>English</val>
+    </item>
+    <item>
+        <key>###Chinese###</key>
+        <val>Chinese</val>
+    </item>
+    <item>
+        <key>###Japanese###</key>
+        <val>Japanese</val>
+    </item>
+    <item>
+        <key>###I would like bulabula###</key>
+        <val>I would like my diving courses start on : </val>
+    </item>
+    <item>
+        <key>###Date of Course###</key>
+        <val>Date of Course</val>
+    </item>
+    <item>
+        <key>###Date of Course note###</key>
+        <val>After scuba diving, current PADI Flying After Diving guidelines say that you should not go to altitude (fly) within 12 hours of completing a single dive or 18 hours when doing multiple dives (where possible wait 24 hours)</val>
+    </item>
+    <item>
+        <key>###Check in Date###</key>
+        <val>Check in Date</val>
+    </item>
+    <item>
+        <key>###Check out Date###</key>
+        <val>Check out Date</val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+</items>

@@ -1,0 +1,218 @@
+﻿###DocType Html###
+<!-- {{{ head -->    
+<head>
+    <title>###headTitle###</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="###headDesc###">
+    <meta name="keywords" content="###headKeywords###">
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="./css/main.css" media="all">
+    <style>
+        label {display:inline-block}
+        #guest-information label {width:150px}
+        #transfer-detail label {width:250px}
+        .priceT {
+            margin:10px 0;
+            width:910px;
+            line-height:150%;
+        }
+        .priceT th, .priceT td {font-size:12px;padding:5px 8px 4px 8px}
+        input[type="checkbox"] {vertical-align:middle}
+        fieldset {margin-bottom:10px}
+        legend {color:#69f}
+        .check-label{display:inline;}
+    </style>
+</head>
+<!-- }}} head -->    
+<body>
+<div id="container950">
+    <!-- {{{ top-part-simple.htm }}}-->
+
+    <h1>###H2###</h1>
+    <span class="hl-red">###Please fill the form alphabet###</span>
+    <form action="./cgi/postmail.cgi" method="post">
+        <input type="hidden" name="subject" value="Booking For BERRY PaintBall">
+        <!-- {{{ contact -->    
+        <fieldset name="contact">
+            <legend>###Guest Contact###</legend>
+            <label for="email">###E-mail###</label>
+            <input id="email" size="50" type="email" required="required" autocomplete="on" name="Guest E-mail"><br>
+            <span class="hl-red">###Please fill right E-mail that we can contact with you###</span><br>
+            <input id="open-rest" type="button" value="###Continue###">
+        </fieldset>
+        <!-- }}} contact -->   
+        <div id="rest" style="display:none">
+        <!-- {{{ guest-information -->    
+        <fieldset id="guest-information" name="guest-information">
+            <legend>###Guest Information###</legend>
+            <label for="name" required="required" autocomplete="on" >###Name###</label>
+            <input type="text" id="name" name="name">
+            <span class="comment">###Name Comment###</span><br>
+            <label for="nationality">###Nationality###</label>
+            <input type="text" id="nationality" name="nationality"><br>
+            <label for="mobile">###Mobile###</label>
+            <input type="text" id="mobile" name="mobile" value="(+)"><br>
+            <label >###Date of Activity###</label>
+            <input type="text" class="date-of-trip" name="Date of Trip-1">
+            <!-- input id="add-another-day" type="button" value="###Add Another Day###" -->
+        </fieldset>
+        <!-- }}} guest-information -->    
+        <!-- {{{ activies -->    
+        <fieldset id="basic" name="basic">
+            <legend>###Basic ans Advance Plan###</legend>
+            <table class="priceT">
+                <tr>
+                    <th>###Fill in Name###</th>
+                    <th>###Age###</th>
+                    <th colspan="3">###For equipement arrangement###</th>
+                </tr>
+                <tr id="addNewType1">
+                    <td colspan="6"><input type="button" value="###Add A Line###"></td>
+                </tr>
+            </table>
+        </fieldset>
+        <!-- }}} activies -->    
+        <!-- {{{ Group Booking -->    
+        <fieldset id="group" name="group">
+            <legend>###Group Booking###</legend>
+            <table class="priceT">
+                <tr>
+                    <th>###Fill in Name###</th>
+                    <th>###Age###</th>
+                    <th colspan="3">###For equipement arrangement###</th>
+                </tr>
+                <tr id="addNewType2">
+                    <td colspan="6"><input type="button" value="###Add A Line###"></td>
+                </tr>
+            </table>
+        </fieldset>
+        <!-- }}} Group Booking-->    
+        <!-- {{{ Transportation -->    
+        <fieldset name="transportation">
+            <legend>###Transportation###</legend>
+            <label>###Do you need Hotel Transfer Onna###</label>
+            <label>###Yes###</label>
+            <input type="radio" name="need-transfer" value="yes" checked>/
+            <label>###No###</label>
+            <input type="radio" name="need-transfer" value="no">
+            <br><span class="hl-red">###Transportation Msg###</span>
+            <div id="transfer-detail">
+                <label>###Hotel Name###</label>
+                <input type="text" name="hotel-name"><br>
+                <label>###Hotel Telephone no###</label>
+                <input type="text" name="hotel-tel"><br>
+                <label>###Name use to Check in Hotel###</label>
+                <input type="text" name="name-hotel-checkin"><br>
+                <label>###Hotel Pick-Up time###</label>
+                <span>###Hotel pick up time message###</span><br>
+            </div>
+            <h3>###For own transportation paintball###</h3><p>###For own transportation paintball dt###</p>
+        </fieldset>
+        <!-- }}} Transportation -->    
+        <!-- {{{ comment -->    
+        <fieldset name="comment">
+            <legend>###Comment###</legend>
+            <textarea name="comment" rows="6" cols="110"></textarea>
+        </fieldset>
+        <!-- }}} contact -->   
+        <!-- {{{ agreement -->    
+        <fieldset name="agreements">
+            <legend>###CANCELLATION POLICY and HEALTH CHECK LIST###</legend>
+            <p>
+                <input id="check-cancel" type="checkbox" class="agreements" name="cancellation" value="checked">
+                <label class="check-label" for="check-cancel">###cancellation dt###</label>
+            </p>
+            <p>
+                <input id="check-deposit" type="checkbox" class="agreements" name="deposit" value="checked">
+                <label class="check-label" for="check-deposit">###berry deposit dt###</label>      
+            </p>
+            <p>
+                <input id="check-health" type="checkbox" class="agreements" name="health" value="checked">
+                <label class="check-label" for="check-health">###health dt###</label>
+            </p>
+        </fieldset>
+        <!-- }}} agreement -->    
+        </div>
+        <input style="width:100px;" type="submit" disabled=true>
+    </form>
+    <!-- {{{ copyright.htm }}}-->
+</div> <!-- end of container950 -->
+<!-- {{{ base-js.htm }}}-->
+<!-- {{{ book-js.htm }}}-->
+<script>
+$(function() {
+    var GUEST = window.GUEST;
+    GUEST.height="###Height###";
+    GUEST.weight="###Weight###";
+    GUEST.foot="###Foot size###";
+    //GUEST.trans1='###For own transportation berry###';
+    //GUEST.trans2='###For own transportation berry dt###';
+    GUEST.genType1TR = function(){
+            /* {{{ */
+            var num = "NUM";
+            var strArr = [];
+            strArr[strArr.length] = '<tr><td><input type="hidden" name="guest-NUM" value="--------------------------------------------------"><input type="text" class="guest-name" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-name"></td><td><input size="1" class="width-1" type="text" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-age"><input type="hidden" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-Activity" value="guest-NUM-basic-and-advance-plan"></td><td><label>';
+            strArr[strArr.length] = this.height;
+            strArr[strArr.length] = '</label><input class="width-1" size="1" type="text" id="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-height" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-height">cm</td><td><label>';
+            strArr[strArr.length] = this.weight;
+            strArr[strArr.length] = '</label><input class="width-1" size="1" type="text" id="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-weight" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-weight">kg</td><td><label>';
+            strArr[strArr.length] = this.foot;
+            strArr[strArr.length] = '</label><input size="1" class="width-1" type="text" id="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-foot-size" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-foot-size">cm</td></tr>';
+            return strArr.join('');
+            /* }}} */
+    };
+    GUEST.genType2TR = function(){
+            /* {{{ */
+            var num = "NUM";
+            var strArr = [];
+            strArr[strArr.length] = '<tr><td><input type="hidden" name="guest-NUM" value="--------------------------------------------------"><input type="text" class="guest-name" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-name"></td><td><input size="1" class="width-1" type="text" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-age"><input type="hidden" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-Activity" value="guest-NUM-group-booking"></td><td><label>';
+            strArr[strArr.length] = this.height;
+            strArr[strArr.length] = '</label><input class="width-1" size="1" type="text" id="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-height" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-height">cm</td><td><label>';
+            strArr[strArr.length] = this.weight;
+            strArr[strArr.length] = '</label><input class="width-1" size="1" type="text" id="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-weight" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-weight">kg</td><td><label>';
+            strArr[strArr.length] = this.foot;
+            strArr[strArr.length] = '</label><input size="1" class="width-1" type="text" id="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-foot-size" name="guest-';
+            strArr[strArr.length] = num;
+            strArr[strArr.length] = '-foot-size">cm</td></tr>';
+            return strArr.join('');
+            /* }}} */
+    };
+    GUEST.init();
+});
+</script>
+</body>
+</html>

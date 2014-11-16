@@ -1,0 +1,122 @@
+﻿###DocType Html###
+<!-- {{{ head -->    
+<head>
+    <title>###headTitle###</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="###headDesc###">
+    <meta name="keywords" content="###headKeywords###">
+    <link rel="stylesheet" type="text/css" href="./css/main.css" media="all">
+    <!-- {{{ style -->
+    <style>
+        .img-map {background-image:url("./img/paintball-img-map.jpg")}
+        .map-box {width:700px}
+        #logo {margin:30px auto}
+        #img-01 {background-position:4px -296px}
+        #img-02 {background-position:-246px -296px}
+        #img-03 {background-position:4px -896px}
+        #img-04 {background-position:-246px -446px}
+        #img-05 {background-position:4px -746px}
+        #img-06 {background-position:-246px -596px}
+        #img-07 {background-position:-246px -896px}
+        #img-08 {background-position:4px -596px}
+        #img-09 {background-position:4px -446px}
+        #img-10 {background-position:-246px -746px}
+        #img-11 {background-position:-246px -1046px}
+        #img-12 {background-position:4px -1046px}
+        .priceT th {background-color:#efe}
+    </style>
+    <!-- }}} style -->
+</head>
+<!-- }}} head -->    
+<body>
+<div id="container950">
+    <!-- {{{ top-part.htm }}}-->
+    <a id="paintball"></a>
+    <img id="logo" src="./img/paintball-logo.png">
+    <!-- {{{ paintball intro -->
+    <div id="paintball-image" class="image-box">
+        <div class="img-map ibx-abs image-box-main"></div>
+        <div class="img-map ibx-abs image-box-lt"></div>
+        <div class="img-map ibx-abs image-box-rt"></div>
+        <div class="img-map ibx-abs image-box-lb"></div>
+        <div class="img-map ibx-abs image-box-rb"></div>
+    </div>
+    <p>###theTeamIntro###</p>
+    <!-- }}} paintball intro -->
+    
+    <h3>###Own Preparation###</h3>
+    <ul>###Own Preparation dt###</ul>
+    <h3 class="hl-red">###Note###</h3>
+    <p class="hl-red">###paintball note###</p>
+
+    <table class="priceT">
+        <tr>
+            <th>###Plan###</th>
+            <th>###Duration###</th>
+            <th>###Minimum Pax###</th>
+            <th>###Paintball###</th>
+            <th>###Price Per Person###</th>
+        </tr>
+        <tr>
+            <th>###Basic Plan###</th>
+            <td>1 ###hour### 30 ###minutes###</td>
+            <td>4 ###pax###</td>
+            <td>200 ###each###</td>
+            <td align="right">JPY 8,250</td>
+        </tr>
+        <tr>
+            <th>###Advance Plan###</th>
+            <td>2 ###hours### 30 ###minutes###</td>
+            <td>4 ###pax###</td>
+            <td>300 ###each###</td>
+            <td align="right">JPY 13,750</td>
+        </tr>
+        <tr>
+            <th rowspan="3">###Group###</th>
+            <td rowspan="2">(3-5 ###hours###)</td>
+            <td>10-20 ###pax###</td>
+            <td>300 ###each###</td>
+            <td align="right">JPY 16,500</td>
+        </tr>
+        <tr>
+            <td>21-50 ###pax###</td>
+            <td>300 ###each###</td>
+            <td align="right">JPY 14,300</td>
+        </tr>
+        <tr>
+            <td>(5-8 ###hours###)</td>
+            <td>51-100+ ###pax###</td>
+            <td>300 ###each###</td>
+            <td align="right">JPY 11,000</td>
+        </tr>
+        <tr>
+            <th>###Extra Paintball###</th>
+            <td colspan="2"></td>
+            <td>100 ###paintball###</td>
+            <td align="right">JPY 1,000</td>
+        </tr>
+    </table>
+
+<div class="to-make-booking"><span><i>###To make a booking### &rarr; </i></span><a href="./book-paintball.htm" class="booking-now" target="_blank"><span class="underline" style="">###bookingNow###</span></a></div>
+<div class="booking-procedure">###Booking procedure dt###</div>
+
+    <!-- {{{ location-paintball.htm }}} -->
+    <!-- {{{ contact-berry.htm }}}-->
+    <!-- {{{ copyright.htm }}}-->
+</div> <!-- end of container950 -->
+<!-- {{{ base-js.htm }}}-->
+<script src="http://code.jquery.com/ui/1.9.0/jquery-ui.js"></script>
+<!-- script src="./js/fx-shade.js"></script -->
+<script>
+    $(".detail-on-demand").hide();
+    $(".see-more-detail").click(function(){
+        $(this).parent().find(".detail-on-demand").toggle("blind");
+        if ($(this).data("toggleText") === undefined) 
+            $(this).data("toggleText", "###lessDetail###");
+        var tmp = $(this).html();
+        $(this).html($(this).data("toggleText"));
+        $(this).data("toggleText", tmp);
+    });
+</script>
+</body>
+</html>
