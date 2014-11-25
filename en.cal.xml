@@ -5,6 +5,10 @@
     </item>
     <item>
         <key>###CAL title-2###</key>
-        <val>Season Calender for SEASIR NAHA and PADI Diving Courses only</val>
+        <val>Season Calender</val>
+    </item>
+    <item>
+        <key>###note###</key>
+        <val><![CDATA[Note; <b><i>This season calendar applies to SEASIR NAHA activity, all PADI Training Course held by SEASIR NAHA and Marine Club BERRY only</i></b>]]></val>
     </item>
 </items>

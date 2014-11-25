@@ -33,15 +33,14 @@
     <item>
         <key>###OW Schedule###</key>
         <val><![CDATA[
-            <li>Day 1 - Academic session &amp; Confined water training (Pool training half day)</li>
-            <li>Day 2 - Open Water training dive 1 &amp; 2</li>
-            <li>Day 3 - Open Water training dive 3 &amp; 4</li>
+            <li>Day 1 - Theory review & Confined water training (Pool training half day)</li>
+            <li>Day 2 - Open Water training dive 1 & 2</li>
+            <li>Day 3 - Open Water training dive 3 & 4</li>
             ]]></val>
     </item>
     <item>
         <key>###OW Schedule comment###</key>
-        <val><![CDATA[
-            Above training schedule is design for home study program or PADI e-Learning program, for more information please <a href="mailto:english@seasir.com" target="_blank">Contact us</a> for detail and arragement.]]></val>
+        <val>Above training schedule is design for PADI e-Learning program.</val>
     </item>
     <item>
         <key>###Requirement from candidate###</key>
@@ -50,10 +49,14 @@
     <item>
         <key>###Requirement from candidate li###</key>
         <val><![CDATA[
+            <li>Complete PADI e-learning program from PADI official website <a href="www.padi.com">www.padi.com</a> and pay e-learning fee AUD147++ directly.</li>
             <li>Please refer SEASIR <a href="./health.htm" target="_blank">Health Check List</a>.If any of the questions in the Health Check List answer apply “YES” to you, we must request that you consult with a physician and provide a proper document from your physician prior to participating in scuba diving training program.</li>
-            <li>Any courses date that fall in Peak Season in Season Calendar course fee add JPY5,000 per each candidate.</li>
-            <li>2 Passport size photograph.</li>
-            <li>Class start with minimum 2 candidates. If only 1 candidate please <a href="mailto:english@seasir.com" target="_blank">Contact us</a> for arrangement.</li>
+            <li>Any courses date that fall in Peak Season in Season Calendar course fee add JPY5,000 per each candidate.
+                <ul><li>Peak season for SEASIR NAHA branch, refer to this link <a href="http://www.seasir.com/en/cal.htm" target="_blank">http://www.seasir.com/en/cal.htm</a></li>
+                    <li>Peak season for Marine Club BERRY, refer to this link <a href="http://www.seasir.com/en/cal.htm" target="_blank">http://www.seasir.com/en/cal.htm</a></li>
+                    <li>Peak season for SEASIR AKA:	
+                        <br><span class="hl-red">29th April to 6th May 2015, 13th June to 30th September 2015, 10th October 2015 to 13th October 2015</span></li></ul></li>
+        <li>2 Passport size photograph.
             ]]></val>
     </item>
     <item>
@@ -137,9 +140,13 @@
         <key>###Requirement from candidate aow li###</key>
         <val><![CDATA[
             <li>Please refer SEASIR <a href="./health.htm" target="_blank">Health Check List</a>.If any of the questions in the Health Check List answer apply “YES” to you, we must request that you consult with a physician and provide a proper document from your physician prior to participating in scuba diving training program.</li>
-            <li>Any courses date that fall in Peak Season in Season Calendar course fee add JPY5,000 per each candidate.</li>
+            <li>Any courses date that fall in Peak Season in Season Calendar course fee add JPY5,000 per each candidate.
+                <ul><li>Peak season for SEASIR NAHA branch, refer to this link <a href="http://www.seasir.com/en/cal.htm" target="_blank">http://www.seasir.com/en/cal.htm</a></li>
+                    <li>Peak season for Marine Club BERRY, refer to this link <a href="http://www.seasir.com/en/cal.htm" target="_blank">http://www.seasir.com/en/cal.htm</a></li>
+                    <li>Peak season for SEASIR AKA:	
+                        <br><span class="hl-red">29th April to 6th May 2015, 13th June to 30th September 2015, 10th October 2015 to 13th October 2015</span></li></ul></li>
             <li>Valid PADI Open Water Diver license or equivalent.</li>
-            <li>2 Passport size photograph.</li>
+            <li>2 Passport size photograph.
             ]]></val>
     </item>
     <item>
@@ -204,9 +211,14 @@
         <key>###Requirement from candidate res li###</key>
         <val><![CDATA[
             <li>Please refer SEASIR <a href="./health.htm" target="_blank">Health Check List</a>.If any of the questions in the Health Check List answer apply “YES” to you, we must request that you consult with a physician and provide a proper document from your physician prior to participating in scuba diving training program.</li>
-            <li>Any courses date that fall in Peak Season in Season Calendar course fee add JPY5,000 per each candidate.</li>
+            <li>Any courses date that fall in Peak Season in Season Calendar course fee add JPY5,000 per each candidate.
+                <ul><li>Peak season for SEASIR NAHA branch, refer to this link <a href="http://www.seasir.com/en/cal.htm" target="_blank">http://www.seasir.com/en/cal.htm</a></li>
+                    <li>Peak season for Marine Club BERRY, refer to this link <a href="http://www.seasir.com/en/cal.htm" target="_blank">http://www.seasir.com/en/cal.htm</a></li>
+                    <li>Peak season for SEASIR AKA:	
+                        <br><span class="hl-red">29th April to 6th May 2015, 13th June to 30th September 2015, 10th October 2015 to 13th October 2015</span></li></ul></li>
             <li>Valid PADI Advanced license or equivalent + PADI EFR (Medic First Aid) / CPR Rescue License or equivalent CPR certificate that recognized by PADI local office</li>
             <li>2 Passport size photograph.</li>
+            <li>Training course start with minimum 2 candidates. For 1 candidate course fee will be JPY69,000.
             ]]></val>
     </item>
             <tr><td>###Meal###</td><td></td></tr>
@@ -217,6 +229,10 @@
     <item>
         <key>###Registration res dt###</key>
         <val>PADI Rescue Diver C-Card</val>
+    </item>
+    <item>
+        <key>###Booking procedure dt###</key>
+        <val><![CDATA[Click on <span class="booking-blue">BOOKING NOW</span>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY5,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.]]></val>
     </item>
     <item>
         <key></key>

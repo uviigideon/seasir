@@ -40,13 +40,14 @@ a {
     text-decoration:none;
     color:#69f;
 }
-a:hover {color:#03f;}
-.hl-black {color:black;}
-.hl-red {color:red;}
-.seasir-red {color:red;font-weight:bold;}
-.berry-pink {color:hotpink;font-weight:bold;}
-.lamer-black {color:#666;font-weight:bold;}
-.lt {color:#c66;font-size:12px;}
+a:hover {color:#03f}
+.hl-black {color:black}
+.hl-red {color:red}
+.booking-blue {color:#69f}
+.seasir-red {color:red;font-weight:bold}
+.berry-pink {color:hotpink;font-weight:bold}
+.lamer-black {color:#666;font-weight:bold}
+.lt {color:#c66;font-size:12px}
 #container950 {
     width: 950px;
     height: 1%;
@@ -80,6 +81,7 @@ ol {
 }
 .mb10 {margin-bottom:10px}
 .c {text-align:center}
+.al-r {text-align:right}
 /* }}} home common */
 /* {{{ fllink */
 #fllink {
@@ -168,7 +170,7 @@ ol {
     vertical-align:top;
 }
 .cal-red-box {background-color:red;margin-left:100px;}
-.cal-index {font-size:20px;font-weight:600;margin:10px 0 20px 0;}
+.cal-index {font-size:20px;font-weight:600;margin:10px 0}
 /* }}} cal */
 /* {{{ packages */
 .packages {
@@ -208,6 +210,7 @@ ol {
 }
 .see-more-detail,
 .booking-now {
+    font-size:28px;
     line-height:40px;
     text-decoration:inherit;
 }
@@ -361,6 +364,8 @@ ol {
 }
 /* }}} copyright */
 /* {{{ book form */
+.to-make-booking {margin:20px 0 10px 0;font-size:30px}
+.booking-procedure {margin:10px 0;text-align:justify;color:red;font-size:0.9em}
 .width-1 {width:36px}
 .width-2 {width:42px}
 .guest-name{width:112px}

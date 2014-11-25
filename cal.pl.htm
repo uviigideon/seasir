@@ -13,8 +13,8 @@
             visibility:hidden;
             text-align:center;
         }
-        #logo {margin:30px 0 10px 0;padding:0;}
-        .cal-index {margin:10px 0 50px 0;}
+        #logo {margin:30px 0 10px 0;padding:0}
+        .cal-index {margin:10px 0}
     </style>
 </head>
 <!-- }}} head -->    
@@ -23,11 +23,13 @@
 <center>
     <img id="logo" src="./img/seasir-logo.png">
     <h1 id="calTitle">###CAL title-1### <span id="year"></span> ###CAL title-2###</h1>
+    <p class="hl-red">###note###</p>
     <div id="cal"></div>
     <div class="cal-index">
         <div class="cal-white-box cal-box"></div><span>###normalSeason###</span>
         <div class="cal-red-box cal-box"></div><span>###peakSeason###</span>
     </div>
+    <div class="cal-link"></div>
     <!-- {{{ copyright.htm }}}-->
 </center>
 </div>    
@@ -44,6 +46,7 @@
         window.calFactory.genAllYear("#cal",year);
     $("#year").html(year);
     $("#calTitle").css({"visibility":"visible"});
+    window.calFactory.genCalLink(".cal-link","###checkAllYearCalendar###");
 </script>
 </body>
 </html>

@@ -53,9 +53,11 @@
     <item>
         <key>###Deposit Collection dt###</key>
         <val><![CDATA[
-<li>SEASIR NAHA Branch any activity JPY5,000 per person.</li>
+<li>SEASIR NAHA branch full day activity JPY5,000 per person.</li>
+<li>SEASIR NAHA half day activity JPY3,000 per person.</li>
 <li>SEASIR AKA Branch accomodation and any activity JPY5,000 per person.</li>
-<li>Marine Club BERRY any activity JPY4,000 per person.</li>
+<li>Marine Club BERRY all activity and Paintball JPY4,000 per person.</li>
+<li>PADI diving course booking JPY5,000 per person</li>
 <li>Whale Watching Excursion Trip by SEASIR NAHA Branch JPY2,000 per person.</li>
         ]]></val>
     </item>
@@ -66,8 +68,9 @@
     <item>
         <key>###Notice dt###</key>
         <val><![CDATA[
-<li>Please do fill in or inform our office at least 48 hours before the trip ,if there is any special request such as Vegetarian or any allegy of certain food when making a activity booking.</li>
+<li>Please do fill in or inform our office at least 24 hours in advance if there is any special request such as vegetarian food or any allegy of certain food when making online or by phone booking, or standard meal will be provided as usual.</li>
 <li>Only guest are register in the booking form are allow to participate or in the boat on the day.</li>
+<li>SEASIR Ltd. hold all rignts of any changes of price or activty location due to safety and management decision.</li>
         ]]></val>
     </item>    
     

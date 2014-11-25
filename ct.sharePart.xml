@@ -300,6 +300,10 @@
         <key>###prices###</key>
         <val>價目</val>
     </item>
+    <item>
+        <key>###Note###</key>
+        <val>注意</val>
+    </item>
     <!-- }}} LMNOPQ -->
     <!-- {{{ RSTUVWXYZ -->
     <item>

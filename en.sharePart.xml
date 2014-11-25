@@ -72,6 +72,10 @@
         <key>###topMenuLi07###</key>
         <val>Contact Us</val>
     </item>
+    <item>
+        <key>###topMenuLi08###</key>
+        <val>Blog</val>
+    </item>
     <!-- }}} top part -->
     <!-- {{{ activies Name and Desc -->
     <item>
@@ -85,6 +89,10 @@
     <item>
         <key>###leisureDivingDesc###</key>
         <val>Great underwater advantures for people who have diving lincence</val>
+    </item>
+    <item>
+        <key>###leisureDiving Note###</key>
+        <val>Divers who have less than 30 dive log experience and not been diving for more than 12 months are required to take Refresher Dive Course Package. </val>
     </item>
     <item>
         <key>###introDiving###</key>
@@ -129,7 +137,7 @@
     </item>
     <item>
         <key>###Refresher Diving Desc Full###</key>
-        <val>For certified diver who not been diving for past 12 months, here are the refresher course that you are recommended to participate to refresh you diving knowledge and underwater skill.</val>
+        <val><![CDATA[(Theory review and underwater basic skill review by Instructor)<br>For certified diver who not been diving for past 12 months, here are the refresher course that you are recommended to participate to refresh you diving knowledge and underwater skill.]]></val>
     </item>
     <item>
         <key>###2 dives Package###</key>
@@ -301,6 +309,10 @@
         <key>###prices###</key>
         <val>Prices</val>
     </item>
+    <item>
+        <key>###Note###</key>
+        <val>Note</val>
+    </item>
     <!-- }}} LMNOPQ -->
     <!-- {{{ RSTUVWXYZ -->
     <item>
@@ -313,13 +325,16 @@
     </item>
     <item>
         <key>###seeMoreDetail###</key>
-        <val>See More Detail</val>
+        <val>See More Detail and Make Booking</val>
     </item>
     <item>
         <key>###We do accept creadit card###</key>
         <val>We do accept credit card</val>
     </item>
-    
+    <item>
+        <key>###To make a booking###</key>
+        <val>To make a booking</val>
+    </item>   
     <!-- }}} RSTUVWXYZ -->
     <!-- }}} item name -->
     <!-- {{{ addrs -->
@@ -389,11 +404,11 @@
     </item>
     <item>
         <key>###English Line###</key>
-        <val>English Line</val>
+        <val>English, Mandarin and Cantonese Line</val>
     </item>
     <item>
         <key>###Mandarin Line###</key>
-        <val>Mandarin and Cantonese Line</val>
+        <val>English and Mandarin Line</val>
     </item>
     <item>
         <key>###TEL###</key>

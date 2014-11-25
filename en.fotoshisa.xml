@@ -1,0 +1,70 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI provide English, Mandarin and Cantonese speaking marine staff</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Water,Sports,Dive,Diving,Snorkeling,English,Foreign,Cantonese,Chinese,Mandarin</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###theTeam###</key>
+        <val>fotoShisa : Underwater and Watersport Professional Photographer Services</val>
+    </item>
+    <item>
+        <key>###theTeamIntro###</key>
+        <val><![CDATA[Marine activities and Diving around Okinawa is an amazing unforgettable experience, you will encounter some beautiful underwater creatures and have a ton of fun on the water. So why not have a professional photographer along to capture all the great moments for you to treasure forever!]]></val>
+    </item>
+    <item>
+        <key>###Location###</key>
+        <val>Location</val>
+    </item>
+    <item>
+        <key>###Duration###</key>
+        <val>Duration</val>
+    </item>
+    <item>
+        <key>###Number of People###</key>
+        <val>Number of People</val>
+    </item>
+    <item>
+        <key>###Charges in JPY###</key>
+        <val>Charges in JPY</val>
+    </item>
+    <item>
+        <key>###Location 1###</key>
+        <val><![CDATA[<h4 style="margin:0">Marine House SEASIR Naha</h4><ul style="margin:2px 0 5px 0"><li>Full day trip to Kerama</li><li>Half day trip to Chibisi</li></ul><h4 style="margin:0">Marine Club Berry</h4><ul style="margin:2px 0 5px 0"><li>Water Sports</li><li>PaintBall</li></ul>]]></val>
+    </item>
+    <item>
+        <key>###Location 2###</key>
+        <val><![CDATA[<h4>Marine House SEASIR AKA</h4>]]></val>
+    </item>
+    
+    <item>
+        <key>###Maximum 6 hours###</key>
+        <val>Maximum 6 hours</val>
+    </item>
+    <item>
+        <key>###Over 20###</key>
+        <val>Over 20 people each person additional charge JPY3,000</val>
+    </item>
+    <item>
+        <key>###Maximum 6 to 8 hours###</key>
+        <val>Maximum 6 - 8 hours depend on arrival ferry time to Aka island</val>
+    </item>
+    <item>
+        <key>###How to make fotoShisa booking###</key>
+        <val>How to make fotoShisa booking</val>
+    </item>
+    <item>
+        <key>###How to make fotoShisa booking dt###</key>
+        <val>In the booking form at the bottom please fill in “FOTO SHISA REQUIRED” in the comments box.  Our booking office will check the availability with FOTO SHISA and reply your request.</val>
+    </item>
+</items>
+

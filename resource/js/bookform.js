@@ -189,7 +189,7 @@
                 strArr[strArr.length] = num;
                 strArr[strArr.length] = '">';
                 var $html = $(strArr.join(''));
-                var currentDate = $(".date-of-trip").last().datepicker("getDate");
+                var currentDate = $(this).prev().datepicker("getDate");
                 if (null != currentDate) {
                     currentDate.setDate(currentDate.getDate()+1);
                     $html.datepicker({"dateFormat":"d MM, yy"});
@@ -200,6 +200,32 @@
                 $(this).before($html);
                 /* }}} */
             });
+            $(".add-another-day").click(function(){
+                /* {{{ */
+                var me = GUEST;
+                var $prev = $(this).prev();
+                var strArr = $prev.attr("name").split('-');
+                strArr[strArr.length - 1] = parseInt(strArr[strArr.length - 1]) + 1;
+                var $html = $prev;
+                $html = $html.clone();
+                $html.attr("name",strArr.join('-'));
+                $html.removeClass("hasDatepicker");
+                $html.datepicker({"dateFormat":"d MM, yy"});
+                var currentDate = $prev.datepicker("getDate");
+                if (null != currentDate) {
+                    currentDate.setDate(currentDate.getDate()+1);
+                    $html.datepicker("setDate",currentDate);
+                } 
+                $(this).before($html);
+                /* }}} */
+            });
         }
     }
+
+    $("#email").keyup(function(e){
+        if(e.keyCode == 13){
+            $("#open-rest").click();
+        }
+    });
+    
 })();

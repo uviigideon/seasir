@@ -67,6 +67,7 @@ border:1px solid #96f0ff; -ms-border-radius: 3px; -moz-border-radius: 3px;border
     display:inline-block;
     margin:10px 8px 0 0;
     vertical-align:top;
+    position:relative;
 } 
 .brief-in-box {
     margin-top:0;
@@ -177,6 +178,27 @@ border:1px solid #96f0ff; -ms-border-radius: 3px; -moz-border-radius: 3px;border
     top:165px;left:2px;
     font-size:14px;
 }
+#paintball-banner {
+    background-image:url('./img/paintball-banner.jpg');
+    background-repeat:no-repeat;
+    width:950px;
+    height:180px;
+    background-position:0 0;
+}
+#cool-okinawa-banner-en {
+    background-image:url('./img/coolokinawa-en.gif');
+    background-repeat:no-repeat;
+    width:950px;
+    height:180px;
+    background-position:0 0;
+}
+#fotoshisa-banner {
+    background-image:url('./img/fotoshisa-banner.jpg');
+    background-repeat:no-repeat;
+    width:950px;
+    height:180px;
+    background-position:0 0;
+}
 #seapeople-banner {
     background-image:url('./img/index-img-map.jpg');
     background-repeat:no-repeat;
@@ -200,7 +222,12 @@ border:1px solid #96f0ff; -ms-border-radius: 3px; -moz-border-radius: 3px;border
 .seapeople-h2 a:hover {
     color:black;
 }
-
+.season-end {
+    position:absolute;
+    left:10px;
+    top:75px;
+    z-index:10;
+}
 /* }}} briefs */
     </style>
 </head>
@@ -279,6 +306,7 @@ border:1px solid #96f0ff; -ms-border-radius: 3px; -moz-border-radius: 3px;border
             <li class="brief-text-li"><a href="./chibisi.htm">###snorkeling###</a></li>
             <li class="brief-text-li"><a href="./chibisi.htm">###introDiving###</a></li>
         </ul>
+        <div class="hl-red">2015 season start from<br>13th Jun ~ 3rd Nov</div>
         <a href="./chibisi.htm" class="more"><span class="underline">###seeMoreDetail###</span><span class="arrow-left">►</span></a>
     </div>
 </div>
@@ -320,6 +348,17 @@ border:1px solid #96f0ff; -ms-border-radius: 3px; -moz-border-radius: 3px;border
 <h2 class="seapeople-h2"><a href="./sea-people.htm">###SEA PEOPLE Scuba Diving Equipment Retail###</a></h2>
 <a id="seapeople-banner-a" href="./sea-people.htm"><div id="seapeople-banner"></div></a>
     <!-- }}} sea people -->    
+    <!-- {{{ paintball -->    
+<h2 class="seapeople-h2"><a href="./paintball.htm">###Berry Paintball###</a></h2>
+<a id="seapeople-banner-a" href="./paintball.htm"><div id="paintball-banner"></div></a>
+    <!-- }}} paintball -->    
+    <!-- {{{ cool okinawa -->
+###Cool Okinawa###
+    <!-- }}} cool okinawa -->
+    <!-- {{{ fotoshisa -->    
+<h2 class="seapeople-h2"><a href="./fotoshisa.htm">###fotoshisa###</a></h2>
+<a id="seapeople-banner-a" href="./fotoshisa.htm"><div id="fotoshisa-banner"></div></a>
+    <!-- }}} fotoshisa -->    
     <!-- }}} brief -->    
     <!-- {{{ copyright.htm }}}-->
 </div>

@@ -53,7 +53,9 @@
             <label for="mobile">###Mobile###</label>
             <input type="text" id="mobile" name="mobile" value="(+)"><br>
             <label >###Date of Trip###</label>
-            <input type="text" class="date-of-trip" name="Date of Trip-1"><br>
+            <input id="date-of-trip2" type="text" name="Date of Trip">
+            <span class="hl-red">###season from###</span>
+            <br>
             <label>###Trip Session###</label>
             <input type="radio" id="session-am" name="Trip Session" value="am" checked="checked">
             <label for="session-am" style="width:160px;">###Trip Session am###</label>
@@ -128,8 +130,7 @@
     <!-- {{{ copyright.htm }}}-->
 </div> <!-- end of container950 -->
 <!-- {{{ base-js.htm }}}-->
-<script src="http://code.jquery.com/ui/1.9.1/jquery-ui.js"></script>
-<script src="./js/bookform.js"></script>
+<!-- {{{ book-js.htm }}}-->
 <script>
 $(function() {
     var GUEST = window.GUEST;
@@ -173,6 +174,13 @@ $(function() {
             /* }}} */
     };
     GUEST.init();
+    var dateStart = new Date('06/13/2015');
+    var dateEnd = new Date('11/03/2015');
+    $("#date-of-trip2").datepicker({
+        dateFormat:"d MM, yy",       
+        minDate:dateStart,
+        maxDate:dateEnd
+    });
 });
 </script>
 </body>

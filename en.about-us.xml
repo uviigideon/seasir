@@ -28,8 +28,8 @@
         <val>Daily water sports and SEGWAY facility.</val>
     </item>
     <item>
-        <key>###Brief La Mer###</key>
-        <val>Okinawa luxury cruise charter.</val>
+        <key>###Brief paintball###</key>
+        <val>Daily field game</val>
     </item>
     <item>
         <key>###Our Operations###</key>
@@ -38,5 +38,9 @@
     <item>
         <key>###Scuba diving equipment retail###</key>
         <val>Scuba diving equipment retail</val>
-    </item>
+     <item>
+        <key>###paintball###</key>
+        <val>Paintball</val>
+    </item>   </item>
+    
 </items>

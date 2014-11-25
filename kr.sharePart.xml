@@ -301,6 +301,10 @@
         <key>###prices###</key>
         <val>가격</val>
     </item>
+    <item>
+        <key>###Note###</key>
+        <val>Note</val>
+    </item>
     <!-- }}} LMNOPQ -->
     <!-- {{{ RSTUVWXYZ -->
     <item>

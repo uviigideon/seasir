@@ -56,6 +56,10 @@ archipelago.
         <val>5 rooms with western bed style for triple sharing and 2 Japanese Tatami room for triple sharing on 3rd floor. All room attach with toilet and bathroom.</val>
     </item>
     <item>
+        <key>###peakseason date###</key>
+        <val><![CDATA[2015 Peak Season : 29th April - 6th May  &  13th June - 30th September & 10th October - 13th October]]></val>
+    </item>
+    <item>
         <key>###Season Price###</key>
         <val>Season Price</val>
     </item>
@@ -160,8 +164,16 @@ archipelago.
         <val><![CDATA[Meal are serve at our 2nd floor restaurant and with Free internet and WiFi connection.<br><br>Each day after diving you might just want to pamper yourself in the jacuzzi.]]></val>
     </item>
     <item>
-        <key></key>
-        <val></val>
+        <key>###Dive Computer###</key>
+        <val>Dive Computer</val>
+    </item>
+    <item>
+        <key>###heavy eq###</key>
+        <val>BCD, Regulator, Wetsuit </val>
+    </item>
+    <item>
+        <key>###Booking procedure dt###</key>
+        <val><![CDATA[Click on <span class="booking-blue">BOOKING NOW</span>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY4,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.]]></val>
     </item>
     <item>
         <key></key>

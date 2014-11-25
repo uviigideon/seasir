@@ -10,7 +10,7 @@
     <item>
         <key>###health check li###</key>
         <val><![CDATA[
-<li>Could you be pregnant, or are you attempting to become pregnant?</li>
+            <li>Could you be pregnant, or are you attempting to become pregnant? <font class="hl-red">(Any guest that are currently pregnant will not allow to join any activity and not allow to be in the boat)</font></li>
 <li>Are you presently taking any medications? (With the exception of Birth control or anti-malarial)</li>
 <li>Asthma, infantile asthma, or wheezing with breathing, or wheezing with exercise?</li>
 <li>Frequent or severe attacks of hay fever or allergy?</li>
@@ -42,6 +42,6 @@
     </item>
     <item>
         <key>###health check foot###</key>
-        <val><![CDATA[<p>Please do <strong>inform us</strong> if there is any question above answers apply <strong>YES</strong> to you.</p>]]></val>
+        <val><![CDATA[<p class="hl-red">Please do inform SEASIR booking office if of the question above answers apply YES to your medical current condition or history. This is due to some activity are related to water pressure and may cause of life threatening, fail to do so you are taking full responsibility of your own cause.</p>]]></val>
     </item>
 </items>
