@@ -1,10 +1,15 @@
 <items>
-    <item>
-        <key>###CAL title-1###</key>
-        <val>SEASIR Group</val>
-    </item>
-    <item>
-        <key>###CAL title-2###</key>
-        <val>淡旺季月曆</val>
-    </item>
+	<item>
+		<key>###CAL title-1###</key>
+		<val>SEASIR Group</val>
+	</item>
+	<item>
+		<key>###CAL title-2###</key>
+		<val>淡旺季月曆</val>
+	</item>
+	<item>
+		<key>###note###</key>
+		<val><![CDATA[注意: <b><i>此淡旺季月曆僅適用於SEASIR那霸店活動項目和PADI訓練課程。(PADI訓練課程僅在SEASIR那霸店和BERRY店舉行。)</i></b>]]></val>
+		<todo></todo>
+	</item>
 </items>

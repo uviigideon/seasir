@@ -1,10 +1,15 @@
-﻿<items>
-    <item>
-        <key>###CAL title-1###</key>
-        <val>SEASIR 그룹</val>
-    </item>
-    <item>
-        <key>###CAL title-2###</key>
-        <val>시즌 캘린더</val>
-    </item>
+<items>
+	<item>
+		<key>###CAL title-1###</key>
+		<val>SEASIR 그룹</val>
+	</item>
+	<item>
+		<key>###CAL title-2###</key>
+		<val>시즌 캘린더</val>
+	</item>
+	<item>
+		<key>###note###</key>
+		<val><![CDATA[참고; <b><i>이 기간은 SEASIR NAHA에서의 활동 및 SEASIR NAHA와 Marine Club Berry가 주관하는 모든 PADI 교육 과정에만 적용됩니다</i></b>]]></val>
+		<todo></todo>
+	</item>
 </items>

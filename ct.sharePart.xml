@@ -1,641 +1,623 @@
-﻿<items>
-    <item>
-        <key>###DocType Html###</key>
-        <val><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="zh-TW">]]></val>
-    </item>
-    <!-- {{{ header -->
-    <item>
-        <key>###headTitle###</key>
-        <val>沖繩 潛水 浮潛 水上活動 Marine House Seasir</val>
-    </item>
-    <item>
-        <key>###headDesc###</key>
-        <val>沖繩潛水, 浮潛, 水上活動中心 Marine House Seasir</val>
-    </item>
-    <item>
-        <key>###headKeywords###</key>
-        <val>Okinawa,Diving,Dive,Snorkeling,Scuba,Water,Marine,Sports,English,Foreign,Naha,Kerama,Aka,Manza,Kanucha,沖繩,沖縄,潛水,中文,廣東話,中國,香港,水上活動,外國人,浮潛,體驗潛水,那霸</val>
-    </item>
-    <!-- }}} header -->
-    <!-- {{{ fllinks -->
-    <item>
-        <key>###flLink1###</key>
-        <val><![CDATA[<a href="http://www.seasir.com/en/">English</a>]]></val>
-    </item>
-    <item>
-        <key>###flLink2###</key>
-        <val><![CDATA[<a href="http://www.seasir.com/ct/">繁體中文</a>]]></val>
-    </item>
-    <item>
-        <key>###flLink3###</key>
-        <val><![CDATA[<a href="http://www.seasir.com/cn/">简体中文</a>]]></val>
-    </item>
-    <item>
-        <key>###flLink4###</key>
-        <val><![CDATA[<a href="http://www.seasir.com/kr/">한국어</a>]]></val>
-    </item>
-    <item>
-        <key>###flLink5###</key>
-        <val><![CDATA[<a href="http://www.seasir.com/">日本語</a>]]></val>
-    </item>
-    <!-- }}} fllinks -->
-    <!-- {{{ top part -->
-    <item>
-        <key>###topH1###</key>
-        <val>Okinawa Scuba Diving And Water Sports</val>
-    </item>
-    <item>
-        <key>###topMenuLi01###</key>
-        <val>首頁</val>
-    </item>
-    <item>
-        <key>###topMenuLi02###</key>
-        <val>關於我們</val>
-    </item>
-    <item>
-        <key>###topMenuLi03###</key>
-        <val>照片集</val>
-    </item>
-    <item>
-        <key>###topMenuLi04###</key>
-        <val>淡旺季月曆</val>
-    </item>
-    <item>
-        <key>###topMenuLi05###</key>
-        <val>取消預約政策</val>
-    </item>
-    <item>
-        <key>###topMenuLi06###</key>
-        <val>健康自檢表</val>
-    </item>
-    <item>
-        <key>###topMenuLi07###</key>
-        <val>聯絡我們</val>
-    </item>
-    <!-- }}} top part -->
-    <!-- {{{ activies Name and Desc -->
-    <item>
-        <key>###leisureDiving###</key>
-        <val>休閒潛水</val>
-    </item>
-    <item>
-        <key>###lesureDivingPackage###</key>
-        <val>休閒潛水之旅</val>
-    </item>
-    <item>
-        <key>###leisureDivingDesc###</key>
-        <val>Great underwater advantures for people who have diving lincence</val>
-    </item>
-    <item>
-        <key>###introDiving###</key>
-        <val>體驗潛水</val>
-    </item>
-    <item>
-        <key>###introDivingPackage###</key>
-        <val>體驗潛水之旅</val>
-    </item>
-    <item>
-        <key>###introDivingDesc###</key>
-        <val>You have never dived before but you'd like to give it a go.</val>
-    </item>
-    <item>
-        <key>###snorkeling###</key>
-        <val>浮潛</val>
-    </item>
-    <item>
-        <key>###Snorkeling Package###</key>
-        <val>浮潛之旅</val>
-    </item>
-    <item>
-        <key>###snorkelingDesc###</key>
-        <val>Easy way to explorer underwater wonders</val>
-    </item>
-    <item>
-        <key>###Scuba Diving###</key>
-        <val>水肺潛水</val>
-    </item>
-    <item>
-        <key>###refresherDivePackage###</key>
-        <val>復習潛水課程</val>
-    </item>
-    <item>
-        <key>###refresherDive###</key>
-        <val>復習潛水</val>
-    </item>
-    <item>
-        <key>###refresherDiveDesc###</key>
-        <val>Forget how to use your BC? Let us help you to bring all your skills back</val>
-    </item>
-    <item>
-        <key>###Refresher Diving Desc Full###</key>
-        <val>專為持有潛水認證但已有超過 12個月沒有潛水的潛水員所設計的課程. 在此課程中可以為您參復習您之前所學過的的潛水知識和潛水技能。</val>
-    </item>
-    <item>
-        <key>###2 dives Package###</key>
-        <val>2 潛行程</val>
-    </item>
-    <item>
-        <key>###2 dives with own equipments###</key>
-        <val>2 潛行程且自帶裝備</val>
-    </item>
-    <item>
-        <key>###Marine walk###</key>
-        <val>水底漫步</val>
-    </item>
-    <item>
-        <key>###Water Sports###</key>
-        <val>水域活動</val>
-    </item>
-    <item>
-        <key>###Full day charter###</key>
-        <val>全天豪華遊艇包船</val>
-    </item>
-    <item>
-        <key>###Half day charter###</key>
-        <val>半天豪華遊艇包船</val>
-    </item>
-    <item>
-        <key>###Dinner Cruise###</key>
-        <val>豪華遊艇晚餐巡航</val>
-    </item>
-    <item>
-        <key>###Whale Watching###</key>
-        <val>賞鯨之旅</val>
-    </item>
-    <item>
-        <key>###PADI Diving Courses###</key>
-        <val>PADI 潛水課程</val>
-    </item>
-    <item>
-        <key>###SEA PEOPLE Retail###</key>
-        <val>海人潛水用品商店</val>
-    </item>
-    <item>
-        <key>###Open Water Diver Course###</key>
-        <val>Open Water 潛水課程</val>
-    </item>
-    <item>
-        <key>###Advance Open Water Course###</key>
-        <val>進階潛水</val>
-    </item>
-    <item>
-        <key>###Rescue Diver Course###</key>
-        <val>救援潛水課程</val>
-    </item>
-    <!-- }}} activies Name and Desc -->
-    <!-- {{{ item name -->
-    <!-- {{{ place name -->
-    <item>
-        <key>###Aka###</key>
-        <val>阿嘉島</val>
-    </item>
-    <item>
-        <key>###naha###</key>
-        <val>那霸</val>
-    </item>
-    <item>
-        <key>###SEASIR Naha###</key>
-        <val>SEASIR 那霸</val>
-    </item>
-    <item>
-        <key>###SEASIR Aka###</key>
-        <val>SEASIR 阿嘉島</val>
-    </item>
-    <item>
-        <key>###SEASIR Aka Island###</key>
-        <val>SEASIR 阿嘉島</val>
-    </item>
-    <item>
-        <key>###Berry Manza###</key>
-        <val>Berry Manza</val>
-    </item>
-    <item>
-        <key>###Berry Kanucha###</key>
-        <val>Berry Kanucha</val>
-    </item>
-    <item>
-        <key>###Berry Weed Beach###</key>
-        <val>Berry Kouki Beach</val>
-    </item>
-    <item>
-        <key>###kerama###</key>
-        <val>慶良間諸島</val>
-    </item>
-    <item>
-        <key>###Okinawa Churami Aquarium###</key>
-        <val>沖縄美之海水族館</val>
-    </item>
-    <!-- }}} place name -->
-    <!-- {{{ ABCDE -->
-    <item>
-        <key>###Accommodation###</key>
-        <val>住宿</val>
-    </item>
-    <item>
-        <key>###bookingNow###</key>
-        <val><![CDATA[馬上報名]]></val>
-    </item>
-    <item>
-        <key>###Detail###</key>
-        <val>詳細資訊</val>
-    </item>
-    <item>
-        <key>###diveTimes###</key>
-        <val>潛水次數</val>
-    </item>
-    <item>
-        <key>###checkAllYearCalendar###</key>
-        <val>看全年淡旺季行事曆</val>
-    </item>
-    <item>
-        <key>###dives###</key>
-        <val>潛</val>
-    </item>
-    <item>
-        <key>###dive###</key>
-        <val>潛</val>
-    </item>
-    <item>
-        <key>###And###</key>
-        <val>和</val>
-    </item>
-
-    <!-- }}} ABCDE -->
-    <!-- {{{ FGHIJK -->
-    <!-- }}} FGHIJK -->
-    <!-- {{{ LMNOPQ -->
-    <item>
-        <key>###lessDetail###</key>
-        <val>關閉詳細資訊</val>
-    </item>
-    <item>
-        <key>###location###</key>
-        <val>位置</val>
-    </item>
-    <item>
-        <key>###more###</key>
-        <val>更多</val>
-    </item>
-    <item>
-        <key>###normalSeason###</key>
-        <val>平時</val>
-    </item>
-    <item>
-        <key>###packageIncludes###</key>
-        <val>價格包含</val>
-    </item>
-    <item>
-        <key>###peakSeason###</key>
-        <val>忙季</val>
-    </item>
-    <item>
-        <key>###priceFrom###</key>
-        <val>最便宜價格為</val>
-    </item>
-    <item>
-        <key>###price###</key>
-        <val>價目</val>
-    </item>
-    <item>
-        <key>###prices###</key>
-        <val>價目</val>
-    </item>
-    <item>
-        <key>###Note###</key>
-        <val>注意</val>
-    </item>
-    <!-- }}} LMNOPQ -->
-    <!-- {{{ RSTUVWXYZ -->
-    <item>
-        <key>###Return previous page###</key>
-        <val>回到前一頁</val>
-    </item>
-    <item>
-        <key>###seeOnGoogleMaps###</key>
-        <val>從 Google Maps 上看我們的位置</val>
-    </item>
-    <item>
-        <key>###seeMoreDetail###</key>
-        <val>詳細資訊</val>
-    </item>
-    <item>
-        <key>###We do accept creadit card###</key>
-        <val>我們可以使用信用卡</val>
-    </item>
-    <!-- }}} RSTUVWXYZ -->
-    <!-- }}} item name -->
-    <!-- {{{ addrs -->
-    <item>
-        <key>###Marine House SEASIR###</key>
-        <val>Marine House SEASIR</val>
-    </item>
-    <item>
-        <key>###Addr###</key>
-        <val><![CDATA[2-2-9 2nd Floor, Minato-machi, Naha city,<br>Okinawa 900-0001 JAPAN]]></val>
-    </item>
-    <item>
-        <key>###Marine House SEASIR NAHA branch###</key>
-        <val>Marine House SEASIR NAHA branch</val>
-    </item>
-    <item>
-        <key>###Naha Addr###</key>
-        <val><![CDATA[2-3-13, Minato-machi, Naha city,<br>Okinawa 900-0001 JAPAN]]></val>
-    </item>
-    <item>
-        <key>###Berry Manza Addr###</key>
-        <val><![CDATA[1860-4 Seragaki, Onna-son,<br>Okinawa 904-0404 JAPAN]]></val>
-    </item>
-    <item>
-        <key>###Weed Beach Addr###</key>
-        <val><![CDATA[117 Kouki, Nago City,<br>Okinawa 905-0025 JAPAN]]></val>
-    </item>
-    <item>
-        <key>###Own Transportation###</key>
-        <val>自行駕車</val>
-    </item>
-    <item>
-        <key>###Own Transportation dt###</key>
-        <val><![CDATA[請在您的汽車導航系統中輸入我們的電話: <span class="hl-red">098 869 6329</span> 或是使用 MAP CODE <span class="hl-red">33246627 *42</span> 來找到我們]]></val>
-    </item>
-    <item>
-        <key>###Own Transportation Weed Beach###</key>
-        <val><![CDATA[請在您的汽車導航系統中輸入我們的 MAP CODE <span class="hl-red">206444213 *85</span> 來到達 Kouki beach]]></val>
-    </item>
-    <item>
-        <key>###Own Transportation Manza###</key>
-        <val><![CDATA[請在您的汽車導航系統中輸入我們的電話: <span class="hl-red">098 982 3800</span> 來找到我們]]></val>
-    </item>
-    <item>
-        <key>###View Larger Map###</key>
-        <val>在 Google 地圖上尋找我們的位置</val>
-    </item>
-    <!-- }}} addrs -->
-    <!-- {{{ contact -->
-    <item>
-        <key>###Charter###</key>
-        <val>包船</val>
-    </item>
-    <item>
-        <key>###Contact###</key>
-        <val>聯絡資訊</val>
-    </item>
-    <item>
-        <key>###Toll Free###</key>
-        <val>免費電話</val>
-    </item>
-    <item>
-        <key>###Japanese Line###</key>
-        <val>日文</val>
-    </item>
-    <item>
-        <key>###English Line###</key>
-        <val>英文</val>
-    </item>
-    <item>
-        <key>###Mandarin Line###</key>
-        <val>中文或廣東話</val>
-    </item>
-    <item>
-        <key>###TEL###</key>
-        <val>電話</val>
-    </item>
-    <item>
-        <key>###E-mail###</key>
-        <val>E-mail</val>
-    </item>
-    <item>
-        <key>###Please Download the booking form###</key>
-        <val>請下載報名表</val>
-    </item>
-    <item>
-        <key>###Fill in the booking form in English and send back to us###</key>
-        <val>請您用英文填寫報名表後寄回給我們</val>
-    </item>
-    <item>
-        <key>###AKA booking form###</key>
-        <val>SEASIR 阿嘉島報名表</val>
-    </item>
-
-    <!-- }}} contact -->
-    <!-- {{{ Equipment Rental -->
-    <item>
-        <key>###Scuba Equipment Rental###</key>
-        <val>潛水器材租用</val>
-    </item>
-    <item>
-        <key>###Equipment Rental###</key>
-        <val>器材租用</val>
-    </item>
-    <item>
-        <key>###Full Scuba Equipment###</key>
-        <val>全套潛水器材</val>
-    </item>
-    <item>
-        <key>###Each Item###</key>
-        <val>每樣器材</val>
-    </item>
-    <item>
-        <key>###Full Set dt###</key>
-        <val>BCD, Regulator, 溼式潛水衣, 潛水電腦錶, 面鏡, 呼叫管, 套鞋, 蛙鞋 (Open Heel)</val>
-    </item>
-    <item>
-        <key>###heavy eq###</key>
-        <val>BCD, Regulator, 溼式潛水衣, 潛水電腦錶</val>
-    </item>
-    <!-- }}} Equipment Rental -->
-    <!-- {{{ booking form -->
-    <item>
-        <key>###Guest Information###</key>
-        <val>基本資訊</val>
-    </item>
-    <item>
-        <key>###Please fill the form alphabet###</key>
-        <val>請使用英文填寫</val>
-    </item>
-    <item>
-        <key>###Name###</key>
-        <val>姓名</val>
-    </item>
-    <item>
-        <key>###Name Comment###</key>
-        <val>(護照上的英文姓名)</val>
-    </item>
-    <item>
-        <key>###Nationality###</key>
-        <val>國家</val>
-    </item>
-    <item>
-        <key>###Mobile###</key>
-        <val>行動電話</val>
-    </item>
-    <item>
-        <key>###Date of Trip###</key>
-        <val>活動參加日</val>
-    </item>
-    <item>
-        <key>###Add Another Day###</key>
-        <val>增加一天</val>
-    </item>
-    <item>
-        <key>###Introductory Diving And Snorkeling###</key>
-        <val>慶良間諸島 - 體驗潛水 (IDV) &amp; 浮潛 (SNK)</val>
-    </item>
-    <item>
-        <key>###Fill in Name###</key>
-        <val>姓名 (英文)</val>
-    </item>
-    <item>
-        <key>###Age###</key>
-        <val>年齡</val>
-    </item>
-    <item>
-        <key>###Check###</key>
-        <val>項目</val>
-    </item>
-    <item>
-        <key>###For equipement rental###</key>
-        <val>器材租用準備</val>
-    </item>
-    <item>
-        <key>###Height###</key>
-        <val>身高</val>
-    </item>
-    <item>
-        <key>###Weight###</key>
-        <val>體重</val>
-    </item>
-    <item>
-        <key>###Foot size###</key>
-        <val>腳的尺寸（釐米）</val>
-    </item>
-    <item>
-        <key>###Leisure Diving and Refresher Dive###</key>
-        <val>慶良間諸島 - 休閒潛水 (FDV) &amp; 復習潛水課程 (RD)</val>
-    </item>
-    <item>
-        <key>###Type of diving###</key>
-        <val>參加項目</val>
-    </item>
-    <item>
-        <key>###Cert level###</key>
-        <val>認證等級</val>
-    </item>
-    <item>
-        <key>###Total dives###</key>
-        <val>總潛水次數</val>
-    </item>
-    <item>
-        <key>###Date last dive###</key>
-        <val>最後潛水時間</val>
-    </item>
-    <item>
-        <key>###For equipement rental dive###</key>
-        <val>器材租用準備</val>
-    </item>
-    <item>
-        <key>###Add A Line###</key>
-        <val>增加一行</val>
-    </item>
-    <item>
-        <key>###Transportation###</key>
-        <val>酒店接送</val>
-    </item>
-    <item>
-        <key>###Do you need Hotel Transfer###</key>
-        <val>是否需要酒店接送? (限那霸市區)</val>
-    </item>
-    <item>
-        <key>###Do you need Hotel Transfer Onna###</key>
-        <val>是否需要酒店接送? (限恩納村內)</val>
-    </item>
-    <item>
-        <key>###Yes###</key>
-        <val>是</val>
-    </item>
-    <item>
-        <key>###No###</key>
-        <val>否</val>
-    </item>
-    <item>
-        <key>###Transportation Msg###</key>
-        <val>親愛的客人您好, 不論您需不需要旅館的接送服務, 我們都需要請您提供您在沖繩的酒店或是其它的住宿的聯絡資訊, 以便因天氣或是任何其它狀況發生時, 我們可以聯絡到您.</val>
-    </item>
-    <item>
-        <key>###Hotel Name###</key>
-        <val>酒店名稱</val>
-    </item>
-    <item>
-        <key>###Hotel Telephone no###</key>
-        <val>酒店電話</val>
-    </item>
-    <item>
-        <key>###Name use to Check in Hotel###</key>
-        <val>酒店登記人姓名</val>
-    </item>
-    <item>
-        <key>###Hotel Pick-Up time###</key>
-        <val>酒店接送時間</val>
-    </item>
-    <item>
-        <key>###Hotel pick up time message###</key>
-        <val>酒店接送時間會在活動前一晚 18:00左右, 由住宿酒店轉達</val>
-    </item>
-    <item>
-        <key>###For own transportation###</key>
-        <val>自行駕車</val>
-    </item>
-    <item>
-        <key>###For own transportation dt###</key>
-        <val><![CDATA[請在您的汽車導航系統中輸入我們的電話: <strong>098 869 6329</strong> 或是輸入 <strong>MAP CODE - 33246627*42</strong>來找到我們<br><span class="hl-red">注意* 自行駕車請在 08:00前到達我們 SEASIR那霸的店鋪. 我們有免費的停車場.</span>]]></val>
-    </item>
-    <item>
-        <key>###For own transportation berry###</key>
-        <val>若您自行駕車, 我們有免費的停車場.</val>
-    </item>
-    <item>
-        <key>###For own transportation berry dt###</key>
-        <val><![CDATA[<ul><li>若要到 Marine Club BERRY 請在您的汽車導航系統中輸入我們的電話: <strong>098 928 3800</strong></li><li>若要到 Kouki BEACH 請在您的汽車導航系統中輸入我們的 MAP CODE: <strong>206444213 *85</strong></li></ul>]]></val>
-    </item>
-    <item>
-        <key>###CANCELLATION POLICY and HEALTH CHECK LIST###</key>
-        <val>預約取消政策和自我健檢表</val>
-    </item>
-    <item>
-        <key>###cancellation dt###</key>
-        <val><![CDATA[
+<items>
+	<item>
+		<key>###DocType Html###</key>
+		<val><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="zh-TW">]]></val>
+	</item>
+	<item>
+		<key>###headTitle###</key>
+		<val>沖繩 潛水 浮潛 水上活動 Marine House Seasir</val>
+	</item>
+	<item>
+		<key>###headDesc###</key>
+		<val>沖繩潛水, 浮潛, 水上活動中心 Marine House Seasir</val>
+	</item>
+	<item>
+		<key>###headKeywords###</key>
+		<val>Okinawa,Diving,Dive,Snorkeling,Scuba,Water,Marine,Sports,English,Foreign,Naha,Kerama,Aka,Manza,Kanucha,沖繩,沖縄,潛水,中文,廣東話,中國,香港,水上活動,外國人,浮潛,體驗潛水,那霸</val>
+	</item>
+	<item>
+		<key>###flLink1###</key>
+		<val><![CDATA[<a href="http://www.seasir.com/en/">English</a>]]></val>
+	</item>
+	<item>
+		<key>###flLink2###</key>
+		<val><![CDATA[<a href="http://www.seasir.com/ct/">繁體中文</a>]]></val>
+	</item>
+	<item>
+		<key>###flLink3###</key>
+		<val><![CDATA[<a href="http://www.seasir.com/cn/">简体中文</a>]]></val>
+	</item>
+	<item>
+		<key>###flLink4###</key>
+		<val><![CDATA[<a href="http://www.seasir.com/kr/">한국어</a>]]></val>
+	</item>
+	<item>
+		<key>###flLink5###</key>
+		<val><![CDATA[<a href="http://www.seasir.com/">日本語</a>]]></val>
+	</item>
+	<item>
+		<key>###topH1###</key>
+		<val>Okinawa Scuba Diving And Water Sports</val>
+	</item>
+	<item>
+		<key>###topMenuLi01###</key>
+		<val>首頁</val>
+	</item>
+	<item>
+		<key>###topMenuLi02###</key>
+		<val>關於我們</val>
+	</item>
+	<item>
+		<key>###topMenuLi03###</key>
+		<val>照片集</val>
+	</item>
+	<item>
+		<key>###topMenuLi04###</key>
+		<val>淡旺季月曆</val>
+	</item>
+	<item>
+		<key>###topMenuLi05###</key>
+		<val>取消預約政策</val>
+	</item>
+	<item>
+		<key>###topMenuLi06###</key>
+		<val>健康自檢表</val>
+	</item>
+	<item>
+		<key>###topMenuLi07###</key>
+		<val>聯絡我們</val>
+	</item>
+	<item>
+		<key>###topMenuLi08###</key>
+		<val>Blog</val>
+	</item>
+	<item>
+		<key>###leisureDiving###</key>
+		<val>休閒潛水</val>
+	</item>
+	<item>
+		<key>###lesureDivingPackage###</key>
+		<val>休閒潛水之旅</val>
+	</item>
+	<item>
+		<key>###leisureDivingDesc###</key>
+		<val>Great underwater advantures for people who have diving lincence</val>
+		<val>給有潛水證照的客人, 一場美麗的海中探險</val>
+	</item>
+	<item>
+		<key>###leisureDiving Note###</key>
+		<val>潛水經驗少於30潛且12個月內未潛水者,請參加複習潛水課程。</val>
+	</item>
+	<item>
+		<key>###introDiving###</key>
+		<val>體驗潛水</val>
+	</item>
+	<item>
+		<key>###introDivingPackage###</key>
+		<val>體驗潛水之旅</val>
+	</item>
+	<item>
+		<key>###introDivingDesc###</key>
+		<val>You have never dived before but you'd like to give it a go.</val>
+	</item>
+	<item>
+		<key>###snorkeling###</key>
+		<val>浮潛</val>
+	</item>
+	<item>
+		<key>###Snorkeling Package###</key>
+		<val>浮潛之旅</val>
+	</item>
+	<item>
+		<key>###snorkelingDesc###</key>
+		<val>Easy way to explorer underwater wonders</val>
+	</item>
+	<item>
+		<key>###Scuba Diving###</key>
+		<val>水肺潛水</val>
+	</item>
+	<item>
+		<key>###refresherDivePackage###</key>
+		<val>復習潛水課程</val>
+	</item>
+	<item>
+		<key>###refresherDive###</key>
+		<val>復習潛水</val>
+	</item>
+	<item>
+		<key>###refresherDiveDesc###</key>
+		<val>Forget how to use your BC? Let us help you to bring all your skills back</val>
+	</item>
+	<item>
+		<key>###Refresher Diving Desc Full###</key>
+		<val>專為持有潛水認證但已有超過 12個月沒有潛水的潛水員所設計的課程. 在此課程中可以為您參復習您之前所學過的的潛水知識和潛水技能。</val>
+	</item>
+	<item>
+		<key>###2 dives Package###</key>
+		<val>2 潛行程</val>
+	</item>
+	<item>
+		<key>###2 dives with own equipments###</key>
+		<val>2 潛行程且自帶裝備</val>
+	</item>
+	<item>
+		<key>###Marine walk###</key>
+		<val>水底漫步</val>
+	</item>
+	<item>
+		<key>###Water Sports###</key>
+		<val>水域活動</val>
+	</item>
+	<item>
+		<key>###Full day charter###</key>
+		<val>全天豪華遊艇包船</val>
+	</item>
+	<item>
+		<key>###Half day charter###</key>
+		<val>半天豪華遊艇包船</val>
+	</item>
+	<item>
+		<key>###Dinner Cruise###</key>
+		<val>豪華遊艇晚餐巡航</val>
+	</item>
+	<item>
+		<key>###Whale Watching###</key>
+		<val>賞鯨之旅</val>
+	</item>
+	<item>
+		<key>###PADI Diving Courses###</key>
+		<val>PADI 潛水課程</val>
+	</item>
+	<item>
+		<key>###SEA PEOPLE Retail###</key>
+		<val>海人潛水用品商店</val>
+	</item>
+	<item>
+		<key>###Open Water Diver Course###</key>
+		<val>Open Water 潛水課程</val>
+	</item>
+	<item>
+		<key>###Advance Open Water Course###</key>
+		<val>進階潛水</val>
+	</item>
+	<item>
+		<key>###Rescue Diver Course###</key>
+		<val>救援潛水課程</val>
+	</item>
+	<item>
+		<key>###Aka###</key>
+		<val>阿嘉島</val>
+	</item>
+	<item>
+		<key>###naha###</key>
+		<val>那霸</val>
+	</item>
+	<item>
+		<key>###SEASIR Naha###</key>
+		<val>SEASIR 那霸</val>
+	</item>
+	<item>
+		<key>###SEASIR Aka###</key>
+		<val>SEASIR 阿嘉島</val>
+	</item>
+	<item>
+		<key>###SEASIR Aka Island###</key>
+		<val>SEASIR 阿嘉島</val>
+	</item>
+	<item>
+		<key>###Berry Manza###</key>
+		<val>Berry Manza</val>
+	</item>
+	<item>
+		<key>###Berry Kanucha###</key>
+		<val>Berry Kanucha</val>
+	</item>
+	<item>
+		<key>###Berry Weed Beach###</key>
+		<val>Berry Kouki Beach</val>
+	</item>
+	<item>
+		<key>###kerama###</key>
+		<val>慶良間諸島</val>
+	</item>
+	<item>
+		<key>###Okinawa Churami Aquarium###</key>
+		<val>沖縄美之海水族館</val>
+	</item>
+	<item>
+		<key>###Accommodation###</key>
+		<val>住宿</val>
+	</item>
+	<item>
+		<key>###bookingNow###</key>
+		<val><![CDATA[馬上報名]]></val>
+	</item>
+	<item>
+		<key>###Detail###</key>
+		<val>詳細資訊</val>
+	</item>
+	<item>
+		<key>###diveTimes###</key>
+		<val>潛水次數</val>
+	</item>
+	<item>
+		<key>###checkAllYearCalendar###</key>
+		<val>看全年淡旺季行事曆</val>
+	</item>
+	<item>
+		<key>###dives###</key>
+		<val>潛</val>
+	</item>
+	<item>
+		<key>###dive###</key>
+		<val>潛</val>
+	</item>
+	<item>
+		<key>###And###</key>
+		<val>和</val>
+	</item>
+	<item>
+		<key>###lessDetail###</key>
+		<val>關閉詳細資訊</val>
+	</item>
+	<item>
+		<key>###location###</key>
+		<val>位置</val>
+	</item>
+	<item>
+		<key>###more###</key>
+		<val>更多</val>
+	</item>
+	<item>
+		<key>###normalSeason###</key>
+		<val>平時</val>
+	</item>
+	<item>
+		<key>###packageIncludes###</key>
+		<val>價格包含</val>
+	</item>
+	<item>
+		<key>###peakSeason###</key>
+		<val>忙季</val>
+	</item>
+	<item>
+		<key>###priceFrom###</key>
+		<val>最便宜價格為</val>
+	</item>
+	<item>
+		<key>###price###</key>
+		<val>價目</val>
+	</item>
+	<item>
+		<key>###prices###</key>
+		<val>價目</val>
+	</item>
+	<item>
+		<key>###Note###</key>
+		<val>注意</val>
+	</item>
+	<item>
+		<key>###Return previous page###</key>
+		<val>回到前一頁</val>
+	</item>
+	<item>
+		<key>###seeOnGoogleMaps###</key>
+		<val>從 Google Maps 上看我們的位置</val>
+	</item>
+	<item>
+		<key>###seeMoreDetail###</key>
+		<val>詳細資訊</val>
+	</item>
+	<item>
+		<key>###We do accept creadit card###</key>
+		<val>我們可以使用信用卡</val>
+	</item>
+	<item>
+		<key>###To make a booking###</key>
+		<val>想要報名?</val>
+	</item>
+	<item>
+		<key>###Marine House SEASIR###</key>
+		<val>Marine House SEASIR</val>
+	</item>
+	<item>
+		<key>###Addr###</key>
+		<val><![CDATA[2-2-9 2nd Floor, Minato-machi, Naha city,<br>Okinawa 900-0001 JAPAN]]></val>
+	</item>
+	<item>
+		<key>###Marine House SEASIR NAHA branch###</key>
+		<val>Marine House SEASIR NAHA branch</val>
+	</item>
+	<item>
+		<key>###Naha Addr###</key>
+		<val><![CDATA[2-3-13, Minato-machi, Naha city,<br>Okinawa 900-0001 JAPAN]]></val>
+	</item>
+	<item>
+		<key>###Berry Manza Addr###</key>
+		<val><![CDATA[1860-4 Seragaki, Onna-son,<br>Okinawa 904-0404 JAPAN]]></val>
+	</item>
+	<item>
+		<key>###Weed Beach Addr###</key>
+		<val><![CDATA[117 Kouki, Nago City,<br>Okinawa 905-0025 JAPAN]]></val>
+	</item>
+	<item>
+		<key>###Own Transportation###</key>
+		<val>自行駕車</val>
+	</item>
+	<item>
+		<key>###Own Transportation dt###</key>
+		<val><![CDATA[請在您的汽車導航系統中輸入我們的電話: <span class="hl-red">098 869 6329</span> 或是使用 MAP CODE <span class="hl-red">33246627 *42</span> 來找到我們]]></val>
+	</item>
+	<item>
+		<key>###Own Transportation Weed Beach###</key>
+		<val><![CDATA[請在您的汽車導航系統中輸入我們的 MAP CODE <span class="hl-red">206444213 *85</span> 來到達 Kouki beach]]></val>
+	</item>
+	<item>
+		<key>###Own Transportation Manza###</key>
+		<val><![CDATA[請在您的汽車導航系統中輸入我們的電話: <span class="hl-red">098 982 3800</span> 來找到我們]]></val>
+	</item>
+	<item>
+		<key>###View Larger Map###</key>
+		<val>在 Google 地圖上尋找我們的位置</val>
+	</item>
+	<item>
+		<key>###Charter###</key>
+		<val>包船</val>
+	</item>
+	<item>
+		<key>###Contact###</key>
+		<val>聯絡資訊</val>
+	</item>
+	<item>
+		<key>###Toll Free###</key>
+		<val>免費電話</val>
+	</item>
+	<item>
+		<key>###Japanese Line###</key>
+		<val>日文</val>
+	</item>
+	<item>
+		<key>###English Line###</key>
+		<val>英文, 中文或廣東話</val>
+	</item>
+	<item>
+		<key>###Mandarin Line###</key>
+		<val>中文或廣東話</val>
+	</item>
+	<item>
+		<key>###TEL###</key>
+		<val>電話</val>
+	</item>
+	<item>
+		<key>###E-mail###</key>
+		<val>E-mail</val>
+	</item>
+	<item>
+		<key>###Please Download the booking form###</key>
+		<val>請下載報名表</val>
+	</item>
+	<item>
+		<key>###Fill in the booking form in English and send back to us###</key>
+		<val>請您用英文填寫報名表後寄回給我們</val>
+	</item>
+	<item>
+		<key>###AKA booking form###</key>
+		<val>SEASIR 阿嘉島報名表</val>
+	</item>
+	<item>
+		<key>###Scuba Equipment Rental###</key>
+		<val>潛水器材租用</val>
+	</item>
+	<item>
+		<key>###Equipment Rental###</key>
+		<val>器材租用</val>
+	</item>
+	<item>
+		<key>###Full Scuba Equipment###</key>
+		<val>全套潛水器材</val>
+	</item>
+	<item>
+		<key>###Each Item###</key>
+		<val>每樣器材</val>
+	</item>
+	<item>
+		<key>###Full Set dt###</key>
+		<val>BCD, Regulator, 溼式潛水衣, 潛水電腦錶, 面鏡, 呼叫管, 套鞋, 蛙鞋 (Open Heel)</val>
+	</item>
+	<item>
+		<key>###heavy eq###</key>
+		<val>BCD, Regulator, 溼式潛水衣, 潛水電腦錶</val>
+	</item>
+	<item>
+		<key>###Guest Information###</key>
+		<val>基本資訊</val>
+	</item>
+	<item>
+		<key>###Please fill the form alphabet###</key>
+		<val>請使用英文填寫</val>
+	</item>
+	<item>
+		<key>###Name###</key>
+		<val>姓名</val>
+	</item>
+	<item>
+		<key>###Name Comment###</key>
+		<val>(護照上的英文姓名)</val>
+	</item>
+	<item>
+		<key>###Nationality###</key>
+		<val>國家</val>
+	</item>
+	<item>
+		<key>###Mobile###</key>
+		<val>行動電話</val>
+	</item>
+	<item>
+		<key>###Date of Trip###</key>
+		<val>活動參加日</val>
+	</item>
+	<item>
+		<key>###Add Another Day###</key>
+		<val>增加一天</val>
+	</item>
+	<item>
+		<key>###Introductory Diving And Snorkeling###</key>
+		<val>慶良間諸島 - 體驗潛水 (IDV) &amp; 浮潛 (SNK)</val>
+	</item>
+	<item>
+		<key>###Fill in Name###</key>
+		<val>姓名 (英文)</val>
+	</item>
+	<item>
+		<key>###Age###</key>
+		<val>年齡</val>
+	</item>
+	<item>
+		<key>###Check###</key>
+		<val>項目</val>
+	</item>
+	<item>
+		<key>###For equipement rental###</key>
+		<val>器材租用準備</val>
+	</item>
+	<item>
+		<key>###Height###</key>
+		<val>身高</val>
+	</item>
+	<item>
+		<key>###Weight###</key>
+		<val>體重</val>
+	</item>
+	<item>
+		<key>###Foot size###</key>
+		<val>腳的尺寸（釐米）</val>
+	</item>
+	<item>
+		<key>###Leisure Diving and Refresher Dive###</key>
+		<val>慶良間諸島 - 休閒潛水 (FDV) &amp; 復習潛水課程 (RD)</val>
+	</item>
+	<item>
+		<key>###Type of diving###</key>
+		<val>參加項目</val>
+	</item>
+	<item>
+		<key>###Cert level###</key>
+		<val>認證等級</val>
+	</item>
+	<item>
+		<key>###Total dives###</key>
+		<val>總潛水次數</val>
+	</item>
+	<item>
+		<key>###Date last dive###</key>
+		<val>最後潛水時間</val>
+	</item>
+	<item>
+		<key>###For equipement rental dive###</key>
+		<val>器材租用準備</val>
+	</item>
+	<item>
+		<key>###Add A Line###</key>
+		<val>增加一行</val>
+	</item>
+	<item>
+		<key>###Transportation###</key>
+		<val>酒店接送</val>
+	</item>
+	<item>
+		<key>###Do you need Hotel Transfer###</key>
+		<val>是否需要酒店接送? (限那霸市區)</val>
+	</item>
+	<item>
+		<key>###Do you need Hotel Transfer Onna###</key>
+		<val>是否需要酒店接送? (限恩納村內)</val>
+	</item>
+	<item>
+		<key>###Yes###</key>
+		<val>是</val>
+	</item>
+	<item>
+		<key>###No###</key>
+		<val>否</val>
+	</item>
+	<item>
+		<key>###Transportation Msg###</key>
+		<val>親愛的客人您好, 不論您需不需要旅館的接送服務, 我們都需要請您提供您在沖繩的酒店或是其它的住宿的聯絡資訊, 以便因天氣或是任何其它狀況發生時, 我們可以聯絡到您.</val>
+	</item>
+	<item>
+		<key>###Hotel Name###</key>
+		<val>酒店名稱</val>
+	</item>
+	<item>
+		<key>###Hotel Telephone no###</key>
+		<val>酒店電話</val>
+	</item>
+	<item>
+		<key>###Name use to Check in Hotel###</key>
+		<val>酒店登記人姓名</val>
+	</item>
+	<item>
+		<key>###Hotel Pick-Up time###</key>
+		<val>酒店接送時間</val>
+	</item>
+	<item>
+		<key>###Hotel pick up time message###</key>
+		<val>酒店接送時間會在活動前一晚 18:00左右, 由住宿酒店轉達</val>
+	</item>
+	<item>
+		<key>###For own transportation###</key>
+		<val>自行駕車</val>
+	</item>
+	<item>
+		<key>###For own transportation dt###</key>
+		<val><![CDATA[請在您的汽車導航系統中輸入我們的電話: <strong>098 869 6329</strong> 或是輸入 <strong>MAP CODE - 33246627*42</strong>來找到我們<br><span class="hl-red">注意* 自行駕車請在 08:00前到達我們 SEASIR那霸的店鋪. 我們有免費的停車場.</span>]]></val>
+	</item>
+	<item>
+		<key>###For own transportation berry###</key>
+		<val>若您自行駕車, 我們有免費的停車場.</val>
+	</item>
+	<item>
+		<key>###For own transportation berry dt###</key>
+		<val><![CDATA[<ul><li>若要到 Marine Club BERRY 請在您的汽車導航系統中輸入我們的電話: <strong>098 928 3800</strong></li><li>若要到 Kouki BEACH 請在您的汽車導航系統中輸入我們的 MAP CODE: <strong>206444213 *85</strong></li></ul>]]></val>
+	</item>
+	<item>
+		<key>###CANCELLATION POLICY and HEALTH CHECK LIST###</key>
+		<val>預約取消政策和自我健檢表</val>
+	</item>
+	<item>
+		<key>###cancellation dt###</key>
+		<val><![CDATA[
             當我在這裡打勾表示, 我同意且了解 <a href="./cancel.htm" target="_blank">Marine House SEASIR 的預約取消政策</a>
         ]]></val>
+	</item>
+    <item>
+        <key>###deposit dt 1###</key>
+        <val>親愛的顧客, 每人 </val>
     </item>
     <item>
-        <key>###deposit dt###</key>
-        <val>親愛的顧客, 每人5000日元的押金請求將會通過SEASIR Paypal 帳號發送到您的郵箱,請支付押金來確認您的預約.我們一旦收到您 的押金,會在24小時之內通過郵件寄送預約確認表給您.</val>
+        <key>###deposit dt 2###</key>
+        <val>日元的押金請求將會通過SEASIR Paypal 帳號發送到您的郵箱,請支付押金來確認您的預約.我們一旦收到您 的押金,會在24小時之內通過郵件寄送預約確認表給您.</val>
     </item>
-    <item>
-        <key>###berry deposit dt###</key>
-        <val>親愛的顧客, 每人4000日元的押金請求將會通過SEASIR Paypal 帳號發送到您的郵箱,請支付押金來確認您的預約.我們一旦收到您 的押金,會在24小時之內通過郵件寄送預約確認表給您.</val>
-    </item>
-    <item>
-        <key>###health dt###</key>
-        <val><![CDATA[
+	<item>
+		<key>###health dt###</key>
+		<val><![CDATA[
             當我在這裡打勾表示, 我們已經詳細了解<a href="./health.htm" target="_blank">Marine House SEASIR 健康自檢表</a>的內容. 並且我們沒有人在健康檢查表中有答案為 "是(YES)" 的成員. 若有疏漏或隱瞞自己的健康狀況, 我及我們的成員願意為自已的回答承擔責任.
         ]]></val>
-    </item>
-    <item>
-        <key>###Guest Contact###</key>
-        <val>代表者聯絡方式</val>
-    </item>
-    <item>
-        <key>###Please fill right E-mail that we can contact with you###</key>
-        <val>為了可以與您聯繫, 請您輸入正確的 E-mail</val>
-    </item>
-    <item>
-        <key>###Comment###</key>
-        <val>其它問題</val>
-    </item>
-    <item>
-        <key>###Continue###</key>
-        <val>繼 續</val>
-    </item>
-    <!-- }}} booking form -->
+	</item>
+	<item>
+		<key>###Guest Contact###</key>
+		<val>代表者聯絡方式</val>
+	</item>
+	<item>
+		<key>###Please fill right E-mail that we can contact with you###</key>
+		<val>為了可以與您聯繫, 請您輸入正確的 E-mail</val>
+	</item>
+	<item>
+		<key>###Comment###</key>
+		<val>其它問題</val>
+	</item>
+	<item>
+		<key>###Continue###</key>
+		<val>繼 續</val>
+	</item>
 </items>
-

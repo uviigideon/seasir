@@ -1,166 +1,180 @@
 <items>
-    <!-- {{{ header -->
-    <item>
-        <key>###headTitle###</key>
-        <val>沖繩離島潛水, 浮潛, 住宿 Marine House Seasir 阿嘉島</val>
-    </item>
-    <item>
-        <key>###headDesc###</key>
-        <val>SEASIR 阿嘉島的特別之處不僅僅在於我們提供的潛水服務, 更是在於阿嘉島本身的小島上, 平和安逸的環境. 您可以浮潛在阿嘉島美麗的 NISHIHAMA海灘, Maja海灘或找一個只屬於您的私人海灘享受屬於自己的甜蜜時光. </val>
-    </item>
-    <item>
-        <key>###headKeywords###</key>
-        <val>沖繩,沖縄,離島,潛水,浮潛,體驗潛水,住宿,中文,廣東話,慶良間,阿嘉島,台灣,香港,中國,外國人</val>
-    </item>
-    <!-- }}} header -->
-    <item>
-        <key>###H2###</key>
-        <val>Marine House SEASIR 阿嘉島 (Akajima)</val>
-    </item>
-    <item>
-        <key>###theTeamIntro###</key>
-        <val><![CDATA[
+	<item>
+		<key>###headTitle###</key>
+		<val>沖繩離島潛水, 浮潛, 住宿 Marine House Seasir 阿嘉島</val>
+	</item>
+	<item>
+		<key>###headDesc###</key>
+		<val>SEASIR 阿嘉島的特別之處不僅僅在於我們提供的潛水服務, 更是在於阿嘉島本身的小島上, 平和安逸的環境. 您可以浮潛在阿嘉島美麗的 NISHIHAMA海灘, Maja海灘或找一個只屬於您的私人海灘享受屬於自己的甜蜜時光. </val>
+	</item>
+	<item>
+		<key>###headKeywords###</key>
+		<val>沖繩,沖縄,離島,潛水,浮潛,體驗潛水,住宿,中文,廣東話,慶良間,阿嘉島,台灣,香港,中國,外國人</val>
+	</item>
+	<item>
+		<key>###H2###</key>
+		<val>Marine House SEASIR 阿嘉島 (Akajima)</val>
+	</item>
+	<item>
+		<key>###theTeamIntro###</key>
+		<val><![CDATA[
 Marine House SEASIR 阿嘉島潛水公司成立於1983年. SEASIR 阿嘉島的特別之處不僅僅在於我們提供的潛水服務, 更是在於阿嘉島本身的小島上, 平和安逸的環境. 您可以浮潛在阿嘉島美麗的 NISHIHAMA海灘, Maja海灘或找一個只屬於您的私人海灘享受屬於自己的甜蜜時光. SEASIR 阿嘉島分店不僅僅是一個潛水場所, 他還是在 KERAMA 群島上為您提供各種各樣專業潛水設施的小旅社.]]></val>
-    </item>
-    <item>
-        <key>###Accommodation###</key>
-        <val>SEASIR Aka island 住宿</val>
-    </item>
-    <item>
-        <key>###1st Floor Room###</key>
-        <val>一樓雅房</val>
-    </item>
-    <item>
-        <key>###1st Floor Room Desc###</key>
-        <val>一樓的 3間和式房間最多可以容納兩個人. 共用廁所和衛浴在房間外.</val>
-    </item>
-    <item>
-        <key>###2nd Floor Room###</key>
-        <val>二樓套房</val>
-    </item>
-    <item>
-        <key>###2nd Floor Room Desc###</key>
-        <val>4間西式兩床的房間可停留兩人或是 3間傳統和式房可停留兩到三人. 所有的房間內都有廁所和衛浴.</val>
-    </item>
-    <item>
-        <key>###3rd Floor Room###</key>
-        <val>三樓套房</val>
-    </item>
-    <item>
-        <key>###3rd Floor Room Desc###</key>
-        <val>5間西式房間可以停留三個人或是 2間和式房可停留兩到三人. 所有的房間內都有分離的廁所和衛浴.</val>
-    </item>
-    <item>
-        <key>###Season Price###</key>
-        <val>淡忙季價格</val>
-    </item>
-    <item>
-        <key>###Single###</key>
-        <val>單人</val>
-    </item>
-    <item>
-        <key>###Twin Sharing###</key>
-        <val>雙人分攤</val>
-    </item>
-    <item>
-        <key>###Triple Sharing###</key>
-        <val>三人分攤</val>
-    </item>
-    <item>
-        <key>###Not Available###</key>
-        <val>N/A</val>
-    </item>
-    <item>
-        <key>###dt###</key>
-        <val>所有房間價格皆為一人之價格, 包含早午晚餐</val>
-    </item>
-    <item>
-        <key>###Japanese Tatami room###</key>
-        <val>傳統和式房</val>
-    </item>
-    <item>
-        <key>###western bed style###</key>
-        <val>西式房間</val>
-    </item>
-    <item>
-        <key>###Daily###</key>
-        <val>每日</val>
-    </item>
-    <item>
-        <key>###Intro Diving###</key>
-        <val>體驗潛水</val>
-    </item>
-    <item>
-        <key>###Intro Diving dt###</key>
-        <val>專為沒有潛水證照但想體驗水下世界樂趣的您所設計的體驗潛水, 快來和我們最專業的潛水指導員一同體驗 20分鐘的水下世界探險.</val>
-    </item>
-    <item>
-        <key>###Snorkeling dt###</key>
-        <val>和我們的教練一起在淺珊瑚礁和熱帶群中浮潛悠遊</val>
-    </item>
-    <item>
-        <key>###Adult###</key>
-        <val>成人</val>
-    </item>
-    <item>
-        <key>###Child###</key>
-        <val>小孩</val>
-    </item>
-    <item>
-        <key>###Price Includes###</key>
-        <val>價格包含</val>
-    </item>
-    <item>
-        <key>###Price Includes dt###</key>
-        <val>包含: 氣瓶,配重, 船以及教練隨同</val>
-    </item>
-    <item>
-        <key>###light eq###</key>
-        <val>包含: 面鏡, 呼吸管, 套鞋, 蛙鞋 (Open Heel)</val>
-    </item>
-    <item>
-        <key>###Daily Time Schedule###</key>
-        <val>每日行程表</val>
-    </item>
-    <item>
-        <key>###Night Diving###</key>
-        <val>夜潛</val>
-    </item>
-    <item>
-        <key>###First Time###</key>
-        <val>初次</val>
-    </item>
-    <item>
-        <key>###Experienced###</key>
-        <val>有經驗</val>
-    </item>
-    <item>
-        <key>###Refresher Course###</key>
-        <val>復習潛水課程</val>
-    </item>
-    <item>
-        <key>###Price Includes ref dt###</key>
-        <val>知識復習, 氣瓶, 配重, 乖船費及教練.</val>
-    </item>
-    <item>
-        <key>###Dining Area###</key>
-        <val>餐廳</val>
-    </item>
-    <item>
-        <key>###Sunroof Jacuzzi###</key>
-        <val>屋頂按摩浴缸</val>
-    </item>
-    <item>
-        <key>###Dining Area And Sunroof Jacuzii Desc###</key>
-        <val><![CDATA[早餐和晚餐的餐廳位在 2樓有免費的無線網路可以使用.<br><br>在一整天的潛水之後, 讓按摩浴缸來為您消除疲勞.]]></val>
-    </item>
-    <item>
-        <key>###Active Schedule Time dive###</key>
-        <val><![CDATA[
+	</item>
+	<item>
+		<key>###Accommodation###</key>
+		<val>SEASIR Aka island 住宿</val>
+	</item>
+	<item>
+		<key>###1st Floor Room###</key>
+		<val>一樓雅房</val>
+	</item>
+	<item>
+		<key>###1st Floor Room Desc###</key>
+		<val>一樓的 3間和式房間最多可以容納兩個人. 共用廁所和衛浴在房間外.</val>
+	</item>
+	<item>
+		<key>###2nd Floor Room###</key>
+		<val>二樓套房</val>
+	</item>
+	<item>
+		<key>###2nd Floor Room Desc###</key>
+		<val>4間西式兩床的房間可停留兩人或是 3間傳統和式房可停留兩到三人. 所有的房間內都有廁所和衛浴.</val>
+	</item>
+	<item>
+		<key>###3rd Floor Room###</key>
+		<val>三樓套房</val>
+	</item>
+	<item>
+		<key>###3rd Floor Room Desc###</key>
+		<val>5間西式房間可以停留三個人或是 2間和式房可停留兩到三人. 所有的房間內都有分離的廁所和衛浴.</val>
+	</item>
+	<item>
+		<key>###peakseason date###</key>
+		<val><![CDATA[2015年旺季:4月29日~5月6日 & 6月13日~9月30日 & 10月10日~10月13日]]></val>
+	</item>
+	<item>
+		<key>###Season Price###</key>
+		<val>淡忙季價格</val>
+	</item>
+	<item>
+		<key>###Single###</key>
+		<val>單人</val>
+	</item>
+	<item>
+		<key>###Twin Sharing###</key>
+		<val>雙人分攤</val>
+	</item>
+	<item>
+		<key>###Triple Sharing###</key>
+		<val>三人分攤</val>
+	</item>
+	<item>
+		<key>###Not Available###</key>
+		<val>N/A</val>
+	</item>
+	<item>
+		<key>###dt###</key>
+		<val>所有房間價格皆為一人之價格, 包含早午晚餐</val>
+	</item>
+	<item>
+		<key>###Japanese Tatami room###</key>
+		<val>傳統和式房</val>
+	</item>
+	<item>
+		<key>###western bed style###</key>
+		<val>西式房間</val>
+	</item>
+	<item>
+		<key>###Daily###</key>
+		<val>每日</val>
+	</item>
+	<item>
+		<key>###Intro Diving###</key>
+		<val>體驗潛水</val>
+	</item>
+	<item>
+		<key>###Intro Diving dt###</key>
+		<val>專為沒有潛水證照但想體驗水下世界樂趣的您所設計的體驗潛水, 快來和我們最專業的潛水指導員一同體驗 20分鐘的水下世界探險.</val>
+	</item>
+	<item>
+		<key>###Snorkeling dt###</key>
+		<val>和我們的教練一起在淺珊瑚礁和熱帶群中浮潛悠遊</val>
+	</item>
+	<item>
+		<key>###Adult###</key>
+		<val>成人</val>
+	</item>
+	<item>
+		<key>###Child###</key>
+		<val>小孩</val>
+	</item>
+	<item>
+		<key>###Price Includes###</key>
+		<val>價格包含</val>
+	</item>
+	<item>
+		<key>###Price Includes dt###</key>
+		<val>包含: 氣瓶,配重, 船以及教練隨同</val>
+	</item>
+	<item>
+		<key>###light eq###</key>
+		<val>包含: 面鏡, 呼吸管, 套鞋, 蛙鞋 (Open Heel)</val>
+	</item>
+	<item>
+		<key>###Daily Time Schedule###</key>
+		<val>每日行程表</val>
+	</item>
+	<item>
+		<key>###Night Diving###</key>
+		<val>夜潛</val>
+	</item>
+	<item>
+		<key>###First Time###</key>
+		<val>初次</val>
+	</item>
+	<item>
+		<key>###Experienced###</key>
+		<val>有經驗</val>
+	</item>
+	<item>
+		<key>###Refresher Course###</key>
+		<val>復習潛水課程</val>
+	</item>
+	<item>
+		<key>###Price Includes ref dt###</key>
+		<val>知識復習, 氣瓶, 配重, 乖船費及教練.</val>
+	</item>
+	<item>
+		<key>###Dining Area###</key>
+		<val>餐廳</val>
+	</item>
+	<item>
+		<key>###Sunroof Jacuzzi###</key>
+		<val>屋頂按摩浴缸</val>
+	</item>
+	<item>
+		<key>###Dining Area And Sunroof Jacuzii Desc###</key>
+		<val><![CDATA[早餐和晚餐的餐廳位在 2樓有免費的無線網路可以使用.<br><br>在一整天的潛水之後, 讓按摩浴缸來為您消除疲勞.]]></val>
+	</item>
+	<item>
+		<key>###Dive Computer###</key>
+		<val>潛水錶</val>
+	</item>
+	<item>
+		<key>###heavy eq###</key>
+		<val>BCD（浮力控制器），呼吸器，溼式潛水衣</val>
+	</item>
+	<item>
+		<key>###Booking procedure dt###</key>
+		<val><![CDATA[請點選<span class="booking-blue">馬上預約</span>。填入您的電子信箱和必要的資料後,您將收到SEASIR的Paypal預約金請求書。為確保您的預約,請在收到預約金請求書的3日內支付每人5,000日元的預約金。若提出預約申請日距離您欲預約的日期不到3日,請您在24小時內支付預約金。若期限內未收到預約金,則您的預約視同放棄。]]></val>
+	</item>
+	<item>
+		<key>###Active Schedule Time dive###</key>
+		<val><![CDATA[
 <li>09:00</li>
 <li>11:00</li>
 <li>13:00</li>
 <li>15:00</li>
             ]]></val>
-    </item>
+	</item>
 </items>

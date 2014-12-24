@@ -20,10 +20,6 @@
         <val><![CDATA[Please key in this phone number for car NAVI system <strong>098 869 6329</strong> or this <strong>MAP CODE - 33246627*42</strong><br><span class="hl-red">Note * For own transport please be at our SEASIR NAHA before 08:00 for AM trip or 13:00 for PM trip. We do provide FREE car parking space.</span>]]></val>
     </item>
     <item>
-        <key>###deposit dt###</key>
-        <val>You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY3,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than 3 days notice from the departure date. All booking request will cancel if no deposit receive.</val>
-    </item>
-    <item>
         <key>###Activity###</key>
         <val>Activity</val>
     </item>

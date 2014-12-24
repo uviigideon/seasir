@@ -1,0 +1,78 @@
+<items>
+    <item>
+        <key>###H2###</key>
+        <val>PADI 스쿠버 다이빙 코스 예약 양식</val>
+    </item>
+    <item>
+        <key>###deposit dt###</key>
+        <val>You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY3,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than 3 days notice from the departure date. All booking request will cancel if no deposit receive.</val>
+    </item>
+    <item>
+        <key>###Open water Diver###</key>
+        <val>오픈 워터 다이버</val>
+    </item>
+    <item>
+        <key>###Advanced Diver###</key>
+        <val>상급 다이버</val>
+    </item>
+    <item>
+        <key>###Rescue Diver###</key>
+        <val>구조 다이버</val>
+    </item>
+    <item>
+        <key>###Diving Courses###</key>
+        <val>다이빙 코스</val>
+    </item>
+    <item>
+        <key>###Diver Information###</key>
+        <val>Diver Information</val>
+    </item>
+    <item>
+        <key>###diving manual lang###</key>
+        <val>다이빙 매뉴얼 언어</val>
+    </item>
+    <item>
+        <key>###training lang###</key>
+        <val>교육 시 사용 언어</val>
+    </item>
+    <item>
+        <key>###Choose your language###</key>
+        <val>언어 선택</val>
+    </item>
+    <item>
+        <key>###English###</key>
+        <val>영어</val>
+    </item>
+    <item>
+        <key>###Chinese###</key>
+        <val>중국어</val>
+    </item>
+    <item>
+        <key>###Japanese###</key>
+        <val>일본어</val>
+    </item>
+    <item>
+        <key>###I would like bulabula###</key>
+        <val>내가 원하는 다이빙 코스 시작 날짜는 : </val>
+    </item>
+    <item>
+        <key>###Date of Course###</key>
+        <val>코스 날짜</val>
+    </item>
+    <item>
+        <key>###Date of Course note###</key>
+        <val>PADI 다이빙 가이드에 따르면 스쿠버 다이빙 후 싱글 다이빙의 경우 12시간 동안, 2번 이상 다이빙을 한 경우 18시간(가능하면 24시간) 동안 고도가 높은 곳(비행)에 올라가서는 안됩니다.</val>
+    </item>
+    <item>
+        <key>###Check in Date###</key>
+        <val>체크인 날짜</val>
+    </item>
+    <item>
+        <key>###Check out Date###</key>
+        <val>체크아웃 날짜</val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+</items>

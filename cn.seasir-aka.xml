@@ -1,166 +1,180 @@
-﻿<items>
-    <!-- {{{ header -->
-    <item>
-        <key>###headTitle###</key>
-        <val>冲绳离岛潜水, 浮潜, 住宿 Marine House Seasir 阿嘉岛</val>
-    </item>
-    <item>
-        <key>###headDesc###</key>
-        <val>SEASIR 阿嘉岛的特别之处不仅仅在於我们提供的潜水服务, 更是在於阿嘉岛本身的小岛上, 平和安逸的环境. 您可以浮潜在阿嘉岛美丽的 NISHIHAMA海滩, Maja海滩或找一个只属於您的私人海滩享受属於自己的甜蜜时光.</val>
-    </item>
-    <item>
-        <key>###headKeywords###</key>
-        <val>冲绳,冲縄,离岛,潜水,浮潜,体验潜水,住宿,中文,广东话,庆良间,阿嘉岛,台湾,香港,中国,外国人</val>
-    </item>
-    <!-- }}} header -->
-    <item>
-        <key>###H2###</key>
-        <val>Marine House SEASIR 阿嘉岛 (Akajima)</val>
-    </item>
-    <item>
-        <key>###theTeamIntro###</key>
-        <val><![CDATA[
+<items>
+	<item>
+		<key>###headTitle###</key>
+		<val>冲绳离岛潜水, 浮潜, 住宿 Marine House Seasir 阿嘉岛</val>
+	</item>
+	<item>
+		<key>###headDesc###</key>
+		<val>SEASIR 阿嘉岛的特别之处不仅仅在於我们提供的潜水服务, 更是在於阿嘉岛本身的小岛上, 平和安逸的环境. 您可以浮潜在阿嘉岛美丽的 NISHIHAMA海滩, Maja海滩或找一个只属於您的私人海滩享受属於自己的甜蜜时光.</val>
+	</item>
+	<item>
+		<key>###headKeywords###</key>
+		<val>冲绳,冲縄,离岛,潜水,浮潜,体验潜水,住宿,中文,广东话,庆良间,阿嘉岛,台湾,香港,中国,外国人</val>
+	</item>
+	<item>
+		<key>###H2###</key>
+		<val>Marine House SEASIR 阿嘉岛 (Akajima)</val>
+	</item>
+	<item>
+		<key>###theTeamIntro###</key>
+		<val><![CDATA[
 Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的特別之处不仅仅在于我们提供的潜水服务, 更在于阿嘉島本身小島上和平安逸世外桃源般的环境。您可以浮潜在阿嘉島美丽的 NISHIHAMA海滩, Maja海滩或找一个只属于您的私人海滩享受属于自己的甜蜜时光. SEASIR 阿嘉岛分店不仅仅是一个潜水场所, 他还是在 KERAMA 群岛上为您提供各种各样专业潜水设施的小旅社.]]></val>
-    </item>
-    <item>
-        <key>###Accommodation###</key>
-        <val>SEASIR Aka island 住宿</val>
-    </item>
-    <item>
-        <key>###1st Floor Room###</key>
-        <val>一楼雅房</val>
-    </item>
-    <item>
-        <key>###1st Floor Room Desc###</key>
-        <val>一楼的 3间和式房间最多每间可以容纳两个人. 共用厕所和卫浴在房间外.</val>
-    </item>
-    <item>
-        <key>###2nd Floor Room###</key>
-        <val>二楼套房</val>
-    </item>
-    <item>
-        <key>###2nd Floor Room Desc###</key>
-        <val>4间西式两床的房间每间可住宿两人 或是 3间传统和式房每间可住宿两到三人. 所有的房间內都有厕所和卫浴.</val>
-    </item>
-    <item>
-        <key>###3rd Floor Room###</key>
-        <val>三楼套房</val>
-    </item>
-    <item>
-        <key>###3rd Floor Room Desc###</key>
-        <val>5间西式房间可以每间可住宿三人 或是 2间和式房可住宿两到三人. 所有的房间內都有分离的厕所和卫浴.</val>
-    </item>
-    <item>
-        <key>###Season Price###</key>
-        <val>淡忙季价格</val>
-    </item>
-    <item>
-        <key>###Single###</key>
-        <val>单人</val>
-    </item>
-    <item>
-        <key>###Twin Sharing###</key>
-        <val>双人分摊</val>
-    </item>
-    <item>
-        <key>###Triple Sharing###</key>
-        <val>三人分摊</val>
-    </item>
-    <item>
-        <key>###Not Available###</key>
-        <val>N/A</val>
-    </item>
-    <item>
-        <key>###dt###</key>
-        <val>所有房间价格皆为一人之价格, 包含早午晚餐</val>
-    </item>
-    <item>
-        <key>###Japanese Tatami room###</key>
-        <val>传统和式房</val>
-    </item>
-    <item>
-        <key>###western bed style###</key>
-        <val>西式房间</val>
-    </item>
-    <item>
-        <key>###Daily###</key>
-        <val>每日</val>
-    </item>
-    <item>
-        <key>###Intro Diving###</key>
-        <val>体验潜水</val>
-    </item>
-    <item>
-        <key>###Intro Diving dt###</key>
-        <val>专为没有潜水证但想体验水下世界乐趣的您所设计的体验潜水, 快来和我们最专业的潜水指导员一同体验 20分钟的水下世界探险.</val>
-    </item>
-    <item>
-        <key>###Snorkeling dt###</key>
-        <val>和我们的教练一起在浅珊瑚礁和热带群中浮潜悠游</val>
-    </item>
-    <item>
-        <key>###Adult###</key>
-        <val>成人</val>
-    </item>
-    <item>
-        <key>###Child###</key>
-        <val>小孩</val>
-    </item>
-    <item>
-        <key>###Price Includes###</key>
-        <val>价格包含</val>
-    </item>
-    <item>
-        <key>###Price Includes dt###</key>
-        <val>包含: 气瓶,配重, 船以及教练随同</val>
-    </item>
-    <item>
-        <key>###light eq###</key>
-        <val>包含: 面镜, 呼吸管, 套鞋, 蛙鞋 (Open Heel)</val>
-    </item>
-    <item>
-        <key>###Daily Time Schedule###</key>
-        <val>每日行程表</val>
-    </item>
-    <item>
-        <key>###Night Diving###</key>
-        <val>夜潜</val>
-    </item>
-    <item>
-        <key>###First Time###</key>
-        <val>初次</val>
-    </item>
-    <item>
-        <key>###Experienced###</key>
-        <val>有经验</val>
-    </item>
-    <item>
-        <key>###Refresher Course###</key>
-        <val>复习潜水课程</val>
-    </item>
-    <item>
-        <key>###Price Includes ref dt###</key>
-        <val>知识复习, 气瓶, 配重, 乖船费及教练.</val>
-    </item>
-    <item>
-        <key>###Dining Area###</key>
-        <val>餐厅</val>
-    </item>
-    <item>
-        <key>###Sunroof Jacuzzi###</key>
-        <val>屋顶按摩浴缸</val>
-    </item>
-    <item>
-        <key>###Dining Area And Sunroof Jacuzii Desc###</key>
-        <val><![CDATA[早餐和晚餐的餐厅在 2楼有免费的无线网络可以使用.<br><br>在一整天的潜水之后, 让按摩浴缸来为您消除疲劳.]]></val>
-    </item>
-    <item>
-        <key>###Active Schedule Time dive###</key>
-        <val><![CDATA[
+	</item>
+	<item>
+		<key>###Accommodation###</key>
+		<val>SEASIR Aka island 住宿</val>
+	</item>
+	<item>
+		<key>###1st Floor Room###</key>
+		<val>一楼雅房</val>
+	</item>
+	<item>
+		<key>###1st Floor Room Desc###</key>
+		<val>一楼的 3间和式房间最多每间可以容纳两个人. 共用厕所和卫浴在房间外.</val>
+	</item>
+	<item>
+		<key>###2nd Floor Room###</key>
+		<val>二楼套房</val>
+	</item>
+	<item>
+		<key>###2nd Floor Room Desc###</key>
+		<val>4间西式两床的房间每间可住宿两人 或是 3间传统和式房每间可住宿两到三人. 所有的房间內都有厕所和卫浴.</val>
+	</item>
+	<item>
+		<key>###3rd Floor Room###</key>
+		<val>三楼套房</val>
+	</item>
+	<item>
+		<key>###3rd Floor Room Desc###</key>
+		<val>5间西式房间可以每间可住宿三人 或是 2间和式房可住宿两到三人. 所有的房间內都有分离的厕所和卫浴.</val>
+	</item>
+	<item>
+		<key>###peakseason date###</key>
+		<val><![CDATA[2015年旺季 : 4月29日~5月6日  &  6月13日~9月30日 & 10月10日~10月13日]]></val>
+	</item>
+	<item>
+		<key>###Season Price###</key>
+		<val>淡忙季价格</val>
+	</item>
+	<item>
+		<key>###Single###</key>
+		<val>单人</val>
+	</item>
+	<item>
+		<key>###Twin Sharing###</key>
+		<val>双人分摊</val>
+	</item>
+	<item>
+		<key>###Triple Sharing###</key>
+		<val>三人分摊</val>
+	</item>
+	<item>
+		<key>###Not Available###</key>
+		<val>N/A</val>
+	</item>
+	<item>
+		<key>###dt###</key>
+		<val>所有房间价格皆为一人之价格, 包含早午晚餐</val>
+	</item>
+	<item>
+		<key>###Japanese Tatami room###</key>
+		<val>传统和式房</val>
+	</item>
+	<item>
+		<key>###western bed style###</key>
+		<val>西式房间</val>
+	</item>
+	<item>
+		<key>###Daily###</key>
+		<val>每日</val>
+	</item>
+	<item>
+		<key>###Intro Diving###</key>
+		<val>体验潜水</val>
+	</item>
+	<item>
+		<key>###Intro Diving dt###</key>
+		<val>专为没有潜水证但想体验水下世界乐趣的您所设计的体验潜水, 快来和我们最专业的潜水指导员一同体验 20分钟的水下世界探险.</val>
+	</item>
+	<item>
+		<key>###Snorkeling dt###</key>
+		<val>和我们的教练一起在浅珊瑚礁和热带群中浮潜悠游</val>
+	</item>
+	<item>
+		<key>###Adult###</key>
+		<val>成人</val>
+	</item>
+	<item>
+		<key>###Child###</key>
+		<val>小孩</val>
+	</item>
+	<item>
+		<key>###Price Includes###</key>
+		<val>价格包含</val>
+	</item>
+	<item>
+		<key>###Price Includes dt###</key>
+		<val>包含: 气瓶,配重, 船以及教练随同</val>
+	</item>
+	<item>
+		<key>###light eq###</key>
+		<val>包含: 面镜, 呼吸管, 套鞋, 蛙鞋 (Open Heel)</val>
+	</item>
+	<item>
+		<key>###Daily Time Schedule###</key>
+		<val>每日行程表</val>
+	</item>
+	<item>
+		<key>###Night Diving###</key>
+		<val>夜潜</val>
+	</item>
+	<item>
+		<key>###First Time###</key>
+		<val>初次</val>
+	</item>
+	<item>
+		<key>###Experienced###</key>
+		<val>有经验</val>
+	</item>
+	<item>
+		<key>###Refresher Course###</key>
+		<val>复习潜水课程</val>
+	</item>
+	<item>
+		<key>###Price Includes ref dt###</key>
+		<val>知识复习, 气瓶, 配重, 乖船费及教练.</val>
+	</item>
+	<item>
+		<key>###Dining Area###</key>
+		<val>餐厅</val>
+	</item>
+	<item>
+		<key>###Sunroof Jacuzzi###</key>
+		<val>屋顶按摩浴缸</val>
+	</item>
+	<item>
+		<key>###Dining Area And Sunroof Jacuzii Desc###</key>
+		<val><![CDATA[早餐和晚餐的餐厅在 2楼有免费的无线网络可以使用.<br><br>在一整天的潜水之后, 让按摩浴缸来为您消除疲劳.]]></val>
+	</item>
+	<item>
+		<key>###Dive Computer###</key>
+		<val>潜水电脑表</val>
+	</item>
+	<item>
+		<key>###heavy eq###</key>
+		<val>BCD（浮力控制器），呼吸器，湿式潜水衣</val>
+	</item>
+	<item>
+		<key>###Booking procedure dt###</key>
+		<val><![CDATA[点击<span class="booking-blue">马上报名</span>后,您需要填入可以联系到您的邮箱和所需的信息,然后提交预约表。如果报名成功，您会收到SEASIR LTD.账户的PayPal预约金请求邮件。为确保您的预约，请在收到预约金请求的3天之内支付每人5,000日元的预约金。如果距您的预约日期不到3天，请在24小时之内支付完成预约金。若在期限内未收到您的预约金，您的预约将会被自动取消。]]></val>
+	</item>
+	<item>
+		<key>###Active Schedule Time dive###</key>
+		<val><![CDATA[
 <li>09:00</li>
 <li>11:00</li>
 <li>13:00</li>
 <li>15:00</li>
             ]]></val>
-    </item>
+	</item>
 </items>

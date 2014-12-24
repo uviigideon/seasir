@@ -1,0 +1,70 @@
+<items>
+	<item>
+		<key>###Ferry departure date###</key>
+		<val>船离开阿嘉岛日期</val>
+	</item>
+	<item>
+		<key>###time###</key>
+		<val>时间点</val>
+	</item>
+	<item>
+		<key>###Number of person stay###</key>
+		<val>本间房入住人数</val>
+	</item>
+	<item>
+		<key>###2F Tatami Room###</key>
+		<val>2楼 和式房 带有卫生间浴室</val>
+	</item>
+	<item>
+		<key>###Booking note###</key>
+		<val><![CDATA[<b>亲爱的顾客,</b><br> 
+                每一份预约表只能填写一个房间的信息，请在此表填写同一个房间里的住客的信息和活动详情。我们需要以下所有信息以便提前为您准备。<span class="hl-red">如果您需要预定2间房或以上,请另外填写表格</span>。]]>
+        </val>
+	</item>
+	<item>
+		<key>###3F Western Bed Room###</key>
+		<val>3楼 西式房 带有卫生间浴室</val>
+	</item>
+	<item>
+		<key>###Ferry arrival date###</key>
+		<val>船到达阿嘉岛日期</val>
+	</item>
+	<item>
+		<key>###1F Tatami Room###</key>
+		<val>1楼 和式房(共用卫生间,浴室)</val>
+	</item>
+	<item>
+		<key>###Type of room###</key>
+		<val>房间类型</val>
+	</item>
+	<item>
+		<key>###H2###</key>
+		<val>SEASIR 阿嘉岛店预约表</val>
+	</item>
+	<item>
+		<key>###3F Tatami Room###</key>
+		<val>3楼 和式房 带有卫生间浴室</val>
+	</item>
+	<item>
+		<key>###2F Western Bed Room###</key>
+		<val>2楼 西式房 带有卫生间浴室</val>
+	</item>
+	<item>
+		<key>###Check out date###</key>
+		<val>退房日期</val>
+	</item>
+	<item>
+		<key>###Check in date###</key>
+		<val>入住日期</val>
+	</item>
+	<item>
+		<key>###Marine Activity Booking###</key>
+		<val>潜水等活动预约</val>
+	</item>
+	<item>
+		<key>###Booking Block###</key>
+		<val><![CDATA[<tr><td><table style="border-collapse:collapse;margin:10px 0;"><tr><td width="250">顾客姓名:<input type="hidden" name="guest-NUM" value="--------------------------------------------------"><select size="1" name="guest-NUM-gender"><option value="Male">MR.</option><option value="Female">MS.</option></select><input type="text" class="guest-name" name="guest-NUM-name"></td><td colspan="2" width="620">年龄:<input size="1" type="text" name="guest-NUM-age"></td></tr><tr><td>活动类型: <select size="1" name="guest-NUM-activity"><option value="Snorkeling">浮潜</option><option value="intro div">体验潜水</option><option value="leisure-div">休闲潜水</option><option value="ref div">复习潜水</option></select></td><td colspan="2">活动日期:<input type="text" class="date-of-trip" name="guest-NUM-activity-date-1"><input class="add-another-day" type="button" value="新增一天"></td></tr><tr><td>潜水员等级: <select size="1" name="guest-NUM-cert"><option value="None">无潜水证</option><option value="OWD">Open Water Diver</option><option value="AD">Advance Diver</option><option value="RD">Rescue Diver</option><option value="DM">Dive Master</option><option value="INS">Instructor</option></select></td><td>上次潜水时间: <input type="text" class="date-of-trip" name="guest-NUM-last-dive"></td><td>总共潜水次数: <input type="text" name="guest-NUM-total-dive"></td></tr><tr><td rowspan="2">器材租借情况</td><td colspan="2"> 不租借<input type="checkbox" name="guest-NUM-rental" value="no rental"> 浮力控制器(BCD)<input type="checkbox" name="guest-NUM-rental" value="BCD"> 呼吸器(REG)<input type="checkbox" name="guest-NUM-rental" value="REG"> 湿衣(Wetsuite)<input type="checkbox" name="guest-NUM-rental" value="Wetsuite"> 电脑表(Dive Com)<input type="checkbox" name="guest-NUM-rental" value="Dive Com"> 面镜(Mask)<input type="checkbox" name="guest-NUM-rental" value="Mask"> 蛙鞋(Fins)<input type="checkbox" name="guest-NUM-rental" value="Fins"> 套靴(Boots)<input type="checkbox" name="guest-NUM-rental" value="Boots"> 背心(Vest)<input type="checkbox" name="guest-NUM-rental" value="Vest"></td></tr><tr><td colspan="2"> 身高<input type="text" class="width-1" size="1" name="guest-NUM-height">cm &nbsp;&nbsp;&nbsp; 体重<input type="text" class="width-1" size="1" name="guest-NUM-weight">kg &nbsp;&nbsp;&nbsp; 脚长<input type="text" class="width-1" size="1" name="guest-NUM-foot-size">cm</td></tr></table></td></tr>]]></val>
+		<todo></todo>
+	</item>
+</items>
+

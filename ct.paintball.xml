@@ -1,0 +1,115 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Water Sports Center – Marine Club BERRY Paintball</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>Okinawa water sports center provide English, Mandarin and Cantonese speaking marine staff</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Water,Sports,Banana,Boat,Jet,Ski,Kayak,Scuba,Diving,Snorkeling,English,Foreign,Paintball,漆彈</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###theTeam###</key>
+        <val>Berry Paintball</val>
+    </item>
+    <item>
+        <key>###theTeamIntro###</key>
+        <val><![CDATA[從2014年開始Berry店在名護市Kanucha Bay Hotel &Villas 渡假飯店開始漆彈生存遊戲活動的試營運。漆彈遊戲可為家人、朋友、公司夥伴，設計不同遊戲內容一起玩樂的户外活動。我們強烈建議您以團隊形式參與彩彈射擊活動，體驗團體野戰的樂趣。除了團體遊戲外，Berry店也設計適合家庭活動的漆彈遊戲。]]></val>
+    </item>
+    <item>
+        <key>###Own Preparation###</key>
+        <val>您需準備</val>
+    </item>
+    <item>
+        <key>###Own Preparation dt###</key>
+        <val><![CDATA[
+            <li>在遊戲期間需著長袖長褲 (牛仔褲和材質較厚的上衣)</li>
+            <li>自備換洗衣物，遊戲後可作更換 (提供淋浴設備和浴巾)</li>
+            <li>户外運動鞋 (需完全覆蓋腳部)</li>
+            <li>遊戲時使用的小毛巾</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###paintball note###</key>
+        <val>若當日顧客表現出正處於娛樂性藥物或酒精的影響中，則不能允許其參與活動。 
+（但顧客仍需全額付款）</val>
+    </item>
+    <item>
+        <key>###Plan###</key>
+        <val>項目</val>
+    </item>
+    <item>
+        <key>###Duration###</key>
+        <val>時間</val>
+    </item>
+    <item>
+        <key>###Minimum Pax###</key>
+        <val>至少參加人數</val>
+    </item>
+    <item>
+        <key>###Paintball###</key>
+        <val>漆彈</val>
+    </item>
+    <item>
+        <key>###Price Per Person###</key>
+        <val>每人價格</val>
+    </item>
+    <item>
+        <key>###Basic Plan###</key>
+        <val>基本項目</val>
+    </item>
+    <item>
+        <key>###Advance Plan###</key>
+        <val>特別項目</val>
+    </item>
+    <item>
+        <key>###Group###</key>
+        <val>團體 (包場)</val>
+    </item>
+    <item>
+        <key>###Extra Paintball###</key>
+        <val>額外增加漆彈</val>
+    </item>
+    <item>
+        <key>###hour###</key>
+        <val>小時</val>
+    </item>
+    <item>
+        <key>###hours###</key>
+        <val>小時</val>
+    </item>
+    <item>
+        <key>###minutes###</key>
+        <val>分鐘</val>
+    </item>
+    <item>
+        <key>###pax###</key>
+        <val>人</val>
+    </item>
+    <item>
+        <key>###each###</key>
+        <val>發/每人</val>
+    </item>
+    <item>
+        <key>###pre-each###</key>
+        <val></val>
+    </item>
+    <item>
+        <key>###paintball###</key>
+        <val>發</val>
+    </item>
+    <item>
+        <key>###Booking procedure dt###</key>
+		<val><![CDATA[請點選<span class="booking-blue">馬上預約</span>。填入您的電子信箱和必要的資料後,您將收到SEASIR的Paypal預約金請求書。為確保您的預約,請在收到預約金請求書的3日內支付每人4,000日元的預約金。若提出預約申請日距離您欲預約的日期不到3日,請您在24小時內支付預約金。若期限內未收到預約金,則您的預約視同放棄。]]></val>
+    </item>
+    <item>
+        <key>###Paintball Addr###</key>
+        <val>沖繩縣名護市字安部156-2, 905-2263, 日本</val>
+    </item>
+</items>
+

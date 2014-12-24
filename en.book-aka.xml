@@ -4,10 +4,6 @@
         <val>SEASIR AKA Island Booking Form</val>
     </item>
     <item>
-        <key>###For equipement arrangement###</key>
-        <val>For equipement arrangement</val>
-    </item>
-    <item>
         <key>###Marine Activity Booking###</key>
         <val>Marine Activity Booking</val>
     </item>
@@ -65,8 +61,8 @@
                 Each booking form is for 1 room purpose, please fill in detail of the guest which are in the same room only and the activity date, we need all this information for arrangement before your arrival. <span class="hl-red">Use a different form if you need to book more than a room</span>.]]></val>
     </item>
     <item>
-        <key></key>
-        <val></val>
+        <key>###Booking Block###</key>
+        <val><![CDATA[<tr><td><table style="border-collapse:collapse;margin:10px 0;"><tr><td width="250">Guest Name:<input type="hidden" name="guest-NUM" value="--------------------------------------------------"><select size="1" name="guest-NUM-gender"><option value="Male">MR.</option><option value="Female">MS.</option></select><input type="text" class="guest-name" name="guest-NUM-name"></td><td colspan="2" width="620">Age:<input size="1" type="text" name="guest-NUM-age"></td></tr><tr><td>Type of Activity: <select size="1" name="guest-NUM-activity"><option value="Snorkeling">Snorkeling</option><option value="intro div">Introductory Diving</option><option value="leisure-div">Leisure Diving</option><option value="ref div">Refresh Diving</option></select></td><td colspan="2">Activity date:<input type="text" class="date-of-trip" name="guest-NUM-activity-date-1"><input class="add-another-day" type="button" value="Add Another Day"></td></tr><tr><td>Diver Cert: <select size="1" name="guest-NUM-cert"><option value="None">None</option><option value="OWD">Open Water Diver</option><option value="AD">Advance Diver</option><option value="RD">Rescue Diver</option><option value="DM">Dive Master</option><option value="INS">Instructor</option></select></td><td>Date of last Dive: <input type="text" class="date-of-trip" name="guest-NUM-last-dive"></td><td>Total dives record: <input type="text" name="guest-NUM-total-dive"></td></tr><tr><td rowspan="2">Equipment Rental arrangement use</td><td colspan="2"> No Rental<input type="checkbox" name="guest-NUM-rental" value="no rental"> BCD<input type="checkbox" name="guest-NUM-rental" value="BCD"> REG<input type="checkbox" name="guest-NUM-rental" value="REG"> Wetsuite<input type="checkbox" name="guest-NUM-rental" value="Wetsuite"> Dive Com<input type="checkbox" name="guest-NUM-rental" value="Dive Com"> Mask<input type="checkbox" name="guest-NUM-rental" value="Mask"> Fins<input type="checkbox" name="guest-NUM-rental" value="Fins"> Boots<input type="checkbox" name="guest-NUM-rental" value="Boots"> Vest<input type="checkbox" name="guest-NUM-rental" value="Vest"></td></tr><tr><td colspan="2"> Height<input type="text" class="width-1" size="1" name="guest-NUM-height">cm &nbsp;&nbsp;&nbsp; Weight<input type="text" class="width-1" size="1" name="guest-NUM-weight">kg &nbsp;&nbsp;&nbsp; Foot size<input type="text" class="width-1" size="1" name="guest-NUM-foot-size">cm</td></tr></table></td></tr>]]></val>
     </item>
     <item>
         <key></key>

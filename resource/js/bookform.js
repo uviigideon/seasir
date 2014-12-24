@@ -117,7 +117,6 @@
             /* }}} */
         },
         init :  function() {
-            $(".date-of-trip").datepicker({"dateFormat":"d MM, yy"});
             var addNewType1 = $("#addNewType1");
             var addNewType2 = $("#addNewType2");
             var strArr = [];
@@ -219,6 +218,7 @@
                 $(this).before($html);
                 /* }}} */
             });
+            $(".date-of-trip").datepicker({"dateFormat":"d MM, yy"});
         }
     }
 

@@ -1,131 +1,133 @@
 <items>
-    <!-- {{{ header -->
-    <item>
-        <key>###headTitle###</key>
-        <val>沖繩賞鯨之旅</val>
-    </item>
-    <item>
-        <key>###headDesc###</key>
-        <val>每年一月初到三月末, 賞鯨之旅是冬季在沖縄最流行的海上活動. 每一次的賞鯨遊覽都是獨一無二的旅程. 很多的遊客包括很多當地人甚至參加了多次的賞鯨之旅, 而每當鯨魚出現在船的周圍時, 總還是十分的令人興奮和驚奇. 提供說中文及廣東話的船員同行.</val>
-    </item>
-    <item>
-        <key>###headKeywords###</key>
-        <val>沖繩,沖縄,賞鯨,鯨魚,海豚,中文,廣東話,普通話,英文,台灣,香港,中國</val>
-    </item>
-    <!-- }}} header -->
-    <item>
-        <key>###H2###</key>
-        <val>沖縄賞鯨季 2014 十二月27日～ 2015 四月五日</val>
-    </item>
-    <item>
-        <key>###whale intro###</key>
-        <val><![CDATA[<p>每年一月初到三月末, 賞鯨之旅是冬季在沖縄最流行的海上活動. 每一次的賞鯨遊覽都是獨一無二的旅程. 很多的遊客包括很多當地人甚至參加了多次的賞鯨之旅, 而每當鯨魚出現在船的周圍時, 總還是十分的令人興奮和驚奇.</p><p><span class="hl-red">Marine House SEASIR NAHA </span> 從 2005 就開始經營賞鯨之旅. 我們的員工對於鯨魚十分了解且經驗豐富, 且我們的船上配有如聲納和雷達等的先進設備. 自 2005 以來的每一年 <span class="hl-red">Marine House SEASIR NAHA </span> 圑隊對於找尋鯨魚的成功率都有 99%. 快來和沖縄最有組織和經驗的賞鯨團隊一同出發! 千萬別錯過 <span class="hl-red">Marine House SEASIR NAHA </span>的賞鯨之旅.</p>]]></val>
-    </item>
-    <item>
-        <key>###Where is the Whale###</key>
-        <val>鯨魚在哪</val>
-    </item>
-    <item>
-        <key>###Where is the Whale content###</key>
-        <val><![CDATA[<p>在沖縄最常見的鯨魚為座頭鯨和海豚(pseudorca crassidens). 大多數的鯨魚和海豚，活動範圍在 Chibishi島的附近或在沖縄慶良間群島出現.</p>]]></val>
-    </item>
-    <item>
-        <key>###How to prepare yourself###</key>
-        <val>要準備什麼</val>
-    </item>
-    <item>
-        <key>###How to prepare yourself li###</key>
-        <val><![CDATA[<li>如果您擔心暈船, 建議您在出發前一小時吃一些食物且於出發前半小時服用暈船藥.</li>
+	<item>
+		<key>###headTitle###</key>
+		<val>沖繩賞鯨之旅</val>
+	</item>
+	<item>
+		<key>###headDesc###</key>
+		<val>每年一月初到三月末, 賞鯨之旅是冬季在沖縄最流行的海上活動. 每一次的賞鯨遊覽都是獨一無二的旅程. 很多的遊客包括很多當地人甚至參加了多次的賞鯨之旅, 而每當鯨魚出現在船的周圍時, 總還是十分的令人興奮和驚奇. 提供說中文及廣東話的船員同行.</val>
+	</item>
+	<item>
+		<key>###headKeywords###</key>
+		<val>沖繩,沖縄,賞鯨,鯨魚,海豚,中文,廣東話,普通話,英文,台灣,香港,中國</val>
+	</item>
+	<item>
+		<key>###H2###</key>
+		<val>沖縄賞鯨季 2014 十二月27日～ 2015 四月五日</val>
+	</item>
+	<item>
+		<key>###whale intro###</key>
+		<val><![CDATA[<p>每年一月初到三月末, 賞鯨之旅是冬季在沖縄最流行的海上活動. 每一次的賞鯨遊覽都是獨一無二的旅程. 很多的遊客包括很多當地人甚至參加了多次的賞鯨之旅, 而每當鯨魚出現在船的周圍時, 總還是十分的令人興奮和驚奇.</p><p><span class="hl-red">Marine House SEASIR NAHA </span> 從 2005 就開始經營賞鯨之旅. 我們的員工對於鯨魚十分了解且經驗豐富, 且我們的船上配有如聲納和雷達等的先進設備. 自 2005 以來的每一年 <span class="hl-red">Marine House SEASIR NAHA </span> 圑隊對於找尋鯨魚的成功率都有 99%. 快來和沖縄最有組織和經驗的賞鯨團隊一同出發! 千萬別錯過 <span class="hl-red">Marine House SEASIR NAHA </span>的賞鯨之旅.</p>]]></val>
+	</item>
+	<item>
+		<key>###Where is the Whale###</key>
+		<val>鯨魚在哪</val>
+	</item>
+	<item>
+		<key>###Where is the Whale content###</key>
+		<val><![CDATA[<p>在沖縄最常見的鯨魚為座頭鯨和海豚(pseudorca crassidens). 大多數的鯨魚和海豚，活動範圍在 Chibishi島的附近或在沖縄慶良間群島出現.</p>]]></val>
+	</item>
+	<item>
+		<key>###How to prepare yourself###</key>
+		<val>要準備什麼</val>
+	</item>
+	<item>
+		<key>###How to prepare yourself li###</key>
+		<val><![CDATA[<li>如果您擔心暈船, 建議您在出發前一小時吃一些食物且於出發前半小時服用暈船藥.</li>
 <li>如果您和小孩同行, 建議您準備一些零食和玩具給他們.</li>
 <li>穿運動鞋或膠底鞋以防止在船上滑倒.</li>
 <li>有時天氣可能會很冷, 建議您隨身攜帶防寒外套.</li>
 <li>建議您可以攜帶望遠鏡, 可以給您更好的視野.</li>]]></val>
-    </item>
-    <item>
-        <key>###How to prepare yourself content###</key>
-        <val><![CDATA[<p>在海況不佳或下雨時 <span class="hl-red">Marine House SEASIR NAHA </span> 會提供輕便雨衣給客人使用. <span class="hl-red">Marine House SEASIR NAHA </span> 保證, 如果旅程中沒有一位旅客看到鯨魚或海豚, 我們會全額退費.</p>]]></val>
-    </item>
-    <item>
-        <key>###Whale watching trip schedule###</key>
-        <val>賞鯨時刻表</val>
-    </item>
-    <item>
-        <key>###Am Trip###</key>
-        <val>上午行程</val>
-    </item>
-    <item>
-        <key>###Am Trip li###</key>
-        <val><![CDATA[
+	</item>
+	<item>
+		<key>###How to prepare yourself content###</key>
+		<val><![CDATA[<p>在海況不佳或下雨時 <span class="hl-red">Marine House SEASIR NAHA </span> 會提供輕便雨衣給客人使用. <span class="hl-red">Marine House SEASIR NAHA </span> 保證, 如果旅程中沒有一位旅客看到鯨魚或海豚, 我們會全額退費.</p>]]></val>
+	</item>
+	<item>
+		<key>###Whale watching trip schedule###</key>
+		<val>賞鯨時刻表</val>
+	</item>
+	<item>
+		<key>###Am Trip###</key>
+		<val>上午行程</val>
+	</item>
+	<item>
+		<key>###Am Trip li###</key>
+		<val><![CDATA[
 <li>08:15 - 在 <span class="hl-red">Marine House SEASIR NAHA</span>集合</li>
 <li>08:45 - 安全講解及出航</li>
 <li>09:00 - 11:30 (賞鯨)</li>
 <li>11:30 - 返回那霸</li>]]></val>
-    </item>
-    <item>
-        <key>###Pm Trip###</key>
-        <val>下午行程</val>
-    </item>
-    <item>
-        <key>###Pm Trip li###</key>
-        <val><![CDATA[
+	</item>
+	<item>
+		<key>###Pm Trip###</key>
+		<val>下午行程</val>
+	</item>
+	<item>
+		<key>###Pm Trip li###</key>
+		<val><![CDATA[
 <li>13:15 - 在 <span class="hl-red">Marine House SEASIR NAHA</span>集合</li>
 <li>13:45 - 安全講解及出航</li>
 <li>14:00 - 16:30 (賞鯨)</li>
 <li>16:30 - 返回那霸</li>]]></val>
-    </item>
-    <item>
-        <key>###Adult###</key>
-        <val>成人</val>
-    </item>
-    <item>
-        <key>###Child6###</key>
-        <val>小孩(6-12歲)</val>
-    </item>
-    <item>
-        <key>###Child3###</key>
-        <val>小孩(3-5歲)</val>
-    </item>
-    <item>
-        <key>###Marine House SEASIR Whale watching excursion###</key>
-        <val>Marine House SEASIR 賞鯨之旅</val>
-    </item>
-    <item>
-        <key>###Price Includes###</key>
-        <val>價格包含</val>
-    </item>
-    <item>
-        <key>###Price Includes li###</key>
-        <val><![CDATA[<li>酒店接送 (限那霸市內)</li>
+	</item>
+	<item>
+		<key>###Adult###</key>
+		<val>成人</val>
+	</item>
+	<item>
+		<key>###Child6###</key>
+		<val>小孩(6-12歲)</val>
+	</item>
+	<item>
+		<key>###Child3###</key>
+		<val>小孩(3-5歲)</val>
+	</item>
+	<item>
+		<key>###Marine House SEASIR Whale watching excursion###</key>
+		<val>Marine House SEASIR 賞鯨之旅</val>
+	</item>
+	<item>
+		<key>###Price Includes###</key>
+		<val>價格包含</val>
+	</item>
+	<item>
+		<key>###Price Includes li###</key>
+		<val><![CDATA[<li>酒店接送 (限那霸市內)</li>
 <li>冷熱茶水</li>
 <li>賞鯨保證 (如果沒有旅客看到鯨魚或海豚, 我們全額退費)</li>]]></val>
-    </item>
-    <item>
-        <key>###Boat Facility###</key>
-        <val>船上備有</val>
-    </item>
-    <item>
-        <key>###Boat Facility li###</key>
-        <val><![CDATA[<li>導覽員</li>
+	</item>
+	<item>
+		<key>###Boat Facility###</key>
+		<val>船上備有</val>
+	</item>
+	<item>
+		<key>###Boat Facility li###</key>
+		<val><![CDATA[<li>導覽員</li>
 <li>水下收音設備(聽鯨魚唱歌)</li>
 <li>雙層甲板, 廁所, 客室</li>
 <li>輕便雨衣. </li>]]></val>
-    </item>
-    <item>
-        <key>###Conditions###</key>
-        <val>報名限制</val>
-    </item>
-    <item>
-        <key>###Conditions content###</key>
-        <val><![CDATA[<p>如果客人有以下的情況, <span class="hl-red">Marine House SEASIR NAHA</span> 將不受理報名:</p>]]></val>
-    </item>
-    <item>
-        <key>###Conditions li###</key>
-        <val><![CDATA[<li>癲癇, 痙攣, 抽搐或服用藥物以防止前述症狀</li>
+	</item>
+	<item>
+		<key>###Conditions###</key>
+		<val>報名限制</val>
+	</item>
+	<item>
+		<key>###Conditions content###</key>
+		<val><![CDATA[<p>如果客人有以下的情況, <span class="hl-red">Marine House SEASIR NAHA</span> 將不受理報名:</p>]]></val>
+	</item>
+	<item>
+		<key>###Conditions li###</key>
+		<val><![CDATA[<li>癲癇, 痙攣, 抽搐或服用藥物以防止前述症狀</li>
 <li>懷孕</li>]]></val>
-    </item>
-    <item>
-        <key>###Whale Note dt###</key>
-        <val>參與 2014年 12月 27日到 2015年 1月 4日的賞鯨行程的遊客，若在該次航程中沒有看到鯨魚，也無法退款，請注意！</val>
-    </item>
-
+	</item>
+	<item>
+		<key>###Whale Note dt###</key>
+		<val>參與 2014年 12月 27日到 2015年 1月 4日的賞鯨行程的遊客，若在該次航程中沒有看到鯨魚，也無法退款，請注意！</val>
+	</item>
+	<item>
+		<key>###Booking procedure dt###</key>
+		<val><![CDATA[請點選<span class="booking-blue">馬上預約</span>。填入您的電子信箱和必要的資料後,您將收到SEASIR的Paypal預約金請求書。為確保您的預約,請在收到預約金請求書的3日內支付每人2,000日元的預約金。若提出預約申請日距離您欲預約的日期不到3日,請您在24小時內支付預約金。若期限內未收到預約金,則您的預約視同放棄。]]></val>
+		<todo></todo>
+	</item>
 </items>

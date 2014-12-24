@@ -63,17 +63,16 @@
 <a id="seapeople-banner-a" href="http://www.coolokinawa.com/en/" target="_blank"><div id="cool-okinawa-banner-en"></div></a>
         ]]></val>
     </item>
+    <item>
+        <key>###fotoShisa###</key>
+        <val><![CDATA[
+<h2 class="seapeople-h2"><a href="./fotoshisa.htm">fotoShisa Professional Photographer services</a></h2>
+<a id="seapeople-banner-a" href="./fotoshisa.htm"><div id="fotoshisa-banner"></div></a>
+            ]]></val>
+    </item>
     <!-- }}} briefs -->
     <item>
-        <key>###fotoshisa###</key>
-        <val>fotoShisa Professional Photographer services</val>
-    </item>
-    <item>
         <key>###seeMoreDetail###</key>
-        <val>see more detail ...</val>
-    </item>
-    <item>
-        <key></key>
-        <val></val>
+        <val>see more detail</val>
     </item>
 </items>

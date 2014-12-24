@@ -1,42 +1,46 @@
-﻿<items>
-    <item>
-        <key>###H2###</key>
-        <val>Marine House SEASIR 그룹</val>
-    </item>
-    <item>
-        <key>###SEASIR intro###</key>
-        <val><![CDATA[<p><span class="seasir-red">MARINE HOUSE SEASIR</span>는 1983년 오키나와 아카 섬에서 대표 Hideshi Inai가 창업해 작은 마린스포츠센터로 운영되었습니다. 오늘날 MARINE HOUSE SEASIR는 오키나와 최대, 최장수 다이빙 회사로 자리잡았습니다. 우리의 열정과 노력인 MARINE HOUSE SEASIR는 나하와 아카섬에 메인 다이브 센터를 가지고 있고 <span class="berry-pink">Marine Club BERRY</span>의 지점 3곳에서 해양스포츠 센터, 럭셔리 크루즈 여행을 위한 전세 크루즈 <span class="lamer-black">La Mer Riche</span>를 운영하고 있습니다. 또한 MARINE HOUSE SEASIR의 강사진은 일본어, 영어, 중국어, 광동어, 말레이시아어로 교육과정을 제공하고 있습니다.</p>]]></val>
-    </item>
-    <item>
-        <key>###Brief Naha###</key>
-        <val>당일 여행, 케라마 섬 스쿠버다이빙 및 스노클링</val>
-    </item>
-    <item>
-        <key>###Brief Aka###</key>
-        <val>숙소, 스쿠버다이빙, 스노클링.</val>
-    </item>
-    <item>
-        <key>###Brief Manza###</key>
-        <val>당일 해양 스포츠 시설</val>
-    </item>
-    <item>
-        <key>###Brief Weed###</key>
-        <val>당일 해양 스포츠 시설</val>
-    </item>
-    <item>
-        <key>###Brief Kanucha###</key>
-        <val>당일 해양 스포츠 시설과 세그웨이 시설</val>
-    </item>
-    <item>
-        <key>###Brief La Mer###</key>
-        <val>오키나와 럭셔리 전세 크루즈</val>
-    </item>
-    <item>
-        <key>###Our Operations###</key>
-        <val>운영 시설</val>
-    </item>
-    <item>
-        <key>###Scuba diving equipment retail###</key>
-        <val>스쿠버다이빙 장비 소매</val>
-    </item>
+<items>
+	<item>
+		<key>###Brief Weed###</key>
+		<val>당일 해양 스포츠 시설</val>
+	</item>
+	<item>
+		<key>###SEASIR intro###</key>
+		<val><![CDATA[<p><span class="seasir-red">MARINE HOUSE SEASIR</span>는 1983년 오키나와 아카 섬에서 대표 Hideshi Inai가 창업해 작은 마린스포츠센터로 운영되었습니다. 오늘날 MARINE HOUSE SEASIR는 오키나와 최대, 최장수 다이빙 회사로 자리잡았습니다. 우리의 열정과 노력인 MARINE HOUSE SEASIR는 나하와 아카섬에 메인 다이브 센터를 가지고 있고 <span class="berry-pink">Marine Club BERRY</span>의 지점 3곳에서 해양스포츠 센터, 럭셔리 크루즈 여행을 위한 전세 크루즈 <span class="lamer-black">La Mer Riche</span>를 운영하고 있습니다. 또한 MARINE HOUSE SEASIR의 강사진은 일본어, 영어, 중국어, 광동어, 말레이시아어로 교육과정을 제공하고 있습니다.</p>]]></val>
+	</item>
+	<item>
+		<key>###Our Operations###</key>
+		<val>운영 시설</val>
+	</item>
+	<item>
+		<key>###Brief paintball###</key>
+		<val>일일 필드 게임</val>
+	</item>
+	<item>
+		<key>###Scuba diving equipment retail###</key>
+		<val>스쿠버다이빙 장비 소매</val>
+	</item>
+	<item>
+		<key>###Brief Aka###</key>
+		<val>숙소, 스쿠버다이빙, 스노클링.</val>
+	</item>
+	<item>
+		<key>###H2###</key>
+		<val>Marine House SEASIR 그룹</val>
+	</item>
+	<item>
+		<key>###Brief Manza###</key>
+		<val>당일 해양 스포츠 시설</val>
+	</item>
+	<item>
+		<key>###paintball###</key>
+		<val>페인트볼</val>
+	</item>
+	<item>
+		<key>###Brief Kanucha###</key>
+		<val>당일 해양 스포츠 시설과 세그웨이 시설</val>
+	</item>
+	<item>
+		<key>###Brief Naha###</key>
+		<val>당일 여행, 케라마 섬 스쿠버다이빙 및 스노클링</val>
+	</item>
 </items>

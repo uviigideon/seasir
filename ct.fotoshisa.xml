@@ -1,0 +1,70 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI provide English, Mandarin and Cantonese speaking marine staff</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Water,Sports,Dive,Diving,Snorkeling,English,Foreign,Cantonese,Chinese,Mandarin</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###theTeam###</key>
+        <val>fotoShisa : 水上活動專業攝影服務</val>
+    </item>
+    <item>
+        <key>###theTeamIntro###</key>
+        <val><![CDATA[在沖繩潛水和水上活動玩樂時,能遇見許多美麗的海中生物,盡情體驗海中樂趣。讓專業的攝影師為您捕捉這美好的時刻,擁有珍貴難忘的回憶。]]></val>
+    </item>
+    <item>
+        <key>###Location###</key>
+        <val>地址</val>
+    </item>
+    <item>
+        <key>###Duration###</key>
+        <val>所需時間</val>
+    </item>
+    <item>
+        <key>###Number of People###</key>
+        <val>參加人數</val>
+    </item>
+    <item>
+        <key>###Charges in JPY###</key>
+        <val>費用(日元)</val>
+    </item>
+    <item>
+        <key>###Location 1###</key>
+        <val><![CDATA[<h4 style="margin:0">Marine House SEASIR那霸店</h4><ul style="margin:2px 0 5px 0"><li>慶良間諸島一日行程</li><li>Chibisi半日行程</li></ul><h4 style="margin:0">Marine Club Berry店</h4><ul style="margin:2px 0 5px 0"><li>水上活動</li><li>漆彈生存遊戲</li></ul>]]></val>
+    </item>
+    <item>
+        <key>###Location 2###</key>
+        <val><![CDATA[<h4>Marine House SEASIR阿嘉島店</h4>]]></val>
+    </item>
+    
+    <item>
+        <key>###Maximum 6 hours###</key>
+        <val>6小時以內</val>
+    </item>
+    <item>
+        <key>###Over 20###</key>
+        <val>20位以上,第21開始每位只需費用3000日元</val>
+    </item>
+    <item>
+        <key>###Maximum 6 to 8 hours###</key>
+        <val>抵達阿嘉島後約6至8小時</val>
+    </item>
+    <item>
+        <key>###How to make fotoShisa booking###</key>
+        <val>fotoShisa預約方式</val>
+    </item>
+    <item>
+        <key>###How to make fotoShisa booking dt###</key>
+        <val>在預約表下方的“其他問題”中備註“FOTOSHISA請求”,我們將聯繫FOTOSHISA為您確認是否可預約後回信給您。</val>
+    </item>
+</items>
+

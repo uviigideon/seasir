@@ -1,0 +1,70 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI provide English, Mandarin and Cantonese speaking marine staff</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Water,Sports,Dive,Diving,Snorkeling,English,Foreign,Cantonese,Chinese,Mandarin</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###theTeam###</key>
+        <val>fotoShisa : 水下和水上活动专业摄影服务</val>
+    </item>
+    <item>
+        <key>###theTeamIntro###</key>
+        <val><![CDATA[在冲绳的潜水和水上活动绝对是让您瞠目结舌难以忘怀的经历。您将看到许多美丽的海中生物，尽情享受水中乐趣。何不让我们的专业摄影师伴随您的行程，为您扑捉美好的瞬间留下一生珍贵的回忆呢！]]></val>
+    </item>
+    <item>
+        <key>###Location###</key>
+        <val>地址</val>
+    </item>
+    <item>
+        <key>###Duration###</key>
+        <val>所需时间</val>
+    </item>
+    <item>
+        <key>###Number of People###</key>
+        <val>参加人数</val>
+    </item>
+    <item>
+        <key>###Charges in JPY###</key>
+        <val>费用(日元)</val>
+    </item>
+    <item>
+        <key>###Location 1###</key>
+        <val><![CDATA[<h4 style="margin:0">Marine House SEASIR那霸店</h4><ul style="margin:2px 0 5px 0"><li>庆良间诸岛一日行程</li><li>庆伊濑诸岛半日行程</li></ul><h4 style="margin:0">Marine Club Berry店</h4><ul style="margin:2px 0 5px 0"><li>水上活动</li><li>彩弹射击活动</li></ul>]]></val>
+    </item>
+    <item>
+        <key>###Location 2###</key>
+        <val><![CDATA[<h4>Marine House SEASIR阿嘉岛店</h4>]]></val>
+    </item>
+    
+    <item>
+        <key>###Maximum 6 hours###</key>
+        <val>最长6小时</val>
+    </item>
+    <item>
+        <key>###Over 20###</key>
+        <val>超过20位时，第21位开始每位需要费用3,000日元</val>
+    </item>
+    <item>
+        <key>###Maximum 6 to 8 hours###</key>
+        <val>根据抵达阿嘉岛的时间不同，最长时间6至8小时</val>
+    </item>
+    <item>
+        <key>###How to make fotoShisa booking###</key>
+        <val>fotoShisa预约方式</val>
+    </item>
+    <item>
+        <key>###How to make fotoShisa booking dt###</key>
+        <val>在预约表最后的“备注”栏中，写明“需要预约FOTO SHISA”等详情，我们将会为您查询FOTO SHISA的空位情况，并回复您。</val>
+    </item>
+</items>
+

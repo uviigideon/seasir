@@ -54,7 +54,7 @@
             <label for="mobile">###Mobile###</label>
             <input type="text" id="mobile" name="mobile" value="(+)"><br>
             <label>###Date of Trip###</label>
-            <input type="text" class="date-of-trip" name="Date of Trip-1"><br>
+            <input type="text" id="date-of-trip2" name="Date of Trip-1"><br>
             <label>###Trip Session###</label>
             <input type="radio" id="session-am" name="Trip Session" value="am" checked="checked">
             <label for="session-am" style="width:160px;">###Trip Session am###</label>
@@ -114,7 +114,7 @@
             </p>
             <p>
                 <input id="check-deposit" type="checkbox" class="agreements" name="deposit" value="checked">
-                <label class="check-label" for="check-deposit">###whale deposit dt###</label>      
+                <label class="check-label" for="check-deposit">###deposit dt 1###2,000###deposit dt 2###</label>
             </p>
             <p>
                 <input id="check-health" type="checkbox" class="agreements" name="health" value="checked">
@@ -159,6 +159,13 @@ $(function() {
         /* }}} */
     };
     GUEST.init();
+    var dateStart = new Date('12/27/2014');
+    var dateEnd = new Date('04/05/2015');
+    $("#date-of-trip2").datepicker({
+        dateFormat:"d MM, yy",       
+        minDate:dateStart,
+        maxDate:dateEnd
+    });
 });
 </script>
 </body>

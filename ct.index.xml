@@ -1,57 +1,72 @@
 <items>
-    <!-- {{{ header -->
-    <item>
-        <key>###headTitle###</key>
-        <val>Okinawa Diving English Marine House Seasir</val>
-    </item>
-    <item>
-        <key>###headDesc###</key>
-        <val>English Speaker Diving Marine Sports in Okinawa</val>
-    </item>
-    <item>
-        <key>###headKeywords###</key>
-        <val>Okinawa,Diving,Dive,Snorkeling,Scuba,Marine,Sports,English,Foreign,Naha,衝繩,衝繩,潛水,中文,廣東話,中國,香港,水上活動,外國人,浮潛,體驗潛水,那霸，慶良間諸島</val>
-    </item>
-    <!-- }}} header -->
-
-    <item>
-        <key>###CHIBISI###</key>
-        <val>半日活動</val>
-    </item>
-
-    <!-- {{{ briefs -->
-    <item>
-        <key>###briefNahaText###</key>
-        <val>提供一日往返美麗的慶良間諸島的潛水, 浮潛和體驗潛水的各樣活動行程</val>
-    </item>
-    <item>
-        <key>###brief berry text###</key>
-        <val>水底漫步, 獨木舟, 各式水上活動及潛水活動中心</val>
-    </item>
-    <item>
-        <key>###brief aka text###</key>
-        <val>阿嘉島住宿及在慶良間諸島的潛水, 浮潛和體驗潛水的各樣活動行程</val>
-    </item>
-    <item>
-        <key>###brief chibisi text###</key>
-        <val>提供半天往返美麗的慶伊瀨島(慶良間諸島)體驗潛水和浮潛行程</val>
-    </item>
-    <item>
-        <key>###brief whale text###</key>
-        <val>從一月初到三月末的賞鯨之旅, 快來參加沖縄冬季最有趣的水上活動.</val>
-    </item>
-    <item>
-        <key>###brief course text###</key>
-        <val>SEASIR PADI 5 星級的潛水指導中心, 和會說英文, 日文, 中文及廣東話的教練一起學潛水.</val>
-    </item>
-    <item>
-        <key>###brief sea people text###</key>
-        <val>想要為您的潛水裝備升級嗎? 潛水相關的大小裝備零售, 找我們就對了!</val>
-    </item>
-    <item>
-        <key>###SEA PEOPLE Scuba Diving Equipment Retail###</key>
-        <val>SEA PEOPLE 潛水相關裝備零售</val>
-    </item>
-    
-    <!-- }}} briefs -->
+	<item>
+		<key>###headTitle###</key>
+		<val>Okinawa Diving English Marine House Seasir</val>
+	</item>
+	<item>
+		<key>###headDesc###</key>
+		<val>English Speaker Diving Marine Sports in Okinawa</val>
+	</item>
+	<item>
+		<key>###headKeywords###</key>
+		<val>Okinawa,Diving,Dive,Snorkeling,Scuba,Marine,Sports,English,Foreign,Naha,衝繩,衝繩,潛水,中文,廣東話,中國,香港,水上活動,外國人,浮潛,體驗潛水,那霸，慶良間諸島</val>
+	</item>
+	<item>
+		<key>###CHIBISI###</key>
+		<val>半日活動</val>
+	</item>
+	<item>
+		<key>###briefNahaText###</key>
+		<val>提供一日往返美麗的慶良間諸島的潛水, 浮潛和體驗潛水的各樣活動行程</val>
+	</item>
+	<item>
+		<key>###brief berry text###</key>
+		<val>水底漫步, 獨木舟, 各式水上活動及潛水活動中心</val>
+	</item>
+	<item>
+		<key>###brief aka text###</key>
+		<val>阿嘉島住宿及在慶良間諸島的潛水, 浮潛和體驗潛水的各樣活動行程</val>
+	</item>
+	<item>
+		<key>###brief chibisi text###</key>
+		<val>提供半天往返美麗的慶伊瀨島(慶良間諸島)體驗潛水和浮潛行程</val>
+	</item>
+	<item>
+		<key>###brief whale text###</key>
+		<val>從一月初到三月末的賞鯨之旅, 快來參加沖縄冬季最有趣的水上活動.</val>
+	</item>
+	<item>
+		<key>###brief course text###</key>
+		<val>SEASIR PADI 5 星級的潛水指導中心, 和會說英文, 日文, 中文及廣東話的教練一起學潛水.</val>
+	</item>
+	<item>
+		<key>###brief sea people text###</key>
+		<val>想要為您的潛水裝備升級嗎? 潛水相關的大小裝備零售, 找我們就對了!</val>
+	</item>
+	<item>
+		<key>###SEA PEOPLE Scuba Diving Equipment Retail###</key>
+		<val>SEA PEOPLE 潛水相關裝備零售</val>
+	</item>
+	<item>
+		<key>###Berry Paintball###</key>
+		<val>Berry 漆彈</val>
+	</item>
+	<item>
+		<key>###Cool Okinawa###</key>
+		<val><![CDATA[
+<h2 class="seapeople-h2"><a href="http://www.coolokinawa.com/ct/" target="_blank">酷酷沖繩遊</a></h2>
+<a id="seapeople-banner-a" href="http://www.coolokinawa.com/ct/" target="_blank"><div id="cool-okinawa-banner-ct"></div></a>
+        ]]></val>
+	</item>
+	<item>
+		<key>###fotoShisa###</key>
+		<val><![CDATA[
+<h2 class="seapeople-h2"><a href="./fotoshisa.htm">fotoShisa 專業活動攝影師</a></h2>
+<a id="seapeople-banner-a" href="./fotoshisa.htm"><div id="fotoshisa-banner"></div></a>
+            ]]></val>
+	</item>
+	<item>
+		<key>###seeMoreDetail###</key>
+		<val>了解更多</val>
+	</item>
 </items>

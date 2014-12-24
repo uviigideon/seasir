@@ -1,31 +1,31 @@
 <items>
     <item>
         <key>###H2###</key>
-        <val>Marine Club BERRY PaintBall Booking Form</val>
+        <val>Marine Club BERRY 彩弹射击预约表</val>
     </item>
     <item>
         <key>###For equipement arrangement###</key>
-        <val>For equipement arrangement</val>
+        <val>器材准备</val>
     </item>
     <item>
         <key>###Basic ans Advance Plan###</key>
-        <val>Basic and Advance Plan(4-10 people)</val>
+        <val>基础发案和进阶方案(4 ─ 10人)</val>
     </item>
     <item>
         <key>###Group Booking###</key>
-        <val>Group Booking(20-100 people)</val>
+        <val>团体预约 (20 ─ 100 人)</val>
     </item>
     <item>
         <key>###For own transportation paintball###</key>
-        <val>For own transportation We do provide FREE car parking space</val>
+        <val>若您自行到来，我们会为您安排免费的停车场。</val>
     </item>
     <item>
         <key>###For own transportation paintball dt###</key>
-        <val><![CDATA[To Kanucha Bay Hotel & Villas Nago key in this Phone Number to CAR NAVI for direction <b>0980 55 8880</b>]]></val>
+        <val><![CDATA[请在您的汽车导航中输入<b>0980 55 8880</b> 来搜寻名护市 <b>Kanucha Bay Hotel & Villas渡假酒店</b>的位置。]]></val>
     </item>
     <item>
         <key>###Date of Activity###</key>
-        <val>Date of Activity</val>
+        <val>活动日期</val>
     </item>
     <item>
         <key></key>
@@ -36,3 +36,5 @@
         <val></val>
     </item>
 </items>
+
+

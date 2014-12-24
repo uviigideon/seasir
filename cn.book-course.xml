@@ -1,0 +1,79 @@
+<items>
+    <item>
+        <key>###H2###</key>
+        <val>PADI 水肺潜水课程预约表</val>
+    </item>
+    <item>
+        <key>###deposit dt###</key>
+        <val>You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY3,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than 3 days notice from the departure date. All booking request will cancel if no deposit receive.</val>
+    </item>
+    <item>
+        <key>###Open water Diver###</key>
+        <val><![CDATA[开放水域水肺潜水员<br>Open water Diver]]></val>
+    </item>
+    <item>
+        <key>###Advanced Diver###</key>
+        <val><![CDATA[进阶水肺潜水员<br>Advanced Diver]]></val>
+    </item>
+    <item>
+        <key>###Rescue Diver###</key>
+        <val><![CDATA[救援潜水员<br>Rescue Diver]]></val>
+    </item>
+    <item>
+        <key>###Diving Courses###</key>
+        <val>潜水课程</val>
+    </item>
+    <item>
+        <key>###Diver Information###</key>
+        <val>Diver Information</val>
+    </item>
+    <item>
+        <key>###diving manual lang###</key>
+        <val>潜水教材的语言</val>
+    </item>
+    <item>
+        <key>###training lang###</key>
+        <val>教学的语言</val>
+    </item>
+    <item>
+        <key>###Choose your language###</key>
+        <val>选择语言</val>
+    </item>
+    <item>
+        <key>###English###</key>
+        <val>英语</val>
+    </item>
+    <item>
+        <key>###Chinese###</key>
+        <val>中文</val>
+    </item>
+    <item>
+        <key>###Japanese###</key>
+        <val>日语</val>
+    </item>
+    <item>
+        <key>###I would like bulabula###</key>
+        <val>我希望的课程日期 : </val>
+    </item>
+    <item>
+        <key>###Date of Course###</key>
+        <val>课程日期</val>
+    </item>
+    <item>
+        <key>###Date of Course note###</key>
+        <val>“PADI水肺潜水後行程指导”建议您在一次潜水结束的12小时後再搭乘飞机，或数次潜水结束的18小时後再搭乘飞机。 (尽可能24小时後再搭乘)</val>
+    </item>
+    <item>
+        <key>###Check in Date###</key>
+        <val>入住时间</val>
+    </item>
+    <item>
+        <key>###Check out Date###</key>
+        <val>退房时间</val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+</items>
+

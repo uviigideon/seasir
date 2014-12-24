@@ -1,0 +1,70 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI provide English, Mandarin and Cantonese speaking marine staff</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Water,Sports,Dive,Diving,Snorkeling,English,Foreign,Cantonese,Chinese,Mandarin</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###theTeam###</key>
+        <val>fotoshisa : 수중, 수상 스포츠 전문 사진서비스</val>
+    </item>
+    <item>
+        <key>###theTeamIntro###</key>
+        <val><![CDATA[오키나와 주변에서의 해양 활동과 다이빙은 놀라운 잊을 수 없는 경험이며, 아름다운 수중 생물들과 만나는 매우 신나는 즐거움일 것입니다. 따라서 그런 모든 멋진 순간들을 영원히 남길 수 있도록 전문 사진서비스를 받아보십시오.]]></val>
+    </item>
+    <item>
+        <key>###Location###</key>
+        <val>위치</val>
+    </item>
+    <item>
+        <key>###Duration###</key>
+        <val>기간</val>
+    </item>
+    <item>
+        <key>###Number of People###</key>
+        <val>인원수</val>
+    </item>
+    <item>
+        <key>###Charges in JPY###</key>
+        <val>엔화 요금</val>
+    </item>
+    <item>
+        <key>###Location 1###</key>
+        <val><![CDATA[<h4 style="margin:0">Marine House SEASIR Naha</h4><ul style="margin:2px 0 5px 0"><li>게라마 전일 여행</li><li>치비시 반나절 여행</li></ul><h4 style="margin:0">Marine Club Berry</h4><ul style="margin:2px 0 5px 0"><li>수상스포츠</li><li>페인트볼</li></ul>]]></val>
+    </item>
+    <item>
+        <key>###Location 2###</key>
+        <val><![CDATA[<h4>Marine House SEASIR AKA</h4>]]></val>
+    </item>
+    
+    <item>
+        <key>###Maximum 6 hours###</key>
+        <val>최대 6시간</val>
+    </item>
+    <item>
+        <key>###Over 20###</key>
+        <val>20명 이상인 경우 1인당 추가요금 3,000엔</val>
+    </item>
+    <item>
+        <key>###Maximum 6 to 8 hours###</key>
+        <val>최대 6 ~ 8시간. 아카섬 도착 여객선 시간에 따라 다릅니다</val>
+    </item>
+    <item>
+        <key>###How to make fotoShisa booking###</key>
+        <val>fotoshisa 예약하는 방법</val>
+    </item>
+    <item>
+        <key>###How to make fotoShisa booking dt###</key>
+        <val>예약 양식의 하단에 있는 "FOTO SHISA 요청"의 상자에 기입하십시오.  예약 사무실에서 FOTO SHISA가 가능한지 확인한 후 답변을 드릴 것입니다.</val>
+    </item>
+</items>
+

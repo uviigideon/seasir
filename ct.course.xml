@@ -1,129 +1,124 @@
 <items>
-    <!-- {{{ header -->
-    <item>
-        <key>###headTitle###</key>
-        <val>沖繩 PADI 潛水課程</val>
-    </item>
-    <item>
-        <key>###headDesc###</key>
-        <val>我們以國際知名的 PADI 認證做為潛水課程的認證. 我們友善的教練會以英文, 中文, 廣東話及馬來話指導您潛水技巧.</val>
-    </item>
-    <item>
-        <key>###headKeywords###</key>
-        <val>沖繩,沖縄,潛水課程,PADI,中文,廣東話,台灣,香港,中國,外國人</val>
-    </item>
-    <!-- }}} header -->
-    <item>
-        <key>###H2###</key>
-        <val>和說英文, 中文和廣東話的教練一起學習 PADI 潛水課程.</val>
-    </item>
-    <item>
-        <key>###course intro###</key>
-        <val>我們以國際知名的 PADI 認證做為潛水課程的認證. 我們友善的教練會以英文, 中文, 廣東話及馬來話指導您潛水技巧.</val>
-    </item>
-    <item>
-        <key>###English or Mandarin###</key>
-        <val><![CDATA[<span class="lt">(英文或中文)</span>]]></val>
-    </item>
-    <!-- {{{ ow -->
-    <item>
-        <key>###PADI Open Water Diver Course###</key>
-        <val>PADI Open Water 潛水課程</val>
-    </item>
-    <item>
-        <key>###OW Schedule###</key>
-        <val><![CDATA[
+	<item>
+		<key>###headTitle###</key>
+		<val>沖繩 PADI 潛水課程</val>
+	</item>
+	<item>
+		<key>###headDesc###</key>
+		<val>我們以國際知名的 PADI 認證做為潛水課程的認證. 我們友善的教練會以英文, 中文, 廣東話及馬來話指導您潛水技巧.</val>
+	</item>
+	<item>
+		<key>###headKeywords###</key>
+		<val>沖繩,沖縄,潛水課程,PADI,中文,廣東話,台灣,香港,中國,外國人</val>
+	</item>
+	<item>
+		<key>###H2###</key>
+		<val>和說英文, 中文和廣東話的教練一起學習 PADI 潛水課程.</val>
+	</item>
+	<item>
+		<key>###course intro###</key>
+		<val>我們以國際知名的 PADI 認證做為潛水課程的認證. 我們友善的教練會以英文, 中文, 廣東話及馬來話指導您潛水技巧.</val>
+	</item>
+	<item>
+		<key>###English or Mandarin###</key>
+		<val><![CDATA[<span class="lt">(英文或中文)</span>]]></val>
+	</item>
+	<item>
+		<key>###PADI Open Water Diver Course###</key>
+		<val>PADI Open Water 潛水課程</val>
+	</item>
+	<item>
+		<key>###OW Schedule###</key>
+		<val><![CDATA[
             <li>Day 1 - 學科課程及平靜水域訓練 (半天的游泳池訓練)</li>
             <li>Day 2 - 開放水域第 1 潛及第 2 潛</li>
             <li>Day 3 - 開放水域第 3 潛及第 4 潛</li>
             ]]></val>
-    </item>
-    <item>
-        <key>###OW Schedule comment###</key>
-        <val><![CDATA[
+	</item>
+	<item>
+		<key>###OW Schedule comment###</key>
+		<val><![CDATA[
             此課程您必需先在家裡完成基礎的學科學習或 PADI 的線上學習課程, 請 <a href="mailto:english@seasir.com" target="_blank">聯絡我們</a> 以獲得更多的資訊.]]></val>
-    </item>
-    <item>
-        <key>###Requirement from candidate###</key>
-        <val>對學員們的要求</val>
-    </item>
-    <item>
-        <key>###Requirement from candidate li###</key>
-        <val><![CDATA[
+	</item>
+	<item>
+		<key>###Requirement from candidate###</key>
+		<val>對學員們的要求</val>
+	</item>
+	<item>
+		<key>###Requirement from candidate li###</key>
+		<val><![CDATA[
             <li>請詳讀 SEASIR <a href="./health.htm" target="_blank">自我健康檢查表</a>. 如果有所列的任何一項問題對您而言為 "是" 的情況, 我們必需請您咨詢您的醫師, 並開立可以參加潛水課程的證明.</li>
             <li>在旺季時課程費用每人需增加 5,000日元.</li>
             <li>2 護照大小相片.</li>
             <li>最少要有兩個學員才會開課. 如果您只有一位, 請<a href="mailto:english@seasir.com" target="_blank">聯絡我們</a>來為您安排.</li>
             ]]></val>
-    </item>
-    <item>
-        <key>###Training Material###</key>
-        <val>教材</val>
-    </item>
-    <item>
-        <key>###Training Material dt###</key>
-        <val>PADI Open Water Diver 課本</val>
-    </item>
-    <item>
-        <key>###Equipment###</key>
-        <val>裝備</val>
-    </item>
-    <item>
-        <key>###Equipment dt###</key>
-        <val>訓練時提供潛水裝備</val>
-    </item>
-    <item>
-        <key>###Registration###</key>
-        <val>認證</val>
-    </item>
-    <item>
-        <key>###Registration dt###</key>
-        <val>PADI Open Water Diver C-Card</val>
-    </item>
-    <item>
-        <key>###Meal###</key>
-        <val>便當</val>
-    </item>
-    <item>
-        <key>###Meal dt###</key>
-        <val>開放水域訓練時提供便當做為午餐</val>
-    </item>
-    <item>
-        <key>###Boat fee###</key>
-        <val>乘船費</val>
-    </item>
-    <item>
-        <key>###Boat fee dt###</key>
-        <val>2 兩天開放水域訓練的乘船費</val>
-    </item>
-    <item>
-        <key>###Item included in Course###</key>
-        <val>課程包含</val>
-    </item>
-    <!-- }}} ow -->
-    <!-- {{{ aow -->
-    <item>
-        <key>###PADI Advance Diver Course###</key>
-        <val>PADI Advanced Diver 進階潛水課程</val>
-    </item>
-    <item>
-        <key>###CORE DIVES###</key>
-        <val>核心課程 (必修)</val>
-    </item>
-    <item>
-        <key>###CORE DIVES li###</key>
-        <val><![CDATA[
+	</item>
+	<item>
+		<key>###Training Material###</key>
+		<val>教材</val>
+	</item>
+	<item>
+		<key>###Training Material dt###</key>
+		<val>PADI Open Water Diver 課本</val>
+	</item>
+	<item>
+		<key>###Equipment###</key>
+		<val>裝備</val>
+	</item>
+	<item>
+		<key>###Equipment dt###</key>
+		<val>訓練時提供潛水裝備</val>
+	</item>
+	<item>
+		<key>###Registration###</key>
+		<val>認證</val>
+	</item>
+	<item>
+		<key>###Registration dt###</key>
+		<val>PADI Open Water Diver C-Card</val>
+	</item>
+	<item>
+		<key>###Meal###</key>
+		<val>便當</val>
+	</item>
+	<item>
+		<key>###Meal dt###</key>
+		<val>開放水域訓練時提供便當做為午餐</val>
+	</item>
+	<item>
+		<key>###Boat fee###</key>
+		<val>乘船費</val>
+	</item>
+	<item>
+		<key>###Boat fee dt###</key>
+		<val>2 兩天開放水域訓練的乘船費</val>
+	</item>
+	<item>
+		<key>###Item included in Course###</key>
+		<val>課程包含</val>
+	</item>
+	<item>
+		<key>###PADI Advance Diver Course###</key>
+		<val>PADI Advanced Diver 進階潛水課程</val>
+	</item>
+	<item>
+		<key>###CORE DIVES###</key>
+		<val>核心課程 (必修)</val>
+	</item>
+	<item>
+		<key>###CORE DIVES li###</key>
+		<val><![CDATA[
             <li>深潛</li>
             <li>導航潛水</li>
             ]]></val>
-    </item>
-    <item>
-        <key>###ELECTIVE DIVES###</key>
-        <val>選擇性課程</val>
-    </item>
-    <item>
-        <key>###ELECTIVE DIVES li###</key>
-        <val><![CDATA[
+	</item>
+	<item>
+		<key>###ELECTIVE DIVES###</key>
+		<val>選擇性課程</val>
+	</item>
+	<item>
+		<key>###ELECTIVE DIVES li###</key>
+		<val><![CDATA[
             <li>船潛</li>
             <li>放流潛水</li>
             <li>頂尖中性浮力</li>
@@ -132,89 +127,91 @@
             <li>水中攝影</li>
             <li>夜潛</li>
             ]]></val>
-    </item>
-    <item>
-        <key>###Requirement from candidate aow li###</key>
-        <val><![CDATA[
+	</item>
+	<item>
+		<key>###Requirement from candidate aow li###</key>
+		<val><![CDATA[
             <li>請詳讀 SEASIR <a href="./health.htm" target="_blank">自我健康檢查表</a>. 如果有所列的任何一項問題對您而言為 "是" 的情況, 我們必需請您咨詢您的醫師, 並開立可以參加潛水課程的證明.</li>
             <li>在旺季時課程費用每人需增加 5,000日元.</li>
             <li>有效的 PADI Open Water Diver license 或同等級的證照.</li>
             <li>2 護照大小相片.</li>
             ]]></val>
-    </item>
-    <item>
-        <key>###Training Material aow dt###</key>
-        <val>PADI 進階潛水課本</val>
-    </item>
-    <item>
-        <key>###Registration aow dt###</key>
-        <val>PADI Advanced Diver C-Card</val>
-    </item>
-    <item>
-        <key>###Meal aow dt###</key>
-        <val>兩天的午餐便當</val>
-    </item>
-    <item>
-        <key>###Training Period###</key>
-        <val>訓練時數</val>
-    </item>
-    <item>
-        <key>###Training Period dt###</key>
-        <val>2 天 5 次潛水課程</val>
-    </item>
-    <!-- }}} aow -->
-    <!-- {{{ efr -->
-    <item>
-        <key>###Emergency First Responder Course###</key>
-        <val>Emergency First Responder 課程</val>
-    </item>
-    <item>
-        <key>###efr Schedule###</key>
-        <val><![CDATA[<li>半天課程, 學習包含優先和次優先的警急照顧程序理論與實際操作</li>]]></val>
-    </item>
-    <item>
-        <key>###Training Period efr dt###</key>
-        <val>半天課程</val>
-    </item>
-    <item>
-        <key>###Training Material efr dt###</key>
-        <val>Emergency First Responder 課本</val>
-    </item>
-    <item>
-        <key>###Equipment efr dt###</key>
-        <val>教材</val>
-    </item>
-    <item>
-        <key>###Registration efr dt###</key>
-        <val>Emergency First Responder C-Card</val>
-    </item>
-    <!-- }}} efr -->
-    <item>
-        <key>###PADI Rescue Diver Course###</key>
-        <val>PADI Rescue Diver 救援潛水課程</val>
-    </item>
-    <item>
-        <key>###res Schedule###</key>
-        <val><![CDATA[
+	</item>
+	<item>
+		<key>###Training Material aow dt###</key>
+		<val>PADI 進階潛水課本</val>
+	</item>
+	<item>
+		<key>###Registration aow dt###</key>
+		<val>PADI Advanced Diver C-Card</val>
+	</item>
+	<item>
+		<key>###Meal aow dt###</key>
+		<val>兩天的午餐便當</val>
+	</item>
+	<item>
+		<key>###Training Period###</key>
+		<val>訓練時數</val>
+	</item>
+	<item>
+		<key>###Training Period dt###</key>
+		<val>2 天 5 次潛水課程</val>
+	</item>
+	<item>
+		<key>###Emergency First Responder Course###</key>
+		<val>Emergency First Responder 課程</val>
+	</item>
+	<item>
+		<key>###efr Schedule###</key>
+		<val><![CDATA[<li>半天課程, 學習包含優先和次優先的警急照顧程序理論與實際操作</li>]]></val>
+	</item>
+	<item>
+		<key>###Training Period efr dt###</key>
+		<val>半天課程</val>
+	</item>
+	<item>
+		<key>###Training Material efr dt###</key>
+		<val>Emergency First Responder 課本</val>
+	</item>
+	<item>
+		<key>###Equipment efr dt###</key>
+		<val>教材</val>
+	</item>
+	<item>
+		<key>###Registration efr dt###</key>
+		<val>Emergency First Responder C-Card</val>
+	</item>
+	<item>
+		<key>###PADI Rescue Diver Course###</key>
+		<val>PADI Rescue Diver 救援潛水課程</val>
+	</item>
+	<item>
+		<key>###res Schedule###</key>
+		<val><![CDATA[
             <li>Day 1 - 學科課程及 2 次的實作練習</li>
             <li>Day 2 - 3 次的實作練習</li>
             ]]></val>
-    </item>
-    <item>
-        <key>###Requirement from candidate res li###</key>
-        <val><![CDATA[
+	</item>
+	<item>
+		<key>###Requirement from candidate res li###</key>
+		<val><![CDATA[
             <li>請詳讀 SEASIR <a href="./health.htm" target="_blank">自我健康檢查表</a>. 如果有所列的任何一項問題對您而言為 "是" 的情況, 我們必需請您咨詢您的醫師, 並開立可以參加潛水課程的證明.</li>
             <li>在旺季時課程費用每人需增加 5,000日元.</li>
             <li>有效的 PADI Advanced license 或同等級證照 + PADI EFR (Medic First Aid) / CPR Rescue License 或 PADI 當地辦公室所承認之同等級 CPR 認證</li>
             <li>2 護照大小相片.</li>
             ]]></val>
-    </item>
-    <item>
-        <key>###Training Material res dt###</key>
-        <val>PADI Rescue Diver 課本</val>
-    </item>
-    <item>
-        <key>###Registration res dt###</key>
-        <val>PADI Rescue Diver C-Card</val>
-    </item>
+	</item>
+	<item>
+		<key>###Training Material res dt###</key>
+		<val>PADI Rescue Diver 課本</val>
+	</item>
+	<item>
+		<key>###Registration res dt###</key>
+		<val>PADI Rescue Diver C-Card</val>
+	</item>
+	<item>
+		<key>###Booking procedure dt###</key>
+		<val><![CDATA[請點選<span class="booking-blue">馬上預約</span>。填入您的電子信箱和必要的資料後,您將收到SEASIR的Paypal預約金請求書。為確保您的預約,請在收到預約金請求書的3日內支付每人5,000日元的預約金。若提出預約申請日距離您欲預約的日期不到3日,請您在24小時內支付預約金。若期限內未收到預約金,則您的預約視同放棄。]]></val>
+		<todo></todo>
+	</item>
 </items>
