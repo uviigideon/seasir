@@ -591,11 +591,11 @@
 	</item>
     <item>
         <key>###deposit dt 1###</key>
-        <val>亲爱的顾客, 每人 </val>
+        <val>您将会很快收到我们SEASIR LTD.来自Paypal账户的预约金请求. 爲了确保您的预约, 请支付每人</val>
     </item>
     <item>
         <key>###deposit dt 2###</key>
-        <val>日元的押金请求将会通过SEASIR Paypal 账号发送到您的邮箱,请支付押金来确认您的预约.我们一旦收到您 的押金,会在24小时之内通过邮件寄送预约确认表给您.</val>
+        <val>日元的预约金, 并在您收到我们Paypal预约金请求后的3天之内支付完成, 如果离预约日少於3天, 请在24小时内支付完成. 如果没有收到您的预约金, 您的预约将会被自动取消.</val>
     </item>
 	<item>
 		<key>###health dt###</key>

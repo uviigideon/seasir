@@ -623,11 +623,11 @@
     </item>
     <item>
         <key>###deposit dt 1###</key>
-        <val>Dear guest, A deposit request of JPY</val>
+        <val>You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY</val>
     </item>
     <item>
         <key>###deposit dt 2###</key>
-        <val> per person will send to your email from SEASIR PayPal account, please make the deposit to confirm your booking. A booking confirmation will send to you via email within 24 hours once deposit payment received.</val>
+        <val> per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than 3 days notice from the departure date. All booking request will cancel if no deposit receive.</val>
     </item>
     <item>
         <key>###health dt###</key>

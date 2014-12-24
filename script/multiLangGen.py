@@ -56,6 +56,7 @@ def processMultiLang(xmlPath,tmpPath,fileName,tmpFile):
     rFile = tmpFile
     print("open file to write: "+fileNameWithFullPath)
     wFile = open(fileNameWithFullPath,'w',-1,"utf8")
+    dirty = False
     for line in rFile:
         # print(line)
         rtnStr = line
@@ -67,13 +68,19 @@ def processMultiLang(xmlPath,tmpPath,fileName,tmpFile):
             except KeyError:
                 if ptnMatch in shareDict[langName]:
                     rtnStr = rtnStr.replace(ptnMatch, shareDict[langName][ptnMatch])
+                else:
+                    print("\nptn:["+ptnMatch+"] from["+tmpPath+"] not fond in "+xmlPath)
+                    dirty = True
         # print(rtnStr);
         # write rtnStr without \n
         # wFile.write(rtnStr[0:-1])
         wFile.write(rtnStr)
     # rFile.close()
-    wFile.close()
+    wFile.close()    
     print("done")
+    if (dirty):
+        input("press Enter")
+        
 def processClip(fpath, tmpFile):
     rFile = open(fpath,encoding='utf8')
     #nowProcessing = None
