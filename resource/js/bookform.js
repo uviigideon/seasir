@@ -158,17 +158,22 @@
                 /* {{{ */
                 GUEST._count = 1;
                 $(".guest-name").each(function(){
+                    $parentTR = $(this).parents("tr");
+                    if ($parentTR.hasClass("leap-3"))
+                        $parentTR = $parentTR.parents("tr");
                     if(0 === $(this).val().length)
-                        $(this).parent().parent().remove();
+                        $parentTR.remove();
                     else {
-                        $(this).parent().parent().find("input").each(function(){
+                        $parentTR.find("input").each(function(){
                             var name = $(this).attr("name");
+                            if(!name) return;
                             name = name.split("-");
                             name[1] = GUEST._count;
                             $(this).attr("name",name.join(" "));   
                         });
-                        $(this).parent().parent().find("select").each(function(){
+                        $parentTR.find("select").each(function(){
                             var name = $(this).attr("name");
+                            if(!name) return;
                             name = name.split("-");
                             name[1] = GUEST._count;
                             $(this).attr("name",name.join(" "));   
