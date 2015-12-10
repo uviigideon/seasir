@@ -1,0 +1,75 @@
+<items>
+    <item>
+        <key>###H2###</key>
+        <val><![CDATA[Q & A]]></val>
+    </item>
+    <item>
+        <key>###Access###</key>
+        <val>Access</val>
+    </item>
+    <item>
+        <key>###Access dt###</key>
+        <val><![CDATA[
+<li><span class="hl-black">(SEASIR NAHA) Can you provide pick up service to private apartment (ex. Airbnb)</span><br>
+<div class="sub">We only provide the free pick service to the HOTEL in Naha City in case of misunderstanding. If you stay in private apartment, we can pick you at the hotel nearby, please kindly advice the address.</div></li>
+<li><span class="hl-black">(SEASIR NAHA) Can you provide paid pick up service outside of Naha city?</span><br>
+<div class="sub">I am sorry that we don’t provide pick up service to the hotel outside of Naha City. Please kindly come to our shop by own expense.</div></li>
+<li><span class="hl-black">(SEASIR AKA) Will you arrange pick up service for us?</span><br>
+<div class="sub">Yes, we provide free pick up service from AKA pier to our pension. When you take off ferry, you will see our staff who wearing red polo-shirt, waiting for you!</div></li>
+<li><span class="hl-black">(BERRY) Do you provide free pick up service?</span><br>
+<div class="sub">Yes, we provide free pick up service for the hotel in Onna Village, the seats are limited, please kindly advise upon booking.</div></li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Activity related questions###</key>
+        <val>Activity related questions</val>
+    </item>
+    <item>
+        <key>###Activity related questions dt###</key>
+        <val><![CDATA[
+            <li><span class="hl-black">Can I join Snorkeling/Introductory diving if I can’t swim?</span>
+                <br><div class="sub">Sure, we have professional instructor take care of you, and life jacket is available, please free to ask you instructor.</div></li>
+            <li><span class="hl-black">What should I bring with me on activity day?</span>
+                <br><div class="sub">Please wear swimming suit and the clothes you may change on the boat.</div></li>
+            <li><span class="hl-black">Can I join the activity during my menstruation?</span>
+                <br><div class="sub">Yes, we have many female staffs go diving/snorkeling almost every day! If you are worried about it and want to have carefree vacation, please see the doctor before come to Okinawa!</div></li>
+            <li><span class="hl-black">Can I request special lens mask?</span>
+                <br><div class="sub">Yes, we provide the special lens, please kindly advice upon booking. Please note that we only have -1~-7, if you are high degree myopia, please bring disposable contact lens to join.</div></li>
+            <li><span class="hl-black">Can I wear contact lens?</span>
+                <br><div class="sub">Yes, no problem. Please make sure you are using soft contact lens.</div></li>
+            <li><span class="hl-black">Can my kid join the activity?</span>
+                <br><div class="sub">Please kindly check each activity, we have age limit on the description. We are sorry if we cannot provide to the kid under age limit because of insurance problem.</div></li>
+            <li><span class="hl-black">(SEASIR NAHA) Do you have shower room/ toilet / changing room on the boat?</span>
+                <br><div class="sub">Yes, our boat is 60 pax boat, there are shower room, toilet and changing room on the boat. Please kindly note that NO shampoo and Body soap allow.</div></li>
+            <li><span class="hl-black">Do you have English/Chinese/Cantonese speaking instructor?</span>
+                <br><div class="sub"><span class="hl-black">(SEASIR NAHA)</span> We have English/Chinese/Cantonese speaking staffs on the boat, but we can’t guarantee the instructor who can speak your language. All our staffs are willing to communicate with you, please don’t be shy!<br>
+<span class="hl-black">(SEASIR AKA)</span> Our Japanese instructors can speak basic English, and with experience to take care of foreigner guests. During summer season, we have some working holiday staffs, please feel free to ask for help!<br>
+<span class="hl-black">(BERRY)</span> Our Japanese instructors can speak basic English, and with experience to take care of foreigner guests. During summer season, we have some working holiday staffs, please feel free to ask for help!
+                    </div></li>
+            <li><span class="hl-black">(SEASIR NAHA) I will go with my friends, and we join different activity, will we be on same boat?</span>
+                <br><div class="sub">Yes, please kindly advice upon booking. For emergency booking, sometimes we will need to separate your group with notice before done the booking.</div></li>
+            <li><span class="hl-black">(SEASIR NAHA) Will our instructor take a photo for me?</span>
+                <br><div class="sub">Yes, please check the information for getting those photo. It will be 500yen/each which available on the website: <a href="http://www.seasir.zenfolio" target="_blank">www.seasir.zenfolio</a><br>If you want to rent an underwater camera, it will be 2,200yem/camera (not include SD card), SD card is also available at the shop (880yen/each)</div></li>
+            <li><span class="hl-black">(SEASIR NAHA) Can we land on the island?</span>
+                <br><div class="sub">No, we are sorry that according to NAHA Marine Leisure Safety policy, we care not allowed to land on any island.</div></li>
+            <li><span class="hl-black">(SEASIR NAHA) Diving point, water temperature</span>
+                <br><div class="sub">There are more than 50 diving points around Kerama islands area, our captain will decide where to go by monitoring the weather/wind/sea condition, please kindly let your instructor know what do you like to see in diving.</div></li>
+            <li><span class="hl-black">(SEASIR NAHA) Do you sell SEASICK medicine?</span>
+                <br><div class="sub">I am sorry that we are not able to provide seasick medicine for all guests, please prepare it day before your activity if needed.</div></li>
+            <li><span class="hl-black">(SEASIR NAHA) Can I put my luggage at the shop/on the boat?</span>
+                <br><div class="sub">Please kindly tell us how many luggage do you have, we will need to check our space of our shop is enough for you or not, and reply you by case. Thank you.</div></li>
+]]></val>
+    </item>
+    <item>
+        <key>###Cancellation policy###</key>
+        <val>Cancellation policy</val>
+    </item>
+    <item>
+        <key>###Cancellation policy dt###</key>
+        <val><![CDATA[
+            <li><span class="hl-black">Will the trip be cancelled when it rain / typhoon?</span>
+                <br><div class="sub">Usually the raining won’t affect the sea condition too much.<br> 
+When the typhoon comes, re-schedule notice will be sent before your trip. We will help you to reschedule. And refund will be only provided when the trip is announced to be cancelled.</div></li>
+            ]]></val>
+    </item>
+</items>

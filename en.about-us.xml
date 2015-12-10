@@ -5,8 +5,13 @@
     </item>
     <item>
         <key>###SEASIR intro###</key>
-        <val><![CDATA[<p><span class="seasir-red">MARINE HOUSE SEASIR</span> started and owned by Mr. Hideshi Inai, from Okinawa Aka Island since 1983, operating as a small marine sport center. Till today this company is the  longest and biggest running Dive Company in Okinawa. Our passion and effort Marine House SEASIR owns two main Dive Center at Naha, Aka Island (Akajima) and our 3 branch of water sports facility Marine Club <span class="berry-pink">Marine Club BERRY</span> and luxury charter cruise <span class="lamer-black">La Mer Riche</span>. With multi-lingual instructors speak Japanese, English, Mandarin, Cantonese and Bahasa Malaysia.</p>]]></val>
+        <val><![CDATA[<p>Marine House SEASIR started 1983 as a small marine sport center. Until today SEASIR group (<span class="seasir-red">Marine House SEASIR</span> and <span class="berry-pink">Marine Club BERRY</span>) is the longest and biggest Diving Company in Okinawa with multi-lingual instructors. With a tremendous and collaborating effort among SEASIR staffs, SEASIR Naha shop has been receiving “Dive and Travel Award” from the Diving magazine “Marine Diving” and ranks No.1 for 11 consecutive years.</p>]]></val>
     </item>
+    <item>
+        <key>###award###</key>
+        <val><![CDATA[&#8251; Best Diving operation in JAPAN. Marine House SEASIR Naha received the award from 2003]]></val>
+    </item>
+
     <item>
         <key>###Brief Naha###</key>
         <val>Daily trip to KERAMA Scuba diving and Snorkeling.</val>
@@ -38,9 +43,18 @@
     <item>
         <key>###Scuba diving equipment retail###</key>
         <val>Scuba diving equipment retail</val>
-     <item>
+    </item>   
+    <item>
         <key>###paintball###</key>
         <val>Paintball</val>
-    </item>   </item>
+    </item>   
+    <item>
+        <key>###MyPlace###</key>
+        <val>MyPlace</val>
+    </item>   
+    <item>
+        <key>###Brief MyPlace###</key>
+        <val>Guest House with dorm and private room in Naha.</val>
+    </item>   
     
 </items>

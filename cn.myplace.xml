@@ -1,0 +1,174 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Scuba Diving and Accommodation － Marine House SEASIR</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>Scuba diving, Snorkeling, Sea Kayaking activity and accommodation in AKA islands (KERAMA islands)</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Sea,Kayak,Scuba,Diving,Snorkeling,accommodation,English,Foreign,AKA,KERAMA</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###H2###</key>
+        <val>My Place guesthouse</val>
+    </item>
+    <item>
+        <key>###theTeamIntro###</key>
+        <val><![CDATA[
+            My Place 於2015年全新装修，提供您更舒适的环境，位於那霸市中心泊港港运大楼旁，从泊港码头可以搭乘渡轮前往座间味岛跟渡嘉敷岛。邻近那霸着名的国际通，稍走几步更可抵达泊港港运大楼(高速船待荷所)。<br>
+My Place 除了温暖舒适的房间之外，公共区域也以让旅人能够放松，交流旅游资讯为主要出发点设计出充满小岛风情的 Hang Out Hall。
+        ]]></val>
+    </item>
+    <item>
+        <key>###Shared Room###</key>
+        <val>多人房</val>
+    </item>
+    <item>
+        <key>###Private Room###</key>
+        <val>私人房间</val>
+    </item>
+    <item>
+        <key>###6 MIXED DOMITORY ROOM###</key>
+        <val>六人混住房</val>
+    </item>
+    <item>
+        <key>###6 MIXED DOMITORY ROOM Desc###</key>
+        <val>房间里有三组上下铺床，以及独立的卫浴设备(有使用时间限制)，提供不介意男女混住的旅人。每床备有插座，小灯，窗帘跟附钥匙的保管箱。</val>
+    </item>
+    <item>
+        <key>###per bed###</key>
+        <val>PER BED</val>
+    </item>
+    <item>
+        <key>###per room###</key>
+        <val>PER ROOM</val>
+    </item>
+    <item>
+        <key>###per person###</key>
+        <val>PER PERSON</val>
+    </item>
+    <item>
+        <key>###6 FEMALE DOMITORY ROOM###</key>
+        <val>六人女生房</val>
+    </item>
+    <item>
+        <key>###6 FEMALE DOMITORY ROOM Desc###</key>
+        <val>跟六人混住房一样的规格，房间里有三组上下铺床，以及独立的卫浴设备(有使用时间限制)，本房型共有两间，仅提供给女孩们使用。每床备有插座，小灯，窗帘跟附钥匙的保管箱。</val>
+    </item>
+    <item>
+        <key>###Triple Quad Family Private ROOM###</key>
+        <val>四人房</val>
+    </item>
+    <item>
+        <key>###Triple Quad Family Private ROOM Desc###</key>
+        <val>此房型也是上下铺型式，最多可住四人，房间内备有电视与独立的卫浴设备(有使用时间限制)。每房备有插座丶附钥匙的保管箱丶独立的卫浴设备还有茶几提供给您跟朋友/家人们小聊的空间。</val>
+    </item>
+    <item>
+        <key>###2 PEOPLE ROOM###</key>
+        <val>2 PEOPLE ROOM</val>
+    </item>
+    <item>
+        <key>###3 PEOPLE ROOM###</key>
+        <val>3 PEOPLE ROOM</val>
+    </item>
+    <item>
+        <key>###4 PEOPLE ROOM###</key>
+        <val>4 PEOPLE ROOM</val>
+    </item>
+    <item>
+        <key>###Twin Private ROOM###</key>
+        <val>双人房</val>
+    </item>
+    <item>
+        <key>###Twin Private ROOM Desc###</key>
+        <val>双人房为两张床房型，房间内备有电视与独立的卫浴设备(有使用时间限制)。每房备有插座丶附钥匙的保管箱丶独立的卫浴设备还有茶几提供给您跟朋友/家人们小聊的空间。</val>
+    </item>
+    <item>
+        <key>###Sales tax is included in all prices above###</key>
+        <val>◎ 以上费用皆含日本消费税</val>
+    </item>
+    <item>
+        <key>###Facility and Service###</key>
+        <val>免费设施与服务</val>
+    </item>
+    <item>
+        <key>###Facility and Service Desc###</key>
+        <val><![CDATA[
+<li>停车位(需提前预约)</li>
+<li>Hang Out Hall (24小时开放)</li>
+<li>公用厨房 (24小时开放)</li>
+<li>影音视听设备</li>
+<li>免费无线上网</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Loaning###</key>
+        <val>收费设施与服务</val>
+    </item>
+    <item>
+        <key>###Loaning Desc###</key>
+        <val><![CDATA[
+<li>脚踏车</li>
+<ul>
+    <li>5 小时/ JPY 500</li>
+    <li>10 小时/ JPY 1,000</li>
+</ul>
+<li>投币式洗衣</li>
+<ul>
+    <li>每回/ JPY 200</li>
+</ul>
+<li>投币式乾衣机</li>
+<ul>
+    <li>15 分钟/ JPY 100</li>
+</ul>
+            ]]></val>
+    </item>
+    <item>
+        <key>###ACCESS###</key>
+        <val>如何前往</val>
+    </item>
+    <item>
+        <key>###My Place guesthouse###</key>
+        <val>★ My Place guesthouse: </val>
+    </item>
+    <item>
+        <key>###Addr###</key>
+        <val>Addr: 900-0012冲绳县那霸市泊港3-1-8</val>
+    </item>
+    <item>
+        <key>###Phone###</key>
+        <val>Phone: +81 (0)80-8569-2887</val>
+    </item>
+    <item>
+        <key>###Email###</key>
+        <val>Email: myplace-okinawa@seasir.com</val>
+    </item>
+    <item>
+        <key>###How to get My Place###</key>
+        <val>★ 如何前往: </val>
+    </item>
+    <item>
+        <key>###Yui-Rail###</key>
+        <val>轻轨电车 : 美荣桥站</val>
+    </item>
+    <item>
+        <key>###Bus stop###</key>
+        <val>巴士站 : 泊高桥站</val>
+    </item>
+
+
+    <item>
+        <key>###bookingHref###</key>
+        <val><![CDATA[http://www.booking.com/hotel/jp/my-place.zh-tw.html?aid=330843;sid=618647520d3b3a36955102be96676820;dcid=1;dist=0&type=total&]]></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+</items>
+

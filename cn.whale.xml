@@ -13,7 +13,11 @@
 	</item>
 	<item>
 		<key>###H2###</key>
-		<val>冲縄赏鲸季 2014 十二月27日～ 2015 四月五日</val>
+		<val>SEASIR 那霸 赏鲸之旅</val>
+	</item>
+	<item>
+		<key>###sub###</key>
+		<val>2015/16 赏鲸季 从12月26日开始至4月3日结束</val>
 	</item>
 	<item>
 		<key>###whale intro###</key>
@@ -93,9 +97,11 @@
 	</item>
 	<item>
 		<key>###Price Includes li###</key>
-		<val><![CDATA[<li>酒店接送 (限那霸市內)</li>
-<li>冷热茶水</li>
-<li>赏鲸保证 (如果没有旅客看到鲸鱼或海豚, 我们全额退费)</li>]]></val>
+        <val><![CDATA[
+<li>船费</li>
+<li>饮用水</li>
+<li>赏鲸保证（如未能看到鲸鱼，将会获得【再次挑战券】或全额退款）</li>
+<li>免费酒店接送（仅限那霸市市内地区，请在预约时注明，席位有限）</li>]]></val>
 	</item>
 	<item>
 		<key>###Boat Facility###</key>
@@ -118,12 +124,18 @@
 	</item>
 	<item>
 		<key>###Conditions li###</key>
-		<val><![CDATA[<li>癫痫, 痉挛, 抽搐或服用药物以防止前述症状</li>
-<li>怀孕</li>]]></val>
+        <val><![CDATA[
+            <li>癫痫, 痉挛, 抽搐或服用药物以防止前述症状</li>
+            <li>怀孕</li>
+            <li>如有3岁以下婴儿参与活动，请在预约时说明情况，协商解决。</li>
+            ]]></val>
 	</item>
 	<item>
-		<key>###Whale Note dt###</key>
-		<val>参与 2014年 12月 27日到 2015年 1月 4日的赏鲸行程的游客，若在该次航程中没有看到鲸鱼，也无法退款，请注意！</val>
+        <key>###Whale Note dt###</key>
+        <val>
+2015年12月26日到2016年1月3日期间，我们不能保证在活动中一定可以遇到鲸鱼。
+如未能看到鲸鱼，Marine House SEASIR 那霸店将会提供【再次挑战券】（无法退款） ，欢迎您再次光临。
+		</val>
 	</item>
 	<item>
 		<key>###Booking procedure dt###</key>

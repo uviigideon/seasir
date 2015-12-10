@@ -37,8 +37,7 @@
 	</item>
 	<item>
 		<key>###OW Schedule comment###</key>
-		<val><![CDATA[
-            此課程您必需先在家裡完成基礎的學科學習或 PADI 的線上學習課程, 請 <a href="mailto:english@seasir.com" target="_blank">聯絡我們</a> 以獲得更多的資訊.]]></val>
+		<val>以上訓練課程開始前，均須先完成PADI e-learning課程</val>
 	</item>
 	<item>
 		<key>###Requirement from candidate###</key>
@@ -46,12 +45,14 @@
 	</item>
 	<item>
 		<key>###Requirement from candidate li###</key>
-		<val><![CDATA[
-            <li>請詳讀 SEASIR <a href="./health.htm" target="_blank">自我健康檢查表</a>. 如果有所列的任何一項問題對您而言為 "是" 的情況, 我們必需請您咨詢您的醫師, 並開立可以參加潛水課程的證明.</li>
-            <li>在旺季時課程費用每人需增加 5,000日元.</li>
-            <li>2 護照大小相片.</li>
-            <li>最少要有兩個學員才會開課. 如果您只有一位, 請<a href="mailto:english@seasir.com" target="_blank">聯絡我們</a>來為您安排.</li>
-            ]]></val>
+        <val><![CDATA[
+            <li>請上PADI官網: <a href="http://www.padi.com" target="_blank">www.padi.com</a> 購買e-learning課程並直接支付USD184。（該筆費用不包含在PADI Open Water Diver 課程費用內。）<br>請您務必至少在訓練課程開始的 <span style="text-decoration: underline">3天前</span> 完成PADI e-learning。請下載 <a href="./data/OW E-Learning Course Info.docx">OW E-Learning 課程資訊</a> 以了解詳情。</li>
+            <li>請點此連結Health Check List完成 <a href="./health.htm" target="_blank">SEASIR 健康自檢表</a> 。如果在健康自檢表中您有任何項目回答“是”，則要請您在預約報名之前諮詢醫生並提供醫師證明。</li>
+            <li>如果您預約的日期課程屬於旺季，則需每人加收JPY5,000。關於淡旺季行事曆，請參考以下：                <ul><li>SEASIR那霸店，請參考<a href="./cal.htm#2016" target="_blank">2016淡旺季行事曆</a></li>
+                    <li>Marine Club BERRY，請參考<a href="./cal.htm#2016" target="_blank">2016淡旺季行事曆</a></li>
+                    <li>SEASIR阿嘉島店，旺季： <ul class="hl-red"><li>2016年4月28日-5月8日</li><li>2016年6月11日-10月10日</li></ul></li></ul></li>
+                <li>在訓練課程當天，請您攜帶eRecord（包含總項目的成績單）和泳衣/換洗衣物到店。</li>
+        ]]></val>
 	</item>
 	<item>
 		<key>###Training Material###</key>
@@ -131,10 +132,11 @@
 	<item>
 		<key>###Requirement from candidate aow li###</key>
 		<val><![CDATA[
-            <li>請詳讀 SEASIR <a href="./health.htm" target="_blank">自我健康檢查表</a>. 如果有所列的任何一項問題對您而言為 "是" 的情況, 我們必需請您咨詢您的醫師, 並開立可以參加潛水課程的證明.</li>
-            <li>在旺季時課程費用每人需增加 5,000日元.</li>
-            <li>有效的 PADI Open Water Diver license 或同等級的證照.</li>
-            <li>2 護照大小相片.</li>
+            <li>請點此連結Health Check List完成 <a href="./health.htm" target="_blank">SEASIR 健康自檢表</a> 。如果在健康自檢表中您有任何項目回答“是”，則要請您在預約報名之前諮詢醫生並提供醫師證明。</li>
+            <li>如果您預約的日期課程屬於旺季，則需每人加收JPY5,000。關於淡旺季行事曆，請參考以下：                <ul><li>SEASIR那霸店，請參考<a href="./cal.htm#2016" target="_blank">2016淡旺季行事曆</a></li>
+                    <li>Marine Club BERRY，請參考<a href="./cal.htm#2016" target="_blank">2016淡旺季行事曆</a></li>
+                    <li>SEASIR阿嘉島店，旺季： <ul class="hl-red"><li>2016年4月28日-5月8日</li><li>2016年6月11日-10月10日</li></ul></li></ul></li>
+                <li>PADI Open Water Diver潛水執照或有同等效力的證明文件（請提前說明討論）。</li>
             ]]></val>
 	</item>
 	<item>
@@ -195,10 +197,12 @@
 	<item>
 		<key>###Requirement from candidate res li###</key>
 		<val><![CDATA[
-            <li>請詳讀 SEASIR <a href="./health.htm" target="_blank">自我健康檢查表</a>. 如果有所列的任何一項問題對您而言為 "是" 的情況, 我們必需請您咨詢您的醫師, 並開立可以參加潛水課程的證明.</li>
-            <li>在旺季時課程費用每人需增加 5,000日元.</li>
-            <li>有效的 PADI Advanced license 或同等級證照 + PADI EFR (Medic First Aid) / CPR Rescue License 或 PADI 當地辦公室所承認之同等級 CPR 認證</li>
-            <li>2 護照大小相片.</li>
+            <li>請點此連結Health Check List完成 <a href="./health.htm" target="_blank">SEASIR 健康自檢表</a> 。如果在健康自檢表中您有任何項目回答“是”，則要請您在預約報名之前諮詢醫生並提供醫師證明。</li>
+            <li>如果您預約的日期課程屬於旺季，則需每人加收JPY5,000。關於淡旺季行事曆，請參考以下：
+                <ul><li>SEASIR那霸店，請參考<a href="./cal.htm#2016" target="_blank">2016淡旺季行事曆</a></li>
+                    <li>Marine Club BERRY，請參考<a href="./cal.htm#2016" target="_blank">2016淡旺季行事曆</a></li>
+                    <li>SEASIR阿嘉島店，旺季： <ul class="hl-red"><li>2016年4月28日-5月8日</li><li>2016年6月11日-10月10日</li></ul></li></ul></li>
+            <li>PADI Open Water Diver潛水執照或有同等效力的證明文件（請提前說明討論）。</li>
             ]]></val>
 	</item>
 	<item>

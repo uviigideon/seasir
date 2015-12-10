@@ -1,0 +1,189 @@
+<items>
+    <!-- {{{ Marine House SEASIR Naha -->
+    <item>
+        <key>###Marine House SEASIR Naha###</key>
+        <val>Marine House SEASIR Naha</val>
+    </item>
+    <item>
+        <key>###Naha###</key>
+        <val>Naha</val>
+    </item>
+    <item>
+        <key>###Full day###</key>
+        <val>Full day</val>
+    </item>
+    <item>
+        <key>###Half day###</key>
+        <val>Half day</val>
+    </item>
+    <item>
+        <key>###Snorkeling package###</key>
+        <val>Snorkeling package</val>
+    </item>
+    <item>
+        <key>###Introductory Diving package###</key>
+        <val>Introductory Diving package</val>
+    </item>
+    <item>
+        <key>###Leisure Diving package###</key>
+        <val>Leisure Diving package</val>
+    </item>
+    <item>
+        <key>###Refresher Diving course package###</key>
+        <val>Refresher Diving course package</val>
+    </item>
+    <item>
+        <key>###summer only###</key>
+        <val></val>
+    </item>
+    <item>
+        <key>###winter only###</key>
+        <val></val>
+    </item>
+ 
+    <!-- }}} Marine House SEASIR Naha -->
+    <!-- {{{ Marine House SEASIR AKA -->
+    <item>
+        <key>###Marine House SEASIR AKA###</key>
+        <val>Marine House SEASIR AKA</val>
+    </item>
+    <item>
+        <key>###AKA###</key>
+        <val>AKA</val>
+    </item>
+    <item>
+        <key>###Pension###</key>
+        <val>Pension</val>
+    </item>
+    <item>
+        <key>###Snorkeling###</key>
+        <val>Snorkeling</val>
+    </item>
+    <item>
+        <key>###Introductory Diving###</key>
+        <val>Introductory Diving</val>
+    </item>
+    <item>
+        <key>###Leisure Diving###</key>
+        <val>Leisure Diving</val>
+    </item>
+    <item>
+        <key>###Refresher Diving course###</key>
+        <val>Refresher Diving course</val>
+    </item>
+    <item>
+        <key>###Night Dive###</key>
+        <val>Night Dive</val>
+    </item>
+
+    
+    <!-- }}} Marine House SEASIR AKA -->
+    <!-- {{{ Special Dive Trip & SEAPEOPLE -->
+    <item>
+        <key>###Special Dive Trip###</key>
+        <val>Special Dive Trip</val>
+    </item>
+    <item>
+        <key>###Okinawa daily diving trip###</key>
+        <val>Okinawa daily diving trip</val>
+    </item>
+    <item>
+        <key>###Oversea diving trip###</key>
+        <val>Oversea diving trip</val>
+    </item>
+    <item>
+        <key>###SEAPEOPLE retails###</key>
+        <val>SEAPEOPLE retails</val>
+    </item>
+    <item>
+        <key>###Equipment Brands###</key>
+        <val>Equipment Brands</val>
+    </item>
+    <item>
+        <key>###Location###</key>
+        <val>Location</val>
+    </item>
+    <!-- }}} Special Dive Trip & SEAPEOPLE -->
+    <!-- {{{ Marine Club BERRY -->
+    <item>
+        <key>###Marine Club BERRY###</key>
+        <val>Marine Club BERRY</val>
+    </item>
+    <item>
+        <key>###Marine Walk###</key>
+        <val>Marine Walk</val>
+    </item>
+    <item>
+        <key>###Water sport###</key>
+        <val>Water sport: Biscuit Drift, Banana Boat Ride, Super Marble, Water Tube</val>
+    </item>
+    <item>
+        <key>###Sea Kayak###</key>
+        <val>Sea Kayak</val>
+    </item>
+    <item>
+        <key>###Mangrove Kayak###</key>
+        <val>Mangrove Kayak</val>
+    </item>
+    <item>
+        <key>###Parasailing###</key>
+        <val>Parasailing</val>
+    </item>
+    <item>
+        <key>###Fly board###</key>
+        <val>Fly board</val>
+    </item>
+    <item>
+        <key>###Paintball###</key>
+        <val>Paintball</val>
+    </item>
+    <!-- }}} Marine Club BERRY -->
+    <!-- {{{ PADI diving Course -->
+    <item>
+        <key>###PADI diving Course###</key>
+        <val>PADI diving Course</val>
+    </item>
+    <item>
+        <key>###PADI Open Water Diver Course###</key>
+        <val>PADI Open Water Diver Course</val>
+    </item>
+    <item>
+        <key>###PADI Advanced Diver Course###</key>
+        <val>PADI Advanced Diver Course</val>
+    </item>
+    <item>
+        <key>###Emergency First Responder Course###</key>
+        <val>Emergency First Responder Course</val>
+    </item>
+    <item>
+        <key>###PADI Rescue Diver Course###</key>
+        <val>PADI Rescue Diver Course</val>
+    </item>
+    
+    <!-- }}} PADI diving Course -->
+    <item>
+        <key>###MyPlace Guest House###</key>
+        <val>MyPlace Guest House</val>
+    </item>
+    <item>
+        <key>###Cool Okinawa travel###</key>
+        <val>Cool Okinawa travel</val>
+    </item>
+    <item>
+        <key>###Cool Okinawa travel ln###</key>
+        <val><![CDATA[http://www.coolokinawa.com/en/]]></val>
+    </item>
+    <item>
+        <key>###PhotoShisa###</key>
+        <val>PhotoShisa</val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val><![CDATA[
+            ]]></val>
+    </item>
+</items>

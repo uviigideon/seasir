@@ -12,6 +12,14 @@
 		<val>Okinawa,Diving,Dive,Snorkeling,Scuba,Marine,Sports,English,Foreign,Naha,冲绳,冲绳,潜水,中文,广东话,中国,香港,水上活动,外国人,浮潜,体验潜水,那霸，庆良间诸岛</val>
 	</item>
 	<item>
+		<key>###MY PLACE HOUSE###</key>
+		<val>MyPlace 青年旅馆</val>
+	</item>
+	<item>
+		<key>###Full Day###</key>
+		<val>一日活动</val>
+	</item>
+	<item>
 		<key>###CHIBISI###</key>
 		<val>半日活动</val>
 	</item>
@@ -36,6 +44,10 @@
 		<val>从一月初到三月末的赏鲸之旅, 快来参加冲绳最冬季最有趣的水上活动！</val>
 	</item>
 	<item>
+		<key>###whale season###</key>
+		<val>赏鲸季从2015年12月26日至2016年4月3日</val>
+	</item>
+	<item>
 		<key>###brief course text###</key>
 		<val>SEASIR PADI 5 星级的潜水指导中心, 和会说英文, 日文,马来西亚语， 中文及广东话的教练一同学习潜水.</val>
 	</item>
@@ -44,30 +56,112 @@
 		<val>想要为您的潜水装备升级吗? 潜水相关的大小装备零售, 找我们就对了!</val>
 	</item>
 	<item>
+		<key>###brief myplace text###</key>
+		<val>地处那霸市中心地带，与泊港码头仅几步之遥</val>
+	</item>
+	<item>
+		<key>###brief cool okinawa text###</key>
+		<val>冲绳当地最完整旅游咨询，为您提供私人定制行服务</val>
+	</item>
+	<item>
 		<key>###SEA PEOPLE Scuba Diving Equipment Retail###</key>
 		<val>SEA PEOPLE 潜水相关装备零售</val>
 	</item>
 	<item>
-		<key>###Berry Paintball###</key>
-		<val>Berry 漆弹</val>
+		<key>###myspace###</key>
+		<val>MyPlace民宿</val>
+	</item>
+	<item>
+		<key>###Dormitory Rooms###</key>
+		<val>集体宿舍</val>
+	</item>
+	<item>
+		<key>###Private Room###</key>
+		<val>私人房间</val>
 	</item>
 	<item>
 		<key>###Cool Okinawa###</key>
-		<val><![CDATA[
-<h2 class="seapeople-h2"><a href="http://www.coolokinawa.com/cn/" target="_blank">酷酷冲绳游</a></h2>
-<a id="seapeople-banner-a" href="http://www.coolokinawa.com/cn/" target="_blank"><div id="cool-okinawa-banner-cn"></div></a>
-        ]]></val>
+		<val>酷酷冲绳游</val>
 	</item>
 	<item>
-		<key>###fotoShisa###</key>
-		<val><![CDATA[
-<h2 class="seapeople-h2"><a href="./fotoshisa.htm">fotoShisa 专业活动摄影师</a></h2>
-<a id="seapeople-banner-a" href="./fotoshisa.htm"><div id="fotoshisa-banner"></div></a>
-            ]]></val>
+		<key>###Cool Okinawa ln###</key>
+		<val><![CDATA[http://www.coolokinawa.com/cn/]]></val>
+	</item>
+	<item>
+		<key>###EngChin booking service###</key>
+		<val>提供英文/中文预定服务</val>
+	</item>
+	<item>
+		<key>###Okinawa Day tour###</key>
+		<val>冲绳一日游</val>
+	</item>
+	<item>
+		<key>###Restaurant bus###</key>
+		<val>餐厅/公交</val>
+	</item>
+	<item>
+		<key>###fotoshisa###</key>
+		<val>fotoShisa</val>
+	</item>
+	<item>
+		<key>###brief fotoshisa text###</key>
+		<val>专业摄影师为您服务</val>
+	</item>
+	<item>
+		<key>###Underwater photo###</key>
+		<val>水下摄影</val>
+	</item>
+	<item>
+		<key>###Family photo###</key>
+		<val>全家福拍摄</val>
+	</item>
+	<item>
+		<key>###fotoshisa ln###</key>
+		<val><![CDATA[./fotoshisa.htm]]></val>
+	</item>
+	<item>
+		<key>###special-dive-trip###</key>
+		<val>特色潜水行程</val>
+	</item>
+	<item>
+		<key>###brief special-dive-trip text###</key>
+		<val>SEASIR推荐的冲绳旅游项目和海外潜水行程</val>
+	</item>
+	<item>
+		<key>###Oki Special Dive trip###</key>
+		<val>冲绳特色潜水行程</val>
+	</item>
+	<item>
+		<key>###Oversea dive trip###</key>
+		<val>海外潜水行程</val>
+	</item>
+	<item>
+		<key>###Paintball###</key>
+		<val>Paintball</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###brief Paintball text###</key>
+		<val>Exciting paintball game, designed for company teambuilding, family or friend’s reunion.</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Basic plan###</key>
+		<val>Basic plan</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Advance plan###</key>
+		<val>Advance plan</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Group plan###</key>
+		<val>Group plan</val>
+		<todo></todo>
 	</item>
 	<item>
 		<key>###seeMoreDetail###</key>
 		<val>了解更多</val>
 	</item>
-
 </items>

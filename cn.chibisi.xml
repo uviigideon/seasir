@@ -2,7 +2,7 @@
     <!-- {{{ header -->
     <item>
         <key>###headTitle###</key>
-        <val>冲绳庆伊濑岛(庆良间诸岛)半天浮潜和体验潜水行程</val>
+        <val>SEASIR 那霸 半日往返庆伊濑岛(庆良间诸岛) 体验潜水和浮潜之旅</val>
     </item>
     <item>
         <key>###headDesc###</key>
@@ -15,7 +15,7 @@
     <!-- }}} header -->
     <item>
         <key>###theTeam###</key>
-        <val>庆伊濑岛(庆良间诸岛)半天浮潜和体验潜水行程</val>
+        <val>SEASIR 那霸 半日往返庆伊濑岛(庆良间诸岛) 体验潜水和浮潜之旅</val>
     </item>
     <item>
         <key>###theTeamIntro###</key>
@@ -76,10 +76,6 @@
         <val>1次体验潜水(约20分钟),可附加浮潜</val>
     </item>
     <item>
-       <key>###Booking procedure###</key>
-       <val>预约流程</val>
-    </item>
-    <item>
         <key>###Booking procedure dt###</key>
         <val><![CDATA[点击<b>”马上报名”</b>填入可以联系到您的邮件,然後填入所有信息提交报名表.您将会很快收到我们SEASIR LTD.来自Paypal账户的预约金请求. 爲了确保您的预约,请支付每人3,000日元的预约金，并在您收到我们Paypal预约金请求后的3天之内支付完成,如果离预约日少於3天,请在24小时内支付完成.如果没有收到您的预约金,您的预约将会被自动取消.]]></val>
     </item>
@@ -94,9 +90,5 @@
     <item>
         <key>###Introductory Diving###</key>
         <val>体验潜水套餐(最小年龄 10岁可参加)</val>
-    </item>
-    <item>
-        <key>###To make a booking###</key>
-        <val></val>
     </item>
 </items>

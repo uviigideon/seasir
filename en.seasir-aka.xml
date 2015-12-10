@@ -57,7 +57,7 @@ archipelago.
     </item>
     <item>
         <key>###peakseason date###</key>
-        <val><![CDATA[2015 Peak Season : 29th April - 6th May  &  13th June - 30th September & 10th October - 13th October]]></val>
+        <val><![CDATA[2016 Peak Season: <ul style="margin-top:0;padding-left:2em"><li>28th April to 8th May 2016</li><li>11th June to 10th October 2016</li></ul>]]></val>
     </item>
     <item>
         <key>###Season Price###</key>
@@ -136,12 +136,11 @@ archipelago.
         <val>Night Diving</val>
     </item>
     <item>
-        <key>###First Time###</key>
-        <val>First Time</val>
-    </item>
-    <item>
-        <key>###Experienced###</key>
-        <val>Experienced</val>
+        <key>###Night Diving Note###</key>
+        <val><![CDATA[
+<li>Checked dive at day time is required.</li>
+<li>Request upon arrival only.</li>
+            ]]></val>
     </item>
     <item>
         <key>###Refresher Course###</key>
@@ -176,12 +175,17 @@ archipelago.
         <val><![CDATA[Click on <span class="booking-blue">BOOKING NOW</span>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY4,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.]]></val>
     </item>
     <item>
-        <key></key>
-        <val></val>
+        <key>###location###</key>
+        <val>How to access AKA Island</val>
     </item>
     <item>
-        <key></key>
-        <val></val>
+        <key>###location dt###</key>
+        <val><![CDATA[
+            <li>SEASIR Free pick up from AKA port to SEASIR AKA pension, please kindly advise the ferry to arrange it.</li>
+            <li>Ferry ticket reservation: please book it online (English)</li>
+            Zamami Village Offical website: <a href="http://www.vill.zamami.okinawa.jp/" target="_blank">http://www.vill.zamami.okinawa.jp/</a>
+            
+            ]]></val>
     </item>
     <item>
         <key>###Active Schedule Time dive###</key>

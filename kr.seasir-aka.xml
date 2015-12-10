@@ -1,7 +1,7 @@
 <items>
 	<item>
 		<key>###headTitle###</key>
-		<val>Okinawa Scuba Diving and Accommodation – Marine House SEASIR</val>
+		<val>Marine House SEASIR 아카 섬(아카지마)</val>
 	</item>
 	<item>
 		<key>###headDesc###</key>
@@ -17,8 +17,7 @@
 	</item>
 	<item>
 		<key>###theTeamIntro###</key>
-		<val><![CDATA[Marine House SEASIR 아카지마는 1983년에 SEASIR가 시작된 곳입니다. 아카지마는 다이빙 센터이면서 펜션입니다. 여러분은 아카지마에 방문해 산호 물고기로 가득한 니시하마, 마자 비치에서 스노클링을 할 수 있습니다. SEASIR 아카지마는 펜션이기도 한데 케라마 제도에서 스쿠버 다이빙에 특화된 편의시설을 갖추고 있습니다.
-        ]]></val>
+		<val><![CDATA[Marine House SEASIR 아카 지점은 1983년에 SEASIR가 시작된 곳입니다. SEASIR 아카 지점은 다이빙 센터와 펜션 시설을 겸하고 있습니다. 산호와 열대어가 가득한 니시하마와 마자비치에서 스노클링이 가능합니다. SEASIR 아카 지점은 케라마제도 다이빙에 특화된 시설을 갖추고 있습니다.]]></val>
 	</item>
 	<item>
 		<key>###Accommodation###</key>
@@ -50,7 +49,7 @@
 	</item>
 	<item>
 		<key>###peakseason date###</key>
-		<val><![CDATA[2015년 성수기 : 4월 29일~5월 6일, 6월 13일~9월 30일, 10월 10일~10월 13일]]></val>
+		<val><![CDATA[2016년 성수기 : 4월28일~5월8일, 6월11일~10월 10일]]></val>
 	</item>
 	<item>
 		<key>###Season Price###</key>
@@ -74,7 +73,7 @@
 	</item>
 	<item>
 		<key>###dt###</key>
-		<val>모든 객실의 요금에는 아침, 점심, 저녁식사만 포함됩니다.</val>
+		<val>1인당 요금이며 아침, 점심, 저녁식사 포함입니다</val>
 	</item>
 	<item>
 		<key>###Japanese Tatami room###</key>
@@ -129,12 +128,11 @@
 		<val>나이트 다이빙</val>
 	</item>
 	<item>
-		<key>###First Time###</key>
-		<val>초심자</val>
-	</item>
-	<item>
-		<key>###Experienced###</key>
-		<val>경험자</val>
+		<key>###Night Diving Note###</key>
+		<val><![CDATA[
+<li>낮 시간 사전 체크다이빙 필요.</li>
+<li>현지 도착 후 요청 가능.</li>
+            ]]></val>
 	</item>
 	<item>
 		<key>###Refresher Course###</key>
@@ -167,6 +165,24 @@
 	<item>
 		<key>###Booking procedure dt###</key>
 		<val><![CDATA[<span class="booking-blue">지금 예약</span>을 클릭한 후, 귀하의 연락처로 이메일 주소를 기입해야 합니다. 필요한 모든 정보를 기입한 후 보내십시오. 귀하의 예약을 확보하기 위해 SEASIR LTD 계정으로부터 PayPal 예약금 입금 요청을 받게 됩니다. 저희 PayPal 계정으로부터 입금 요청을 받은 날로부터 3일 이내에 1인당 5,000엔을 입금하십시오. 만약 예약을 출발일로부터 3일 이내에 할 경우 24시간 이내에 입금하십시오. 입금을 하지 않는 경우 모든 예약은 취소됩니다.]]></val>
+	</item>
+	<item>
+		<key>###location###</key>
+		<val>아카 지점 오시는 길</val>
+	</item>
+	<item>
+		<key>###location dt###</key>
+		<val><![CDATA[
+            <li>무료로 아카섬 항구로부터 SEASIR 아카 지점으로 송영해 드립니다. 타고 오시는 페리 출발 시간을 미리 알려주시기 바랍니다.</li>
+            <li>페리 예약: 인터넷 예약 (영어) </li>
+            자마미 페리 예약 사이트 : <a href="https://www.vill.zamami.okinawa.jp/zamami_web/enlog0101!doFormOpenLogin.action" target="_blank">https://www.vill.zamami.okinawa.jp/zamami_web/enlog0101!doFormOpenLogin.action</a><br>
+자마미촌 공식 홈페이지 : <a href="http://www.vill.zamami.okinawa.jp/" target="_blank"></a>http://www.vill.zamami.okinawa.jp/</a>           
+            ]]></val>
+	
+	 
+
+        
+		<todo></todo>
 	</item>
 	<item>
 		<key>###Active Schedule Time dive###</key>

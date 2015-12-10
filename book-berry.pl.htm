@@ -132,9 +132,14 @@
                 <label class="check-label" for="check-deposit">###deposit dt 1###4,000###deposit dt 2###</label>
             </p>
             <p>
+                <input id="check-rest" type="checkbox" class="agreements" name="rest-agreement" value="checked">
+                <label class="check-label" for="check-rest">###rest agreement###</label>
+            </p>
+            <p>
                 <input id="check-health" type="checkbox" class="agreements" name="health" value="checked">
                 <label class="check-label" for="check-health">###health dt###</label>
             </p>
+            <textarea name="agreements" style="display:none">###agreements###</textarea>
         </fieldset>
         <!-- }}} agreement -->    
         </div>
@@ -164,7 +169,7 @@ $(function() {
             strArr[strArr.length] = num;
             strArr[strArr.length] = '-age"></td><td><select size="1" name="guest-';
             strArr[strArr.length] = num;
-            strArr[strArr.length] = '-Activity"><option value="SNK 9:00">Snorkeling - 09:00</option><option value="SNK 11:00">Snorkeling - 11:00</option><option value="SNK 13:30">Snorkeling - 13:30</option><option value="SNK 15:30">Snorkeling - 15:30</option><option value="IDV 09:00">Intro-Diving - 09:00</option><option value="IDV 11:00">Intro-Diving - 11:00</option><option value="IDV 13:30">Intro-Diving - 13:30</option><option value="IDV 15:30">Intro-Diving - 15:30</option><option value="MW 09:00">Marine Walk - 09:00</option><option value="MW 11:00">Marine Walk - 11:00</option><option value="MW 13:30">Marine Walk - 13:30</option><option value="MW 15:30">Marine Walk - 15:30</option><option value="SEA KAYAK 09:00">SEA KAYAK - 09:00</option><option value="SEA KAYAK 13:30">SEA KAYAK - 13:30</option><option value="MANGROVE KAYAK 09:00">MANGROVE KAYAK - 09:00</option><option value="MANGROVE KAYAK 13:30">MANGROVE KAYAK - 13:30</option><option value="Active 3 09:30">Active 3 - 09:30</option><option value="Active 3 13:00">Active 3 - 13:00</option><option value="SCREAM4 09:30">SCREAM4 - 09:30</option><option value="SCREAM4 13:00">SCREAM4 - 13:00</option></select></td><td><label>';
+            strArr[strArr.length] = '-Activity"><option value="SNK 9:00">Snorkeling - 09:00</option><option value="SNK 11:00">Snorkeling - 11:00</option><option value="SNK 13:30">Snorkeling - 13:30</option><option value="SNK 15:30">Snorkeling - 15:30</option><option value="IDV 09:00">Intro-Diving - 09:00</option><option value="IDV 11:00">Intro-Diving - 11:00</option><option value="IDV 13:30">Intro-Diving - 13:30</option><option value="IDV 15:30">Intro-Diving - 15:30</option><option value="MW 09:00">Marine Walk - 09:00</option><option value="MW 11:00">Marine Walk - 11:00</option><option value="MW 13:30">Marine Walk - 13:30</option><option value="MW 15:30">Marine Walk - 15:30</option><option value="SEA KAYAK 09:00">SEA KAYAK - 09:00</option><option value="SEA KAYAK 13:30">SEA KAYAK - 13:30</option><option value="MANGROVE KAYAK 09:00">MANGROVE KAYAK - 09:00</option><option value="MANGROVE KAYAK 13:30">MANGROVE KAYAK - 13:30</option><option value="Active 3 09:30">Active 3 - 09:30</option><option value="Active 3 13:00">Active 3 - 13:00</option><option value="SCREAM4 09:30">SCREAM4 - 09:30</option><option value="SCREAM4 13:00">SCREAM4 - 13:00</option><option value="Flyboard 09:00">Flyboard - 09:00</option><option value="Flyboard 10:00">Flyboard - 10:00</option><option value="Flyboard 11:00">Flyboard - 11:00</option><option value="Flyboard 13:00">Flyboard - 13:00</option><option value="Flyboard 14:00">Flyboard - 14:00</option><option value="Flyboard 15:00">Flyboard - 15:00</option><option value="Flyboard 16:00">Flyboard - 16:00</option><option value="Parasailing 09:00">Parasailing - 09:00</option><option value="Parasailing 10:00">Parasailing - 10:00</option><option value="Parasailing 11:00">Parasailing - 11:00</option><option value="Parasailing 13:00">Parasailing - 13:00</option><option value="Parasailing 14:00">Parasailing - 14:00</option><option value="Parasailing 15:00">Parasailing - 15:00</option><option value="Parasailing 16:00">Parasailing - 16:00</option></select></td><td><label>';
             strArr[strArr.length] = this.height;
             strArr[strArr.length] = '</label><input class="width-1" size="1" type="text" id="guest-';
             strArr[strArr.length] = num;

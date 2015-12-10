@@ -1,30 +1,7 @@
 <items>
 	<item>
-		<key>###dive dt###</key>
-		<val>포함 사항 : 탱크, 웨이트, 보트와 수중 가이드</val>
-	</item>
-	<item>
-		<key>###theTeam###</key>
-		<val>MARINE CLUB Berry</val>
-	</item>
-	<item>
-		<key>###Daily###</key>
-		<val>매일</val>
-	</item>
-	<item>
-		<key>###November-March###</key>
-		<val>11월-3월</val>
-	</item>
-	<item>
 		<key>###headTitle###</key>
 		<val>Okinawa Water Sports Center – Marine Club BERRY</val>
-	</item>
-	<item>
-		<key>###Active Schedule Time dive###</key>
-		<val><![CDATA[
-<li>08:30</li>
-<li>13:30</li>
-            ]]></val>
 	</item>
 	<item>
 		<key>###headDesc###</key>
@@ -35,52 +12,195 @@
 		<val>Okinawa,Water,Sports,Banana,Boat,Jet,Ski,Kayak,Scuba,Diving,Snorkeling,English,Foreign</val>
 	</item>
 	<item>
-		<key>###Super Marble dt###</key>
-		<val>인기있는 해양 드리프터, 플랫폼에 앉아있는 내내 물위를 표류합니다. 최대 3명.</val>
+		<key>###theTeam###</key>
+		<val>MARINE CLUB Berry</val>
 	</item>
 	<item>
-		<key>###Leisure Diveing dt###</key>
-		<val>Marine Club Berry는 오키나와의 만자, 나카마 주변에서 레져 다이빙을 시행하고 있습니다. 다이빙 사이트는 아름다운 갯 민숭 달팽이, 새우, 푸질리어 무리, 바다 거북, 그루퍼가 있는 특별한 해양경관입니다. 유명한 다이빙 사이트는 카페, 온나, 혼슈, 만자모 시타, 만자 산호, 오버 헤드 락, 만자 드림 홀, 미니 드림 홀, 세라가키 아웃 리프, 나카유쿠이, 크로스라인, 나카마 포인트, 아프로와 비타로가 있습니다.</val>
+		<key>###theTeamIntro###</key>
+		<val>Marine Club Berry는 2001년부터 연중무휴로 운영중인 오키나와의 주요 수상 스포츠 센터입니다. 날씨에 대한 우려로 MARINE CLUB Berry는 오키나와의 동쪽, 서쪽에 모두 걸쳐 서비스를 제공하는 3개의 지점을 갖고 있습니다. Marine Club Berry와 함께한다면 우리의 서비스지역의 범위로 인해 당신의 수상 스포츠 휴가 계획은 날씨나 해상환경에 대한 걱정이 필요 없어 집니다. Marine Club Berry는 오키나와에서 수많은 수상 스포츠 활동을 지원합니다.</val>
 	</item>
 	<item>
-		<key>###Intro Diving###</key>
-		<val>다이빙 개요</val>
-	</item>
-	<item>
-		<key>###Sea Kayak YADOKARI###</key>
-		<val><![CDATA[바다 카약<br>(야도카리 섬)]]></val>
-	</item>
-	<item>
-		<key>###Refresh Course dt###</key>
-		<val><![CDATA[예약하시려면 <a href="mailto:english@seasir.com">상기 이메일 주소로</a>이메일을 보내 주시기 바랍니다.]]></val>
-	</item>
-	<item>
-		<key>###light eq###</key>
-		<val>스노클과 마스크, 부츠, 핀</val>
-	</item>
-	<item>
-		<key>###Sea Kayak dt###</key>
-		<val>바다 카약 투어는 요도카리 섬 주변에서 푸른 동굴 중 한 곳을 방문하고 스노클링도 할 수 있습니다.</val>
-	</item>
-	<item>
-		<key>###Refresh Course###</key>
-		<val>리프레시 코스e</val>
-	</item>
-	<item>
-		<key>###Intro Diving dt###</key>
-		<val>다이버가 아니더라도 다이빙을 도전해보고 싶은 사람이라면 누구에게나 기회가 열려있고, 이 프로그램은 전문 강사진들에 의해서만 진행됩니다. 수중 체험은 약 20분 입니다.</val>
+		<key>###Water Sports###</key>
+		<val>해양 스포츠</val>
 	</item>
 	<item>
 		<key>###Intro Diving 1 dive###</key>
 		<val>체험 다이빙 1 다이브</val>
 	</item>
 	<item>
+		<key>###Intro Diving 2 dive###</key>
+		<val>체험 다이빙 2 다이브</val>
+	</item>
+	<item>
+		<key>###Marine Walk###</key>
+		<val>마린 워크</val>
+	</item>
+	<item>
+		<key>###Intro Diving###</key>
+		<val>다이빙 개요</val>
+	</item>
+	<item>
+		<key>###Min Age###</key>
+		<val>Min. Age</val>
+	</item>
+	<item>
+		<key>###Marine Walk dt###</key>
+		<val>수많은 산호와 물고기들 사이에서 걸을 수 있는 수중 경험입니다. 수중 체험은 약 20분간 진행됩니다.</val>
+	</item>
+	<item>
+		<key>###Intro Diving dt###</key>
+		<val>다이버가 아니더라도 다이빙을 도전해보고 싶은 사람이라면 누구에게나 기회가 열려있고, 이 프로그램은 전문 강사진들에 의해서만 진행됩니다. 수중 체험은 약 20분 입니다.</val>
+	</item>
+	<item>
+		<key>###Snorkeling dt###</key>
+		<val>얕은 암초 주변과 다채로운 물고기, 산호초 주변에서 강사와 동행해 스노클링을 합니다.</val>
+	</item>
+	<item>
+		<key>###Marine Club BERRY Activity Daily Time Schedule###</key>
+		<val>하루 일정</val>
+	</item>
+	<item>
+		<key>###Weed Beach###</key>
+		<val>해초 비치</val>
+	</item>
+	<item>
+		<key>###Banana Boat Ride###</key>
+		<val>바나나보트</val>
+	</item>
+	<item>
+		<key>###Super Marble###</key>
+		<val>슈퍼마블</val>
+	</item>
+	<item>
+		<key>###Banana Boat Ride dt###</key>
+		<val>바나나보트에 도전하세요. 최대 8명.</val>
+	</item>
+	<item>
+		<key>###Super Marble dt###</key>
+		<val>인기있는 해양 드리프터, 플랫폼에 앉아있는 내내 물위를 표류합니다. 최대 3명.</val>
+	</item>
+	<item>
+		<key>###Biscuit Drift###</key>
+		<val>비스킷 드리프트</val>
+	</item>
+	<item>
+		<key>###Water Tube###</key>
+		<val>워터 튜브</val>
+	</item>
+	<item>
+		<key>###Active 3###</key>
+		<val>Active 3</val>
+	</item>
+	<item>
+		<key>###Active 3 dt###</key>
+		<val>비스킷 드리프트, 슈퍼 마블 및 바나나 보트</val>
+	</item>
+	<item>
+		<key>###Scream4###</key>
+		<val>스크림 4</val>
+	</item>
+	<item>
 		<key>###Scream4 dt###</key>
 		<val>슈퍼 마블, 바나나 보트, 비스킷 드리프트 및 워터 튜브</val>
 	</item>
 	<item>
+		<key>###Operating Season###</key>
+		<val>운영 시즌</val>
+	</item>
+	<item>
+		<key>###April-October###</key>
+		<val>4월-10월</val>
+	</item>
+	<item>
+		<key>###November-March###</key>
+		<val>11월-3월</val>
+	</item>
+	<item>
+		<key>###Mangrove Kayak###</key>
+		<val>망그루브 카약</val>
+	</item>
+	<item>
 		<key>###Sea Kayak###</key>
 		<val>바다 카약</val>
+	</item>
+	<item>
+		<key>###Sea Kayak YADOKARI###</key>
+		<val><![CDATA[바다 카약<br>(야도카리 섬)]]></val>
+	</item>
+	<item>
+		<key>###Mangrove Kayak dt###</key>
+		<val>초록으로 덮힌 아름다운 망그루브 강은 당신에게 평화로운 분위기와 순간을 제공할 겁니다.</val>
+	</item>
+	<item>
+		<key>###Sea Kayak dt###</key>
+		<val>바다 카약 투어는 요도카리 섬 주변에서 푸른 동굴 중 한 곳을 방문하고 스노클링도 할 수 있습니다.</val>
+	</item>
+	<item>
+		<key>###Leisure Diveing dt###</key>
+		<val>Marine Club Berry는 오키나와의 만자, 나카마 지역에서 다이빙을 실시합니다. 바닷속 경관이 아름다우며 누디브랜치, 새우, 퓨질리어, 바다거북, 그루퍼 등을 만날 수 있습니다. 주요 다이빙 포인트는 케이프, 온나 포인트, 혼슈, 만자모 시타, 만자 코랄, 오버헤드록, 만자 드림홀, 미니 드림홀, 세라가키 아웃 리프, 나카유쿠이, 크로스 라인, 나카마 포인트, 아프로, 비타로 입니다.</val>
+	</item>
+	<item>
+		<key>###dive dt###</key>
+		<val>포함 사항 : 탱크, 웨이트, 보트와 수중 가이드</val>
+	</item>
+	<item>
+		<key>###light eq###</key>
+		<val>스노클과 마스크, 부츠, 핀</val>
+	</item>
+	<item>
+		<key>###Daily###</key>
+		<val>매일</val>
+	</item>
+	<item>
+		<key>###Refresh Course dt###</key>
+		<val><![CDATA[예약하시려면 <a href="mailto:english@seasir.com">상기 이메일 주소로</a>이메일을 보내 주시기 바랍니다.]]></val>
+	</item>
+	<item>
+		<key>###Refresh Course###</key>
+		<val>리프레시 코스e</val>
+	</item>
+	<item>
+		<key>###Booking procedure dt###</key>
+		<val><![CDATA[<span class="booking-blue">지금 예약</span>을 클릭한 후, 귀하의 연락처로 이메일 주소를 기입해야 합니다. 필요한 모든 정보를 기입한 후 보내십시오. 귀하의 예약을 확보하기 위해 SEASIR LTD 계정으로부터 PayPal 예약금 입금 요청을 받게 됩니다. 저희 PayPal 계정으로부터 입금 요청을 받은 날로부터 3일 이내에 1인당 4,000엔을 입금하십시오. 만약 예약을 출발일로부터 3일 이내에 할 경우 24시간 이내에 입금하십시오. 입금을 하지 않는 경우 모든 예약은 취소됩니다.]]></val>
+	</item>
+	<item>
+		<key>###leisureDiving Note###</key>
+		<val><![CDATA[
+            <li class="hl-red">2명 이상부터 예약 가능합니다.</li>
+            <li class="hl-red">로그 30회 이하이며 12개월 이상 다이빙을 하지 않은 다이버는 반드시 리프레쉬 코스를 신청하셔야 합니다</li>
+            ]]></val>
+	</item>
+	<item>
+		<key>###Note Marine Walk###</key>
+		<val><![CDATA[
+<li class="hl-red">Shoulder width should be above 38cm.</li>
+<li class="hl-red">Please make sure you have 18 hours resting hour before the flight.</li>
+]]></val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Flyboard###</key>
+		<val>Flyboard</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Parasailing###</key>
+		<val>Parasailing</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Parasailing dt###</key>
+		<val>Parasailing wing is towed by a boat, you will to enjoy the great view from the sky. Riding experience around 10~15 mins.</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Flyboard dt###</key>
+		<val><![CDATA[
+            Coolest water jetpack supplies propulsion to drive the Flyboard which makes you fly like a bird. Riding experience around 15 mins<br>
+<span class="hl-red">Note: the weight must above 40kg and under 90kg</span>
+            
+            ]]></val>
+		<todo></todo>
 	</item>
 	<item>
 		<key>###Active Schedule Time###</key>
@@ -92,46 +212,6 @@
             ]]></val>
 	</item>
 	<item>
-		<key>###Banana Boat Ride dt###</key>
-		<val>바나나보트에 도전하세요. 최대 8명.</val>
-	</item>
-	<item>
-		<key>###April-October###</key>
-		<val>4월-10월</val>
-	</item>
-	<item>
-		<key>###Intro Diving 2 dive###</key>
-		<val>체험 다이빙 2 다이브</val>
-	</item>
-	<item>
-		<key>###theTeamIntro###</key>
-		<val>Marine Club Berry는 2001년부터 연중무휴로 운영중인 오키나와의 주요 수상 스포츠 센터입니다. 날씨에 대한 우려로 MARINE CLUB Berry는 오키나와의 동쪽, 서쪽에 모두 걸쳐 서비스를 제공하는 3개의 지점을 갖고 있습니다. Marine Club Berry와 함께한다면 우리의 서비스지역의 범위로 인해 당신의 수상 스포츠 휴가 계획은 날씨나 해상환경에 대한 걱정이 필요 없어 집니다. Marine Club Berry는 오키나와에서 수많은 수상 스포츠 활동을 지원합니다.</val>
-	</item>
-	<item>
-		<key>###Marine Walk dt###</key>
-		<val>수많은 산호와 물고기들 사이에서 걸을 수 있는 수중 경험입니다. 수중 체험은 약 20분간 진행됩니다.</val>
-	</item>
-	<item>
-		<key>###Mangrove Kayak dt###</key>
-		<val>초록으로 덮힌 아름다운 망그루브 강은 당신에게 평화로운 분위기와 순간을 제공할 겁니다.</val>
-	</item>
-	<item>
-		<key>###Snorkeling dt###</key>
-		<val>얕은 암초 주변과 다채로운 물고기, 산호초 주변에서 강사와 동행해 스노클링을 합니다.</val>
-	</item>
-	<item>
-		<key>###Marine Walk###</key>
-		<val>마린 워크</val>
-	</item>
-	<item>
-		<key>###Banana Boat Ride###</key>
-		<val>바나나보트</val>
-	</item>
-	<item>
-		<key>###Water Sports###</key>
-		<val>해양 스포츠</val>
-	</item>
-	<item>
 		<key>###Active Schedule Time active 3###</key>
 		<val><![CDATA[
 <li>09:30</li>
@@ -139,32 +219,11 @@
             ]]></val>
 	</item>
 	<item>
-		<key>###Marine Club BERRY Activity Daily Time Schedule###</key>
-		<val>하루 일정</val>
-	</item>
-	<item>
-		<key>###Biscuit Drift###</key>
-		<val>비스킷 드리프트</val>
-	</item>
-	<item>
-		<key>###Weed Beach###</key>
-		<val>해초 비치</val>
-	</item>
-	<item>
-		<key>###Water Tube###</key>
-		<val>워터 튜브</val>
-	</item>
-	<item>
-		<key>###Min Age###</key>
-		<val>Min. Age</val>
-	</item>
-	<item>
-		<key>###Mangrove Kayak###</key>
-		<val>망그루브 카약</val>
-	</item>
-	<item>
-		<key>###Active 3###</key>
-		<val>Active 3</val>
+		<key>###Active Schedule Time dive###</key>
+		<val><![CDATA[
+<li>08:30</li>
+<li>13:30</li>
+            ]]></val>
 	</item>
 	<item>
 		<key>###Active Schedule Time kayak###</key>
@@ -174,24 +233,16 @@
             ]]></val>
 	</item>
 	<item>
-		<key>###Operating Season###</key>
-		<val>운영 시즌</val>
-	</item>
-	<item>
-		<key>###Active 3 dt###</key>
-		<val>비스킷 드리프트, 슈퍼 마블 및 바나나 보트</val>
-	</item>
-	<item>
-		<key>###Scream4###</key>
-		<val>스크림 4</val>
-	</item>
-	<item>
-		<key>###Booking procedure dt###</key>
-        <val><![CDATA[<span class="booking-blue">지금 예약</span>을 클릭한 후, 귀하의 연락처로 이메일 주소를 기입해야 합니다. 필요한 모든 정보를 기입한 후 보내십시오. 귀하의 예약을 확보하기 위해 SEASIR LTD 계정으로부터 PayPal 예약금 입금 요청을 받게 됩니다. 저희 PayPal 계정으로부터 입금 요청을 받은 날로부터 3일 이내에 1인당 4,000엔을 입금하십시오. 만약 예약을 출발일로부터 3일 이내에 할 경우 24시간 이내에 입금하십시오. 입금을 하지 않는 경우 모든 예약은 취소됩니다.]]></val>
+		<key>###Active Schedule Time flyboard###</key>
+		<val><![CDATA[
+<li>09:00</li>
+<li>10:00</li>
+<li>11:00</li>
+<li>13:00</li>
+<li>14:00</li>
+<li>15:00</li>
+<li>16:00</li>
+            ]]></val>
 		<todo></todo>
-	</item>
-	<item>
-		<key>###Super Marble###</key>
-		<val>슈퍼마블</val>
 	</item>
 </items>

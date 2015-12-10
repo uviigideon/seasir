@@ -1,0 +1,107 @@
+<berry>
+	<item>
+		<key>###Booking procedure dt###</key>
+		<val><![CDATA[Click on <span class="booking-blue">BOOKING NOW</span>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY4,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.]]></val>
+    </item>
+</berry>
+<cal>
+	<item>
+		<key>###note###</key>
+		<val><![CDATA[Note; <b><i>This season calendar applies to SEASIR NAHA activity, all PADI Training Course held by SEASIR NAHA and Marine Club BERRY only</i></b>]]></val>
+    </item>
+</cal>
+<fotoShisa>
+    <item>
+        <key>###theTeam###</key>
+        <val>fotoShisa : Underwater and Watersport Professional Photographer Services</val>
+    </item>
+    <item>
+        <key>###theTeamIntro###</key>
+        <val><![CDATA[Marine activities and Diving around Okinawa is an amazing unforgettable experience, you will encounter some beautiful underwater creatures and have a ton of fun on the water. So why not have a professional photographer along to capture all the great moments for you to treasure forever!]]></val>
+    </item>
+    <item>
+        <key>###Location###</key>
+        <val>Location</val>
+    </item>
+    <item>
+        <key>###Duration###</key>
+        <val>Duration</val>
+    </item>
+    <item>
+        <key>###Number of People###</key>
+        <val>Number of People</val>
+    </item>
+    <item>
+        <key>###Charges in JPY###</key>
+        <val>Charges in JPY</val>
+    </item>
+    <item>
+        <key>###Location 1###</key>
+        <val><![CDATA[<h4 style="margin:0">Marine House SEASIR Naha</h4><ul style="margin:2px 0 5px 0"><li>Full day trip to Kerama</li><li>Half day trip to Chibisi</li></ul><h4 style="margin:0">Marine Club Berry</h4><ul style="margin:2px 0 5px 0"><li>Water Sports</li><li>PaintBall</li></ul>]]></val>
+    </item>
+    <item>
+        <key>###Location 2###</key>
+        <val><![CDATA[<h4>Marine House SEASIR AKA</h4>]]></val>
+    </item>
+    
+    <item>
+        <key>###Maximum 6 hours###</key>
+        <val>Maximum 6 hours</val>
+    </item>
+    <item>
+        <key>###Over 20###</key>
+        <val>Over 20 people each person additional charge JPY3,000</val>
+    </item>
+    <item>
+        <key>###Maximum 6 to 8 hours###</key>
+        <val>Maximum 6 - 8 hours depend on arrival ferry time to Aka island</val>
+    </item>
+    <item>
+        <key>###How to make fotoShisa booking###</key>
+        <val>How to make fotoShisa booking</val>
+    </item>
+    <item>
+        <key>###How to make fotoShisa booking dt###</key>
+        <val>In the booking form at the bottom please fill in “FOTO SHISA REQUIRED” in the comments box.  Our booking office will check the availability with FOTO SHISA and reply your request.</val>
+    </item>
+</fotoShisa>
+<whale>
+	<item>
+		<key>###H2###</key>
+		<val>Okinawa Whale Watching Season 27th Dec 2014 ~ 5th April 2015</val>
+	</item>
+	<item>
+		<key>###Booking procedure dt###</key>
+		<val><![CDATA[Click on <span class="booking-blue">BOOKING NOW</span>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY2,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.]]></val>
+	</item>
+</whale>
+<sharePart>
+	<item>
+		<key>###leisureDiving Note###</key>
+		<val>Divers who have less than 30 dive log experience and not been diving for more than 12 months are required to take Refresher Dive Course Package. </val>
+	</item>
+</sharePart>
+<course>
+	<item>
+		<key>###Booking procedure dt###</key>
+		<val><![CDATA[Click on <span class="booking-blue">BOOKING NOW</span>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY5,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.]]></val>
+	</item>
+</course>
+<seasir-naha>
+	<item>
+		<key>###Booking procedure dt###</key>
+		<val><![CDATA[Click on <span class="booking-blue">BOOKING NOW</span>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY5,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.]]></val>
+	</item>
+</seasir-naha>
+<seasir-aka>
+	<item>
+		<key>###Booking procedure dt###</key>
+		<val><![CDATA[Click on <span class="booking-blue">BOOKING NOW</span>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY4,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.]]></val>
+	</item>
+</seasir-aka>
+<paintball>
+    <item>
+        <key>###Booking procedure dt###</key>
+        <val><![CDATA[Click on <span class="booking-blue">BOOKING NOW</span>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY4,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.]]></val>
+    </item>
+</paintball>

@@ -37,8 +37,7 @@
 	</item>
 	<item>
 		<key>###OW Schedule comment###</key>
-		<val><![CDATA[
-            此课程您必须先在家里完成基础的学科学习或 PADI 的线上学习课程, 请 <a href="mailto:english@seasir.com" target="_blank">联络我们</a> 以获得更多的资讯.]]></val>
+		<val>以上训练课程需预先完成PADI e-learning课程</val>
 	</item>
 	<item>
 		<key>###Requirement from candidate###</key>
@@ -47,10 +46,13 @@
 	<item>
 		<key>###Requirement from candidate li###</key>
 		<val><![CDATA[
-            <li>请详读 SEASIR <a href="./health.htm" target="_blank">自我健康检查表</a>. 如果有所列的任何一项问题对您而言为 "是" 的情況, 我们必须请您咨询您的医师, 并开立可以参加潜水课程的证明.</li>
-            <li>在旺季时课程费用每人需增加 5,000日元.</li>
-            <li>2 护照大小相片.</li>
-            <li>最少要有两个学员才会开课. 如果您只有一位, 请<a href="mailto:english@seasir.com" target="_blank">联络我们</a>来为您安排.</li>
+            <li>请访问PADI官网: <a href="http://www.padi.com" target="_blank">www.padi.com</a> 购买e-learning课程并直接支付费用USD184。（该费用不包括在PADI Open Water Diver 课程费用中。）<br>您必须至少在开始训练课程的 <span style="text-decoration: underline">3天前</span>通过PADI 官网完成PADI e-learning课程。请下载 <a href="./data/OW E-Learning Course Info.docx">OW E-Learning课程</a> 详情了解更多信息。</li>
+          <li>请点击此链接Health Check List完成 <a href="./health.htm" target="_blank">SEASIR健康自检表</a> 如果在健康自检表中您有任何问题的答案为“是”，则要请您在开始水肺潜水学习之前咨询职业医生并提供职业医生开具的书面证明。</li>
+          <li>如果您预约的日期属于旺季，则需要每人加付JPY5,000。关于淡旺季划分，请参考如下日历：
+                <ul><li>SEASIR 那霸店，<a href="./cal.htm#2016" target="_blank">旺季请参看2016淡旺季日历</a></li>
+                    <li>Marine Club BERRY，<a href="./cal.htm#2016" target="_blank">旺季请参看2016淡旺季日历</a></li>
+                    <li>SEASIR 阿嘉岛店，旺季：<ul class="hl-red"><li>2016年4月28日-5月8日</li><li>2016年6月11日-10月10日。</li></ul></li></ul></li>
+          <li>在您开始训练当天，请您带好您的eRecord（包含所有项目成绩）和两张照片（护照照片大小）到店</li>
             ]]></val>
 	</item>
 	<item>
@@ -131,10 +133,12 @@
 	<item>
 		<key>###Requirement from candidate aow li###</key>
 		<val><![CDATA[
-            <li>请详读 SEASIR <a href="./health.htm" target="_blank">自我健康检查表</a>. 如果有所列的任何一项问题对您而言为 "是" 的情況, 我们必须请您咨询您的医师, 并开立可以参加潜水课程的证明.</li>
-            <li>在旺季时课程费用每人需增加 5,000日元.</li>
-            <li>有效的 PADI Open Water Diver license 或同等级的证照.</li>
-            <li>2 护照大小相片.</li>
+          <li>请点击此链接Health Check List完成 <a href="./health.htm" target="_blank">SEASIR健康自检表</a> 如果在健康自检表中您有任何问题的答案为“是”，则要请您在开始水肺潜水学习之前咨询职业医生并提供职业医生开具的书面证明。</li>
+          <li>如果您预约的日期属于旺季，则需要每人加付JPY5,000。关于淡旺季划分，请参考如下日历：
+                <ul><li>SEASIR 那霸店，<a href="./cal.htm#2016" target="_blank">旺季请参看2016淡旺季日历</a></li>
+                    <li>Marine Club BERRY，<a href="./cal.htm#2016" target="_blank">旺季请参看2016淡旺季日历</a></li>
+                    <li>SEASIR 阿嘉岛店，旺季：<ul class="hl-red"><li>2016年4月28日-5月8日</li><li>2016年6月11日-10月10日。</li></ul></li></ul></li>
+          <li>PADI Open Water Diver的有效执照或有同样效力的证明材料（请提前说明）。</li>
             ]]></val>
 	</item>
 	<item>
@@ -195,10 +199,12 @@
 	<item>
 		<key>###Requirement from candidate res li###</key>
 		<val><![CDATA[
-            <li>请详读 SEASIR <a href="./health.htm" target="_blank">自我健康检查表</a>. 如果有所列的任何一项问题对您而言为 "是" 的情況, 我们必须请您咨询您的医师, 并开立可以参加潜水课程的证明.</li>
-            <li>在旺季时课程费用每人需增加 5,000日元.</li>
-            <li>有效的 PADI Advanced license 或同等级证照 + PADI EFR (Medic First Aid) / CPR Rescue License 或 PADI 当地办公室所承认之同等级 CPR 认证</li>
-            <li>2 护照大小相片.</li>
+          <li>请点击此链接Health Check List完成 <a href="./health.htm" target="_blank">SEASIR健康自检表</a> 如果在健康自检表中您有任何问题的答案为“是”，则要请您在开始水肺潜水学习之前咨询职业医生并提供职业医生开具的书面证明。</li>
+          <li>如果您预约的日期属于旺季，则需要每人加付JPY5,000。关于淡旺季划分，请参考如下日历：
+                <ul><li>SEASIR 那霸店，<a href="./cal.htm#2016" target="_blank">旺季请参看2016淡旺季日历</a></li>
+                    <li>Marine Club BERRY，<a href="./cal.htm#2016" target="_blank">旺季请参看2016淡旺季日历</a></li>
+                    <li>SEASIR 阿嘉岛店，旺季：<ul class="hl-red"><li>2016年4月28日-5月8日</li><li>2016年6月11日-10月10日。</li></ul></li></ul></li>
+          <li>PADI Open Water Diver的有效执照或有同样效力的证明材料（请提前说明）。</li>
             ]]></val>
 	</item>
 	<item>

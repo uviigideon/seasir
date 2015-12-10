@@ -1,0 +1,74 @@
+<items>
+    <item>
+        <key>###H2###</key>
+        <val><![CDATA[Q&A 問題集]]></val>
+    </item>
+    <item>
+        <key>###Access###</key>
+        <val>交通接送問題</val>
+    </item>
+    <item>
+        <key>###Access dt###</key>
+        <val><![CDATA[
+<li><span class="hl-black">(SEASIR那霸) 可否接送民宿或私人住址呢? </span><br>
+<div class="sub">由於擔心接送當天產生誤會，我們僅提供飯店接送服務，若您下榻於朋友家或者是巷弄內的民宿，請提供附近飯店以方便安排接送，活動當日再請保持手機暢通。</div></li>
+<li><span class="hl-black">(SEASIR那霸) 可否提供那霸市區外的飯店接送?</span><br>
+<div class="sub">很抱歉，由於人力有限無法提供那霸市區外的接送，在請自行前來。</div></li>
+<li><span class="hl-black">(SEASIR阿嘉) 可否提供接送?</span><br>
+<div class="sub">是的，我們將提供阿嘉港口到民宿的接送，敬請提供船班好幫您安排。您抵達港口時，我們的工作人員將會身穿紅色SEASIR POLO衫等候您光臨。</div></li>
+<li><span class="hl-black">(BERRY) 是否提供免費接送服務?</span><br>
+<div class="sub">是的，BERRY提供恩納村酒店免費接送服務，但名額有限，敬請預約時確認是否還有空席。</div></li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Activity related questions###</key>
+        <val>活動相關問題</val>
+    </item>
+    <item>
+        <key>###Activity related questions dt###</key>
+        <val><![CDATA[
+            <li><span class="hl-black">不會游泳是否能參加浮潛/體驗潛水?</span>
+                <br><div class="sub">沒問題! SEASIR專業教練會以專業的指導帶給您安全舒適的水上活動體驗。有任何不安的地方敬請詢問您的教練喔!</div></li>
+            <li><span class="hl-black">活動當天我應該要攜帶什麼呢?</span>
+                <br><div class="sub">敬請著泳衣，並帶換洗衣物或防曬乳等私人用品。店內有寄物服務可讓您寄存貴重物品(錢包與護照)。</div></li>
+            <li><span class="hl-black">生理期來是否還能參加水上活動? </span>
+                <br><div class="sub">可以的，在潛水這一個職業也有許多女性的潛水員與教練。如果您擔心並不希望假期受到影響的話，敬請出發前往沖繩前，事先詢問醫生喔!</div></li>
+            <li><span class="hl-black">我有近視，是否提供度數面鏡?</span>
+                <br><div class="sub">有的，店內備有度數面鏡，敬請於預訂時提供您的度數方便準備，數量有限。另外度數的部分僅有-1~-7，如重度近視者建議攜帶拋棄式軟性隱形眼鏡參加活動。</div></li>
+            <li><span class="hl-black">我有近視，是否可以帶隱形眼鏡參加? </span>
+                <br><div class="sub">可以的，沒有問題。請確認您的影型眼鏡是軟性隱形眼鏡。</div></li>
+            <li><span class="hl-black">小朋友是否可以參加活動呢? </span>
+                <br><div class="sub">請在活動敘述的部分，確認每項活動的年齡限制，由於保險關係，SEASIR&BERRY僅接待年齡限制以上的小朋友參加喔!</div></li>
+            <li><span class="hl-black">(SEASIR那霸) 請問船上是否有淋浴間/廁所/更衣室?</span>
+                <br><div class="sub">有的，SEASIR那霸的船是60人定員的船，船上備有淋浴間/廁所/更衣室供您使用，但請留意，因環境保護的關係，依規定不可以使用洗髮乳跟沐浴乳喔!</div></li>
+            <li><span class="hl-black">請問是否有英語/普通話/廣東話的教練? </span>
+                <br><div class="sub"><span class="hl-black">(SEASIR那霸)</span> 店內有英語/普通話/廣東話船員或教練在船上，每日輪班者不同，會盡量安排但不保證一定能調派，船上所有的日本工作人員也都很樂意跟您交流，請不要害羞，跟我們的教練們打招呼吧!<br>
+<span class="hl-black">(SEASIR阿嘉)</span> SEASIR阿嘉的日本教練基本上都會簡單的英語，並有豐富的接待外國旅客的經驗，在夏天時，也會有來自台灣或香港打工度假的小幫手，有任何需要協助的地方再請尋求幫忙喔! <br>
+    <span class="hl-black">(BERRY)</span> Berry的教練基本上可以以簡單的英語對應，並有豐富的接待外國旅客的經驗，在夏天時，也會有來自台灣或香港打工度假的小幫手，有任何需要協助的地方再請尋求幫忙喔!</div></li>
+            <li><span class="hl-black">(SEASIR那霸) 如果團體中的每個人參加不同項目，是否能安排同船?</span>
+                <br><div class="sub">可以安排，敬請使用同一份報名表報名，如分開預定也請於備註欄註明。如遇臨時報名也有可能會有分船的情況，這時候會再報名完成前先通知並詢問您的意願。</div></li>
+            <li><span class="hl-black">(SEASIR那霸) 教練是否會幫我們拍攝水中照片?</span>
+                <br><div class="sub">會的，教練所拍攝的照片將會上傳到<a href="http://www.seasir.zenfolio" target="_blank">www.seasir.zenfolio</a>，每張500日圓，歡迎您上網選購。店內也提供水中相機租借服務，每台相機2,200日圓(含稅，不含SD記憶卡)，SD記憶卡也可以在店內購買(880日圓/每張)。</div></li>
+            <li><span class="hl-black">(SEASIR那霸) 活動進行中是否可登島?</span>
+                <br><div class="sub">很抱歉，根據那霸市的休閒管理法規，潛水船乘載的旅客將無法登上任何島嶼。</div></li>
+            <li><span class="hl-black">(SEASIR那霸) 潛點與水溫問題</span>
+                <br><div class="sub">慶良間諸島有超過50個潛點，每天船長會在出發後依據天候海況跟潛導討論決定潛點。如果您有特別喜好的地形或者生物，建議您活動當天早上跟您的潛導討論。</div></li>
+            <li><span class="hl-black">(SEASIR那霸) 是否提供暈船藥</span>
+                <br><div class="sub">很抱歉，無法提供暈船藥給您。在請您於前一晚依照個人需求自行準備。</div></li>
+            <li><span class="hl-black">(SEASIR那霸) 當天需要check-out，可否提供行李寄放服務?</span>
+                <br><div class="sub">如有需求，敬請提早提出並告知件數，我們將會根據當天的預約狀況回覆您:接駁車空間是否足夠與能否安排存放空間給您。謝謝。</div></li>
+]]></val>
+    </item>
+    <item>
+        <key>###Cancellation policy###</key>
+        <val>取消規定</val>
+    </item>
+    <item>
+        <key>###Cancellation policy dt###</key>
+        <val><![CDATA[
+            <li><span class="hl-black">如遇下雨或颱風等天候狀況，行程是否取消? 是否能退費?</span>
+                <br><div class="sub">一般下雨的時候並不會影響慶良間海域的海況，因此無法幫您安排取消/退費。<br> 
+但如遇颱風，我們將會依照狀況在前一至兩日前，以e-mail通知您，協助您安排改期事宜，但不取消退訂。活動當天依通知，若無法成行或更改地點，才能幫您安排退訂事宜。</div></li>
+            ]]></val>
+    </item>
+</items>

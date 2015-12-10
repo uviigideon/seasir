@@ -1,0 +1,75 @@
+<items>
+    <item>
+        <key>###H2###</key>
+        <val><![CDATA[Q & A]]></val>
+    </item>
+    <item>
+        <key>###Access###</key>
+        <val>交通</val>
+    </item>
+    <item>
+        <key>###Access dt###</key>
+        <val><![CDATA[
+<li><span class="hl-black">(SEASIR 那霸)可否提供到私人地址的接送服务？ (例. Airbnb) </span><br>
+<div class="sub">为了避免产生不必要的误会，我们只能提供那霸市内酒店的免费接送服务。如果您住在民宿、朋友家等私人地点，请您把地址提供给我们，我们可以到您附近的那霸市内的酒店接送。</div></li>
+<li><span class="hl-black">(SEASIR 那霸) 可否提供收费的那霸市外的酒店接送服务? </span><br>
+<div class="sub">非常抱歉我们不能提供收到的那霸市外的酒店接送服务。还请您自行到达那霸店。</div></li>
+<li><span class="hl-black">(SEASIR 阿嘉岛) 是否可以到港口接船?</span><br>
+<div class="sub">是的，我们会提供从阿嘉岛港口到我们宿舍的免费接送服务。您通过摆渡后可以看到我们的员工穿着红色T恤在渡口等您。</div></li>
+<li><span class="hl-black">(BERRY) 可否提供免费接送服务?</span><br>
+<div class="sub">是的，我们提供恩纳村内酒店的免费接送服务。不过因座位有限，请您在预约时注意标注。</div></li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Activity related questions###</key>
+        <val>活动相关问题</val>
+    </item>
+    <item>
+        <key>###Activity related questions dt###</key>
+        <val><![CDATA[
+            <li><span class="hl-black">不会游泳是否可以参加浮潜或体验潜水? </span>
+                <br><div class="sub">可以参加。我们有专业教练为您指导，如果您需要，也可以向潜导索要救生衣。</div></li>
+            <li><span class="hl-black">活动当天我需要带什么? </span>
+                <br><div class="sub">请您穿着泳衣并带好在船上需要换的衣服。</div></li>
+            <li><span class="hl-black">生理期女性能否参加活动?</span>
+                <br><div class="sub">可以。我们有许多女员工几乎每天都会参加潜水或浮潜活动。如果您对此仍有担心，请您在参与活动前咨询医生。</div></li>
+            <li><span class="hl-black">可否提供有度数的面镜?</span>
+                <br><div class="sub">可以。您只需在预定时注明您的需要，我们就可以提供含度数的面镜。但请注意，我们只提供-1~-7的面镜，如果您的近视度数较高请您佩戴抛弃型隐形眼镜参与活动。</div></li>
+            <li><span class="hl-black">可否佩戴隐形眼镜参加活动?</span>
+                <br><div class="sub">可以。请您保证确保佩戴的是软性隐形眼镜。</div></li>
+            <li><span class="hl-black">小孩可否参加活动?</span>
+                <br><div class="sub">每个活动项目对于年龄的要求都不相同。从安全角度出发，我们有可能会拒绝未到年龄要求的孩子参与活动。敬请谅解。</div></li>
+            <li><span class="hl-black">(SEASIR 那霸) 船上是否有浴室、卫生间或更衣室? </span>
+                <br><div class="sub">有的。我们的船允许载人60名，有浴室、卫生间和更衣室。但请注意船上禁止使用洗发水和沐浴露。感谢您的配合!</div></li>
+            <li><span class="hl-black">是否有英语、普通话、粤语的潜导? </span>
+                <br><div class="sub"><span class="hl-black">(SEASIR 那霸)</span> 我们有英文、普通话和粤语的工作人员，但是我们不能保证您的对应潜导可以用您的母语与您交流。不过我们的员工都希望与您进行轻松的交流，请您开心得享受潜水的过程吧！<br>
+<span class="hl-black">(SEASIR 阿嘉岛)</span> 我们的日本潜导可以用英语进行日常交流，在接待外国游客上有丰富经验。夏季时我们会有许多打工度假的员工，您也可以请他们帮您解决问题。<br>
+<span class="hl-black">(BERRY)</span> 我们的日本潜导可以用英语进行日常交流，在接待外国游客上有丰富经验。夏季时我们会有许多打工度假的员工，您也可以请他们帮您解决问题。</div></li>
+            <li><span class="hl-black">(SEASIR 那霸)如果我们一行人参与不同的项目，可否乘坐同一条船? </span>
+                <br><div class="sub">可以。请您在预约时详细注明。如果是临时预约，有可能会把您的团队分开，在预约前会与您沟通确认。</div></li>
+            <li><span class="hl-black">(SEASIR 那霸)潜导可否帮我们照相?</span>
+                <br><div class="sub">可以。请您了解获取照片的流程: 活动结束后，您可以在<a href="http://www.seasir.zenfolio" target="_blank">www.seasir.zenfolio</a>上查看照片，购买您喜欢的照片，每张500日元。您也可以租借水下相机，相机(不含SD卡)是2200日元/台，SD卡是880日元/张。</div></li>
+            <li><span class="hl-black">(SEASIR 那霸) 是否可以登岛?</span>
+                <br><div class="sub">非常抱歉，鉴于那霸市海洋安全管理条例的要求，我们不能允许您登上庆良间诸岛的岛屿。</div></li>
+            <li><span class="hl-black">(SEASIR 那霸) 潜点，水温</span>
+                <br><div class="sub">在庆良间诸岛附件有50余个潜点，我们的船长会根据活动当天的天气和海水的情况选择适宜潜水的潜点。您也可以与您的潜导交流您在潜水时想观察的生物。<br>冲绳地处亚热带地区，全年可以潜水，冬天的平均水温会在20摄氏度左右，我们也会提供5mm的湿式潜水服来保证您的体温。</div></li>
+            <li><span class="hl-black">(SEASIR 那霸) 是否可以提供晕船药?</span>
+                <br><div class="sub">非常抱歉我们不能提供晕船药，请您在登船前自行准备。感谢您的配合。</div></li>
+            <li><span class="hl-black">(SEASIR 那霸) Can I put my luggage at the shop/on the boat可否将行李存放在店里或带上船?
+</span>
+                <br><div class="sub">请您详细说明行李的数量，我们需要在确认店里是否有足够的地方存放后，会尽快给您回复。感谢您的配合。</div></li>
+]]></val>
+    </item>
+    <item>
+        <key>###Cancellation policy###</key>
+        <val>取消政策</val>
+    </item>
+    <item>
+        <key>###Cancellation policy dt###</key>
+        <val><![CDATA[
+            <li><span class="hl-black">在下雨或有台风的时候，是否会取消活动? </span>
+                <br><div class="sub">通常下雨不会太影响海水情况。<br> 
+受台风影响时，我们会与您联系修改行程。如果活动取消，也会退还您预约金。</div></li>
+            ]]></val>
+    </item>
+</items>

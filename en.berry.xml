@@ -167,6 +167,40 @@
         <val><![CDATA[Click on <span class="booking-blue">BOOKING NOW</span>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY4,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.]]></val>
     </item>
     <item>
+        <key>###leisureDiving Note###</key>
+        <val><![CDATA[
+            <li class="hl-red">Require to book with a minimum of 2 people.</li>
+            <li class="hl-red">Diver who has not been diving for more than 12 months and less than 30 dive log experience is required to take Refresher Dive Course Package.</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Note Marine Walk###</key>
+        <val><![CDATA[
+<li class="hl-red">Shoulder width should be above 38cm.</li>
+<li class="hl-red">Please make sure you have 18 hours resting hour before the flight.</li>
+]]></val>
+    </item>
+    <item>
+        <key>###Flyboard###</key>
+        <val>Flyboard</val>
+    </item>
+    <item>
+        <key>###Parasailing###</key>
+        <val>Parasailing</val>
+    </item>
+    <item>
+        <key>###Parasailing dt###</key>
+        <val>Parasailing wing is towed by a boat, you will to enjoy the great view from the sky. Riding experience around 10~15 mins.</val>
+    </item>
+    <item>
+        <key>###Flyboard dt###</key>
+        <val><![CDATA[
+            Coolest water jetpack supplies propulsion to drive the Flyboard which makes you fly like a bird. Riding experience around 15 mins<br>
+<span class="hl-red">Note: the weight must above 40kg and under 90kg</span>
+            
+            ]]></val>
+    </item>
+    <item>
         <key></key>
         <val></val>
     </item>
@@ -205,6 +239,19 @@
 <li>13:30</li>
             ]]></val>
     </item>
+    <item>
+        <key>###Active Schedule Time flyboard###</key>
+        <val><![CDATA[
+<li>09:00</li>
+<li>10:00</li>
+<li>11:00</li>
+<li>13:00</li>
+<li>14:00</li>
+<li>15:00</li>
+<li>16:00</li>
+            ]]></val>
+    </item>
+
     <!-- }}} !!!DO NOT TRANSLATE BELOW!!! -->
 </items>
 

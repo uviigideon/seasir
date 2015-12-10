@@ -1,7 +1,7 @@
 <items>
 	<item>
 		<key>###headTitle###</key>
-		<val>沖繩潛水, 浮潛 Marine House Seasir 那霸</val>
+		<val>SEASIR 那霸 一日往返慶良間諸島潛水和浮潛之旅</val>
 	</item>
 	<item>
 		<key>###headDesc###</key>
@@ -13,7 +13,7 @@
 	</item>
 	<item>
 		<key>###H2###</key>
-		<val>SEASIR 那霸 - 單日來回慶良間諸島的潛水和浮潛之旅</val>
+		<val>SEASIR 那霸 一日往返慶良間諸島潛水和浮潛之旅</val>
 	</item>
 	<item>
 		<key>###theTeam###</key>
@@ -140,5 +140,20 @@ Marine House SEASIR 那霸成立於 1993年, 是 PADI 5 星級的潛水員培育
 	<item>
 		<key>###Booking procedure dt###</key>
 		<val><![CDATA[請點選<span class="booking-blue">馬上預約</span>。填入您的電子信箱和必要的資料後,您將收到SEASIR的Paypal預約金請求書。為確保您的預約,請在收到預約金請求書的3日內支付每人5,000日元的預約金。若提出預約申請日距離您欲預約的日期不到3日,請您在24小時內支付預約金。若期限內未收到預約金,則您的預約視同放棄。]]></val>
+	</item>
+	<item>
+		<key>###Up from 2 dives###</key>
+		<val><![CDATA[※ 一日最少潛水次數為兩次，您可在第二潛之後直接與潛導需求追加第三次潛水。]]></val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Up from 1 dive###</key>
+		<val><![CDATA[※ 您可在第一次體驗潛水結束後，在船上跟教練需求第二次或第三次體驗潛水。]]></val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Option 3rd dive###</key>
+		<val><![CDATA[※ 如希望進行第三次潛水，追加費用為4,400日圓。僅需在船上跟您的潛導需求，無須提前預約。]]></val>
+		<todo></todo>
 	</item>
 </items>

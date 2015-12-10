@@ -1,0 +1,174 @@
+<items>
+    <!-- {{{ header -->
+    <item>
+        <key>###headTitle###</key>
+        <val>Okinawa Scuba Diving and Accommodation – Marine House SEASIR</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>Scuba diving, Snorkeling, Sea Kayaking activity and accommodation in AKA islands (KERAMA islands)</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Sea,Kayak,Scuba,Diving,Snorkeling,accommodation,English,Foreign,AKA,KERAMA</val>
+    </item>
+    <!-- }}} header -->
+    <item>
+        <key>###H2###</key>
+        <val>My Place guesthouse</val>
+    </item>
+    <item>
+        <key>###theTeamIntro###</key>
+        <val><![CDATA[
+MyPlace is located in the heart of Naha City, Okinawa JAPAN, close to "Kokusai Dori" (International Street) and "Mei Bashi" Station (Yui Rail). And it's only few steps from Tomarin port terminal where you can continue journeying to other islands like "Tokashiki" and "Zamami".<br>
+MyPlace is fully remodeled in spring 2015 which offers a comfortable stay and spacious hall for hanging out with a beautiful sunset harbor view of west Okinawa. Start your day peacefully and enjoy a good chit-chat chatting among travelers gathering from all over the world. It's Okinawa Island Time! So, we are looking forward to serving and accommodating you on this island.
+        ]]></val>
+    </item>
+    <item>
+        <key>###Shared Room###</key>
+        <val>Shared Room</val>
+    </item>
+    <item>
+        <key>###Private Room###</key>
+        <val>Private Room</val>
+    </item>
+    <item>
+        <key>###6 MIXED DOMITORY ROOM###</key>
+        <val>6 MIXED DOMITORY ROOM</val>
+    </item>
+    <item>
+        <key>###6 MIXED DOMITORY ROOM Desc###</key>
+        <val>This room has 3 customized bunk beds and built-in toilet/shower room that is shared for both male and female guests. Moreover, each bed comes with a reading light, private curtain, and locker.</val>
+    </item>
+    <item>
+        <key>###per bed###</key>
+        <val>PER BED</val>
+    </item>
+    <item>
+        <key>###per room###</key>
+        <val>PER ROOM</val>
+    </item>
+    <item>
+        <key>###per person###</key>
+        <val>PER PERSON</val>
+    </item>
+    <item>
+        <key>###6 FEMALE DOMITORY ROOM###</key>
+        <val>6 FEMALE DOMITORY ROOM</val>
+    </item>
+    <item>
+        <key>###6 FEMALE DOMITORY ROOM Desc###</key>
+        <val>This room has 3 customized bunk beds and built-in toilet/shower room that is shared for female guests only. Moreover, each bed comes with a reading light, private curtain, and locker. (Note: This is exclusively for girls.)</val>
+    </item>
+    <item>
+        <key>###Triple Quad Family Private ROOM###</key>
+        <val>Triple/Quad/Family Private ROOM</val>
+    </item>
+    <item>
+        <key>###Triple Quad Family Private ROOM Desc###</key>
+        <val>This room is a Western bunk bed-style that comes with electrical outlets, small table and built-in toilet/shower room. This is good for a maximum of 4 guests.</val>
+    </item>
+    <item>
+        <key>###2 PEOPLE ROOM###</key>
+        <val>2 PEOPLE ROOM</val>
+    </item>
+    <item>
+        <key>###3 PEOPLE ROOM###</key>
+        <val>3 PEOPLE ROOM</val>
+    </item>
+    <item>
+        <key>###4 PEOPLE ROOM###</key>
+        <val>4 PEOPLE ROOM</val>
+    </item>
+    <item>
+        <key>###Twin Private ROOM###</key>
+        <val>Twin Private ROOM</val>
+    </item>
+    <item>
+        <key>###Twin Private ROOM Desc###</key>
+        <val>This room has two single beds that come with electrical outlets, small table in a chatting space, and built-in toilet/shower room.</val>
+    </item>
+    <item>
+        <key>###Sales tax is included in all prices above###</key>
+        <val>◎Sales tax is included in all prices above.</val>
+    </item>
+    <item>
+        <key>###Facility and Service###</key>
+        <val>Facility and Service</val>
+    </item>
+    <item>
+        <key>###Facility and Service Desc###</key>
+        <val><![CDATA[
+<li>Limited Parking space (booking is required)</li>
+<li>Hang Out Hall (24/7)</li>
+<li>Open Kitchen (24/7)</li>
+<li>TV in Hang Out Hall and Private room</li>
+<li>Free WIFI</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Loaning###</key>
+        <val>Loaning</val>
+    </item>
+    <item>
+        <key>###Loaning Desc###</key>
+        <val><![CDATA[
+<li>Bicycle Rental</li>
+<ul>
+    <li>5hrs/ JPY 500</li>
+    <li>10hrs/ JPY 1,000</li>
+</ul>
+<li>Laundry machine</li>
+<ul>
+    <li>1 time/ JPY 200</li>
+</ul>
+<li>Dryer</li>
+<ul>
+    <li>15 mins/ JPY 100</li>
+</ul>
+            ]]></val>
+    </item>
+    <item>
+        <key>###ACCESS###</key>
+        <val>ACCESS</val>
+    </item>
+    <item>
+        <key>###My Place guesthouse###</key>
+        <val>★ My Place guesthouse: </val>
+    </item>
+    <item>
+        <key>###Addr###</key>
+        <val>Addr: 3-1-8 Tomari, Naha, 
+Okinawa, Japan 900-0012</val>
+    </item>
+    <item>
+        <key>###Phone###</key>
+        <val>Phone: +81 (0)80-8569-2887</val>
+    </item>
+    <item>
+        <key>###Email###</key>
+        <val>Email: myplace-okinawa@seasir.com</val>
+    </item>
+    <item>
+        <key>###How to get My Place###</key>
+        <val>★ How to get My Place: </val>
+    </item>
+    <item>
+        <key>###Yui-Rail###</key>
+        <val>Yui-Rail : Mie Bashi</val>
+    </item>
+    <item>
+        <key>###Bus stop###</key>
+        <val>Bus stop : Tomarin Taka-Hashi</val>
+    </item>
+
+
+    <item>
+        <key>###bookingHref###</key>
+        <val><![CDATA[http://www.booking.com/hotel/jp/my-place.html?aid=330843&dcid=1&sid=618647520d3b3a36955102be96676820&type=total&lang=en-us&selected_currency=JPY]]></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+</items>

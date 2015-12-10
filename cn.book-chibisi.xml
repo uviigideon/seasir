@@ -20,10 +20,6 @@
 		<val><![CDATA[请在您的汽车导航系统中输入我们的电话: <strong>098 869 6329</strong> 或是输入 <strong>MAP CODE - 33246627*42</strong>来找到我们<br><span class="hl-red">注意* 如果您上午出海, 请在早上 08:00前到达我们 SEASIR那霸店; 如果您下午出海, 请在 13:00前到达我们 SEASIR那霸店. 我们会为您提供免费的停车场.</span>]]></val>
 	</item>
 	<item>
-		<key>###deposit dt###</key>
-		<val>您将会很快收到我们SEASIR LTD.来自Paypal账户的预约金请求. 爲了确保您的预约, 请支付每人3,000日元的预约金, 并在您收到我们Paypal预约金请求后的3天之内支付完成, 如果离预约日少於3天, 请在24小时内支付完成. 如果没有收到您的预约金, 您的预约将会被自动取消.</val>
-	</item>
-	<item>
 		<key>###Activity###</key>
 		<val>想报名的活动</val>
 	</item>

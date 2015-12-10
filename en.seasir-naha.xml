@@ -2,7 +2,7 @@
     <!-- {{{ header -->
     <item>
         <key>###headTitle###</key>
-        <val>Okinawa Scuba Diving - Marine House Seasir NAHA</val>
+        <val>SEASIR Naha Full Day Diving and Snorkeling trip to Kerama</val>
     </item>
     <item>
         <key>###headDesc###</key>
@@ -15,7 +15,7 @@
     <!-- }}} header -->
     <item>
         <key>###H2###</key>
-        <val>SEASIR Naha Daily Diving And Snorkeling Trip at Kerama Islands</val>
+        <val>SEASIR Naha Full Day Diving and Snorkeling trip to Kerama</val>
     </item>
     <!-- {{{ intro -->
     <item>
@@ -146,12 +146,16 @@ Marine House SEASIR NAHA is a PADI 5 STAR INSTRUCTOR DEVELOPMENT RESORT, been op
         <val><![CDATA[Click on <span class="booking-blue">BOOKING NOW</span>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY5,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.]]></val>
     </item>
     <item>
-        <key></key>
-        <val></val>
+        <key>###Up from 2 dives###</key>
+        <val><![CDATA[※ Up from 2 dives. The 3rd dive request on boat is available.]]></val>
     </item>
     <item>
-        <key></key>
-        <val></val>
+        <key>###Up from 1 dive###</key>
+        <val><![CDATA[※ Up from 1 dive, the 2ed and 3rd dive request on boat is available.]]></val>
+    </item>
+    <item>
+        <key>###Option 3rd dive###</key>
+        <val><![CDATA[※ Option 3rd dive is extra JPY4,400. Request on boat only.]]></val>
     </item>
     <item>
         <key></key>

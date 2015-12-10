@@ -56,7 +56,7 @@ def processMultiLang(xmlPath,tmpPath,fileName,tmpFile):
     rFile = tmpFile
     print("open file to write: "+fileNameWithFullPath)
     wFile = open(fileNameWithFullPath,'w',-1,"utf8")
-    dirty = False
+    notes = []
     for line in rFile:
         # print(line)
         rtnStr = line
@@ -69,8 +69,7 @@ def processMultiLang(xmlPath,tmpPath,fileName,tmpFile):
                 if ptnMatch in shareDict[langName]:
                     rtnStr = rtnStr.replace(ptnMatch, shareDict[langName][ptnMatch])
                 else:
-                    print("\nptn:["+ptnMatch+"] from["+tmpPath+"] not fond in "+xmlPath)
-                    dirty = True
+                    notes.append("\nptn:["+ptnMatch+"] from["+tmpPath+"] not fond in "+xmlPath)
         # print(rtnStr);
         # write rtnStr without \n
         # wFile.write(rtnStr[0:-1])
@@ -78,8 +77,8 @@ def processMultiLang(xmlPath,tmpPath,fileName,tmpFile):
     # rFile.close()
     wFile.close()    
     print("done")
-    if (dirty):
-        input("press Enter")
+    if (0 != len(notes)):
+        return '\n'.join(str(x) for x in notes)
         
 def processClip(fpath, tmpFile):
     rFile = open(fpath,encoding='utf8')
@@ -114,10 +113,15 @@ def processTemplFileWithPath(fpath):
     tmpFile = tempfile.TemporaryFile('w+',encoding='utf8')
     processClip(fpath,tmpFile)
     idx = extractFirstFileName(fpath)
+    notes = []
     for xmlPath in findMultiLangXMLPaths(idx):
         tmpFile.seek(0)
-        processMultiLang(xmlPath,fpath,idx+".htm",tmpFile)
+        rtn = processMultiLang(xmlPath,fpath,idx+".htm",tmpFile)
+        if (rtn != None):
+            notes.append(rtn)
     tmpFile.close()
+    if (0 != len(notes)):
+        return '\n'.join(str(x) for x in notes)
 
 # main
 # 1. read in all clip name and body
@@ -133,7 +137,13 @@ for fpath in fpaths:
 # 2. read all file match htmFilePathPtn
 fpaths = glob.glob(htmFilePathPtn)
 print("find", len(fpaths), htmFilePathPtn)
+notes = []
 for fpath in fpaths:
-    processTemplFileWithPath(fpath)
+    rtn = processTemplFileWithPath(fpath)
+    if (rtn != None):
+        notes.append(rtn)
 
-# input("press Enter")
+if (0 != len(notes)):
+    print("Note:\n-------------------------\n")
+    print('\n'.join(str(x) for x in notes))    
+    input("press Enter")

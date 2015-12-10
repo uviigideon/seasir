@@ -15,7 +15,11 @@
     <!-- }}} header -->
     <item>
         <key>###H2###</key>
-        <val>Okinawa Whale Watching Season 27th Dec 2014 ~ 5th April 2015</val>
+        <val>SEASIR Naha Whale Watching tour</val>
+    </item>
+    <item>
+        <key>###sub###</key>
+        <val>2015/16 Season start from 26th Dec to 3rd April</val>
     </item>
     <item>
         <key>###whale intro###</key>
@@ -96,9 +100,12 @@
     </item>
     <item>
         <key>###Price Includes li###</key>
-        <val><![CDATA[<li>Hotel Transfer (Naha city area only)</li>
-<li>Drinking water and Japanese tea</li>
-<li>Guarantee of Whales (If no whale or dolphins spotted on the trip, get full refund)</li>]]></val>
+        <val><![CDATA[
+<li>Boat fee</li>
+<li>Drinking water</li>
+<li>Guarantee of Whales (If no whale or dolphins spotted on the trip, get re-challenge coupon or full refund)</li>
+<li>Free Hotel transfer (Naha city only, reservation required, quantity limited.</li>
+        ]]></val>
     </item>
     <item>
         <key>###Boat Facility###</key>
@@ -121,12 +128,15 @@
     </item>
     <item>
         <key>###Conditions li###</key>
-        <val><![CDATA[<li>Epilepsy, seizures, convulsions or take medications to prevent it</li>
-<li>Guest who are currently pregnant</li>]]></val>
+        <val><![CDATA[
+            <li>Epilepsy, seizures, convulsions or take medications to prevent it</li>
+            <li>Guest who are currently pregnant</li>
+            <li>With Infant age under 3 year old, please contact with our booking office, discussion required.</li>
+        ]]></val>
     </item>
     <item>
         <key>###Whale Note dt###</key>
-        <val>Whale Watching Excursion trip from 27th December 2014 until 4th January 2015 will not provide any refund if there is no whale spotted during the trip during this period of time.</val>
+        <val>We will not guarantee to encounter the whale during the trip from 26th Dec 2015 until 3th Jan 2016. Marine House SEASIR NAHA will provide a coupon for you (no refund) if there is no whale spotted during the trip during this period of time.</val>
     </item>
     <item>
         <key>###Booking procedure dt###</key>

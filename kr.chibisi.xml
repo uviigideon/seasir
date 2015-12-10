@@ -2,7 +2,7 @@
     <!-- {{{ header -->
     <item>
         <key>###headTitle###</key>
-        <val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI</val>
+        <val>SEASIR 나하지점 반나절 다이빙, 스노클링 투어(Kerama Islands)</val>
     </item>
     <item>
         <key>###headDesc###</key>
@@ -15,12 +15,11 @@
     <!-- }}} header -->
     <item>
         <key>###theTeam###</key>
-        <val>Half Day Snorkeling and Introductory Diving to CHIBISI (Kerama Islands)</val>
+        <val>SEASIR 나하지점 반나절 다이빙, 스노클링 투어(Kerama Islands)</val>
     </item>
     <item>
         <key>###theTeamIntro###</key>
-        <val><![CDATA[Kerama National Marine Park is well known of amazing crystal blue sea surrounding by colorful coral and coral fish. This is where a must go destination for a half-day escape that you should never miss when you are in Okinawa. <br>
-A special design for a half day marine activity for anyone, this destination comes with snorkeling and diving package. Departure from Naha City nearby Marine House SEASIR NAHA office. For detail and information please refer to below table.
+        <val><![CDATA[케라마 국립공원은 눈부시게 푸른 바다와 화려한 색깔의 산호, 열대어들로 유명합니다. 케라마로의 반나절 투어는 오키나와를 방문했다면 절대로 빠트려서는 안 될 체험입니다. 스노클링과 다이빙으로 누구나 즐거운 기억을 남기실 수 있습니다. SEASIR나하 지점 근처 항구에서 출발합니다. 자세한 내용은 아래를 참고하세요.
 ]]></val>
     </item>
     <item>
@@ -76,12 +75,9 @@ A special design for a half day marine activity for anyone, this destination com
         <val>Same as Snorkeling Package + 1 scuba dive (20 minutes)</val>
     </item>
     <item>
-       <key>###Booking procedure###</key>
-       <val>Booking procedure</val>
-    </item>
-    <item>
         <key>###Booking procedure dt###</key>
-        <val><![CDATA[Click on <b>BOOKING NOW</b>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY3,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.]]></val>
+        <val><![CDATA[<div class="booking-procedure"><span class="booking-blue">지금 예약</span>을 클릭하신 후, 메일주소를 입력해 주십시오. 모든 정보를 입력한 후 제출해 주십시오. SEASIR LTD계정으로부터 예약금 결제를 위한 PayPal결제정보를 메일로 보내드립니다. 저희 PayPal 계정으로부터 결제요청을 받은 날로부터 3일 이내에 예약금 3,000엔을 결제하셔야 예약이 확정됩니다. 만약 출발일로부터 3일 이내에 예약할 경우, 24시간 이내에 결제하셔야 합니다. 결제하지 않을 경우, 모든 예약은 취소됩니다.</div>]]></val>
+        
     </item>
     <item>
         <key>###Snorkeling Package Adult###</key>
@@ -94,10 +90,6 @@ A special design for a half day marine activity for anyone, this destination com
     <item>
         <key>###Introductory Diving###</key>
         <val>Introductory Diving (Minimum age 10)</val>
-    </item>
-    <item>
-        <key>###To make a booking###</key>
-        <val>To make a booking</val>
     </item>
 </items>
 

@@ -50,7 +50,7 @@ Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的�
 	</item>
 	<item>
 		<key>###peakseason date###</key>
-		<val><![CDATA[2015年旺季 : 4月29日~5月6日  &  6月13日~9月30日 & 10月10日~10月13日]]></val>
+		<val><![CDATA[2016 旺季: 2016年4月28日-5月8日；2016年6月11日-10月10日]]></val>
 	</item>
 	<item>
 		<key>###Season Price###</key>
@@ -129,12 +129,11 @@ Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的�
 		<val>夜潜</val>
 	</item>
 	<item>
-		<key>###First Time###</key>
-		<val>初次</val>
-	</item>
-	<item>
-		<key>###Experienced###</key>
-		<val>有经验</val>
+		<key>###Night Diving Note###</key>
+		<val><![CDATA[
+<li>需要先参加一般潜水（check dive）。</li>
+<li>参加一般潜水后直接在店内预约。</li>
+            ]]></val>
 	</item>
 	<item>
 		<key>###Refresher Course###</key>
@@ -167,6 +166,18 @@ Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的�
 	<item>
 		<key>###Booking procedure dt###</key>
 		<val><![CDATA[点击<span class="booking-blue">马上报名</span>后,您需要填入可以联系到您的邮箱和所需的信息,然后提交预约表。如果报名成功，您会收到SEASIR LTD.账户的PayPal预约金请求邮件。为确保您的预约，请在收到预约金请求的3天之内支付每人5,000日元的预约金。如果距您的预约日期不到3天，请在24小时之内支付完成预约金。若在期限内未收到您的预约金，您的预约将会被自动取消。]]></val>
+	</item>
+	<item>
+		<key>###location###</key>
+		<val>如何抵达阿嘉岛</val>
+	</item>
+	<item>
+		<key>###location dt###</key>
+		<val><![CDATA[
+            <li>SEASIR 免费提供从阿嘉岛港口到SEASIR阿嘉宿舍的接送服务，请尽早通知我们船只到达时间。</li>
+            <li>预约船票: 请网上预订（英文）</li>
+            座间味村官方网站: <a href="http://www.vill.zamami.okinawa.jp/" target="_blank">http://www.vill.zamami.okinawa.jp/</a>
+            ]]></val>
 	</item>
 	<item>
 		<key>###Active Schedule Time dive###</key>

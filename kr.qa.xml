@@ -1,0 +1,74 @@
+<items>
+    <item>
+        <key>###H2###</key>
+        <val><![CDATA[Q & A]]></val>
+    </item>
+    <item>
+        <key>###Access###</key>
+        <val>오시는 길 관련</val>
+    </item>
+    <item>
+        <key>###Access dt###</key>
+        <val><![CDATA[
+<li><span class="hl-black">(SEASIR NAHA) (SEASIR 나하점) 호텔이 아닌 곳으로도 송영이 가능한가요? (ex.Airbnb등)</span><br>
+<div class="sub">무료 송영은 나하 시내의 호텔, 게스트하우스만 가능합니다. 만약 일반 주택가에 머무실 경우, 근처의 호텔에서 송영이 가능합니다. 주소를 알려주시면 송영장소를 알려 드립니다.</div></li>
+<li><span class="hl-black">(SEASIR 나하점) 나하시 이외의 장소의 경우, 유료 송영 서비스가 있나요?</span><br>
+<div class="sub">나하 시내가 아닐 경우, 송영은 제공하지 않습니다.</div></li>
+<li><span class="hl-black">(SEASIR 아카점) 아카섬 항구에서부터 송영을 해 주나요?</span><br>
+<div class="sub">네, 아카섬 항구로부터 SEASIR 아카점까지 무료 송영을 해 드립니다. 페리에서 내리신 후, 빨간색 셔츠를 입고 있는 SEASIR 스태프를 찾아주세요!</div></li>
+<li><span class="hl-black">(BERRY) 무료 송영이 가능한가요?</span><br>
+<div class="sub">온나손 지역의 호텔은 송영서비스가 가능합니다. 좌석 수에 제한이 있으니 예약 때에 요청해 주세요.</div></li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Activity related questions###</key>
+        <val>해양스포츠 관련</val>
+    </item>
+    <item>
+        <key>###Activity related questions dt###</key>
+        <val><![CDATA[
+            <li><span class="hl-black">수영을 못해도 스노클링이나 체험다이빙이 가능한가요? </span>
+                <br><div class="sub">물론입니다, 전문 스태프들이 즐거운 하루가 될 수 있도록 최선을 다해 도와 드립니다. 구명조끼도 준비되어 있으니 스태프에게 문의해 주세요.</div></li>
+            <li><span class="hl-black">당일 준비물은 무엇이 있나요?</span>
+                <br><div class="sub">수영복과 여벌의 옷을 준비해 주시면 됩니다.</div></li>
+            <li><span class="hl-black">생리 중에도 참가가 가능한가요? </span>
+                <br><div class="sub">가능합니다, 다이빙 및 스노클링을 위해 다수의 여성 스태프가 동행합니다. 만약 걱정이 되신다면 한국에서 의사의 상담을 받으시고 오시길 추천 드립니다.</div></li>
+            <li><span class="hl-black">도수 마스크가 준비되어 있나요?</span>
+                <br><div class="sub">네, 저희는 -1~-7 도수 마스크를 구비하고 있습니다. 예약 때에 요청하시고 시력을 알려주시기 바랍니다. 만약 -7 이상의 경우, 1회용 콘택트 렌즈 사용을 추천 드립니다.</div></li>
+            <li><span class="hl-black">콘택트 렌즈를 끼고도 참가 가능한가요?</span>
+                <br><div class="sub">가능합니다, 다만 소프트렌즈를 사용해 주시기 바랍니다.</div></li>
+            <li><span class="hl-black">아이들도 참가 가능한가요?</span>
+                <br><div class="sub">각 프로그램 마다 최소 연령 제한이 있습니다. 아쉽지만 제한 연령 이하의 경우, 보험 및 안전상의 문제로 참가를 제한하고 있습니다.</div></li>
+            <li><span class="hl-black">(SEASIR 나하점) 배 안에 샤워실/화장실/탈의실이 있나요?</span>
+                <br><div class="sub">네, 저희는 60인승 보트를 3대 운영하며 보트마다 샤워실, 화장실, 탈의실이 2개씩 있습니다. 환경보호를 위해 샴푸나 보디클렌저는 사용을 자제해 주세요.</div></li>
+            <li><span class="hl-black">한국어/영어/중국어/광동어가 가능한 강사가 있나요?</span>
+                <br><div class="sub"><span class="hl-black">(SEASIR 나하점)</span> 각 언어가 가능한 스태프들이 보트에 상주하고 있습니다만 담당 스태프가 해당 언어를 할지는 확언할 수 없습니다. 하지만 모든 스태프가 여러분과 이야기하길 바라고 있습니다. 가벼운 마음으로 말을 걸어주세요!<br>
+<span class="hl-black">(SEASIR 아카점)</span> 저희 강사들은 기본적인 영어를 하며 외국 고객들을 상대한 경험이 많습니다. 특히 여름 시즌에는 워킹홀리데이중인 외국인 스태프들이 있으니 언제든지 도움이 필요하시면 불러주세요!<br>
+<span class="hl-black">(BERRY)</span> 저희 강사들은 기본적인 영어를 하며 외국 고객들을 상대한 경험이 많습니다. 특히 여름 시즌에는 워킹홀리데이중인 외국인 스태프들이 있으니 언제든지 도움이 필요하시면 불러주세요!</div></li>
+            <li><span class="hl-black">(SEASIR 나하점) 친구와 가려고 하는데 각각 다른 프로그램에 참가합니다. 같은 보트에 탈 수 있나요?</span>
+                <br><div class="sub">가능합니다, 예약 주실 때 미리 알려주시기 바랍니다. 기간이 촉박한 예약의 경우, 부득이하게 별개의 배를 탈 경우도 있습니다.</div></li>
+            <li><span class="hl-black">(SEASIR 나하점) 사진을 찍어 주나요?</span>
+                <br><div class="sub">네, 촬영한 사진은 웹사이트 (<a href="http://www.seasir.zenfolio" target="_blank">www.seasir.zenfolio</a>)에서 1장 500엔에 판매되고 있습니다. 수중카메라를 대여하실 경우, 2,200엔(SD카드 없음)이며, SD카드가 필요하실 경우, 매장에서 구입 가능합니다.(880엔)</div></li>
+            <li><span class="hl-black">(SEASIR 나하점) 섬에 상륙할 수 있나요?</span>
+                <br><div class="sub">아니오, 나하시 해양스포츠 안전 규정에 의해 섬으로의 상륙은 불가합니다.</div></li>
+            <li><span class="hl-black">(SEASIR 나하점) 다이빙 포인트나 수온은 어떤가요?</span>
+                <br><div class="sub">케라마 제도 주변에는 50곳 이상의 포인트가 있습니다. 매일 날씨, 바람, 바다상황을 보고 선장의 판단 하에 포인트를 결정합니다. 담당강사에게 어떤 다이빙을 좋아하시는지 미리 말씀해 주시면 반영하도록 하겠습니다.</div></li>
+            <li><span class="hl-black">(SEASIR 나하점) 멀미약을 판매하나요?</span>
+                <br><div class="sub">멀미약은 판매하지 않고 있습니다. 미리 준비해 주시기 바랍니다.</div></li>
+            <li><span class="hl-black">(SEASIR 나하점) 매장이나 배에서 짐을 맡아주실 수 있나요?</span>
+                <br><div class="sub">어느 정도 짐을 가지고 계신지 알려주시면, 보관장소에 여유가 있는지 확인하고 가능여부를 알려드리도록 하겠습니다.</div></li>
+]]></val>
+    </item>
+    <item>
+        <key>###Cancellation policy###</key>
+        <val>환불 규정</val>
+    </item>
+    <item>
+        <key>###Cancellation policy dt###</key>
+        <val><![CDATA[
+            <li><span class="hl-black">비나 태풍이 올 경우 일정이 취소되나요?</span>
+                <br><div class="sub">일반적으로 바다 상황과 비는 큰 상관이 없습니다.<br> 
+태풍으로 인한 일정 조정이 있을 경우, 출발 전에 연락을 드립니다. 악천후로 인해 일정이 취소될 경우에 한해 환불해 드립니다</div></li>
+            ]]></val>
+    </item>
+</items>

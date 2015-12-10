@@ -72,6 +72,10 @@
 		<val>Blog</val>
 	</item>
 	<item>
+		<key>###Blog ln###</key>
+		<val>http://enct43seasir.ti-da.net</val>
+	</item>
+	<item>
 		<key>###leisureDiving###</key>
 		<val>休闲潜水</val>
 	</item>
@@ -85,7 +89,12 @@
 	</item>
 	<item>
 		<key>###leisureDiving Note###</key>
-		<val>潜水经验数少于30次且超过12个月未潜水的潜水员，需要参加复习潜水课程。</val>
+		<val>如果您超过12个月未参加潜水或潜水总次数少于30次，请您参加复习潜水课程。</val>
+	</item>
+	<item>
+		<key>###rest Note###</key>
+		<val>Please make sure you have more than 18 hours resting hour before your flight. </val>
+		<todo></todo>
 	</item>
 	<item>
 		<key>###introDiving###</key>
@@ -293,7 +302,7 @@
 	</item>
 	<item>
 		<key>###Note###</key>
-		<val>注意</val>
+		<val>温馨提示</val>
 	</item>
 	<item>
 		<key>###Return previous page###</key>
@@ -345,7 +354,7 @@
 	</item>
 	<item>
 		<key>###Own Transportation dt###</key>
-		<val><![CDATA[请在您的汽车导航系统中输入我们的电话: <span class="hl-red">098 869 6329</span> 或是使用 MAP CODE <span class="hl-red">33246627 *42</span> 来找到我们]]></val>
+		<val><![CDATA[可以在车载导航系统中输入此电话号码 <span class="hl-red">098 869 6329</span>，也可以使用此地图代码(MAP CODE) <span class="hl-red">33246627 *42</span>定位我们的店铺，或打开<a href="https://maps.google.co.jp/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=marine+house+seasir&amp;aq=&amp;sll=25.965654,127.132909&amp;sspn=8.005051,9.876709&amp;brcurrent=3,0x34e5697141a6b58b:0x2cd8aff616585e98,0&amp;ie=UTF8&amp;hq=marine+house+seasir&amp;hnear=&amp;t=m&amp;ll=26.258628,127.701817&amp;spn=0.073895,0.109863&amp;z=13&amp;iwloc=A" target="_blank" title="View Larger Map in Google Maps">google 地图</a> 获取导航方式.]]></val>
 	</item>
 	<item>
 		<key>###Own Transportation Weed Beach###</key>
@@ -365,7 +374,7 @@
 	</item>
 	<item>
 		<key>###Contact###</key>
-		<val>联络资讯</val>
+		<val>预约联系方式</val>
 	</item>
 	<item>
 		<key>###Toll Free###</key>
@@ -380,8 +389,8 @@
 		<val>英文或中文或广东话</val>
 	</item>
 	<item>
-		<key>###Mandarin Line###</key>
-		<val>中文或广东话</val>
+		<key>###All Leng Line###</key>
+		<val>日文、英文或中文普通话</val>
 	</item>
 	<item>
 		<key>###TEL###</key>
@@ -390,6 +399,26 @@
 	<item>
 		<key>###E-mail###</key>
 		<val>E-mail</val>
+	</item>
+	<item>
+		<key>###Address###</key>
+		<val>地址</val>
+	</item>
+	<item>
+		<key>###Office Hour###</key>
+		<val>办公时间</val>
+	</item>
+	<item>
+		<key>###Address dt###</key>
+		<val>3-1-8 JEIS Building, Tomari, Naha city, Okinawa, Japan.</val>
+	</item>
+	<item>
+		<key>###Japan Time###</key>
+		<val>东京时间</val>
+	</item>
+	<item>
+		<key>###Any emergency###</key>
+		<val>如需在办公时间外紧急联络，请致电 +81-(0)90-5927-5598</val>
 	</item>
 	<item>
 		<key>###Please Download the booking form###</key>
@@ -589,14 +618,14 @@
             当我在这里打勾表示, 我同意且了解 <a href="./cancel.htm" target="_blank">Marine House SEASIR 的预约取消政策</a>
         ]]></val>
 	</item>
-    <item>
-        <key>###deposit dt 1###</key>
-        <val>您将会很快收到我们SEASIR LTD.来自Paypal账户的预约金请求. 爲了确保您的预约, 请支付每人</val>
-    </item>
-    <item>
-        <key>###deposit dt 2###</key>
-        <val>日元的预约金, 并在您收到我们Paypal预约金请求后的3天之内支付完成, 如果离预约日少於3天, 请在24小时内支付完成. 如果没有收到您的预约金, 您的预约将会被自动取消.</val>
-    </item>
+	<item>
+		<key>###deposit dt 1###</key>
+		<val>您将会很快收到我们SEASIR LTD.来自Paypal账户的预约金请求. 爲了确保您的预约, 请支付每人</val>
+	</item>
+	<item>
+		<key>###deposit dt 2###</key>
+		<val>日元的预约金, 并在您收到我们Paypal预约金请求后的3天之内支付完成, 如果离预约日少於3天, 请在24小时内支付完成. 如果没有收到您的预约金, 您的预约将会被自动取消.</val>
+	</item>
 	<item>
 		<key>###health dt###</key>
 		<val><![CDATA[

@@ -15,6 +15,14 @@
     <!-- }}} header -->
 
     <item>
+        <key>###MY PLACE HOUSE###</key>
+        <val>MY PLACE HOUSE</val>
+    </item>
+    <item>
+        <key>###Full Day###</key>
+        <val> Full Day</val>
+    </item>
+    <item>
         <key>###CHIBISI###</key>
         <val> Half Day</val>
     </item>
@@ -40,6 +48,10 @@
         <key>###brief whale text###</key>
         <val>Okinawa one of the most fascinating winter season activity whale watching excursions from January until end of March</val>
     </item>
+	<item>
+		<key>###whale season###</key>
+        <val><![CDATA[賞鯨季從2015年12月26日開始到2016年4月3日為止。]]></val>
+	</item>
     <item>
         <key>###brief course text###</key>
         <val>SEASIR PADI 5 STAR facility provide English, Japanese, Mandarin and Cantonese courses</val>
@@ -49,26 +61,104 @@
         <val>If you are looking for any major or small equipment related to scuba diving this is your one stop shop that you are looking for.</val>
     </item>
     <item>
+        <key>###brief myplace text###</key>
+        <val>Located in the heart of Naha City, only few steps from Tomarin port terminal.</val>
+    </item>
+    <item>
+        <key>###brief cool okinawa text###</key>
+        <val>Okinawa local travel information, provide selected packages for all traveler.</val>
+    </item>
+    <item>
         <key>###SEA PEOPLE Scuba Diving Equipment Retail###</key>
         <val>SEA PEOPLE Scuba Diving Equipment Retail</val>
     </item>
     <item>
-        <key>###Berry Paintball###</key>
-        <val>Berry Paintball</val>
+        <key>###myspace###</key>
+        <val>MyPlace Guest House</val>
+    </item>
+    <item>
+        <key>###Dormitory Rooms###</key>
+        <val>Dormitory Rooms</val>
+    </item>
+    <item>
+        <key>###Private Room###</key>
+        <val>Private Room</val>
     </item>
     <item>
         <key>###Cool Okinawa###</key>
-        <val><![CDATA[
-<h2 class="seapeople-h2"><a href="http://www.coolokinawa.com/en/" target="_blank">Cool Okinawa travel</a></h2>
-<a id="seapeople-banner-a" href="http://www.coolokinawa.com/en/" target="_blank"><div id="cool-okinawa-banner-en"></div></a>
-        ]]></val>
+        <val>COOL OKINAWA Travel</val>
     </item>
     <item>
-        <key>###fotoShisa###</key>
-        <val><![CDATA[
-<h2 class="seapeople-h2"><a href="./fotoshisa.htm">fotoShisa Professional Photographer services</a></h2>
-<a id="seapeople-banner-a" href="./fotoshisa.htm"><div id="fotoshisa-banner"></div></a>
-            ]]></val>
+        <key>###Cool Okinawa ln###</key>
+        <val><![CDATA[http://www.coolokinawa.com/en/]]></val>
+    </item>
+    <item>
+        <key>###EngChin booking service###</key>
+        <val>Eng/Chin booking service</val>
+    </item>
+    <item>
+        <key>###Okinawa Day tour###</key>
+        <val>Okinawa Day tour</val>
+    </item>
+    <item>
+        <key>###Restaurant bus###</key>
+        <val>Restaurant / bus</val>
+    </item>
+    <item>
+        <key>###fotoshisa###</key>
+        <val>fotoShisa</val>
+    </item>
+    <item>
+        <key>###brief fotoshisa text###</key>
+        <val>The premier photography service.</val>
+    </item>
+    <item>
+        <key>###Underwater photo###</key>
+        <val>Underwater photo</val>
+    </item>
+    <item>
+        <key>###Family photo###</key>
+        <val>Family photo</val>
+    </item>
+    <item>
+        <key>###fotoshisa ln###</key>
+        <val><![CDATA[./fotoshisa.htm]]></val>
+    </item>
+    <item>
+        <key>###special-dive-trip###</key>
+        <val>Special Dive Trip</val>
+    </item>
+    <item>
+        <key>###brief special-dive-trip text###</key>
+        <val>Okinawa trip and overseas dive trip recommend by SEASIR</val>
+    </item>
+    <item>
+        <key>###Oki Special Dive trip###</key>
+        <val>Oki Special Dive trip</val>
+    </item>
+    <item>
+        <key>###Oversea dive trip###</key>
+        <val>Overseas dive trip</val>
+    </item>
+    <item>
+        <key>###Paintball###</key>
+        <val>Paintball</val>
+    </item>
+    <item>
+        <key>###brief Paintball text###</key>
+        <val>Exciting paintball game, designed for company teambuilding, family or friend’s reunion.</val>
+    </item>
+    <item>
+        <key>###Basic plan###</key>
+        <val>Basic plan</val>
+    </item>
+    <item>
+        <key>###Advance plan###</key>
+        <val>Advance plan</val>
+    </item>
+    <item>
+        <key>###Group plan###</key>
+        <val>Group plan</val>
     </item>
     <!-- }}} briefs -->
     <item>

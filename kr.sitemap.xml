@@ -1,0 +1,186 @@
+<items>
+    <!-- {{{ Marine House SEASIR Naha -->
+    <item>
+        <key>###Marine House SEASIR Naha###</key>
+        <val>Marine House SEASIR 나하점</val>
+    </item>
+    <item>
+        <key>###Naha###</key>
+        <val>나하점</val>
+    </item>
+    <item>
+        <key>###Full day###</key>
+        <val>전일</val>
+    </item>
+    <item>
+        <key>###Half day###</key>
+        <val>반나절</val>
+    </item>
+    <item>
+        <key>###Snorkeling package###</key>
+        <val>스노클링 패키지 투어</val>
+    </item>
+    <item>
+        <key>###Introductory Diving package###</key>
+        <val>체험다이빙 패키지 투어</val>
+    </item>
+    <item>
+        <key>###Leisure Diving package###</key>
+        <val>펀다이빙 투어</val>
+    </item>
+    <item>
+        <key>###Refresher Diving course package###</key>
+        <val>리프레쉬 다이빙 투어</val>
+    </item>
+    <item>
+        <key>###summer only###</key>
+        <val></val>
+    </item>
+    <item>
+        <key>###winter only###</key>
+        <val></val>
+    </item>
+ 
+    <!-- }}} Marine House SEASIR Naha -->
+    <!-- {{{ Marine House SEASIR AKA -->
+    <item>
+        <key>###Marine House SEASIR AKA###</key>
+        <val>Marine House SEASIR 아카점</val>
+    </item>
+    <item>
+        <key>###AKA###</key>
+        <val>AKA</val>
+    </item>
+    <item>
+        <key>###Pension###</key>
+        <val>펜션</val>
+    </item>
+    <item>
+        <key>###Snorkeling###</key>
+        <val>스노클링</val>
+    </item>
+    <item>
+        <key>###Introductory Diving###</key>
+        <val>체험다이빙</val>
+    </item>
+    <item>
+        <key>###Leisure Diving###</key>
+        <val>펀다이빙</val>
+    </item>
+    <item>
+        <key>###Refresher Diving course###</key>
+        <val>리프레쉬 다이빙</val>
+    </item>
+    <item>
+        <key>###Night Dive###</key>
+        <val>야간 다이빙</val>
+    </item>
+    <!-- }}} Marine House SEASIR AKA -->
+    <!-- {{{ Special Dive Trip & SEAPEOPLE -->
+    <item>
+        <key>###Special Dive Trip###</key>
+        <val>스페셜 투어</val>
+    </item>
+    <item>
+        <key>###Okinawa daily diving trip###</key>
+        <val>오키나와 스페셜 투어</val>
+    </item>
+    <item>
+        <key>###Oversea diving trip###</key>
+        <val>해외 다이빙 투어</val>
+    </item>
+    <item>
+        <key>###SEAPEOPLE retails###</key>
+        <val>SEAPEOPLE 스쿠버 다이빙 장비 매장</val>
+    </item>
+    <item>
+        <key>###Equipment Brands###</key>
+        <val>취급 브랜드</val>
+    </item>
+    <item>
+        <key>###Location###</key>
+        <val>매장위치</val>
+    </item>
+    <!-- }}} Special Dive Trip & SEAPEOPLE -->
+    <!-- {{{ Marine Club BERRY -->
+    <item>
+        <key>###Marine Club BERRY###</key>
+        <val>Marine Club BERRY</val>
+    </item>
+    <item>
+        <key>###Marine Walk###</key>
+        <val>마린워크</val>
+    </item>
+    <item>
+        <key>###Water sport###</key>
+        <val>워터 스포츠 : 비스킷 드리프트, 바나나 보트, 슈퍼 마블, 워터 튜브</val>
+    </item>
+    <item>
+        <key>###Sea Kayak###</key>
+        <val>바다 카약</val>
+    </item>
+    <item>
+        <key>###Mangrove Kayak###</key>
+        <val>맹그로브 카약</val>
+    </item>
+    <item>
+        <key>###Parasailing###</key>
+        <val>패러세일링</val>
+    </item>
+    <item>
+        <key>###Fly board###</key>
+        <val>플라이 보드</val>
+    </item>
+    <item>
+        <key>###Paintball###</key>
+        <val>페인트볼</val>
+    </item>
+    <!-- }}} Marine Club BERRY -->
+    <!-- {{{ PADI diving Course -->
+    <item>
+        <key>###PADI diving Course###</key>
+        <val>PADI 다이빙 코스</val>
+    </item>
+    <item>
+        <key>###PADI Open Water Diver Course###</key>
+        <val>PADI 오픈워터 다이버 코스</val>
+    </item>
+    <item>
+        <key>###PADI Advanced Diver Course###</key>
+        <val>PADI 어드밴스드 다이버 코스</val>
+    </item>
+    <item>
+        <key>###Emergency First Responder Course###</key>
+        <val>Emergency First Responder Course</val>
+    </item>
+    <item>
+        <key>###PADI Rescue Diver Course###</key>
+        <val>PADI 레스큐 다이버 코스</val>
+    </item>
+    <!-- }}} PADI diving Course -->
+    <item>
+        <key>###MyPlace Guest House###</key>
+        <val>MyPlace 게스트 하우스</val>
+    </item>
+    <item>
+        <key>###Cool Okinawa travel###</key>
+        <val>Cool Okinawa 여행사</val>
+    </item>
+    <item>
+        <key>###Cool Okinawa travel ln###</key>
+        <val><![CDATA[http://www.coolokinawa.com/en/]]></val>
+    </item>
+    <item>
+        <key>###PhotoShisa###</key>
+        <val>PhotoShisa 촬영 서비스</val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val><![CDATA[
+            ]]></val>
+    </item>
+</items>

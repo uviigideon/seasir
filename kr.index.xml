@@ -12,16 +12,24 @@
 		<val>오키나와, 다이빙, 마린, 스포츠, 영어, 외국</val>
 	</item>
 	<item>
+		<key>###MY PLACE HOUSE###</key>
+		<val>MY PLACE HOUSE</val>
+	</item>
+	<item>
+		<key>###Full Day###</key>
+		<val> Full Day</val>
+	</item>
+	<item>
 		<key>###CHIBISI###</key>
 		<val> Half Day</val>
 	</item>
 	<item>
 		<key>###briefNahaText###</key>
-		<val>스노클링, 스쿠버다이빙 그리고 각가지 활동을 지향한 케라마섬 당일 투어</val>
+		<val>스노클링, 다이빙을 위한 케라마제도 1일투어</val>
 	</item>
 	<item>
 		<key>###brief berry text###</key>
-		<val>수중 인어 걸음, 해양 스포츠와 스쿠버다이빙 센터</val>
+		<val>수중 마린워크, 워터 스포츠 및 스쿠버 다이빙이 가능한 마린 레져센터</val>
 	</item>
 	<item>
 		<key>###brief aka text###</key>
@@ -29,37 +37,133 @@
 	</item>
 	<item>
 		<key>###brief chibisi text###</key>
-		<val>Kerama Chibishi island an excellent half day snorkeling and diving trip in Okinawa</val>
+		<val>스노클링, 다이빙을 위한 케라마제도 치비시섬 반나절 투어</val>
 	</item>
 	<item>
 		<key>###brief whale text###</key>
-		<val>오키나와의 매력적인 겨울 스포츠중 하나인 고래 관림 투어가 1월부터 3월까지 진행됩니다.</val>
+		<val>오키나와 최고의 겨울 액티비티! 고래워칭이 1월부터 3월까지 개최됩니다</val>
+	</item>
+	<item>
+		<key>###whale season###</key>
+		<val>2015/16년도 관람기간 12월26일~4월3일</val>
 	</item>
 	<item>
 		<key>###brief course text###</key>
-		<val>SEASIR PADI 5 STAR는 영어, 일본어, 중국어, 광동어로 교육과정을 제공합니다.</val>
+		<val>SEASIR는 PADI 5 STAR급 시설을 갖추고 있으며 영어, 한국어, 일본어, 중국어, 광동어, 말레이어로 코스를 진행합니다</val>
 	</item>
 	<item>
 		<key>###brief sea people text###</key>
-		<val>만약 당신이 주된 혹은 간단한 다이빙 장비를 찾고 있다면, 여기 이 가게가 당신이 찾고있던 가게일 것입니다.</val>
+        <val><![CDATA[스쿠버 다이빙 및 스노클링용 각종 유명 장비 취급점. <br>
+            영업시간: 11:00~20:00]]></val>
+	</item>
+	<item>
+		<key>###myspace###</key>
+		<val>MyPlace 게스트 하우스</val>
+	</item>
+	<item>
+		<key>###brief myplace text###</key>
+		<val>나하시 중심부에 위치한 게스트 하우스. 토마린 터미널에서 도보로 접근가능</val>
+	</item>
+	<item>
+		<key>###Dormitory Rooms###</key>
+		<val>도미토리</val>
+	</item>
+	<item>
+		<key>###Private Room###</key>
+		<val>개인실</val>
 	</item>
 	<item>
 		<key>###SEA PEOPLE Scuba Diving Equipment Retail###</key>
 		<val>SEA PEOPLE 스쿠버 다이빙 장비 소매</val>
 	</item>
 	<item>
-		<key>###Berry Paintball###</key>
-		<val>Berry 페인트볼</val>
-	</item>
-	<item>
 		<key>###Cool Okinawa###</key>
-		<val><![CDATA[
-        ]]></val>
+		<val>COOL OKINAWA 여행사</val>
 	</item>
 	<item>
-		<key>###fotoShisa###</key>
-		<val><![CDATA[
-            ]]></val>
+		<key>###brief cool okinawa text###</key>
+		<val>오키나와 여행 정보 및 엄선된 투어상품을 소개해 드립니다</val>
+	</item>
+	<item>
+		<key>###Cool Okinawa ln###</key>
+		<val><![CDATA[http://www.coolokinawa.com/en/]]></val>
+	</item>
+	<item>
+		<key>###EngChin booking service###</key>
+		<val>영어/중국어 예약서비스</val>
+	</item>
+	<item>
+		<key>###Okinawa Day tour###</key>
+		<val>오키나와 종일 투어</val>
+	</item>
+	<item>
+		<key>###Restaurant bus###</key>
+		<val>레스토랑/버스</val>
+	</item>
+	<item>
+		<key>###fotoshisa###</key>
+		<val>포토시사</val>
+	</item>
+	<item>
+		<key>###brief fotoshisa text###</key>
+		<val>프로페셔널 사진 촬영 서비스</val>
+	</item>
+	<item>
+		<key>###Underwater photo###</key>
+		<val>수중촬영</val>
+	</item>
+	<item>
+		<key>###Wedding photo###</key>
+		<val>웨딩촬영</val>
+	</item>
+	<item>
+		<key>###Family photo###</key>
+		<val>가족 사진</val>
+	</item>
+	<item>
+		<key>###fotoshisa ln###</key>
+		<val><![CDATA[./fotoshisa.htm]]></val>
+	</item>
+	<item>
+		<key>###special-dive-trip###</key>
+		<val>스페셜 다이빙 투어</val>
+	</item>
+	<item>
+		<key>###brief special-dive-trip text###</key>
+		<val>시사가 추천 드리는 오키나와 각지 및 해외 다이빙 투어</val>
+	</item>
+	<item>
+		<key>###Oki Special Dive trip###</key>
+		<val>오키나와 스페셜 투어</val>
+	</item>
+	<item>
+		<key>###Oversea dive trip###</key>
+		<val>해외 원정 투어</val>
+	</item>
+	<item>
+		<key>###Paintball###</key>
+		<val>Paintball</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###brief Paintball text###</key>
+		<val>Exciting paintball game, designed for company teambuilding, family or friend’s reunion.</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Basic plan###</key>
+		<val>Basic plan</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Advance plan###</key>
+		<val>Advance plan</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Group plan###</key>
+		<val>Group plan</val>
+		<todo></todo>
 	</item>
 	<item>
 		<key>###seeMoreDetail###</key>

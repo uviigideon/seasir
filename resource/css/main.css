@@ -6,9 +6,18 @@ body{
     background: #f8f8f8;
     text-align: center;
     border-top: solid 5px red;
-    border-bottom: solid 5px red;
     margin: 0;
     padding: 0;
+}
+hr {
+    display: block;
+    color:red;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 2px;
 }
 th {
     text-align:left;
@@ -44,9 +53,8 @@ a:hover {color:#03f}
 .hl-black {color:black}
 .hl-red {color:red}
 .booking-blue {color:#69f}
-.seasir-red {color:red;font-weight:bold}
-.berry-pink {color:hotpink;font-weight:bold}
-.lamer-black {color:#666;font-weight:bold}
+.seasir-red {color:red !important;font-weight:bold}
+.berry-pink {color:hotpink !important;font-weight:bold}
 .lt {color:#c66;font-size:12px}
 #container950 {
     width: 950px;
@@ -82,6 +90,14 @@ ol {
 .mb10 {margin-bottom:10px}
 .c {text-align:center}
 .al-r {text-align:right}
+ul.outside {
+    padding-left:1em;
+}
+.upword {
+font-size: xx-small;
+vertical-align: super;
+}
+
 /* }}} home common */
 /* {{{ fllink */
 #fllink {
@@ -151,7 +167,7 @@ ol {
 /*th,td {padding:1px 0;}*/
 .chkCal {font-size:14px;color:#aaa;}
 .chkCal:hover {color:#000;}
-.cal {width:auto;display:inline-block;margin:5px 5px;color:#666;}
+.cal {width:auto;display:inline-block;margin:2em 5px 5px 5px;color:#666;}
 .cal,.cal th,.cal td {
     border-collapse:collapse;
     border: 1px solid #f33;
@@ -226,7 +242,7 @@ ol {
 .priceT {
     border-collapse:collapse;
     font-size:16px;
-    margin-bottom:30px;
+    margin-bottom:10px;
 }
 .priceT th,.priceT td {
     border-top:1px solid #ccc;
@@ -251,21 +267,17 @@ ol {
 /* }}} addr */
 /* {{{ contact */
 #contact {
-    margin:30px 0;
+    margin:10px 0;
     padding:0;
-    list-style:none;
     font-size:16px;
+    border:none;
+    /*
+    border-collapse: collapse;
+    border:1px solid #333;*/
 }
-.contact-li-title {
-    display: inline-block;
-    width: 75px;
-}
-.contact-li-value:before {
-    content:':';
-    padding:0 10px 0 0;
-}
-.contact-li-value {
-    padding:0 10px 0 0;
+#contact td{
+    /*border:1px solid #333;*/
+    padding:2px 20px 2px 0;
 }
 .email-booking {display:block;margin:10px 0;}
 /* }}} contact */
@@ -337,31 +349,34 @@ ol {
 #copyright {
     position:relative;
     color:black;
-    font-size:12px;
-    text-align:right;
+    font-size:17px;
     margin:50px 0 30px 0;
     height:70px;
+    border-top: solid 5px red;
+    text-align:center;
 }
-#copyright-img {
-    position:absolute;
-    width:105px;height:40px;
-    top:30px;left:845px;
-    background-image:url('../img/logo-map.png');
-    background-position:0 -200px;
-    background-repeat:no-repeat;
+#footer-link {
 }
-#creadit {
-    position:absolute;
-    text-align:left;
-    top:0px;left:0px;
-
+.footer-link-li {
+    margin: 0.5em 0;
+    padding: 0 25px;
+    display: inline-block;
+    font-size: 17px;
+    border-right:1px solid #999;
 }
-#creadit-img {
-    width:130px;height:25px;
-    background-image:url('../img/logo-map.png');
-    background-position:0 -160px;
-    background-repeat:no-repeat;
+.footer-link-li a{
+    color:#999;
 }
+.footer-link-li a:hover {
+    color:#666;
+    cursor:pointer;
+}
+.footer-link-li-last {border-right:none}
+#cpr {
+    font-weight:600;
+    color:#888;
+    margin-bottom:2em;
+}   
 /* }}} copyright */
 /* {{{ book form */
 .to-make-booking {margin:20px 0 10px 0;font-size:30px}

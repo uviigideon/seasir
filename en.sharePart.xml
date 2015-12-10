@@ -76,6 +76,10 @@
         <key>###topMenuLi08###</key>
         <val>Blog</val>
     </item>
+    <item>
+        <key>###Blog ln###</key>
+        <val>http://enct43seasir.ti-da.net</val>
+    </item>
     <!-- }}} top part -->
     <!-- {{{ activies Name and Desc -->
     <item>
@@ -92,7 +96,11 @@
     </item>
     <item>
         <key>###leisureDiving Note###</key>
-        <val>Divers who have less than 30 dive log experience and not been diving for more than 12 months are required to take Refresher Dive Course Package. </val>
+        <val>Divers who have not been diving for more than 12 months and less than 30 dive log experience are required to take Refresher Dive Course Package. </val>
+    </item>
+    <item>
+        <key>###rest Note###</key>
+        <val>Please make sure you have more than 18 hours resting hour before your flight. </val>
     </item>
     <item>
         <key>###introDiving###</key>
@@ -368,8 +376,9 @@
     </item>
     <item>
         <key>###Own Transportation dt###</key>
-        <val><![CDATA[Please use this phone number <span class="hl-red">098 869 6329</span> key in the Car Navigation system or use this MAP CODE <span class="hl-red">33246627 *42</span> to locate our shop]]></val>
+        <val><![CDATA[Please use this phone number <span class="hl-red">098 869 6329</span> key in the Car Navigation system or use this MAP CODE <span class="hl-red">33246627 *42</span> to locate our shop or click the <a href="https://maps.google.co.jp/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=marine+house+seasir&amp;aq=&amp;sll=25.965654,127.132909&amp;sspn=8.005051,9.876709&amp;brcurrent=3,0x34e5697141a6b58b:0x2cd8aff616585e98,0&amp;ie=UTF8&amp;hq=marine+house+seasir&amp;hnear=&amp;t=m&amp;ll=26.258628,127.701817&amp;spn=0.073895,0.109863&amp;z=13&amp;iwloc=A" target="_blank" title="View Larger Map in Google Maps">google map</a> to get the direction.]]></val>
     </item>
+    
     <item>
         <key>###Own Transportation Weed Beach###</key>
         <val><![CDATA[Please use this MAP CODE <span class="hl-red">206444213 *85</span> key in the Car Navigation system to locate Kouki beach]]></val>
@@ -392,7 +401,7 @@
     </item>
     <item>
         <key>###Contact###</key>
-        <val>Contact</val>
+        <val>Booking Office Contact</val>
     </item>
     <item>
         <key>###Toll Free###</key>
@@ -407,8 +416,8 @@
         <val>English, Mandarin and Cantonese Line</val>
     </item>
     <item>
-        <key>###Mandarin Line###</key>
-        <val>English and Mandarin Line</val>
+        <key>###All Leng Line###</key>
+        <val>Japanese, English and Mandarin Line</val>
     </item>
     <item>
         <key>###TEL###</key>
@@ -418,6 +427,27 @@
         <key>###E-mail###</key>
         <val>E-mail</val>
     </item>
+    <item>
+        <key>###Address###</key>
+        <val>Address</val>
+    </item>
+    <item>
+        <key>###Office Hour###</key>
+        <val>Office Hour</val>
+    </item>
+    <item>
+        <key>###Address dt###</key>
+        <val>3-1-8 JEIS Building, Tomari, Naha city, Okinawa, Japan.</val>
+    </item>
+    <item>
+        <key>###Japan Time###</key>
+        <val>Japan Time</val>
+    </item>
+    <item>
+        <key>###Any emergency###</key>
+        <val>Any emergency contact after our office hour, please call +81-(0)90-5927-5598</val>
+    </item>
+
     <item>
         <key>###Please Download the booking form###</key>
         <val>Please Download the booking form</val>

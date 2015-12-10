@@ -1,7 +1,7 @@
 <items>
 	<item>
 		<key>###headTitle###</key>
-		<val>Okinawa Scuba Diving Course – SEASIR Group</val>
+		<val>다국어로 개최되는 PADI 다이빙 코스</val>
 	</item>
 	<item>
 		<key>###headDesc###</key>
@@ -13,11 +13,11 @@
 	</item>
 	<item>
 		<key>###H2###</key>
-		<val>영어, 중국어, 광동어로 제공되는 PADI 다이빙 과정</val>
+		<val>다국어로 개최되는 PADI 다이빙 코스</val>
 	</item>
 	<item>
 		<key>###course intro###</key>
-		<val>우리의 교육시설내에서 PADI 국제 인정 자격증을 제공합니다. 친근하고 풍부한 경험의 우리 강사진은 일본어, 영어, 중국어, 광동어, 말레이시아어로 교육과정을 제공합니다.</val>
+		<val>국제적으로 인정받는 PADI 코스를 상시 진행하고 있습니다. 친절하고 경험 많은 강사들이 한국어, 영어, 일본어, 중국어, 광동어, 말레이어로 직접 강습합니다.</val>
 	</item>
 	<item>
 		<key>###English or Mandarin###</key>
@@ -37,7 +37,7 @@
 	</item>
 	<item>
 		<key>###OW Schedule comment###</key>
-		<val><![CDATA[상기의 교육 과정은 홈스터디 프로그램 또는 PADI e-Learning 프로그램 기준으로 작성되어 있습니다. 더 상세한 정보와 일정이 궁금하시면 저희 지점으로 <a href="mailto:english@seasir.com" target="_blank">연락</a>해 주시기 바랍니다.]]></val>
+		<val>PADI e-러닝 수강 기준입니다</val>
 	</item>
 	<item>
 		<key>###Requirement from candidate###</key>
@@ -46,10 +46,13 @@
 	<item>
 		<key>###Requirement from candidate li###</key>
 		<val><![CDATA[
-            <li>SEASIR <a href="./health.htm" target="_blank">건강 체크 리스트</a>에 따라 주시기 바랍니다. 만약 건강 체크 리스트의 질문 중 해당사항이 있을 시 스쿠버 다이빙 교육 프로그램에 참여하기 이전에 반드시 전문의와 상담 후 전문의의 소견서 제출을 요구하는 바입니다.</li>
-            <li>시즌 캘린더에 의해 성수기에 해당되는 날짜에 진행되는 교육은 지원자 개개인 5000엔씩 추가요금이 부과됩니다.</li>
-            <li>여권용 사진 2매</li>
-            <li>교육 과정은 최소 2명의 지원자를 요구합니다. 한명의 지원자인 경우엔 일정 조정을 위해 <a href="mailto:english@seasir.com" target="_blank">연락</a>해 주시기 바랍니다.</li>
+            <li>PADI 공식사이트에서 e-러닝 코스를<a href="http://www.padi.com" target="_blank">www.padi.com</a> 결재하셔야 합니다. E-러닝 코스 요금은USD184 입니다. (PADI 오픈워터 다이버 코스 강습비는 별도입니다)<br>강습에 참가하기 <span style="text-decoration: underline">3일전까지</span> PADI 공식 웹사이트에서 e-러닝 과정을 마치셔야 합니다. 구체적인 내용은<a href="./data/OW E-Learning Course Info.docx">오픈워터 E-러닝 코스 정보</a>를 내려받아서 확인해 주세요.</li>
+            <li>SEASIR <a href="./health.htm" target="_blank">건강 체크 리스트</a>를 클릭하셔서 확인하시기 바랍니다. 만약 건강 체크 리스트의 질문 중 해당사항이 있으면, 스쿠버 다이빙 교육 프로그램에 참여하기 이전에 반드시 전문의와 상담 후 소견서 제출이 필요합니다.</li>
+            <li>강습 일정이 성수기와 겹칠 경우, 1인당 5,000엔의 추가요금이 발생합니다. 하기의 시즌 캘린더에서 확인해 주시기 바랍니다 : 
+                <ul><li>SEASIR 나하 지점, 성수기 확인하기 <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
+                    <li>Marine Club BERRY, 성수기 <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
+                    <li>SEASIR 아카 지점, 성수기 <ul class="hl-red"><li>2016년 4월 8일~5월 8일</li><li>2016년 6월 11일~10월 10일</li></ul></li></ul></li>
+                <li>E-러닝 수료후 eRecord (각 챕터의 리뷰 점수 확인용)를 가져와 주시기 바랍니다</li>
             ]]></val>
 	</item>
 	<item>
@@ -130,10 +133,12 @@
 	<item>
 		<key>###Requirement from candidate aow li###</key>
 		<val><![CDATA[
-            <li>SEASIR <a href="./health.htm" target="_blank">건강 체크 리스트</a>에 따라 주시기 바랍니다. 만약 건강 체크 리스트의 질문 중 해당사항이 있을 시 스쿠버 다이빙 교육 프로그램에 참여하기 이전에 반드시 전문의와 상담 후 전문의의 소견서 제출을 요구하는 바입니다.</li>
-            <li>시즌 캘린더에 의해 성수기에 해당되는 날짜에 진행되는 교육은 지원자 개개인 5000엔씩 추가요금이 부과됩니다.</li>
-            <li>유효한 PADI 오픈워터 자격증 또는 그와 동등한 수준의 자격증.</li>
-            <li>여권용 사진 2매.</li>
+            <li>SEASIR <a href="./health.htm" target="_blank">건강 체크 리스트</a>를 클릭하셔서 확인하시기 바랍니다. 만약 건강 체크 리스트의 질문 중 해당사항이 있으면, 스쿠버 다이빙 교육 프로그램에 참여하기 이전에 반드시 전문의와 상담 후 소견서 제출이 필요합니다.</li>
+            <li>강습 일정이 성수기와 겹칠 경우, 1인당 5,000엔의 추가요금이 발생합니다. 하기의 시즌 캘린더에서 확인해 주시기 바랍니다 : 
+                <ul><li>SEASIR 나하 지점, 성수기 확인하기 <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
+                    <li>Marine Club BERRY, 성수기 <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
+                    <li>SEASIR 아카 지점, 성수기 <ul class="hl-red"><li>2016년 4월 8일~5월 8일</li><li>2016년 6월 11일~10월 10일</li></ul></li></ul></li>
+            <li>유효한 PADI Open Water Diver 자격증 혹은 동등한 수준의 타 단체 자격증(사전 상담 필요)</li>
             ]]></val>
 	</item>
 	<item>
@@ -194,10 +199,12 @@
 	<item>
 		<key>###Requirement from candidate res li###</key>
 		<val><![CDATA[
-            <li>SEASIR <a href="./health.htm" target="_blank">건강 체크 리스트</a>에 따라 주시기 바랍니다. 만약 건강 체크 리스트의 질문 중 해당사항이 있을 시 스쿠버 다이빙 교육 프로그램에 참여하기 이전에 반드시 전문의와 상담 후 전문의의 소견서 제출을 요구하는 바입니다.</li>
-            <li>시즌 캘린더에 의해 성수기에 해당되는 날짜에 진행되는 교육은 지원자 개개인 5000엔씩 추가요금이 부과됩니다.</li>
-            <li>유효한 PADI 어드밴스드 자격증 혹은 그와 동등한 수준의 자격증 + PADI 응급처치사 / 심폐소생술 레스큐 자격증 혹은 PADI 지역 사무실에서 인증된 심폐소생술 자격증</li>
-            <li>여권용 사진 2매</li>
+            <li>SEASIR <a href="./health.htm" target="_blank">건강 체크 리스트</a>를 클릭하셔서 확인하시기 바랍니다. 만약 건강 체크 리스트의 질문 중 해당사항이 있으면, 스쿠버 다이빙 교육 프로그램에 참여하기 이전에 반드시 전문의와 상담 후 소견서 제출이 필요합니다.</li>
+            <li>강습 일정이 성수기와 겹칠 경우, 1인당 5,000엔의 추가요금이 발생합니다. 하기의 시즌 캘린더에서 확인해 주시기 바랍니다 : 
+                <ul><li>SEASIR 나하 지점, 성수기 확인하기 <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
+                    <li>Marine Club BERRY, 성수기 <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
+                    <li>SEASIR 아카 지점, 성수기 <ul class="hl-red"><li>2016년 4월 8일~5월 8일</li><li>2016년 6월 11일~10월 10일</li></ul></li></ul></li>
+            <li>유효한 PADI Open Water Diver 자격증 혹은 동등한 수준의 타 단체 자격증(사전 상담 필요)</li>
             ]]></val>
 	</item>
 	<item>

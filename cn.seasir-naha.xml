@@ -1,7 +1,7 @@
 <items>
 	<item>
 		<key>###headTitle###</key>
-		<val>冲绳潜水, 浮潜俱乐部 Marine House Seasir 那霸</val>
+		<val>SEASIR 那霸 一日往返庆良间诸岛潜水和浮潜之旅</val>
 	</item>
 	<item>
 		<key>###headDesc###</key>
@@ -13,7 +13,7 @@
 	</item>
 	<item>
 		<key>###H2###</key>
-		<val>SEASIR 那霸 - 当日来回庆良间诸岛的潜水和浮潜之旅</val>
+		<val>SEASIR 那霸 一日往返庆良间诸岛潜水和浮潜之旅</val>
 	</item>
 	<item>
 		<key>###theTeam###</key>
@@ -141,5 +141,20 @@ Marine House SEASIR 那霸成立于 1993年, 是 PADI 5 星级的潜水员培育
 	<item>
 		<key>###Booking procedure dt###</key>
 		<val><![CDATA[点击<span class="booking-blue">马上报名</span>后,您需要填入可以联系到您的邮箱和所需的信息,然后提交预约表。如果报名成功，您会收到SEASIR LTD.账户的PayPal预约金请求邮件。为确保您的预约，请在收到预约金请求的3天之内支付每人5,000日元的预约金。如果距您的预约日期不到3天，请在24小时之内支付完成预约金。若在期限内未收到您的预约金，您的预约将会被自动取消。]]></val>
+	</item>
+	<item>
+		<key>###Up from 2 dives###</key>
+		<val><![CDATA[※ 一日最少潜水次数为两次，您可以在船上直接与潜导要求进行第三次潜水.]]></val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Up from 1 dive###</key>
+		<val><![CDATA[※ 一日最少潜水次数为一次，您可以在船上直接与潜导要求进行第二次、第三次潜水.]]></val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Option 3rd dive###</key>
+		<val><![CDATA[※ 如希望进行第三次潜水，需额外支付4,400日元。只需在船上与潜导进行预约，不得提前预约.]]></val>
+		<todo></todo>
 	</item>
 </items>

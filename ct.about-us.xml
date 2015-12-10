@@ -1,7 +1,39 @@
 <items>
 	<item>
-		<key>###paintball###</key>
-		<val>漆彈</val>
+		<key>###H2###</key>
+		<val>Marine House SEASIR 團隊</val>
+	</item>
+	<item>
+		<key>###SEASIR intro###</key>
+        <val><![CDATA[Marine House SEASIR成立於1983年，截至目前為止已發展為沖繩規模最大的專業潛水集團，目前旗下有專業潛水<span class="seasir-red">Marine House SEASIR</span>及水上活動專家<span class="berry-pink">Marine Club BERRY</span>兩大分支，各分店更網羅多國語言的工作人員，除了日語之外，以英語、中文、廣東話、馬來語等，為來自世界各地的旅客提供最專業的服務。在我們共同熱情努力之下，SEASIR那霸店更在日本潛水雜誌”月刊マリンダイビング”所主辦的潛水暨旅遊大賞(Dive and Travel Award)中，連續11年榮獲日本服務第一之殊榮!</p>]]></val>
+	</item>
+	<item>
+		<key>###award###</key>
+		<val><![CDATA[&#8251; 日本潛水的最佳選擇! SEASIR那霸店自2003年以來至今連續受讀者票選為日本第一潛店。一直被模仿、從未被超越!]]></val>
+	</item>
+	<item>
+		<key>###Brief Naha###</key>
+		<val>潛水，體驗潛水，浮潛（往返於慶良間諸島的進行深潛，體驗潛水或浮潛）</val>
+	</item>
+	<item>
+		<key>###Brief Aka###</key>
+		<val>住宿，潛水，體驗潛水，浮潛</val>
+	</item>
+	<item>
+		<key>###Brief Manza###</key>
+		<val>多種水上活動</val>
+	</item>
+	<item>
+		<key>###Brief Weed###</key>
+		<val>多種水上活動</val>
+	</item>
+	<item>
+		<key>###Brief Kanucha###</key>
+		<val>多種水上活動 及 電動滑板車(Segway)</val>
+	</item>
+	<item>
+		<key>###Brief paintball###</key>
+		<val>野外生存遊戲</val>
 	</item>
 	<item>
 		<key>###Our Operations###</key>
@@ -12,34 +44,15 @@
 		<val>販售各類潛水用品</val>
 	</item>
 	<item>
-		<key>###Brief Aka###</key>
-		<val>住宿，潛水，體驗潛水，浮潛</val>
+		<key>###paintball###</key>
+		<val>漆彈</val>
 	</item>
 	<item>
-		<key>###Brief Kanucha###</key>
-		<val>多種水上活動 及 電動滑板車(Segway)</val>
+		<key>###MyPlace###</key>
+		<val>MyPlace</val>
 	</item>
 	<item>
-		<key>###SEASIR intro###</key>
-		<val><![CDATA[<p><span class="seasir-red">MARINE HOUSE SEASIR</span>坐落於沖繩阿嘉海岸，在HIDESHI INAI先生的帶領下，從1983年至今有著30年的專業經驗的MARINE HOUSE SEASIR，已是沖繩規模最大，歷史最久的潛水活動的公司。 在我們的熱情努力下，今天的<span class="seasir-red">MARINE HOUSE SEASIR</span>擁有兩個潛水中心在那霸和阿嘉島，三個水上及潛水活動中心<span class="berry-pink">Marine Club BERRY</span> 和豪華遊輪<span class="lamer-black">La Mer Riche</span>。並配有多國語言的教練為您服務，如中文，日語，英語和廣東話等等。我們有信心,為來自各地方的客人，提供最專業的，最令顧客滿意的服務。</p>]]></val>
+		<key>###Brief MyPlace###</key>
+		<val>那霸民宿（上下舖多人房間和個室）</val>
 	</item>
-	<item>
-		<key>###Brief paintball###</key>
-		<val>野外生存遊戲</val>
-	</item>
-	<item>
-		<key>###Brief Manza###</key>
-		<val>多種水上活動</val>
-	</item>
-	<item>
-		<key>###H2###</key>
-		<val>Marine House SEASIR 團隊</val>
-	</item>
-	<item>
-		<key>###Brief Weed###</key>
-		<val>多種水上活動</val>
-	</item>
-	<item>
-		<key>###Brief Naha###</key>
-		<val>潛水，體驗潛水，浮潛（往返於慶良間諸島的進行深潛，體驗潛水或浮潛）</val>
-	</item></items>
+</items>

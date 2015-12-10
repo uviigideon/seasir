@@ -12,6 +12,14 @@
 		<val>Okinawa,Diving,Dive,Snorkeling,Scuba,Marine,Sports,English,Foreign,Naha,衝繩,衝繩,潛水,中文,廣東話,中國,香港,水上活動,外國人,浮潛,體驗潛水,那霸，慶良間諸島</val>
 	</item>
 	<item>
+		<key>###MY PLACE HOUSE###</key>
+		<val>MYPLACE民宿</val>
+	</item>
+	<item>
+		<key>###Full Day###</key>
+		<val>一日活動</val>
+	</item>
+	<item>
 		<key>###CHIBISI###</key>
 		<val>半日活動</val>
 	</item>
@@ -21,11 +29,11 @@
 	</item>
 	<item>
 		<key>###brief berry text###</key>
-		<val>水底漫步, 獨木舟, 各式水上活動及潛水活動中心</val>
+		<val>位於恩納村，提供水底漫步、獨木舟、漆彈遊戲，水上活動/潛水等活動</val>
 	</item>
 	<item>
 		<key>###brief aka text###</key>
-		<val>阿嘉島住宿及在慶良間諸島的潛水, 浮潛和體驗潛水的各樣活動行程</val>
+		<val>優質潛水民宿，位於慶良間諸島的阿嘉島。並提供專業的潛水、浮潛與體驗潛水等活動</val>
 	</item>
 	<item>
 		<key>###brief chibisi text###</key>
@@ -33,37 +41,124 @@
 	</item>
 	<item>
 		<key>###brief whale text###</key>
-		<val>從一月初到三月末的賞鯨之旅, 快來參加沖縄冬季最有趣的水上活動.</val>
+		<val>從一月初到三月末的賞鯨之旅, 快來參加沖縄冬季最有趣的水上活動</val>
+	</item>
+	<item>
+		<key>###whale season###</key>
+		<val>賞鯨季從2015年12月26日開始到2016年4月3日為止</val>
 	</item>
 	<item>
 		<key>###brief course text###</key>
-		<val>SEASIR PADI 5 星級的潛水指導中心, 和會說英文, 日文, 中文及廣東話的教練一起學潛水.</val>
+		<val>SEASIR為PADI五星潛水俱樂部，在沖繩的美麗海域開課，並提供中文、英文、日文等多國語言教學</val>
 	</item>
 	<item>
 		<key>###brief sea people text###</key>
-		<val>想要為您的潛水裝備升級嗎? 潛水相關的大小裝備零售, 找我們就對了!</val>
+		<val>專業浮潛與水肺潛水器材專門店，店內除了自創品牌SEAPEOPLE之外，並有世界聞名廠牌進駐。平日營業時間11:00~20:00</val>
+	</item>
+	<item>
+		<key>###brief myplace text###</key>
+		<val>位於那霸市中心，距離泊港僅有數步之遙。</val>
+	</item>
+	<item>
+		<key>###brief cool okinawa text###</key>
+		<val>提供沖繩當地旅遊資訊與行程代訂服務</val>
 	</item>
 	<item>
 		<key>###SEA PEOPLE Scuba Diving Equipment Retail###</key>
 		<val>SEA PEOPLE 潛水相關裝備零售</val>
 	</item>
 	<item>
-		<key>###Berry Paintball###</key>
-		<val>Berry 漆彈</val>
+		<key>###myspace###</key>
+		<val>MyPlace 民宿</val>
+	</item>
+	<item>
+		<key>###Dormitory Rooms###</key>
+		<val>上下舖式房型</val>
+	</item>
+	<item>
+		<key>###Private Room###</key>
+		<val>3~4人與2人專用個室</val>
 	</item>
 	<item>
 		<key>###Cool Okinawa###</key>
-		<val><![CDATA[
-<h2 class="seapeople-h2"><a href="http://www.coolokinawa.com/ct/" target="_blank">酷酷沖繩遊</a></h2>
-<a id="seapeople-banner-a" href="http://www.coolokinawa.com/ct/" target="_blank"><div id="cool-okinawa-banner-ct"></div></a>
-        ]]></val>
+		<val>酷酷沖繩遊</val>
 	</item>
 	<item>
-		<key>###fotoShisa###</key>
-		<val><![CDATA[
-<h2 class="seapeople-h2"><a href="./fotoshisa.htm">fotoShisa 專業活動攝影師</a></h2>
-<a id="seapeople-banner-a" href="./fotoshisa.htm"><div id="fotoshisa-banner"></div></a>
-            ]]></val>
+		<key>###Cool Okinawa ln###</key>
+		<val><![CDATA[http://www.coolokinawa.com/ct/]]></val>
+	</item>
+	<item>
+		<key>###EngChin booking service###</key>
+		<val>中英文服務專線</val>
+	</item>
+	<item>
+		<key>###Okinawa Day tour###</key>
+		<val>一日/半日活動代訂</val>
+	</item>
+	<item>
+		<key>###Restaurant bus###</key>
+		<val>餐廳/觀光巴士代訂</val>
+	</item>
+	<item>
+		<key>###fotoshisa###</key>
+		<val>PhotoShisa專業攝影</val>
+	</item>
+	<item>
+		<key>###brief fotoshisa text###</key>
+		<val>專業攝影團隊為您的沖繩旅程回憶留下最美好的影像</val>
+    </item>
+	<item>
+		<key>###Underwater photo###</key>
+		<val>水中攝影</val>
+	</item>
+	<item>
+		<key>###Family photo###</key>
+		<val>家庭攝影</val>
+	</item>
+	<item>
+		<key>###fotoshisa ln###</key>
+		<val><![CDATA[./fotoshisa.htm]]></val>
+	</item>
+	<item>
+		<key>###special-dive-trip###</key>
+		<val>SEASIR限定潛水之旅</val>
+	</item>
+	<item>
+		<key>###brief special-dive-trip text###</key>
+		<val>季節限定之潛水活動，由SEASIR專業潛水教練帶您探訪各地著名潛水點</val>
+	</item>
+	<item>
+		<key>###Oki Special Dive trip###</key>
+		<val>沖繩本島與離島潛水</val>
+	</item>
+	<item>
+		<key>###Oversea dive trip###</key>
+		<val>SEASIR限定合作之海外潛水</val>
+	</item>
+	<item>
+		<key>###Paintball###</key>
+		<val>Paintball</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###brief Paintball text###</key>
+		<val>Exciting paintball game, designed for company teambuilding, family or friend’s reunion.</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Basic plan###</key>
+		<val>Basic plan</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Advance plan###</key>
+		<val>Advance plan</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Group plan###</key>
+		<val>Group plan</val>
+		<todo></todo>
 	</item>
 	<item>
 		<key>###seeMoreDetail###</key>
