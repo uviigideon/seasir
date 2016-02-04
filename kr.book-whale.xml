@@ -5,27 +5,22 @@
     </item>
     <item>
         <key>###Trip Session###</key>
-        <val>Trip Session</val>
+        <val>투어 일정 선택</val>
     </item>
     <item>
         <key>###Trip Session am###</key>
-        <val>Morning Trip 08:15</val>
+        <val>오전 투어 08:15</val>
     </item>
     <item>
         <key>###Trip Session pm###</key>
-        <val>Afternoon Trip 13:15</val>
+        <val>오후 투어 13:15</val>
     </item>
-
     <item>
         <key>###Guest List and Age###</key>
         <val>Guest List and Age</val>
     </item>
     <item>
         <key>###For own transportation whale dt###</key>
-        <val><![CDATA[Please key in this phone number for car NAVI system <strong>098 869 6329</strong> or this <strong>MAP CODE - 33246627*42</strong><br><span class="hl-red">Note * For own transport please be at our SEASIR NAHA before 08:15 for morning trip or before 13:00 for noon trip. We do provide FREE car parking space.</span>]]></val>
-    </item>
-    <item>
-        <key>###whale deposit dt###</key>
-        <val>고객님께,1인당 2,000엔에 해당하는 보증금 요청서를 SEASIR PayPal 계정으로부터 고객님의 이메일로보내드리오니, 보증금을 예치하셔서 예약을 완료해 주십시오. 예약완료 확인은 보증금예치가 확인된후 24시간 이내에 고객님의 이메일로 알려드립니다.</val>
+        <val><![CDATA[<strong>MAP CODE - 33246627*42</strong> 또는 전화번호 <strong>098 869 6329</strong>를 네비게이션에 입력하세요.<br><span class="hl-red">* 렌터카 이용의 경우 오전투어는 08 : 15, 오후 투어는 13 : 00 까지 도착하셔야 합니다. 무료 주차장 있음.</span>]]></val>
     </item>
 </items>

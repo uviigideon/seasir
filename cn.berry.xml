@@ -117,15 +117,15 @@
 	</item>
 	<item>
 		<key>###Mangrove Kayak###</key>
-		<val>Mangrove Kayak（红树林皮艇）</val>
+		<val>红树林独木舟</val>
 	</item>
 	<item>
 		<key>###Sea Kayak###</key>
-		<val>Sea Kayak（海上皮艇）</val>
+		<val>海洋独木舟</val>
 	</item>
 	<item>
 		<key>###Sea Kayak YADOKARI###</key>
-		<val><![CDATA[Sea Kayak<br>(YADOKARI Island)]]></val>
+		<val><![CDATA[海洋独木舟<br>(YADOKARI Island)]]></val>
 	</item>
 	<item>
 		<key>###Mangrove Kayak dt###</key>
@@ -173,34 +173,39 @@
 	<item>
 		<key>###Note Marine Walk###</key>
 		<val><![CDATA[
-<li class="hl-red">Shoulder width should be above 38cm.</li>
-<li class="hl-red">Please make sure you have 18 hours resting hour before the flight.</li>
+<li class="hl-red">肩宽长度需38公分以上。</li>
+<li class="hl-red">活动结束后需休息18小时以上，方可搭乘飞机。</li>
 ]]></val>
-		<todo></todo>
 	</item>
 	<item>
 		<key>###Flyboard###</key>
-		<val>Flyboard</val>
-		<todo></todo>
+		<val>水上钢铁人</val>
 	</item>
 	<item>
 		<key>###Parasailing###</key>
-		<val>Parasailing</val>
-		<todo></todo>
+		<val>水上滑翔伞</val>
 	</item>
 	<item>
 		<key>###Parasailing dt###</key>
-		<val>Parasailing wing is towed by a boat, you will to enjoy the great view from the sky. Riding experience around 10~15 mins.</val>
-		<todo></todo>
+		<val>是目前冲绳极具人气的活动之一，藉由船只的拖拽力量让您翱翔在10米高空，俯瞰海洋，周围景色一览无遗。</val>
 	</item>
 	<item>
 		<key>###Flyboard dt###</key>
 		<val><![CDATA[
-            Coolest water jetpack supplies propulsion to drive the Flyboard which makes you fly like a bird. Riding experience around 15 mins<br>
-<span class="hl-red">Note: the weight must above 40kg and under 90kg</span>
-            
+            想体验钢铁人飞行的感受，穿上喷射装置，水柱的力量带您水面上回旋飞行。<span class="hl-red">本活动限参加者的体重介于40~90公斤。</span>
             ]]></val>
-		<todo></todo>
+	</item>
+	<item>
+		<key>###Water Sports Activity###</key>
+		<val>水中活动</val>
+	</item>
+	<item>
+		<key>###Jet Activity###</key>
+		<val>JET水上活动</val>
+	</item>
+	<item>
+		<key>###Kayak Activity###</key>
+		<val>独木舟活动</val>
 	</item>
 	<item>
 		<key>###Active Schedule Time###</key>
@@ -209,13 +214,6 @@
 <li>11:00</li>
 <li>13:30</li>
 <li>15:30</li>
-            ]]></val>
-	</item>
-	<item>
-		<key>###Active Schedule Time active 3###</key>
-		<val><![CDATA[
-<li>09:30</li>
-<li>13:00</li>
             ]]></val>
 	</item>
 	<item>
@@ -231,18 +229,5 @@
 <li>09:00</li>
 <li>13:30</li>
             ]]></val>
-	</item>
-	<item>
-		<key>###Active Schedule Time flyboard###</key>
-		<val><![CDATA[
-<li>09:00</li>
-<li>10:00</li>
-<li>11:00</li>
-<li>13:00</li>
-<li>14:00</li>
-<li>15:00</li>
-<li>16:00</li>
-            ]]></val>
-		<todo></todo>
 	</item>
 </items>

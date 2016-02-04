@@ -86,12 +86,14 @@
                     <td><input type="radio" name="diving-manual-lang" id="diving-manual-lang" value="English">###English###</td>
                     <td><input type="radio" name="diving-manual-lang" id="diving-manual-lang" value="Chinese">###Chinese###</td>
                     <td><input type="radio" name="diving-manual-lang" id="diving-manual-lang" value="Japanese">###Japanese###</td>
+                    <td><input type="radio" name="diving-manual-lang" id="diving-manual-lang" value="Korean">###Korean###</td>
                 </tr>
                 <tr>
                     <td><label for="training-lang">###training lang###</label></td>
                     <td><input type="radio" name="training-lang" id="training-lang" value="English">###English###</td>
                     <td><input type="radio" name="training-lang" id="training-lang" value="Chinese">###Chinese###</td>
                     <td><input type="radio" name="training-lang" id="training-lang" value="Japanese">###Japanese###</td>
+                    <td><input type="radio" name="training-lang" id="training-lang" value="Korean">###Korean###</td>
                 </tr>
             </table>
         </fieldset>
@@ -144,13 +146,18 @@
                 <label class="check-label" for="check-cancel">###cancellation dt###</label>
             </p>
             <p>
+                <input id="check-rest" type="checkbox" class="agreements" name="rest-agreement" value="checked">
+                <label class="check-label" for="check-rest">###rest agreement###</label>
+            </p>
+            <p>
                 <input id="check-deposit" type="checkbox" class="agreements" name="deposit" value="checked">
-                <label class="check-label" for="check-deposit">###deposit dt 1###5,000###deposit dt 2###</label>
+                <label class="check-label" for="check-deposit">###deposit dt###</label>
             </p>
             <p>
                 <input id="check-health" type="checkbox" class="agreements" name="health" value="checked">
                 <label class="check-label" for="check-health">###health dt###</label>
             </p>
+            <textarea name="agreements" style="display:none">###agreements###</textarea>
         </fieldset>
         <!-- }}} agreement -->    
         </div>

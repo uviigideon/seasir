@@ -39,34 +39,4 @@
 		<key>###Refresh###</key>
 		<val>复习潜水</val>
 	</item>
-	<item>
-		<key>###cancellation dt###</key>
-		<val><![CDATA[
-            I agree and understand the cancellation policy set by Marine House SEASIR on the official English website link <a href="./cancel.htm" target="_blank">Marine House SEASIR Cancellation Policy</a>If I cancelled on activity day, the cancellation charge will be 100% of full charge.]]></val>
-		<todo></todo>
-	</item>
-	<item>
-		<key>###deposit dt 1###</key>
-		<val>I will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY</val>
-		<todo></todo>
-	</item>
-	<item>
-		<key>###deposit dt 2###</key>
-		<val> per person within 3 days start from the day I receive deposit request from our PayPal account, or within 24 hours if the booking request is less than 3 days notice from the departure date. All booking request will cancel if no deposit receive.</val>
-		<todo></todo>
-	</item>
-	<item>
-		<key>###rest agreement###</key>
-		<val><![CDATA[I will have more than 18 hours resting hour after the activity: <span class="underline">Leisure Diving</span>, <span class="underline">Introductory Diving</span>, <span class="underline">Marine Walk</span> before my flight.]]></val>
-		<todo></todo>
-	</item>
-	<item>
-		<key>###agreements###</key>
-		<val>I’ve READ and AGREED booking policy as below:
-    I agree and understand the cancellation policy set by Marine House SEASIR on the official English website link Marine House SEASIR Cancellation Policy. If I cancelled on activity day, the cancellation charge will be 100% of full charge.
-    I will have more than 18 hours resting hour from the activity: Leisure Diving, Introductory Diving, Marine Walk before my flight. 
-    I will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY5,000 per person within 3 days start from the day I receive deposit request from our PayPal account, or within 24 hours if the booking request is less than 3 days notice from the departure date. All booking request will cancel if no deposit received.
-    I affirm that after checking Marine House SEASIR Health Check List none of us have any question in the Health Check List that answers apply YES to any one of us. I and we agree to accept responsibility for omissions regarding our failure to disclose any existing or past health condition.</val>
-		<todo></todo>
-	</item>
 </items>

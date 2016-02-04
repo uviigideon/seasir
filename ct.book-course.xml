@@ -4,10 +4,6 @@
         <val>PADI 水肺潛水課程預約表</val>
     </item>
     <item>
-        <key>###deposit dt###</key>
-        <val>You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY3,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than 3 days notice from the departure date. All booking request will cancel if no deposit receive.</val>
-    </item>
-    <item>
         <key>###Open water Diver###</key>
         <val><![CDATA[開放水域水肺潛水員<br>Open water Diver]]></val>
     </item>
@@ -50,6 +46,10 @@
     <item>
         <key>###Japanese###</key>
         <val>日語</val>
+    </item>
+    <item>
+        <key>###Korean###</key>
+        <val>韓文</val>
     </item>
     <item>
         <key>###I would like bulabula###</key>

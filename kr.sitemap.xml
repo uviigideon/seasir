@@ -108,28 +108,16 @@
         <val>Marine Club BERRY</val>
     </item>
     <item>
-        <key>###Marine Walk###</key>
-        <val>마린워크</val>
+        <key>###Water Sports Activity###</key>
+        <val>수중 액티비티: 마린 워크, 다이빙 개요, 스노클링</val>
     </item>
     <item>
-        <key>###Water sport###</key>
-        <val>워터 스포츠 : 비스킷 드리프트, 바나나 보트, 슈퍼 마블, 워터 튜브</val>
+        <key>###Jet Activity###</key>
+        <val><![CDATA[수상 액티비티: 비스킷 드리프트, 바나나보트, 슈퍼마블,<br> 워터 튜브]]></val>
     </item>
     <item>
-        <key>###Sea Kayak###</key>
-        <val>바다 카약</val>
-    </item>
-    <item>
-        <key>###Mangrove Kayak###</key>
-        <val>맹그로브 카약</val>
-    </item>
-    <item>
-        <key>###Parasailing###</key>
-        <val>패러세일링</val>
-    </item>
-    <item>
-        <key>###Fly board###</key>
-        <val>플라이 보드</val>
+        <key>###Kayak Activity###</key>
+        <val>카약 액티비티: 바다 카약, 망그루브 카약</val>
     </item>
     <item>
         <key>###Paintball###</key>
@@ -171,8 +159,8 @@
         <val><![CDATA[http://www.coolokinawa.com/en/]]></val>
     </item>
     <item>
-        <key>###PhotoShisa###</key>
-        <val>PhotoShisa 촬영 서비스</val>
+        <key>###fotoShisa###</key>
+        <val>fotoShisa 촬영 서비스</val>
     </item>
     <item>
         <key></key>

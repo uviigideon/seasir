@@ -17,7 +17,7 @@
 	</item>
 	<item>
 		<key>###theTeamIntro###</key>
-		<val>Marine Club Berry는 2001년부터 연중무휴로 운영중인 오키나와의 주요 수상 스포츠 센터입니다. 날씨에 대한 우려로 MARINE CLUB Berry는 오키나와의 동쪽, 서쪽에 모두 걸쳐 서비스를 제공하는 3개의 지점을 갖고 있습니다. Marine Club Berry와 함께한다면 우리의 서비스지역의 범위로 인해 당신의 수상 스포츠 휴가 계획은 날씨나 해상환경에 대한 걱정이 필요 없어 집니다. Marine Club Berry는 오키나와에서 수많은 수상 스포츠 활동을 지원합니다.</val>
+		<val>Marine Club Berry는 2001년부터 연중무휴 운영중인 종합 워터 스포츠 센터입니다. 날씨의 영향을 최소화 하기 위해서 Marine Club Berry는 오키나와의 동쪽, 서쪽에 걸쳐 3개의 지점을 운영하고 있습니다. Marine Club Berry에서는 날씨에 대한 걱정 없이 다양한 워터 스포츠를 지원하고 있습니다.</val>
 	</item>
 	<item>
 		<key>###Water Sports###</key>
@@ -153,7 +153,7 @@
 	</item>
 	<item>
 		<key>###Refresh Course dt###</key>
-		<val><![CDATA[예약하시려면 <a href="mailto:english@seasir.com">상기 이메일 주소로</a>이메일을 보내 주시기 바랍니다.]]></val>
+		<val><![CDATA[예약하실 경우, 예약 양식의 코멘트란에 "Refresh course, 본인 이메일 주소" 를 기입해 주세요.]]></val>
 	</item>
 	<item>
 		<key>###Refresh Course###</key>
@@ -173,34 +173,40 @@
 	<item>
 		<key>###Note Marine Walk###</key>
 		<val><![CDATA[
-<li class="hl-red">Shoulder width should be above 38cm.</li>
-<li class="hl-red">Please make sure you have 18 hours resting hour before the flight.</li>
+<li class="hl-red">어깨넓이는 최소 38cm이상일 것.</li>
+<li class="hl-red">마린워크 후 18시간 비행기 탑승금지.</li>
 ]]></val>
-		<todo></todo>
 	</item>
 	<item>
 		<key>###Flyboard###</key>
-		<val>Flyboard</val>
-		<todo></todo>
+		<val>플라이보드</val>
 	</item>
 	<item>
 		<key>###Parasailing###</key>
-		<val>Parasailing</val>
-		<todo></todo>
+		<val>패러세일링</val>
 	</item>
 	<item>
 		<key>###Parasailing dt###</key>
-		<val>Parasailing wing is towed by a boat, you will to enjoy the great view from the sky. Riding experience around 10~15 mins.</val>
-		<todo></todo>
+		<val>보트에 낙하산을 연결해서 10m상공에서 스릴을 즐기는 액티비티입니다.</val>
 	</item>
 	<item>
 		<key>###Flyboard dt###</key>
 		<val><![CDATA[
-            Coolest water jetpack supplies propulsion to drive the Flyboard which makes you fly like a bird. Riding experience around 15 mins<br>
-<span class="hl-red">Note: the weight must above 40kg and under 90kg</span>
+            물 위를 날아다니는 플라이보드, 아이언맨이 된 듯한 느낌을 즐겨보세요. <span class="hl-red">체중 40~90kg 제한 있음.</span>
             
             ]]></val>
-		<todo></todo>
+	</item>
+	<item>
+		<key>###Water Sports Activity###</key>
+		<val>수중 액티비티</val>
+	</item>
+	<item>
+		<key>###Jet Activity###</key>
+		<val>수상 액티비티</val>
+	</item>
+	<item>
+		<key>###Kayak Activity###</key>
+		<val>카약 액티비티</val>
 	</item>
 	<item>
 		<key>###Active Schedule Time###</key>
@@ -209,13 +215,6 @@
 <li>11:00</li>
 <li>13:30</li>
 <li>15:30</li>
-            ]]></val>
-	</item>
-	<item>
-		<key>###Active Schedule Time active 3###</key>
-		<val><![CDATA[
-<li>09:30</li>
-<li>13:00</li>
             ]]></val>
 	</item>
 	<item>
@@ -231,18 +230,5 @@
 <li>09:00</li>
 <li>13:30</li>
             ]]></val>
-	</item>
-	<item>
-		<key>###Active Schedule Time flyboard###</key>
-		<val><![CDATA[
-<li>09:00</li>
-<li>10:00</li>
-<li>11:00</li>
-<li>13:00</li>
-<li>14:00</li>
-<li>15:00</li>
-<li>16:00</li>
-            ]]></val>
-		<todo></todo>
 	</item>
 </items>

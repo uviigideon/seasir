@@ -242,6 +242,10 @@
         <key>###Okinawa Churami Aquarium###</key>
         <val>Okinawa Churami Aquarium</val>
     </item>
+    <item>
+        <key>###MyPlace###</key>
+        <val>MyPlace Guest House</val>
+    </item>   
     <!-- }}} place name -->
     <!-- {{{ ABCDE -->
     <item>
@@ -417,7 +421,7 @@
     </item>
     <item>
         <key>###All Leng Line###</key>
-        <val>Japanese, English and Mandarin Line</val>
+        <val>English, Mandarin, Korean</val>
     </item>
     <item>
         <key>###TEL###</key>
@@ -442,23 +446,6 @@
     <item>
         <key>###Japan Time###</key>
         <val>Japan Time</val>
-    </item>
-    <item>
-        <key>###Any emergency###</key>
-        <val>Any emergency contact after our office hour, please call +81-(0)90-5927-5598</val>
-    </item>
-
-    <item>
-        <key>###Please Download the booking form###</key>
-        <val>Please Download the booking form</val>
-    </item>
-    <item>
-        <key>###Fill in the booking form in English and send back to us###</key>
-        <val>Fill in the booking form in English and send back to us</val>
-    </item>
-    <item>
-        <key>###AKA booking form###</key>
-        <val>AKA booking form</val>
     </item>
 
     <!-- }}} contact -->
@@ -647,23 +634,30 @@
     </item>
     <item>
         <key>###cancellation dt###</key>
-        <val><![CDATA[
-            Hereby checking this box, I agree and understand the cancellation policy set by Marine House SEASIR on the official English website link <a href="./cancel.htm" target="_blank">Marine House SEASIR Cancellation Policy</a>
+        <val><![CDATA[I agree and understand the cancellation policy set by Marine House SEASIR on the official English website link <a href="./cancel.htm" target="_blank">Marine House SEASIR Cancellation Policy</a>. If I cancelled on activity day, the cancellation charge will be 100% of full charge.
         ]]></val>
     </item>
     <item>
-        <key>###deposit dt 1###</key>
-        <val>You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY</val>
+        <key>###rest agreement###</key>
+        <val><![CDATA[I will have more than 18 hours rest before my flight if I book for: <span class="underline">Leisure Diving</span>, <span class="underline">Introductory Diving</span>, <span class="underline">Marine Walk</span> before my flight.]]></val>
     </item>
     <item>
-        <key>###deposit dt 2###</key>
-        <val> per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than 3 days notice from the departure date. All booking request will cancel if no deposit receive.</val>
+        <key>###deposit dt###</key>
+        <val><![CDATA[I will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit within 3 days start from the day I receive deposit request from our PayPal account, or within 24 hours if the booking request is less than 3 days notice from the departure date. <span class="seasir-red">(Deposit collection: SEASIR booking JPY5,000/person ; BERRY booking JPY5,000/person ; Whale Watching tour JPY2,000/person)</span>. All booking request will cancel if no deposit received.]]></val>
     </item>
     <item>
         <key>###health dt###</key>
+        <val><![CDATA[I affirm that after checking <a href="./health.htm" target="_blank">Marine House SEASIR Health Check List</a> none of us have any question in the Health Check List that answers apply YES to any one of us. I and we agree to accept responsibility for omissions regarding our failure to disclose any existing or past health condition.]]></val>
+    </item>
+    <item>
+        <key>###agreements###</key>
         <val><![CDATA[
-            Hereby checking this box, we affirm that after checking <a href="./health.htm" target="_blank">Marine House SEASIR Health Check List</a> none of us have any question in the Health Check List that answers apply YES to any one of us. I and we agree to accept responsibility for omissions regarding our failure to disclose any existing or past health condition.
-        ]]></val>
+I’ve READ and AGREED booking policy as below:
+	I agree and understand the cancellation policy set by Marine House SEASIR on the official English website link Marine House SEASIR Cancellation Policy. If I cancelled on activity day, the cancellation charge will be 100% of full charge.
+	I will have more than 18 hours rest before my flight if I book for: Leisure Diving, Introductory Diving, Marine Walk. 
+	I will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit within 3 days start from the day I receive deposit request from our PayPal account, or within 24 hours if the booking request is less than 3 days notice from the departure date. (Deposit collection: SEASIR booking JPY5,000/person ; BERRY booking JPY5,000/person ; Whale Watching tour JPY2,000/person). All booking request will cancel if no deposit received.
+	I affirm that after checking Marine House SEASIR Health Check List none of us have any question in the Health Check List that answers apply YES to any one of us. I and we agree to accept responsibility for omissions regarding our failure to disclose any existing or past health condition.
+            ]]></val>
     </item>
     <item>
         <key>###Guest Contact###</key>
@@ -680,6 +674,18 @@
     <item>
         <key>###Continue###</key>
         <val>Continue</val>
+    </item>
+    <item>
+        <key>###Please Download the booking form###</key>
+        <val>Please Download the booking form</val>
+    </item>
+    <item>
+        <key>###Fill in the booking form in English and send back to us###</key>
+        <val>Fill in the booking form in English and send back to us</val>
+    </item>
+    <item>
+        <key>###AKA booking form###</key>
+        <val>AKA booking form</val>
     </item>
     <!-- }}} booking form -->
 </items>

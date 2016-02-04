@@ -20,7 +20,9 @@
     </item>
     <item>
         <key>###Please click###</key>
-        <val><![CDATA[Please click the <a href="./download/RECRUITMENT for 2016.docx">RECRUITMENT for 2016</a> to download the job description.]]></val>
+        <val><![CDATA[Please download <a href="./download/RECRUITMENT for 2016.docx">RECRUITMENT for 2016</a> to check the job description,<br>
+and send your <a href="./download/SEASIR Resume.doc">RESUME</a> to us (english@seasir.com).
+]]></val>
     </item>
     <item>
         <key></key>

@@ -1,0 +1,150 @@
+<items>
+    <item>
+        <key>###headTitle###</key>
+        <val>SEASIR의 스페셜 투어 안내</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>The only diving service with English, Mandarin, Cantonese and Japanese speaking Instructor in Okinawa</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Scuba,Diving,Snorkeling,NAHA,Kerama,English,Foreign</val>
+    </item>
+    <item>
+        <key>###H2###</key>
+        <val>SEASIR의 스페셜 투어 안내</val>
+    </item>
+    <item>
+        <key>###Intro###</key>
+        <val>E-mail로 연락 주시면 자세한 내용을 전달 드립니다.</val>
+    </item>
+    <item>
+        <key>###OKINAWA JAPAN###</key>
+        <val>오키나와 지역 스페셜 투어</val>
+    </item>
+    <item>
+        <key>###OKINAWA JAPAN Desc Full###</key>
+        <val><![CDATA[<p>오키나와의 대표적인 다이빙 포인트인 케라마 제도에서도 SEASIR의 스태프들이 추천해 드리는 스페셜 투어입니다. 개성적인 수중생물과 풍경을 함께 느껴보시길 바랍니다.</p>
+            <p>스페셜 투어 일정에 참가하기 위해서는 전날 SEASIR에서 체크다이빙을 마친 후에 참가할 수 있습니다. <span class="seasir-red">최소 100회 이상</span>의 경험 (로그북으로 증명 필요)와 이퀄라이징에 문제가 없을 것, 중성부력 제어가 가능한 다이버에 한해 참가신청이 가능합니다. 담당 강사의 판단하에 상기 조건에 부합할 경우, 스페셜 투어 참가가 제한될 수 있습니다</p>]]></val>
+    </item>
+    <item>
+        <key>###Daily Trip###</key>
+        <val>당일 투어</val>
+    </item>
+    <item>
+        <key>###Operate Branch###</key>
+        <val>담당 지점</val>
+    </item>
+    <item>
+        <key>###Period###</key>
+        <val>기간</val>
+    </item>
+    <item>
+        <key>###Tonaki Island###</key>
+        <val>토나키지마</val>
+    </item>
+    <item>
+        <key>###Naha###</key>
+        <val>나하</val>
+    </item>
+    <item>
+        <key>###Tonaki Island Period###</key>
+        <val><![CDATA[
+【Sep】18<br>
+【Oct】9, 23<br>
+【Nov】5, 20<br>
+            ]]></val>
+    </item>
+    <item>
+        <key>###OKINAWA JAPAN Note###</key>
+        <val><![CDATA[
+<li>개인 혹은 그룹</li>
+<li>어드밴스드 이상</li>
+<li>로그 최소 100회 이상</li>
+<li>체크다이빙 필수</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Drift Diving Day###</key>
+        <val>드리프트 데이</val>
+    </item>
+    <item>
+        <key>###Drift Diving Day Period###</key>
+        <val><![CDATA[
+【May】22<br>
+【June】5, 19<br>
+【Sep】17, 25<br>
+【Oct】1, 8<br>
+【Nov】4, 19<br>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Sesoko Mina Island###</key>
+        <val>세소코 &amp; 민나섬</val>
+    </item>
+    <item>
+        <key>###Sesoko Mina Island Period###</key>
+        <val><![CDATA[
+【Sep】10, 24<br>
+【Oct】15<br>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Night Diving###</key>
+        <val>야간다이빙</val>
+    </item>
+    <item>
+        <key>###Night Diving Period###</key>
+        <val>여름철</val>
+    </item>
+    <item>
+        <key>###OVERSEAS TRIP###</key>
+        <val>해외 투어</val>
+    </item>
+    <item>
+        <key>###OVERSEAS TRIP Desc Full###</key>
+        <val><![CDATA[
+            <p>E매년 SEASIR의 강사들은 해외 다이빙을 실시하고 손님들의 피드백을 받아 더 나은 지역으로 투어를 진행하고 있습니다. 하기의 목록은 서비스, 다이빙 환경, 수중생물의 다양함 및 안전 면에서 높은 점수를 받은 지역입니다. 자세한 내용은 e-mail로 연락 주시면 안내 드리도록 하겠습니다.</p>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Location###</key>
+        <val>지역</val>
+    </item>
+    <item>
+        <key>###OVERSEAS TRIP Period###</key>
+        <val><![CDATA[
+1월~4월<br>
+(겨울 시즌 한정)
+            ]]></val>
+    </item>
+    <item>
+        <key>###OVERSEAS TRIP Note###</key>
+        <val><![CDATA[
+<li>SEASIR 스태프 상주.</li>
+<li>개인 및 그룹 투어 환영, 사전 예약 필수</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Anilao Philippine###</key>
+        <val>필리핀 아닐라오</val>
+    </item>
+    <item>
+        <key>###Cebu Philippine###</key>
+        <val>필리핀 세부</val>
+    </item>
+    <item>
+        <key>###Lanta Island Thailand###</key>
+        <val>태국 란타섬</val>
+    </item>
+    <item>
+        <key>###Palau###</key>
+        <val>팔라우</val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+
+</items>

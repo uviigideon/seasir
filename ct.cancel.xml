@@ -52,7 +52,8 @@
     <item>
         <key>###Deposit Collection dt###</key>
         <val><![CDATA[
-<li>預約SEASIR 那霸分店任何活動，需要押金每人 JPY5,000.</li>
+<li>預約SEASIR 那霸分店一日活動，需要押金每人 JPY5,000.</li>
+<li>預約SEASIR 那霸分店半日活動，需要押金每人 JPY3,000.</li>
 <li>預約SEASIR 阿嘉島分店住宿和任何活動， 需要押金每人 JPY5,000.</li>
 <li>預約Marine Club BERRY 任何活動，需要押金每人 JPY4,000.</li>
 <li>預約SEASIR 那霸分店的賞鯨行程活動，需要押金每人 JPY2,000 .</li>

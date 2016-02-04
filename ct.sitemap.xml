@@ -107,32 +107,20 @@
         <val>Marine Club BERRY</val>
     </item>
     <item>
-        <key>###Marine Walk###</key>
-        <val>海底漫步</val>
+        <key>###Water Sports Activity###</key>
+        <val>水中活動: 海底漫步、浮潛、體驗潛水、休閒潛水</val>
     </item>
     <item>
-        <key>###Water sport###</key>
-        <val>水上活動:大力水手, 香蕉船, 海戰車, 甜甜圈</val>
+        <key>###Jet Activity###</key>
+        <val>JET水上活動: 香蕉船、滑翔傘、水上鋼鐵人</val>
     </item>
     <item>
-        <key>###Sea Kayak###</key>
-        <val>海洋泛舟</val>
-    </item>
-    <item>
-        <key>###Mangrove Kayak###</key>
-        <val>紅樹林泛舟</val>
-    </item>
-    <item>
-        <key>###Parasailing###</key>
-        <val>滑翔傘</val>
-    </item>
-    <item>
-        <key>###Fly board###</key>
-        <val>水上鋼鐵人</val>
+        <key>###Kayak Activity###</key>
+        <val>獨木舟活動: 海洋獨木舟、紅樹林獨木舟</val>
     </item>
     <item>
         <key>###Paintball###</key>
-        <val>漆彈</val>
+        <val>漆彈生存遊戲</val>
     </item>
     <!-- }}} Marine Club BERRY -->
     <!-- {{{ PADI diving Course -->
@@ -170,8 +158,8 @@
         <val><![CDATA[http://www.coolokinawa.com/ct/]]></val>
     </item>
     <item>
-        <key>###PhotoShisa###</key>
-        <val>PhotoShisa專業攝影</val>
+        <key>###fotoShisa###</key>
+        <val>fotoShisa專業攝影</val>
     </item>
     <item>
         <key></key>

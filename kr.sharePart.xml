@@ -93,8 +93,7 @@
 	</item>
 	<item>
 		<key>###rest Note###</key>
-		<val>Please make sure you have more than 18 hours resting hour before your flight. </val>
-		<todo></todo>
+		<val>마린워크 후 18시간 비행기 탑승금지.</val>
 	</item>
 	<item>
 		<key>###introDiving###</key>
@@ -178,7 +177,7 @@
 	</item>
 	<item>
 		<key>###SEA PEOPLE Retail###</key>
-		<val>SEA PEOPLE 소매</val>
+		<val>SEA PEOPLE</val>
 	</item>
 	<item>
 		<key>###Open Water Diver Course###</key>
@@ -231,6 +230,10 @@
 	<item>
 		<key>###Okinawa Churami Aquarium###</key>
 		<val>오키나와 츄라우미 수족관</val>
+	</item>
+	<item>
+		<key>###MyPlace###</key>
+		<val>MyPlace 게스트 하우스</val>
 	</item>
 	<item>
 		<key>###Accommodation###</key>
@@ -390,7 +393,7 @@
 	</item>
 	<item>
 		<key>###All Leng Line###</key>
-		<val>Japanese, English and Mandarin Line</val>
+		<val>English, Mandarin, Korean</val>
 	</item>
 	<item>
 		<key>###TEL###</key>
@@ -415,22 +418,6 @@
 	<item>
 		<key>###Japan Time###</key>
 		<val>Japan Time</val>
-	</item>
-	<item>
-		<key>###Any emergency###</key>
-		<val>영업시간 이후 비상 연락처 : +81-(0)90-5927-5598</val>
-	</item>
-	<item>
-		<key>###Please Download the booking form###</key>
-		<val>예약 양식을 다운로드해 주시기 바랍니다.</val>
-	</item>
-	<item>
-		<key>###Fill in the booking form in English and send back to us###</key>
-		<val>예약 양식을 영어로 작성해 주시고 다시 저희에게 보내 주십시요.</val>
-	</item>
-	<item>
-		<key>###AKA booking form###</key>
-		<val>아카 예약 양식</val>
 	</item>
 	<item>
 		<key>###Scuba Equipment Rental###</key>
@@ -470,7 +457,7 @@
 	</item>
 	<item>
 		<key>###Name Comment###</key>
-		<val>(여권에 기입된 이름으로 기입해 주십시요.)</val>
+		<val>(여권에 기입된 영문명으로 기입해 주십시요.)</val>
 	</item>
 	<item>
 		<key>###Nationality###</key>
@@ -490,7 +477,7 @@
 	</item>
 	<item>
 		<key>###Introductory Diving And Snorkeling###</key>
-		<val>KERAMA ISLAND - Introductory Diving (IDV) &amp; Snorkeling (SNK) Package Booking</val>
+		<val>KERAMA ISLAND - 체험다이빙 (IDV) &amp; 스노클링 (SNK) Package Booking</val>
 	</item>
 	<item>
 		<key>###Fill in Name###</key>
@@ -522,7 +509,7 @@
 	</item>
 	<item>
 		<key>###Leisure Diving and Refresher Dive###</key>
-		<val>KERAMA ISLAND - Leisure Diving (FDV) &amp; Refresher Diving Package (RD) Booking</val>
+		<val>KERAMA ISLAND - 펀 다이빙 (FDV) &amp; 리프레쉬 다이빙 패키지 (RD) Booking</val>
 	</item>
 	<item>
 		<key>###Type of diving###</key>
@@ -570,7 +557,7 @@
 	</item>
 	<item>
 		<key>###Transportation Msg###</key>
-		<val>Dear Guest, whether you need Hotel Transfer or not. We may need to contact you for any reason related to weather, please provide us your Hotel or any accomodation information in Okinawa</val>
+		<val>송영서비스 유무에 관계없이, 날씨로 인한 일정 변경 등으로 연락을 드려야 할 경우가 있기에 호텔 및 숙박정보를 기입해 주시기 바랍니다.</val>
 	</item>
 	<item>
 		<key>###Hotel Name###</key>
@@ -614,21 +601,28 @@
 	</item>
 	<item>
 		<key>###cancellation dt###</key>
-		<val><![CDATA[Marine House SEASIR의 정식 영어 웹사이트에 명시된 <a href="./cancel.htm" target="_blank">Marine House SEASIR의 취소 규정</a>을 이해하고 동의합니다. 
-        ]]></val>
+		<val><![CDATA[나는 Marine House SEASIR의 홈페이지에 게시된 환불규정 링크<a href="./cancel.htm" target="_blank">Marine House SEASIR Cancellation Policy</a>에 동의하며 이해하였습니다. 당일 취소는 환불 불가합니다.]]></val>
 	</item>
 	<item>
-		<key>###deposit dt 1###</key>
-		<val>귀하의 예약을 확보하기 위해 SEASIR LTD 계정으로부터 PayPal 예약금입금 요청을 받게 됩니다. 저희 PayPal 계정으로부터 입금 요청을 받은날로부터 3일 이내에 1인당</val>
+		<key>###rest agreement###</key>
+		<val><![CDATA[펀다이빙, 체험다이빙, 마린워크 이후 18시간은 비행금지.]]></val>
 	</item>
 	<item>
-		<key>###deposit dt 2###</key>
-		<val>엔을 입금하십시오. 만약 예약을출발일로부터 3일 이내에 할 경우 24시간 이내에 입금하십시오. 입금을 하지않는 경우 모든 예약은 취소됩니다.</val>
+		<key>###deposit dt###</key>
+		<val><![CDATA[예약을 확보하기 위해 SEASIR LTD 계정으로부터 PayPal 예약금입금 요청을 받게 됩니다. 저희 PayPal 계정으로부터 입금 요청을 받은날로부터 3일 이내에 1인당5,000엔 <span class="seasir-red">(예약금 : SEASIR 예약 1인당 5,000엔 ; BERRY 예약 1인당 5,000엔 ; 고래워칭 1인당 2,000엔)</span>을 입금하십시오. 만약 예약을출발일로부터 3일 이내에 할 경우 24시간 이내에 입금하십시오. 입금을 하지않는 경우 모든]]></val>
 	</item>
 	<item>
 		<key>###health dt###</key>
-		<val><![CDATA[<a href="./health.htm" target="_blank">Marine House SEASIR의 건강 체크 목록</a>을 확인했고 건강 체크 목록에 YES에 해당하는 질문이 없습니다. 기존 혹은 과거의 건강상태 공개에서 누락된 항목에 대해서의 책임짐을 동의합니다.
-        ]]></val>
+		<val><![CDATA[예약은 취소됩니다. <a href="./health.htm" target="_blank">Marine House SEASIR의 건강 체크 목록을</a> 확인했고 건강 체크 목록에 YES에 해당하는 질문이 없습니다. 기존 혹은 과거의 건강상태 공개에서 누락된 항목에 대해서 책임짐을 동의합니다.]]></val>
+	</item>
+	<item>
+		<key>###agreements###</key>
+		<val><![CDATA[
+나는 아래의 사항을 읽고 동의하였습니다.
+	나는 Marine House SEASIR의 홈페이지에 게시된 환불규정 링크 Marine House SEASIR Cancellation Policy 에 동의하며 이해하였습니다. 당일 취소는 환불 불가합니다. 
+	펀다이빙, 체험다이빙, 마린워크 이후 18시간은 비행금지. 
+	예약을 확보하기 위해 SEASIR LTD 계정으로부터 PayPal 예약금입금 요청을 받게 됩니다. 저희 PayPal 계정으로부터 입금 요청을 받은날로부터 3일 이내에 1인당5,000엔 (예약금 : SEASIR 예약 1인당 5,000엔 ; BERRY 예약 1인당 5,000엔 ; 고래워칭 1인당 2,000엔)을 입금하십시오. 만약 예약을출발일로부터 3일 이내에 할 경우 24시간 이내에 입금하십시오. 입금을 하지않는 경우 모든 예약은 취소됩니다. Marine House SEASIR의 건강 체크 목록을 확인했고 건강 체크 목록에 YES에 해당하는 질문이 없습니다. 기존 혹은 과거의 건강상태 공개에서 누락된 항목에 대해서 책임짐을 동의합니다. 
+            ]]></val>
 	</item>
 	<item>
 		<key>###Guest Contact###</key>
@@ -645,5 +639,17 @@
 	<item>
 		<key>###Continue###</key>
 		<val>계속</val>
+	</item>
+	<item>
+		<key>###Please Download the booking form###</key>
+		<val>예약 양식을 다운로드해 주시기 바랍니다.</val>
+	</item>
+	<item>
+		<key>###Fill in the booking form in English and send back to us###</key>
+		<val>예약 양식을 영어로 작성해 주시고 다시 저희에게 보내 주십시요.</val>
+	</item>
+	<item>
+		<key>###AKA booking form###</key>
+		<val>아카 예약 양식</val>
 	</item>
 </items>

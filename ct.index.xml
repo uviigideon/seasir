@@ -12,10 +12,6 @@
 		<val>Okinawa,Diving,Dive,Snorkeling,Scuba,Marine,Sports,English,Foreign,Naha,衝繩,衝繩,潛水,中文,廣東話,中國,香港,水上活動,外國人,浮潛,體驗潛水,那霸，慶良間諸島</val>
 	</item>
 	<item>
-		<key>###MY PLACE HOUSE###</key>
-		<val>MYPLACE民宿</val>
-	</item>
-	<item>
 		<key>###Full Day###</key>
 		<val>一日活動</val>
 	</item>
@@ -38,6 +34,10 @@
 	<item>
 		<key>###brief chibisi text###</key>
 		<val>提供半天往返美麗的慶伊瀨島(慶良間諸島)體驗潛水和浮潛行程</val>
+	</item>
+	<item>
+		<key>###brief chibisi season###</key>
+		<val>夏季限定: 2016年6月11日~2016年11月6日</val>
 	</item>
 	<item>
 		<key>###brief whale text###</key>
@@ -66,10 +66,6 @@
 	<item>
 		<key>###SEA PEOPLE Scuba Diving Equipment Retail###</key>
 		<val>SEA PEOPLE 潛水相關裝備零售</val>
-	</item>
-	<item>
-		<key>###myspace###</key>
-		<val>MyPlace 民宿</val>
 	</item>
 	<item>
 		<key>###Dormitory Rooms###</key>
@@ -101,12 +97,12 @@
 	</item>
 	<item>
 		<key>###fotoshisa###</key>
-		<val>PhotoShisa專業攝影</val>
+		<val>fotoShisa專業攝影</val>
 	</item>
 	<item>
 		<key>###brief fotoshisa text###</key>
 		<val>專業攝影團隊為您的沖繩旅程回憶留下最美好的影像</val>
-    </item>
+	</item>
 	<item>
 		<key>###Underwater photo###</key>
 		<val>水中攝影</val>
@@ -137,28 +133,23 @@
 	</item>
 	<item>
 		<key>###Paintball###</key>
-		<val>Paintball</val>
-		<todo></todo>
+		<val>漆彈生存遊戲</val>
 	</item>
 	<item>
 		<key>###brief Paintball text###</key>
-		<val>Exciting paintball game, designed for company teambuilding, family or friend’s reunion.</val>
-		<todo></todo>
+		<val>精彩刺激的漆彈生存遊戲，為公司獎勵旅遊、Team building、家族旅遊量身訂做，打造沖繩娛樂新體驗。</val>
 	</item>
 	<item>
 		<key>###Basic plan###</key>
-		<val>Basic plan</val>
-		<todo></todo>
+		<val>基本活動</val>
 	</item>
 	<item>
 		<key>###Advance plan###</key>
-		<val>Advance plan</val>
-		<todo></todo>
+		<val>進階活動</val>
 	</item>
 	<item>
 		<key>###Group plan###</key>
-		<val>Group plan</val>
-		<todo></todo>
+		<val>團體活動</val>
 	</item>
 	<item>
 		<key>###seeMoreDetail###</key>

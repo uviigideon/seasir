@@ -24,7 +24,7 @@
     </item>
     <item>
         <key>###Schedule###</key>
-        <val>Schedule</val>
+        <val>일정</val>
     </item>
     <item>
         <key>###AM TRIP###</key>
@@ -36,31 +36,31 @@
     </item>
     <item>
         <key>###Hotel Transfer###</key>
-        <val>Hotel Transfer</val>
+        <val>호텔 픽업</val>
     </item>
     <item>
         <key>###Registration and Equipment Preparation###</key>
-        <val>Registration and Equipment Preparation</val>
+        <val>접수 및 장비 준비</val>
     </item>
     <item>
         <key>###Depart to Kerama###</key>
-        <val>Depart to Kerama</val>
+        <val>케라마 제도로 출발</val>
     </item>
     <item>
         <key>###Snorkeling and Introductory Diving Activity###</key>
-        <val>Snorkeling and Introductory Diving Activity</val>
+        <val>스노클링 및 체험다이빙</val>
     </item>
     <item>
         <key>###Depart back to Naha###</key>
-        <val>Depart back to Naha</val>
+        <val>항구로 복귀</val>
     </item>
     <item>
         <key>###Hotel Transfer Back###</key>
-        <val>Hotel Transfer Back</val>
+        <val>호텔 송영</val>
     </item>
     <item>
         <key>###Package Price and Detail###</key>
-        <val>Package Price and Detail</val>
+        <val>가격 및 포함사항</val>
     </item>
     <item>
         <key>###Package###</key>
@@ -68,11 +68,11 @@
     </item>
     <item>
         <key>###Snorkeling equipment###</key>
-        <val>Snorkeling equipment, drinking water, Insurance, Towel and Hotel Transfer(Naha City only)</val>
+        <val>스노클링 장비, 식수, 보험, 수건 및 호텔 송영 (나하 시내 한정)</val>
     </item>
     <item>
         <key>###Same as Snorkeling Package###</key>
-        <val>Same as Snorkeling Package + 1 scuba dive (20 minutes)</val>
+        <val>스노클링 패키지 + 1회 스쿠버 다이빙 (약 20분)</val>
     </item>
     <item>
         <key>###Booking procedure dt###</key>
@@ -81,15 +81,15 @@
     </item>
     <item>
         <key>###Snorkeling Package Adult###</key>
-        <val>Snorkeling Package Adult</val>
+        <val>스노클링 패키지 (성인)</val>
     </item>
     <item>
         <key>###Snorkeling Package Child###</key>
-        <val>Snorkeling Package Child (age 6-12)</val>
+        <val>스노클링 패키지 (어린이, 만 6~12세)</val>
     </item>
     <item>
         <key>###Introductory Diving###</key>
-        <val>Introductory Diving (Minimum age 10)</val>
+        <val>체험다이빙 (최소 연령 만 10세)</val>
     </item>
 </items>
 

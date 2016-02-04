@@ -1,31 +1,26 @@
 <items>
-    <item>
-        <key>###H2###</key>
-        <val>賞鯨之旅預約表</val>
-    </item>
-    <item>
-        <key>###Trip Session###</key>
-        <val>賞鯨之旅行程</val>
-    </item>
-    <item>
-        <key>###Trip Session am###</key>
-        <val>上午出發 08:15</val>
-    </item>
-    <item>
-        <key>###Trip Session pm###</key>
-        <val>下午出發 13:15</val>
-    </item>
-
-    <item>
-        <key>###Guest List and Age###</key>
-        <val>顧客名字和年齡</val>
-    </item>
-    <item>
-        <key>###For own transportation whale dt###</key>
-        <val><![CDATA[請在您的汽車導航系統中輸入我們的電話: <strong>098 869 6329</strong> 或是輸入 <strong>MAP CODE - 33246627*42</strong>來找到我們<br><span class="hl-red">注意* 如果您上午出海, 請在早上 08:00前到達我們 SEASIR那霸店; 如果您下午出海, 請在 13:00前到達我們 SEASIR那霸店. 我們會為您提供免費的停車場.</span>]]></val>
-    </item>
-    <item>
-        <key>###whale deposit dt###</key>
-        <val>親愛的顧客, 每人2000日元的押金請求將會通過SEASIR Paypal 帳號發送到您的郵箱,請支付押金來確認您的預約.我們一旦收到您 的押金,會在24小時之內通過郵件寄送預約確認表給您.</val>
-    </item>
+	<item>
+		<key>###H2###</key>
+		<val>賞鯨之旅預約表</val>
+	</item>
+	<item>
+		<key>###Trip Session###</key>
+		<val>賞鯨之旅行程</val>
+	</item>
+	<item>
+		<key>###Trip Session am###</key>
+		<val>上午出發 08:15</val>
+	</item>
+	<item>
+		<key>###Trip Session pm###</key>
+		<val>下午出發 13:15</val>
+	</item>
+	<item>
+		<key>###Guest List and Age###</key>
+		<val>顧客名字和年齡</val>
+	</item>
+	<item>
+		<key>###For own transportation whale dt###</key>
+		<val><![CDATA[請在您的汽車導航系統中輸入我們的電話: <strong>098 869 6329</strong> 或是輸入 <strong>MAP CODE - 33246627*42</strong>來找到我們<br><span class="hl-red">注意* 如果您上午出海, 請在早上 08:00前到達我們 SEASIR那霸店; 如果您下午出海, 請在 13:00前到達我們 SEASIR那霸店. 我們會為您提供免費的停車場.</span>]]></val>
+	</item>
 </items>

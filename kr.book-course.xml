@@ -4,20 +4,16 @@
         <val>PADI 스쿠버 다이빙 코스 예약 양식</val>
     </item>
     <item>
-        <key>###deposit dt###</key>
-        <val>You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY3,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than 3 days notice from the departure date. All booking request will cancel if no deposit receive.</val>
-    </item>
-    <item>
         <key>###Open water Diver###</key>
         <val>오픈 워터 다이버</val>
     </item>
     <item>
         <key>###Advanced Diver###</key>
-        <val>상급 다이버</val>
+        <val>어드밴스 다이버</val>
     </item>
     <item>
         <key>###Rescue Diver###</key>
-        <val>구조 다이버</val>
+        <val>레스큐 다이버</val>
     </item>
     <item>
         <key>###Diving Courses###</key>
@@ -50,6 +46,10 @@
     <item>
         <key>###Japanese###</key>
         <val>일본어</val>
+    </item>
+    <item>
+        <key>###Korean###</key>
+        <val>한국어</val>
     </item>
     <item>
         <key>###I would like bulabula###</key>

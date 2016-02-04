@@ -64,7 +64,7 @@
     </item>
     <item>
         <key>###How to make fotoShisa booking dt###</key>
-        <val>예약 양식의 하단에 있는 "FOTO SHISA 요청"의 상자에 기입하십시오.  예약 사무실에서 FOTO SHISA가 가능한지 확인한 후 답변을 드릴 것입니다.</val>
+        <val>예약 양식 하단에 “FOTO SHISA REQUIRED” 문구를 기입해 주세요. 예약 사무실에서 FOTO SHISA 가능여부를 확인 후 연락 드립니다.</val>
     </item>
 </items>
 

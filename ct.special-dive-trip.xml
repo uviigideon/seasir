@@ -1,0 +1,149 @@
+<items>
+    <item>
+        <key>###headTitle###</key>
+        <val>Special Dive trip present by SEASIR</val>
+    </item>
+    <item>
+        <key>###headDesc###</key>
+        <val>The only diving service with English, Mandarin, Cantonese and Japanese speaking Instructor in Okinawa</val>
+    </item>
+    <item>
+        <key>###headKeywords###</key>
+        <val>Okinawa,Scuba,Diving,Snorkeling,NAHA,Kerama,English,Foreign</val>
+    </item>
+    <item>
+        <key>###H2###</key>
+        <val>Special Dive trip present by SEASIR</val>
+    </item>
+    <item>
+        <key>###Intro###</key>
+        <val>嚴選潛水行程，敬請來信諮詢最新活動資訊。</val>
+    </item>
+    <item>
+        <key>###OKINAWA JAPAN###</key>
+        <val>OKINAWA, JAPAN</val>
+    </item>
+    <item>
+        <key>###OKINAWA JAPAN Desc Full###</key>
+        <val><![CDATA[<p>沖繩除了本島之外，周圍環繞的許許多多美麗的島嶼，SEASIR精選沖繩周邊的島嶼，帶您一起潛往更多美麗的潛點。由於有些潛點的難度較高，為了安全考量，需先參加慶良間諸島的潛水活動作為Check Dive，如未通過Check dive，則將繼續安排在慶良間諸島的潛水活動。如通過，則將於Check dive之後確認報名並收取特色潛水行程的全額費用。</p>]]></val>
+    </item>
+    <item>
+        <key>###Daily Trip###</key>
+        <val>潛水行程</val>
+    </item>
+    <item>
+        <key>###Operate Branch###</key>
+        <val>SEASIR分店</val>
+    </item>
+    <item>
+        <key>###Period###</key>
+        <val>活動日程</val>
+    </item>
+    <item>
+        <key>###Tonaki Island###</key>
+        <val>渡名喜島</val>
+    </item>
+    <item>
+        <key>###Naha###</key>
+        <val>那霸</val>
+    </item>
+    <item>
+        <key>###Tonaki Island Period###</key>
+        <val><![CDATA[
+【Sep】18<br>
+【Oct】9, 23<br>
+【Nov】5, 20<br>
+            ]]></val>
+    </item>
+    <item>
+        <key>###OKINAWA JAPAN Note###</key>
+        <val><![CDATA[
+<li>歡迎個人或團體報名</li>
+<li>持有進階潛水員執照，並有順暢的自由下潛能力以及良好的中性浮力</li>
+<li>超過100次潛水經驗</li>
+<li>在本活動之前必須先參加SEASIR慶良間諸島潛水行程作為Check dive，如未能通過，則將繼續安排慶良間諸島的潛水行程。</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Drift Diving Day###</key>
+        <val>放流潛水日</val>
+    </item>
+    <item>
+        <key>###Drift Diving Day Period###</key>
+        <val><![CDATA[
+【May】22<br>
+【June】5, 19<br>
+【Sep】17, 25<br>
+【Oct】1, 8<br>
+【Nov】4, 19<br>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Sesoko Mina Island###</key>
+        <val>瀨底島與水納島</val>
+    </item>
+    <item>
+        <key>###Sesoko Mina Island Period###</key>
+        <val><![CDATA[
+【Sep】10, 24<br>
+【Oct】15<br>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Night Diving###</key>
+        <val>夜潛</val>
+    </item>
+    <item>
+        <key>###Night Diving Period###</key>
+        <val>Summer season</val>
+    </item>
+    <item>
+        <key>###OVERSEAS TRIP###</key>
+        <val>OVERSEAS TRIP</val>
+    </item>
+    <item>
+        <key>###OVERSEAS TRIP Desc Full###</key>
+        <val><![CDATA[
+            <p>每年，SEASIR都會派出經驗豐富的潛導進駐海外著名潛點，精心挑選並合理安排最值得體驗的行程供您選擇。日式貼心的服務，豐富的活動內容，只有實力與經驗並存的SEASIR才能為您提供如此高水準的潛水行程。而您現在要做的就是將您個人或團體的需求email給我們，讓我們為您講述不一樣的海洋故事。</p>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Location###</key>
+        <val>潛水行程</val>
+    </item>
+    <item>
+        <key>###OVERSEAS TRIP Period###</key>
+        <val><![CDATA[
+每年一月到四月<br>
+(冬季限定)
+            ]]></val>
+    </item>
+    <item>
+        <key>###OVERSEAS TRIP Note###</key>
+        <val><![CDATA[
+<li>SEASIR教練駐站服務</li>
+<li>個人或團體之專業潛水安排，須提前預約。</li>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Anilao Philippine###</key>
+        <val>Anilao, Philippine</val>
+    </item>
+    <item>
+        <key>###Cebu Philippine###</key>
+        <val>Cebu, Philippine</val>
+    </item>
+    <item>
+        <key>###Lanta Island Thailand###</key>
+        <val>Lanta Island, Thailand</val>
+    </item>
+    <item>
+        <key>###Palau###</key>
+        <val>Palau</val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+
+</items>

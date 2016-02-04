@@ -110,28 +110,16 @@
         <val>Marine Club BERRY</val>
     </item>
     <item>
-        <key>###Marine Walk###</key>
-        <val>Marine Walk</val>
+        <key>###Water Sports Activity###</key>
+        <val>Water Sports Activity: Marine Walk, Snorkeling, Introductory Diving, Leisure Diving</val>
     </item>
     <item>
-        <key>###Water sport###</key>
-        <val>Water sport: Biscuit Drift, Banana Boat Ride, Super Marble, Water Tube</val>
+        <key>###Jet Activity###</key>
+        <val>Jet Activity: Banana Boat Ride, Parasailing, Fly board</val>
     </item>
     <item>
-        <key>###Sea Kayak###</key>
-        <val>Sea Kayak</val>
-    </item>
-    <item>
-        <key>###Mangrove Kayak###</key>
-        <val>Mangrove Kayak</val>
-    </item>
-    <item>
-        <key>###Parasailing###</key>
-        <val>Parasailing</val>
-    </item>
-    <item>
-        <key>###Fly board###</key>
-        <val>Fly board</val>
+        <key>###Kayak Activity###</key>
+        <val>Kayak Activity: Sea Kayak, Mangrove Kayak</val>
     </item>
     <item>
         <key>###Paintball###</key>
@@ -174,8 +162,8 @@
         <val><![CDATA[http://www.coolokinawa.com/en/]]></val>
     </item>
     <item>
-        <key>###PhotoShisa###</key>
-        <val>PhotoShisa</val>
+        <key>###fotoShisa###</key>
+        <val>fotoShisa</val>
     </item>
     <item>
         <key></key>

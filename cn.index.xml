@@ -12,10 +12,6 @@
 		<val>Okinawa,Diving,Dive,Snorkeling,Scuba,Marine,Sports,English,Foreign,Naha,冲绳,冲绳,潜水,中文,广东话,中国,香港,水上活动,外国人,浮潜,体验潜水,那霸，庆良间诸岛</val>
 	</item>
 	<item>
-		<key>###MY PLACE HOUSE###</key>
-		<val>MyPlace 青年旅馆</val>
-	</item>
-	<item>
 		<key>###Full Day###</key>
 		<val>一日活动</val>
 	</item>
@@ -40,6 +36,10 @@
 		<val>提供半天往返美丽的庆伊濑岛(庆良间诸岛)体验潜水和浮潜行程</val>
 	</item>
 	<item>
+		<key>###brief chibisi season###</key>
+		<val>夏季限定: 2016年6月11日~2016年11月6日</val>
+	</item>
+	<item>
 		<key>###brief whale text###</key>
 		<val>从一月初到三月末的赏鲸之旅, 快来参加冲绳最冬季最有趣的水上活动！</val>
 	</item>
@@ -49,7 +49,7 @@
 	</item>
 	<item>
 		<key>###brief course text###</key>
-		<val>SEASIR PADI 5 星级的潜水指导中心, 和会说英文, 日文,马来西亚语， 中文及广东话的教练一同学习潜水.</val>
+		<val>SEASIR PADI 5 星级的潜水指导中心, 和会说英文, 日文,马来西亚语， 中文及广东话的教练一同学习潜水</val>
 	</item>
 	<item>
 		<key>###brief sea people text###</key>
@@ -66,10 +66,6 @@
 	<item>
 		<key>###SEA PEOPLE Scuba Diving Equipment Retail###</key>
 		<val>SEA PEOPLE 潜水相关装备零售</val>
-	</item>
-	<item>
-		<key>###myspace###</key>
-		<val>MyPlace民宿</val>
 	</item>
 	<item>
 		<key>###Dormitory Rooms###</key>
@@ -89,15 +85,15 @@
 	</item>
 	<item>
 		<key>###EngChin booking service###</key>
-		<val>提供英文/中文预定服务</val>
+		<val>英文/中文预订服务</val>
 	</item>
 	<item>
 		<key>###Okinawa Day tour###</key>
-		<val>冲绳一日游</val>
+		<val>一日/半日游代订</val>
 	</item>
 	<item>
 		<key>###Restaurant bus###</key>
-		<val>餐厅/公交</val>
+		<val>餐厅/观光巴士代订</val>
 	</item>
 	<item>
 		<key>###fotoshisa###</key>
@@ -137,28 +133,23 @@
 	</item>
 	<item>
 		<key>###Paintball###</key>
-		<val>Paintball</val>
-		<todo></todo>
+		<val>漆弹生存游戏</val>
 	</item>
 	<item>
 		<key>###brief Paintball text###</key>
-		<val>Exciting paintball game, designed for company teambuilding, family or friend’s reunion.</val>
-		<todo></todo>
+		<val>精彩刺激的漆弹生存游戏，为公司奖励旅游、Team building、家族旅游量身订做，打造冲绳娱乐新体验</val>
 	</item>
 	<item>
 		<key>###Basic plan###</key>
-		<val>Basic plan</val>
-		<todo></todo>
+		<val>基本活动</val>
 	</item>
 	<item>
 		<key>###Advance plan###</key>
-		<val>Advance plan</val>
-		<todo></todo>
+		<val>进阶活动</val>
 	</item>
 	<item>
 		<key>###Group plan###</key>
-		<val>Group plan</val>
-		<todo></todo>
+		<val>团体活动</val>
 	</item>
 	<item>
 		<key>###seeMoreDetail###</key>

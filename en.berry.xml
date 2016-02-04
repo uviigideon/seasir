@@ -195,10 +195,28 @@
     <item>
         <key>###Flyboard dt###</key>
         <val><![CDATA[
-            Coolest water jetpack supplies propulsion to drive the Flyboard which makes you fly like a bird. Riding experience around 15 mins<br>
-<span class="hl-red">Note: the weight must above 40kg and under 90kg</span>
-            
+            Want to know how Iron Man hover around, a similar system using water jet. <span class="hl-red">But this required body weight from 40 – 90 kg only.</span>
             ]]></val>
+    </item>
+    <item>
+        <key>###Water Sports Activity###</key>
+        <val>Water Sports Activity</val>
+    </item>
+    <item>
+        <key>###Jet Activity###</key>
+        <val>Jet Activity</val>
+    </item>
+    <item>
+        <key>###Kayak Activity###</key>
+        <val>Kayak Activity</val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
+    </item>
+    <item>
+        <key></key>
+        <val></val>
     </item>
     <item>
         <key></key>
@@ -219,13 +237,6 @@
             ]]></val>
     </item>
     <item>
-        <key>###Active Schedule Time active 3###</key>
-        <val><![CDATA[
-<li>09:30</li>
-<li>13:00</li>
-            ]]></val>
-    </item>
-    <item>
         <key>###Active Schedule Time dive###</key>
         <val><![CDATA[
 <li>08:30</li>
@@ -239,19 +250,6 @@
 <li>13:30</li>
             ]]></val>
     </item>
-    <item>
-        <key>###Active Schedule Time flyboard###</key>
-        <val><![CDATA[
-<li>09:00</li>
-<li>10:00</li>
-<li>11:00</li>
-<li>13:00</li>
-<li>14:00</li>
-<li>15:00</li>
-<li>16:00</li>
-            ]]></val>
-    </item>
-
     <!-- }}} !!!DO NOT TRANSLATE BELOW!!! -->
 </items>
 
