@@ -4,6 +4,14 @@
         <val>Marine House SEASIR Group</val>
     </item>
     <item>
+        <key>###Marine House SEASIR 1983 Aka Island###</key>
+        <val>Marine House SEASIR 1983 Aka Island</val>
+    </item>   
+    <item>
+        <key>###Marine House SEASIR Group 2009###</key>
+        <val>Marine House SEASIR Group 2009</val>
+    </item>   
+    <item>
         <key>###SEASIR intro###</key>
         <val><![CDATA[<p>Marine House SEASIR started 1983 as a small marine sport center. Until today SEASIR group (<span class="seasir-red">Marine House SEASIR</span> and <span class="berry-pink">Marine Club BERRY</span>) is the longest and biggest Diving Company in Okinawa with multi-lingual instructors. With a tremendous and collaborating effort among SEASIR staffs, SEASIR Naha shop has been receiving “Dive and Travel Award” from the Diving magazine “Marine Diving” and ranks No.1 for 11 consecutive years.</p>]]></val>
     </item>
@@ -53,4 +61,5 @@
         <val>Guest House with dorm and private room in Naha.</val>
     </item>   
     
+
 </items>

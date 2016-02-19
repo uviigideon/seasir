@@ -4,13 +4,22 @@
 		<val>Marine House SEASIR 그룹</val>
 	</item>
 	<item>
+		<key>###Marine House SEASIR 1983 Aka Island###</key>
+		<val>Marine House SEASIR 1983 Aka Island</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Marine House SEASIR Group 2009###</key>
+		<val>Marine House SEASIR Group 2009</val>
+		<todo></todo>
+	</item>
+	<item>
 		<key>###SEASIR intro###</key>
-        <val><![CDATA[<p>마린하우스 시사는 1983년에 작은 해양스포츠 센터로 시작하였습니다. 현재에 이르기까지SEASIR그룹 (<span class="seasir-red">Marine House SEASIR</span> 와 <span class="berry-pink">Marine Club BERRY</span>)은 오키나와의 최대, 최장수의 다국어 대응 가능한 다이빙 업체입니다. SEASIR 스태프들의 노력으로SEASIR 나하점은 다이빙잡지 “마린 다이빙”의 “다이브&트래블 어워드” 에서 11년간 연속 1위를 차지하고 있습니다.</p>]]></val>
+		<val><![CDATA[<p>마린하우스 시사는 1983년에 작은 해양스포츠 센터로 시작하였습니다. 현재에 이르기까지SEASIR그룹 (<span class="seasir-red">Marine House SEASIR</span> 와 <span class="berry-pink">Marine Club BERRY</span>)은 오키나와의 최대, 최장수의 다국어 대응 가능한 다이빙 업체입니다. SEASIR 스태프들의 노력으로SEASIR 나하점은 다이빙잡지 “마린 다이빙”의 “다이브&트래블 어워드” 에서 11년간 연속 1위를 차지하고 있습니다.</p>]]></val>
 	</item>
 	<item>
 		<key>###award###</key>
 		<val><![CDATA[&#8251; 일본 국내 다이빙 서비스 부문 2003년부터 현재까지 연속 1위]]></val>
-		<todo></todo>
 	</item>
 	<item>
 		<key>###Brief Naha###</key>

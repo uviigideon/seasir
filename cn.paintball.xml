@@ -19,7 +19,7 @@
     </item>
     <item>
         <key>###theTeamIntro###</key>
-        <val><![CDATA[2014年起，Berry店在名护市Kanucha Bay Hotel &Villas 度假型酒店开始试营彩弹射击。彩弹射击活动是适合家人、朋友、公司同事一起玩乐的定制类户外活动。我们强烈建议您以团队形式参与彩弹射击活动，以体验团体野战的乐趣。除了团体野战，Berry店也可为家庭活动专门定制游戏内容。]]></val>
+        <val><![CDATA[2014年起，Berry店在名护市Kanucha Bay Hotel &Villas 度假型酒店开始试营彩弹射击。彩弹射击活动是适合家人、朋友、公司同事一起玩乐的定制类户外活动。建议您以团队形式参与彩弹射击活动，以体验团体野战的乐趣。除了团体野战，Berry店也可为家庭活动专门定制游戏内容。]]></val>
     </item>
     <item>
         <key>###Own Preparation###</key>
@@ -28,15 +28,15 @@
     <item>
         <key>###Own Preparation dt###</key>
         <val><![CDATA[
-            <li>在游戏期间须穿长袖长裤 (首选牛仔或坚质棉布材质的衣物)</li>
+            <li>在游戏期间须穿长袖长裤 (首选牛仔或坚硬棉布材质的衣物)</li>
             <li>多备一套衣物以供彩弹射击后更换 (我们会提供淋浴设施和浴巾)</li>
-            <li>用于户外运动的运动鞋 (须完全覆盖您的脚)</li>
+            <li>用于户外运动的运动鞋 (须完全包裹您的双脚)</li>
             <li>游戏时使用的小毛巾</li>
             ]]></val>
     </item>
     <item>
         <key>###paintball note###</key>
-        <val>若在活动现场，顾客表现出正处于娱乐性药物或酒精的影响之中，则不能允许其参与活动。（但顾客仍需全额付款）</val>
+        <val>若在活动现场，顾客表现出正在受娱乐性药物或酒精影响的状态，Marine Club BERRY店有权拒绝其参与活动。（但客人仍需全额付款）</val>
     </item>
     <item>
         <key>###Plan###</key>
@@ -72,7 +72,7 @@
     </item>
     <item>
         <key>###Extra Paintball###</key>
-        <val>额外增加彩漆弹</val>
+        <val>额外增加彩弹</val>
     </item>
     <item>
         <key>###hour###</key>
@@ -104,7 +104,7 @@
     </item>
     <item>
         <key>###Booking procedure dt###</key>
-		<val><![CDATA[点击<span class="booking-blue">马上报名</span>后,您需要填入可以联系到您的邮箱和所需的信息,然后提交预约表。如果报名成功，您会收到SEASIR LTD.账户的PayPal预约金请求邮件。为确保您的预约，请在收到预约金请求的3天之内支付每人4,000日元的预约金。如果距您的预约日期不到3天，请在24小时之内支付完成预约金。若在期限内未收到您的预约金，您的预约将会被自动取消。]]></val>
+		<val><![CDATA[点击<span class="booking-blue">“马上报名”</span>后，您需要填入可以联系到您的邮箱和所需信息，然后提交预约表。24小时之内您将会收到SEASIR官方账号发出的预约金请求。请您在收到预约金请求后的三日内完成支付以保留预约，金额为每位4，000日元。如您预约时距离活动日期已不足三日，请您在24小时内完成支付。]]></val>
     </item>
     <item>
         <key>###Paintball Addr###</key>

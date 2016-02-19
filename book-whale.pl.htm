@@ -54,7 +54,7 @@
             <label for="mobile">###Mobile###</label>
             <input type="text" id="mobile" name="mobile" value="(+)"><br>
             <label>###Date of Trip###</label>
-            <input type="text" id="date-of-trip2" name="Date of Trip-1"><br>
+            <input type="text" id="date-of-trip2" name="Date of Trip-1" readonly="readonly"><br>
             <label>###Trip Session###</label>
             <input type="radio" id="session-am" name="Trip Session" value="am" checked="checked">
             <label for="session-am" style="width:160px;">###Trip Session am###</label>
@@ -164,8 +164,10 @@ $(function() {
         /* }}} */
     };
     GUEST.init();
-    var dateStart = new Date('12/27/2014');
-    var dateEnd = new Date('04/05/2015');
+    var dateStart = new Date('12/26/2015');
+    var dateNow = new Date();
+    if (dateNow > dateStart) dateStart = dateNow;
+    var dateEnd = new Date('04/03/2016');
     $("#date-of-trip2").datepicker({
         dateFormat:"d MM, yy",       
         minDate:dateStart,

@@ -17,7 +17,7 @@
 	</item>
 	<item>
 		<key>###theTeamIntro###</key>
-		<val>Marine Club Berry 成立于 2001 年,是冲绳全年无休的水上活动中心, 提供多样化的水上活动任您选择. Marine Club Berry 一共有三个分店,范围涵盖了冲绳的东西岸,所以您无需担心如何安排您假期的時间,无论何时 Marine Club Berry 都能提供给您最精彩的水上活动体验.</val>
+		<val>Marine Club Berry 成立于2001年，是冲绳全年无休的水上活动中心，提供多样化的水上活动。Marine Club Berry 共有三个分店，范围覆盖冲绳东西两岸。您无需担心如何安排假期时间，无论何时 Marine Club Berry 都能带您体验最精彩的水上活动。</val>
 	</item>
 	<item>
 		<key>###Water Sports###</key>
@@ -41,19 +41,19 @@
 	</item>
 	<item>
 		<key>###Min Age###</key>
-		<val>最小年龄</val>
+		<val>年龄限制</val>
 	</item>
 	<item>
 		<key>###Marine Walk dt###</key>
-		<val>约 20分钟的水底沙滩漫步体验, 感受在水中呼吸, 漫步以及被魚环绕的乐趣.</val>
+		<val>约20分钟的水底沙滩漫步体验，感受在水中呼吸、漫步以及被鱼群环绕的乐趣。</val>
 	</item>
 	<item>
 		<key>###Intro Diving dt###</key>
-		<val>专为沒有潜水证但想体验水下世界乐趣的您所设计的体验潜水, 快来和我们最专业的潜水指导员一同体验 20分钟的水下世界探险.</val>
+		<val>如果您想体验水下世界的乐趣，就快来和我们最专业的潜水教练一同体验20分钟的水下世界探险吧！</val>
 	</item>
 	<item>
 		<key>###Snorkeling dt###</key>
-		<val>和我们的教练一起在浅珊瑚礁和热带群中浮潜悠游</val>
+		<val>在浅珊瑚礁和热带鱼群中浮潜悠游。</val>
 	</item>
 	<item>
 		<key>###Marine Club BERRY Activity Daily Time Schedule###</key>
@@ -69,7 +69,7 @@
 	</item>
 	<item>
 		<key>###Super Marble###</key>
-		<val>Super Marble（超级大皮艇）</val>
+		<val>海战车</val>
 	</item>
 	<item>
 		<key>###Banana Boat Ride dt###</key>
@@ -81,7 +81,7 @@
 	</item>
 	<item>
 		<key>###Biscuit Drift###</key>
-		<val>拖拉皮艇之漂移皮艇船</val>
+		<val>大力水手</val>
 	</item>
 	<item>
 		<key>###Water Tube###</key>
@@ -93,15 +93,15 @@
 	</item>
 	<item>
 		<key>###Active 3 dt###</key>
-		<val>拖拉皮艇之漂移皮艇船（Biscuit drift），超级大皮艇（Super Mable），香蕉船</val>
+		<val>大力水手、海战车、香蕉船</val>
 	</item>
 	<item>
 		<key>###Scream4###</key>
-		<val>尖叫4项目</val>
+		<val>尖叫四项目</val>
 	</item>
 	<item>
 		<key>###Scream4 dt###</key>
-		<val>拖拉皮艇之漂移皮艇船（Biscuit drift），超级大皮艇（Super Mable），水上皮艇（Water Tube），香蕉船</val>
+		<val>大力水手、海战车、甜甜圈、香蕉船</val>
 	</item>
 	<item>
 		<key>###Operating Season###</key>
@@ -129,27 +129,27 @@
 	</item>
 	<item>
 		<key>###Mangrove Kayak dt###</key>
-		<val>沿着环绕红树林的美丽河流划独木舟, 沐浴在充满绿意的环境中.</val>
+		<val>泛舟红树林之间，沐浴清新绿意。</val>
 	</item>
 	<item>
 		<key>###Sea Kayak dt###</key>
-		<val>这是一个海洋独木舟项目并且可以在美丽的 YODOKARI岛附近进行浮潜.</val>
+		<val>海洋独木舟项目，可以在美丽的Yodokari岛附近进行浮潜。</val>
 	</item>
 	<item>
 		<key>###Leisure Diveing dt###</key>
-		<val>Marine Club Berry 专门在冲绳的 Manza 和 Nakama 地区提供休闲潜水的服务. 潜水地点是在独特的海区, 在美丽海兔, 虾, 海龟, 石斑鱼和各式各样的珊瑚以及小丑鱼的围绕下进行的. 备受欢迎的潜水地点有：Onna Point, Honsyu, Manzamou Shita, Manza Coral, Over Head Rock, Manza Dream Hole, Mini Dream Hole, Seragaki Out leaf, Nakayukui, Cross Line, Nakama Point, Afro and Bitaro.</val>
+		<val>Marine Club BERRY在冲绳县万座地区和仲间地区提供休闲潜水服务。潜水地点在独特的海区，珊瑚种类众多，常见生物有海兔、虾、海龟、石斑鱼以及小丑鱼等。</val>
 	</item>
 	<item>
 		<key>###dive dt###</key>
-		<val>包含: 气瓶,配重, 船以及教练随同</val>
+		<val>价格包含：气瓶、配重、乘船费已经教练陪同</val>
 	</item>
 	<item>
 		<key>###light eq###</key>
-		<val>面镜及呼吸管, 套鞋, 蛙鞋</val>
+		<val>面镜，及呼吸管，套鞋，蛙鞋</val>
 	</item>
 	<item>
 		<key>###Daily###</key>
-		<val>每日</val>
+		<val>活动项目</val>
 	</item>
 	<item>
 		<key>###Refresh Course dt###</key>
@@ -161,7 +161,7 @@
 	</item>
 	<item>
 		<key>###Booking procedure dt###</key>
-		<val><![CDATA[点击<span class="booking-blue">马上报名</span>后,您需要填入可以联系到您的邮箱和所需的信息,然后提交预约表。如果报名成功，您会收到SEASIR LTD.账户的PayPal预约金请求邮件。为确保您的预约，请在收到预约金请求的3天之内支付每人4,000日元的预约金。如果距您的预约日期不到3天，请在24小时之内支付完成预约金。若在期限内未收到您的预约金，您的预约将会被自动取消。]]></val>
+		<val><![CDATA[点击<span class="booking-blue">“马上报名”</span>后，您需要填入可以联系到您的邮箱和所需信息，然后提交预约表。24小时之内您将会收到SEASIR官方账号发出的预约金请求。请您在收到预约金请求后的三日内完成支付以保留预约，金额为每位4，000日元。如您预约时距离活动日期已不足三日，请您在24小时内完成支付。]]></val>
 	</item>
 	<item>
 		<key>###leisureDiving Note###</key>

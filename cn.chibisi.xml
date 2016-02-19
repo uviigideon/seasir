@@ -15,12 +15,12 @@
     <!-- }}} header -->
     <item>
         <key>###theTeam###</key>
-        <val>SEASIR 那霸 半日往返庆伊濑岛(庆良间诸岛) 体验潜水和浮潜之旅</val>
+        <val>SEASIR那霸 半日往返庆伊濑岛（庆良间诸岛）体验潜水和浮潜之旅</val>
     </item>
     <item>
         <key>###theTeamIntro###</key>
-        <val><![CDATA[庆良间诸岛是日本的国立公园，因澄澈湛蓝的海水以及五彩斑斓的珊瑚鱼群而衆所周知。半天娱乐休闲行程的必去之处非此莫属。如果您在冲绳，绝不应该错过我们半天的庆良间诸岛纯美体验之旅。<br>
-在冲绳最好的潜水季节，SEASIR专为大家设计半天的庆良间诸岛浮潜和体验潜水套餐活动。从Marine House SEASIR 那霸店附近的港口出发，约30分钟即可到达潜点。那霸市内酒店为您提供免费接送，方便快捷，让您轻松享受到庆良间诸岛的魅力。详情信息请查看以下列表。
+        <val><![CDATA[庆良间诸岛是日本的国立公园，因澄澈湛蓝的海水以及五彩斑斓的珊瑚鱼群而闻名于世，半天娱乐休闲行程的必去之处。在冲绳，绝不应该错过半天的庆良间诸岛纯美体验之旅。<br>
+在冲绳最好的潜水季节，SEASIR为您提供半天往返庆良间诸岛的体验潜水和浮潜套餐活动。从SEASIR那霸店附近的港口出发约30分钟可到达潜点。那霸市内酒店免费接送，方便快捷，让您轻松享受庆良间诸岛的魅力。详情如下。
 ]]></val>
     </item>
     <item>
@@ -53,11 +53,11 @@
     </item>
     <item>
         <key>###Depart back to Naha###</key>
-        <val>出发回到那霸</val>
+        <val>返航回到那霸</val>
     </item>
     <item>
         <key>###Hotel Transfer Back###</key>
-        <val>接送回那霸市内酒店</val>
+        <val>送回至那霸市内酒店</val>
     </item>
     <item>
         <key>###Package Price and Detail###</key>
@@ -69,15 +69,15 @@
     </item>
     <item>
         <key>###Snorkeling equipment###</key>
-        <val>浮潜器材, 冷热水饮, 保险, 1条浴巾,那霸市酒店接送</val>
+        <val>浮潜器材, 冷热饮品, 保险, 1条浴巾,那霸市酒店接送</val>
     </item>
     <item>
         <key>###Same as Snorkeling Package###</key>
-        <val>1次体验潜水(约20分钟),可附加浮潜</val>
+        <val>验潜水1次（时长约20分钟），附加浮潜</val>
     </item>
     <item>
         <key>###Booking procedure dt###</key>
-        <val><![CDATA[点击<b>”马上报名”</b>填入可以联系到您的邮件,然後填入所有信息提交报名表.您将会很快收到我们SEASIR LTD.来自Paypal账户的预约金请求. 爲了确保您的预约,请支付每人3,000日元的预约金，并在您收到我们Paypal预约金请求后的3天之内支付完成,如果离预约日少於3天,请在24小时内支付完成.如果没有收到您的预约金,您的预约将会被自动取消.]]></val>
+        <val><![CDATA[点击<b>“马上报名”</b>后，您需要填入可以联系到您的邮箱和所需信息，然后提交预约表。24小时之内您将会收到SEASIR官方账号发出的预约金请求。请您在收到预约金请求后的三日内完成支付以保留预约，金额为每位3，000日元。如您预约时距离活动日期已不足三日，请您在24小时内完成支付。]]></val>
     </item>
     <item>
         <key>###Snorkeling Package Adult###</key>
@@ -85,10 +85,10 @@
     </item>
     <item>
         <key>###Snorkeling Package Child###</key>
-        <val>小孩浮潜套餐 ( 6-12岁)</val>
+        <val>儿童浮潜套餐 ( 6-12岁)</val>
     </item>
     <item>
         <key>###Introductory Diving###</key>
-        <val>体验潜水套餐(最小年龄 10岁可参加)</val>
+        <val>体验潜水套餐（年龄限制：10周岁以上）</val>
     </item>
 </items>

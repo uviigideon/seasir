@@ -21,19 +21,19 @@
 	</item>
 	<item>
 		<key>###briefNahaText###</key>
-		<val>提供当日往返美丽的庆良间诸岛的休闲潜水，浮潜和体验潜水的各种活动行程</val>
+		<val>提供一日往返美丽庆良间诸岛的休闲潜水、体验潜水和浮潜等活动行程。</val>
 	</item>
 	<item>
 		<key>###brief berry text###</key>
-		<val>水底漫步, 独木舟, 各式水上活动及潜水活动中心</val>
+		<val>提供水底漫步、独木舟、各式水上活动及潜水活动场所。</val>
 	</item>
 	<item>
 		<key>###brief aka text###</key>
-		<val>阿嘉島住宿及在庆良间诸岛的休闲潜水，浮潜和体验潜水的各种活动行程</val>
+		<val>提供阿嘉岛住宿及庆良间诸岛的休闲潜水、体验潜水和浮潜等活动行程。</val>
 	</item>
 	<item>
 		<key>###brief chibisi text###</key>
-		<val>提供半天往返美丽的庆伊濑岛(庆良间诸岛)体验潜水和浮潜行程</val>
+		<val>提供半天往返美丽庆伊濑岛体验潜水和浮潜行程。</val>
 	</item>
 	<item>
 		<key>###brief chibisi season###</key>
@@ -41,27 +41,27 @@
 	</item>
 	<item>
 		<key>###brief whale text###</key>
-		<val>从一月初到三月末的赏鲸之旅, 快来参加冲绳最冬季最有趣的水上活动！</val>
+		<val>冲绳冬季最有趣的水上活动，从年末持续到四月初的赏鲸盛典。</val>
 	</item>
 	<item>
 		<key>###whale season###</key>
-		<val>赏鲸季从2015年12月26日至2016年4月3日</val>
+		<val>冬季限定：2015年12月26日-2016年4月3日</val>
 	</item>
 	<item>
 		<key>###brief course text###</key>
-		<val>SEASIR PADI 5 星级的潜水指导中心, 和会说英文, 日文,马来西亚语， 中文及广东话的教练一同学习潜水</val>
+		<val>SEASIR为PADI五星级潜水中心及五星级教练发展中心，提供英语、日语、汉语、粤语及马来西亚语服务。</val>
 	</item>
 	<item>
 		<key>###brief sea people text###</key>
-		<val>想要为您的潜水装备升级吗? 潜水相关的大小装备零售, 找我们就对了!</val>
+		<val>想要为您的潜水装备升级吗？选购与潜水相关的大小装备，到海人商店就对了！</val>
 	</item>
 	<item>
 		<key>###brief myplace text###</key>
-		<val>地处那霸市中心地带，与泊港码头仅几步之遥</val>
+		<val>地处那霸市中心地带，与泊港码头仅几步之遥。</val>
 	</item>
 	<item>
 		<key>###brief cool okinawa text###</key>
-		<val>冲绳当地最完整旅游咨询，为您提供私人定制行服务</val>
+		<val>冲绳当地最完整旅游资讯网站，为您提供私人定制出行服务。</val>
 	</item>
 	<item>
 		<key>###SEA PEOPLE Scuba Diving Equipment Retail###</key>
@@ -85,15 +85,15 @@
 	</item>
 	<item>
 		<key>###EngChin booking service###</key>
-		<val>英文/中文预订服务</val>
+		<val>提供英语和汉语的预定服务。</val>
 	</item>
 	<item>
 		<key>###Okinawa Day tour###</key>
-		<val>一日/半日游代订</val>
+		<val>冲绳一日游定制</val>
 	</item>
 	<item>
 		<key>###Restaurant bus###</key>
-		<val>餐厅/观光巴士代订</val>
+		<val>餐厅与公交资讯</val>
 	</item>
 	<item>
 		<key>###fotoshisa###</key>
@@ -105,11 +105,11 @@
 	</item>
 	<item>
 		<key>###Underwater photo###</key>
-		<val>水下摄影</val>
+		<val>潜水活动拍摄</val>
 	</item>
 	<item>
 		<key>###Family photo###</key>
-		<val>全家福拍摄</val>
+		<val>水上活动拍摄</val>
 	</item>
 	<item>
 		<key>###fotoshisa ln###</key>
@@ -133,15 +133,15 @@
 	</item>
 	<item>
 		<key>###Paintball###</key>
-		<val>漆弹生存游戏</val>
+		<val>彩弹射击户外活动</val>
 	</item>
 	<item>
 		<key>###brief Paintball text###</key>
-		<val>精彩刺激的漆弹生存游戏，为公司奖励旅游、Team building、家族旅游量身订做，打造冲绳娱乐新体验</val>
+		<val>激动人心的彩弹射击活动专为公司内建、亲友交流量身打造。</val>
 	</item>
 	<item>
 		<key>###Basic plan###</key>
-		<val>基本活动</val>
+		<val>入门活动</val>
 	</item>
 	<item>
 		<key>###Advance plan###</key>
@@ -149,7 +149,7 @@
 	</item>
 	<item>
 		<key>###Group plan###</key>
-		<val>团体活动</val>
+		<val>团队活动</val>
 	</item>
 	<item>
 		<key>###seeMoreDetail###</key>

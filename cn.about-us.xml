@@ -4,8 +4,18 @@
 		<val>Marine House SEASIR 团队</val>
 	</item>
 	<item>
+		<key>###Marine House SEASIR 1983 Aka Island###</key>
+		<val>Marine House SEASIR 1983 阿嘉岛</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Marine House SEASIR Group 2009###</key>
+		<val>Marine House SEASIR 团队 2009</val>
+		<todo></todo>
+	</item>
+	<item>
 		<key>###SEASIR intro###</key>
-        <val><![CDATA[Marine House SEASIR成立於1983年，截至目前为止已发展为冲绳规模最大的专业潜水集团，目前旗下有专业潜水<span class="seasir-red">Marine House SEASIR</span>及水上活动专家<span class="berry-pink">Marine Club BERRY</span>两大分支，各分店更网罗多国语言的工作人员，除了日语之外，以英语丶中文丶广东话丶马来语等，为来自世界各地的旅客提供最专业的服务。在我们共同热情努力之下，SEASIR那霸店更在日本潜水杂志”月刊マリンダイビング”所主办的潜水暨旅游大赏(Dive and Travel Award)中，连续11年荣获日本服务第一之殊荣!</p>]]></val>
+		<val><![CDATA[Marine House SEASIR成立於1983年，截至目前为止已发展为冲绳规模最大的专业潜水集团，目前旗下有专业潜水<span class="seasir-red">Marine House SEASIR</span>及水上活动专家<span class="berry-pink">Marine Club BERRY</span>两大分支，各分店更网罗多国语言的工作人员，除了日语之外，以英语丶中文丶广东话丶马来语等，为来自世界各地的旅客提供最专业的服务。在我们共同热情努力之下，SEASIR那霸店更在日本潜水杂志”月刊マリンダイビング”所主办的潜水暨旅游大赏(Dive and Travel Award)中，连续11年荣获日本服务第一之殊荣!</p>]]></val>
 	</item>
 	<item>
 		<key>###award###</key>
@@ -13,11 +23,11 @@
 	</item>
 	<item>
 		<key>###Brief Naha###</key>
-		<val>潜水，体验潜水，浮潜（往返于庆良间群岛的进行深潜，体验潜水或浮潜）</val>
+		<val>潜水、体验潜水、浮潜（往返于庆良间诸岛）</val>
 	</item>
 	<item>
 		<key>###Brief Aka###</key>
-		<val>住宿，潜水，体验潜水，浮潜</val>
+		<val>住宿、潜水、体验潜水、浮潜</val>
 	</item>
 	<item>
 		<key>###Brief Manza###</key>
@@ -29,7 +39,7 @@
 	</item>
 	<item>
 		<key>###Brief Kanucha###</key>
-		<val>多种水上活动 及 电动滑板车(Segway)</val>
+		<val>赛格威电动踏板车</val>
 	</item>
 	<item>
 		<key>###Brief paintball###</key>
@@ -41,11 +51,11 @@
 	</item>
 	<item>
 		<key>###Scuba diving equipment retail###</key>
-		<val>贩售各类潜水用品</val>
+		<val>出售各类潜水用品</val>
 	</item>
 	<item>
 		<key>###paintball###</key>
-		<val>漆弹</val>
+		<val>彩弹射击</val>
 	</item>
 	<item>
 		<key>###Brief MyPlace###</key>

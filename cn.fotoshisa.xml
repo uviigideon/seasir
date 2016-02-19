@@ -2,11 +2,11 @@
     <!-- {{{ header -->
     <item>
         <key>###headTitle###</key>
-        <val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI</val>
+        <val>fotoShisa：潜水和水上活动专业摄影服务</val>
     </item>
     <item>
         <key>###headDesc###</key>
-        <val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI provide English, Mandarin and Cantonese speaking marine staff</val>
+        <val>在冲绳，与海洋有关的活动总能给人留下难忘的回忆。美丽的海中生物，丰富的水上活动，休闲之余何不让专业摄影师伴随您全程，为您捕捉美好瞬间，留下一生珍贵的回忆。</val>
     </item>
     <item>
         <key>###headKeywords###</key>
@@ -15,11 +15,11 @@
     <!-- }}} header -->
     <item>
         <key>###theTeam###</key>
-        <val>fotoShisa : 水下和水上活动专业摄影服务</val>
+        <val>fotoShisa：潜水和水上活动专业摄影服务</val>
     </item>
     <item>
         <key>###theTeamIntro###</key>
-        <val><![CDATA[在冲绳的潜水和水上活动绝对是让您瞠目结舌难以忘怀的经历。您将看到许多美丽的海中生物，尽情享受水中乐趣。何不让我们的专业摄影师伴随您的行程，为您扑捉美好的瞬间留下一生珍贵的回忆呢！]]></val>
+        <val><![CDATA[在冲绳，与海洋有关的活动总能给人留下难忘的回忆。美丽的海中生物，丰富的水上活动，休闲之余何不让专业摄影师伴随您全程，为您捕捉美好瞬间，留下一生珍贵的回忆。]]></val>
     </item>
     <item>
         <key>###Location###</key>
@@ -39,11 +39,11 @@
     </item>
     <item>
         <key>###Location 1###</key>
-        <val><![CDATA[<h4 style="margin:0">Marine House SEASIR那霸店</h4><ul style="margin:2px 0 5px 0"><li>庆良间诸岛一日行程</li><li>庆伊濑诸岛半日行程</li></ul><h4 style="margin:0">Marine Club Berry店</h4><ul style="margin:2px 0 5px 0"><li>水上活动</li><li>彩弹射击活动</li></ul>]]></val>
+        <val><![CDATA[<h4 style="margin:0">Marine House SEASIR 那霸店</h4><ul style="margin:2px 0 5px 0"><li>庆良间诸岛一日行程</li><li>庆伊濑诸岛半日行程</li></ul><h4 style="margin:0">Marine Club BERRY店</h4><ul style="margin:2px 0 5px 0"><li>水上活动</li><li>彩弹射击活动</li></ul>]]></val>
     </item>
     <item>
         <key>###Location 2###</key>
-        <val><![CDATA[<h4>Marine House SEASIR阿嘉岛店</h4>]]></val>
+        <val><![CDATA[<h4>Marine House SEASIR 阿嘉岛店</h4>]]></val>
     </item>
     
     <item>
@@ -52,11 +52,11 @@
     </item>
     <item>
         <key>###Over 20###</key>
-        <val>超过20位时，第21位开始每位需要费用3,000日元</val>
+        <val>超过20位时，从第21位开始，每位需加收3，000日元。</val>
     </item>
     <item>
         <key>###Maximum 6 to 8 hours###</key>
-        <val>根据抵达阿嘉岛的时间不同，最长时间6至8小时</val>
+        <val>根据抵达阿嘉岛的实际安排行程，最长不超过8小时。</val>
     </item>
     <item>
         <key>###How to make fotoShisa booking###</key>
@@ -64,7 +64,7 @@
     </item>
     <item>
         <key>###How to make fotoShisa booking dt###</key>
-        <val>在SEASIR或BERRY活动的预约表下方的“其他问题”中备注“希望同时预约fotoShisa随行摄影服务”,我们将联系fotoShisa确认是否可预约后，以邮件回覆给您。</val>
+        <val>在预约表最后的“其它问题”中写明需要预约fotoShisa等详情，我们将会为您查询fotoShisa的空位情况后回复您。</val>
     </item>
 </items>
 

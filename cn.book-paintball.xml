@@ -1,7 +1,7 @@
 <items>
     <item>
         <key>###H2###</key>
-        <val>Marine Club BERRY 彩弹射击预约表</val>
+        <val>Marine Club BERRY 彩弹射击 预约表</val>
     </item>
     <item>
         <key>###For equipement arrangement###</key>
@@ -9,7 +9,7 @@
     </item>
     <item>
         <key>###Basic ans Advance Plan###</key>
-        <val>基础发案和进阶方案(4 ─ 10人)</val>
+        <val>基础方案和进阶方案(4 ─ 10人)</val>
     </item>
     <item>
         <key>###Group Booking###</key>
@@ -21,19 +21,11 @@
     </item>
     <item>
         <key>###For own transportation paintball dt###</key>
-        <val><![CDATA[请在您的汽车导航中输入<b>0980 55 8880</b> 来搜寻名护市 <b>Kanucha Bay Hotel & Villas渡假酒店</b>的位置。]]></val>
+        <val><![CDATA[请在汽车导航中输入电话号码：<b>0980 55 8880</b> 搜寻名护市 <b>Kanucha Bay Hotel & Villas渡假酒店</b>]]></val>
     </item>
     <item>
         <key>###Date of Activity###</key>
         <val>活动日期</val>
-    </item>
-    <item>
-        <key></key>
-        <val></val>
-    </item>
-    <item>
-        <key></key>
-        <val></val>
     </item>
 </items>
 

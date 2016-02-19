@@ -5,7 +5,7 @@
 	</item>
 	<item>
 		<key>###time###</key>
-		<val>时间点</val>
+		<val>时间</val>
 	</item>
 	<item>
 		<key>###Number of person stay###</key>
@@ -18,7 +18,7 @@
 	<item>
 		<key>###Booking note###</key>
 		<val><![CDATA[<b>亲爱的顾客,</b><br> 
-                每一份预约表只能填写一个房间的信息，请在此表填写同一个房间里的住客的信息和活动详情。我们需要以下所有信息以便提前为您准备。<span class="hl-red">如果您需要预定2间房或以上,请另外填写表格</span>。]]>
+                每一份预约表只能填写一个房间的信息，请在此表填写同一个房间里的住客信息和活动详情。我们需要以下所有信息以便提前为您准备。<span class="hl-red">如果您需要预定两间或两间以上的房间, 请另外填写表格</span>。]]>
         </val>
 	</item>
 	<item>
@@ -39,7 +39,7 @@
 	</item>
 	<item>
 		<key>###H2###</key>
-		<val>SEASIR 阿嘉岛店预约表</val>
+		<val>Marine House SEASIR 阿嘉岛店 预约表</val>
 	</item>
 	<item>
 		<key>###3F Tatami Room###</key>

@@ -123,7 +123,7 @@
 	</item>
 	<item>
 		<key>###Conditions li###</key>
-        <val><![CDATA[
+		<val><![CDATA[
             <li>癲癇, 痙攣, 抽搐或服用藥物以防止前述症狀</li>
             <li>懷孕</li>
             <li>如有3歲以下嬰兒參加，請務必在預約單上備註，我們會以email跟您聯絡。</li>
@@ -131,13 +131,15 @@
 	</item>
 	<item>
 		<key>###Whale Note dt###</key>
-        <val><![CDATA[2015年12月26日到2016年1月3日期間，我們不能保證在活動中一定可以看到鯨魚。<br>
+		<val><![CDATA[2015年12月26日到2016年1月3日期間，我們不能保證在活動中一定可以看到鯨魚。<br>
                 如未能看到鯨魚，Marine House SEASIR那霸店將會提供【再次挑戰券】（無法退款），歡迎您再次光臨。]]></val>
-
-        
 	</item>
 	<item>
 		<key>###Booking procedure dt###</key>
 		<val><![CDATA[請點選<span class="booking-blue">馬上預約</span>。填入您的電子信箱和必要的資料後,您將收到SEASIR的Paypal預約金請求書。為確保您的預約,請在收到預約金請求書的3日內支付每人2,000日元的預約金。若提出預約申請日距離您欲預約的日期不到3日,請您在24小時內支付預約金。若期限內未收到預約金,則您的預約視同放棄。]]></val>
+	</item>
+	<item>
+		<key>###price###</key>
+		<val>價目表</val>
 	</item>
 </items>

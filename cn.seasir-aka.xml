@@ -18,11 +18,11 @@
 	<item>
 		<key>###theTeamIntro###</key>
 		<val><![CDATA[
-Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的特別之处不仅仅在于我们提供的潜水服务, 更在于阿嘉島本身小島上和平安逸世外桃源般的环境。您可以浮潜在阿嘉島美丽的 NISHIHAMA海滩, Maja海滩或找一个只属于您的私人海滩享受属于自己的甜蜜时光. SEASIR 阿嘉岛分店不仅仅是一个潜水场所, 他还是在 KERAMA 群岛上为您提供各种各样专业潜水设施的小旅社.]]></val>
+            <span class="seasir-red">Marine House SEASIR 阿嘉岛店</span>成立于1983年。SEASIR阿嘉岛店的特别之处不仅在于我们提供的潜水服务，更在于阿嘉岛世外桃源般的环境。您可以浮潜在阿嘉岛美丽的Nishihama海滩、Maja海滩，或找一个私人海滩享受只属于自己的甜蜜时光。SEASIR阿嘉岛店位于庆良间诸岛之上，既可提供潜水服务，又可提供住宿服务。]]></val>
 	</item>
 	<item>
 		<key>###Accommodation###</key>
-		<val>SEASIR Aka island 住宿</val>
+		<val>SEASIR阿嘉岛店住宿</val>
 	</item>
 	<item>
 		<key>###1st Floor Room###</key>
@@ -30,7 +30,7 @@ Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的�
 	</item>
 	<item>
 		<key>###1st Floor Room Desc###</key>
-		<val>一楼的 3间和式房间最多每间可以容纳两个人. 共用厕所和卫浴在房间外.</val>
+		<val>一楼有三间和式房间，每间最多可供两人入住。卫生间和浴室在房间外，为公用设施。</val>
 	</item>
 	<item>
 		<key>###2nd Floor Room###</key>
@@ -38,7 +38,7 @@ Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的�
 	</item>
 	<item>
 		<key>###2nd Floor Room Desc###</key>
-		<val>4间西式两床的房间每间可住宿两人 或是 3间传统和式房每间可住宿两到三人. 所有的房间內都有厕所和卫浴.</val>
+		<val>二楼有四间西式房间和三间和式房间，西式房间可供两人入住，和式房间可供两到三人入住。房间内设有卫生间和浴室。</val>
 	</item>
 	<item>
 		<key>###3rd Floor Room###</key>
@@ -46,7 +46,7 @@ Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的�
 	</item>
 	<item>
 		<key>###3rd Floor Room Desc###</key>
-		<val>5间西式房间可以每间可住宿三人 或是 2间和式房可住宿两到三人. 所有的房间內都有分离的厕所和卫浴.</val>
+		<val>三楼有五间西式房间和两间和式房间，均可供两到三人入住。房间内设有独立卫生间和浴室。</val>
 	</item>
 	<item>
 		<key>###peakseason date###</key>
@@ -54,19 +54,19 @@ Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的�
 	</item>
 	<item>
 		<key>###Season Price###</key>
-		<val>淡忙季价格</val>
+		<val>淡旺季价格</val>
 	</item>
 	<item>
 		<key>###Single###</key>
-		<val>单人</val>
+		<val>单人入住</val>
 	</item>
 	<item>
 		<key>###Twin Sharing###</key>
-		<val>双人分摊</val>
+		<val>双人入住</val>
 	</item>
 	<item>
 		<key>###Triple Sharing###</key>
-		<val>三人分摊</val>
+		<val>三人入住</val>
 	</item>
 	<item>
 		<key>###Not Available###</key>
@@ -74,7 +74,7 @@ Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的�
 	</item>
 	<item>
 		<key>###dt###</key>
-		<val>所有房间价格皆为一人之价格, 包含早午晚餐</val>
+		<val>所示房间价格均为一人需支付价格，价格包含一日三餐。</val>
 	</item>
 	<item>
 		<key>###Japanese Tatami room###</key>
@@ -94,11 +94,11 @@ Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的�
 	</item>
 	<item>
 		<key>###Intro Diving dt###</key>
-		<val>专为没有潜水证但想体验水下世界乐趣的您所设计的体验潜水, 快来和我们最专业的潜水指导员一同体验 20分钟的水下世界探险.</val>
+		<val>如果您想体验水下世界的乐趣，就快来和我们最专业的潜水教练一同体验20分钟的水下世界探险吧！</val>
 	</item>
 	<item>
 		<key>###Snorkeling dt###</key>
-		<val>和我们的教练一起在浅珊瑚礁和热带群中浮潜悠游</val>
+		<val>在浅珊瑚礁和热带鱼群中浮潜悠游。</val>
 	</item>
 	<item>
 		<key>###Adult###</key>
@@ -106,7 +106,7 @@ Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的�
 	</item>
 	<item>
 		<key>###Child###</key>
-		<val>小孩</val>
+		<val>儿童</val>
 	</item>
 	<item>
 		<key>###Price Includes###</key>
@@ -114,7 +114,7 @@ Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的�
 	</item>
 	<item>
 		<key>###Price Includes dt###</key>
-		<val>包含: 气瓶,配重, 船以及教练随同</val>
+		<val>气瓶、配重、乘船费以及教练陪同</val>
 	</item>
 	<item>
 		<key>###light eq###</key>
@@ -131,8 +131,8 @@ Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的�
 	<item>
 		<key>###Night Diving Note###</key>
 		<val><![CDATA[
-<li>需要先参加一般潜水（check dive）。</li>
-<li>参加一般潜水后直接在店内预约。</li>
+<li>需要先参加普通的休闲潜水（check dive）。</li>
+<li>参加休闲潜水后直接在店内预约。</li>
             ]]></val>
 	</item>
 	<item>
@@ -153,7 +153,7 @@ Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的�
 	</item>
 	<item>
 		<key>###Dining Area And Sunroof Jacuzii Desc###</key>
-		<val><![CDATA[早餐和晚餐的餐厅在 2楼有免费的无线网络可以使用.<br><br>在一整天的潜水之后, 让按摩浴缸来为您消除疲劳.]]></val>
+		<val><![CDATA[餐厅设在二楼，提供免费无线网络。<br><br>一整天的潜水之后，让按摩浴缸为您消除疲劳。]]></val>
 	</item>
 	<item>
 		<key>###Dive Computer###</key>
@@ -165,7 +165,7 @@ Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的�
 	</item>
 	<item>
 		<key>###Booking procedure dt###</key>
-		<val><![CDATA[点击<span class="booking-blue">马上报名</span>后,您需要填入可以联系到您的邮箱和所需的信息,然后提交预约表。如果报名成功，您会收到SEASIR LTD.账户的PayPal预约金请求邮件。为确保您的预约，请在收到预约金请求的3天之内支付每人5,000日元的预约金。如果距您的预约日期不到3天，请在24小时之内支付完成预约金。若在期限内未收到您的预约金，您的预约将会被自动取消。]]></val>
+		<val><![CDATA[点击<span class="booking-blue">“马上报名”</span>后，您需要填入可以联系到您的邮箱和所需信息，然后提交预约表。24小时之内您将会收到SEASIR官方账号发出的预约金请求。请您在收到预约金请求后的三日内完成支付以保留预约，金额为每位5，000日元。如您预约时距离活动日期已不足三日，请您在24小时内完成支付。]]></val>
 	</item>
 	<item>
 		<key>###location###</key>
@@ -174,7 +174,7 @@ Marine House SEASIR 阿嘉岛潜水公司成立于1983年. SEASIR 阿嘉岛的�
 	<item>
 		<key>###location dt###</key>
 		<val><![CDATA[
-            <li>SEASIR 免费提供从阿嘉岛港口到SEASIR阿嘉宿舍的接送服务，请尽早通知我们船只到达时间。</li>
+            <li>SEASIR 阿嘉岛店免费提供从阿嘉岛港口到SEASIR阿嘉岛宿舍的接送服务，请尽早告知船只到达时间。</li>
             <li>预约船票: 请网上预订（英文）</li>
             座间味村官方网站: <a href="http://www.vill.zamami.okinawa.jp/" target="_blank">http://www.vill.zamami.okinawa.jp/</a>
             ]]></val>

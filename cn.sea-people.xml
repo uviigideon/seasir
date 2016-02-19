@@ -15,19 +15,19 @@
     <!-- }}} header -->
     <item>
         <key>###H2###</key>
-        <val>SEA PEOPLE 潜水相关装备专卖店</val>
+        <val>海人商店</val>
     </item>
     <item>
         <key>###sea people brief###</key>
-        <val>SEA PEOPLE 专卖店成立于 1998年位于那霸市內 JEIS大楼的一楼. 如果您想要为您的潜水装备升级, 那您一定不能错过SEA PEOPLE 专卖店. 另外, 我们也提供为客人订制湿式潜水衣和干式潜水衣的服务, 且可为客人的装备做年度的检验和保养. 我们最专业的团队随时准备好要为您服务！</val>
+        <val>海人商店成立于1998年，位于那霸市内JEIS大楼的一楼。如果您要升级潜水装备，一定不能错过海人商店。我们为客人提供定制湿式潜水衣和干式潜水衣的服务，且可为客人的装备做年检及保养。我们最专业的团队随时准备为您服务！</val>
     </item>
     <item>
         <key>###Below are the###</key>
-        <val>下面是我们所有销售的装备供应商</val>
+        <val>海人商店潜水相关装备供应商</val>
     </item>
     <item>
         <key>###Own Transportation dt###</key>
-        <val><![CDATA[请您使用 MAP CODE <span class="hl-red">33187632 *88</span>输入您的汽车导航系统, 来寻找我们商店的位置]]></val>
+        <val><![CDATA[请您使用 MAP CODE：<span class="hl-red">33187632*88</span> 输入您的汽车导航系统, 来寻找我们商店的位置]]></val>
     </item>
     <item>
         <key>###sea-people Addr###</key>

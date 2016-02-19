@@ -21,7 +21,7 @@
 	</item>
 	<item>
 		<key>###whale intro###</key>
-        <val><![CDATA[1월부터 3월 말 까지 개최되는 고래워칭은 오키나와의 해양 체험 중, 최고의 감동을 선사합니다. 오키나와를 방문하는 수많은 관광객과 현지인들은 물론, 여러 차례 고래워칭을 경험한 분들도 고래가 나타나서 배 주위로 다가오는 순간에는 모두가 자연의 경이로움에 감탄을 감추지 못합니다. <span class="seasir-red">Marine House SEASIR</span> 나하 지점에서는 2005년부터 고래워칭을 개최하고 있으며 항상 전문 고래 가이드가 동승하여 고래를 탐색합니다. 2005년부터 올해까지 매년 <span class="seasir-red">Marine House SEASIR</span> 나하 지점은 99%의 확률로 고래를 발견하였으며 오키나와에서 가장 체계적이고 숙련된 고래워칭팀을 운영하고 있습니다. <span class="seasir-red">Marine House SEASIR</span> 나하 지점과 함께 잊지 못할 추억을 만드시길 바랍니다.]]>
+		<val><![CDATA[1월부터 3월 말 까지 개최되는 고래워칭은 오키나와의 해양 체험 중, 최고의 감동을 선사합니다. 오키나와를 방문하는 수많은 관광객과 현지인들은 물론, 여러 차례 고래워칭을 경험한 분들도 고래가 나타나서 배 주위로 다가오는 순간에는 모두가 자연의 경이로움에 감탄을 감추지 못합니다. <span class="seasir-red">Marine House SEASIR</span> 나하 지점에서는 2005년부터 고래워칭을 개최하고 있으며 항상 전문 고래 가이드가 동승하여 고래를 탐색합니다. 2005년부터 올해까지 매년 <span class="seasir-red">Marine House SEASIR</span> 나하 지점은 99%의 확률로 고래를 발견하였으며 오키나와에서 가장 체계적이고 숙련된 고래워칭팀을 운영하고 있습니다. <span class="seasir-red">Marine House SEASIR</span> 나하 지점과 함께 잊지 못할 추억을 만드시길 바랍니다.]]>
 </val>
 	</item>
 	<item>
@@ -171,5 +171,9 @@
 	<item>
 		<key>###Booking procedure dt###</key>
 		<val><![CDATA[<span class="booking-blue">지금 예약</span>을 클릭한 후, 귀하의 연락처로 이메일 주소를 기입해야 합니다. 필요한 모든 정보를 기입한 후 보내십시오. 귀하의 예약을 확보하기 위해 SEASIR LTD 계정으로부터 PayPal 예약금 입금 요청을 받게 됩니다. 저희 PayPal 계정으로부터 입금 요청을 받은 날로부터 3일 이내에 1인당 2,000엔을 입금하십시오. 만약 예약을 출발일로부터 3일 이내에 할 경우 24시간 이내에 입금하십시오. 입금을 하지 않는 경우 모든 예약은 취소됩니다.]]></val>
+	</item>
+	<item>
+		<key>###price###</key>
+		<val>가격</val>
 	</item>
 </items>

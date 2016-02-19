@@ -93,7 +93,7 @@
 	</item>
 	<item>
 		<key>###rest Note###</key>
-		<val>活动结束后需休息18小时以上，方可搭乘飞机。</val>
+        <val>活动结束后需休息18小时以上，方可搭乘飞机。</val>
 	</item>
 	<item>
 		<key>###introDiving###</key>
@@ -121,7 +121,7 @@
 	</item>
 	<item>
 		<key>###Scuba Diving###</key>
-		<val>水肺潜水</val>
+		<val>休闲潜水</val>
 	</item>
 	<item>
 		<key>###refresherDivePackage###</key>
@@ -137,7 +137,7 @@
 	</item>
 	<item>
 		<key>###Refresher Diving Desc Full###</key>
-		<val>专为持有潜水证，但已有超过 12个月没有潜水的潜水员所设计的课程. 在此课程中可以为您复习您之前所学过的的潜水知识和潜水技能。</val>
+		<val>专为持有潜水证但已超过12个月没有潜水的潜水员设计的课程。参加此课程可以让您复习之前学习过的潜水知识和潜水技能。</val>
 	</item>
 	<item>
 		<key>###2 dives Package###</key>
@@ -153,7 +153,7 @@
 	</item>
 	<item>
 		<key>###Water Sports###</key>
-		<val>水域活动</val>
+		<val>JET水上活动</val>
 	</item>
 	<item>
 		<key>###Full day charter###</key>
@@ -173,7 +173,7 @@
 	</item>
 	<item>
 		<key>###PADI Diving Courses###</key>
-		<val>PADI 潜水課程</val>
+		<val>PADI 潜水课程</val>
 	</item>
 	<item>
 		<key>###SEA PEOPLE Retail###</key>
@@ -281,7 +281,7 @@
 	</item>
 	<item>
 		<key>###normalSeason###</key>
-		<val>平时</val>
+		<val>淡季</val>
 	</item>
 	<item>
 		<key>###packageIncludes###</key>
@@ -289,7 +289,7 @@
 	</item>
 	<item>
 		<key>###peakSeason###</key>
-		<val>忙季</val>
+		<val>旺季</val>
 	</item>
 	<item>
 		<key>###priceFrom###</key>
@@ -297,11 +297,11 @@
 	</item>
 	<item>
 		<key>###price###</key>
-		<val>价目</val>
+		<val>价格</val>
 	</item>
 	<item>
 		<key>###prices###</key>
-		<val>价目</val>
+		<val>价格</val>
 	</item>
 	<item>
 		<key>###Note###</key>
@@ -361,11 +361,11 @@
 	</item>
 	<item>
 		<key>###Own Transportation Weed Beach###</key>
-		<val><![CDATA[请在您的汽车导航系统中输入我们的 MAP CODE <span class="hl-red">206444213 *85</span> 来到达 Kouki beach]]></val>
+		<val><![CDATA[请在您的汽车导航系统中输入 MAP CODE：<span class="hl-red">206444213*85</span> 查找Kouki beach。]]></val>
 	</item>
 	<item>
 		<key>###Own Transportation Manza###</key>
-		<val><![CDATA[请在您的汽车导航系统中输入我们的电话: <span class="hl-red">098 982 3800</span>来找到我们]]></val>
+		<val><![CDATA[请在您的汽车导航系统中输入电话：<span class="hl-red">098 982 3800</span> 查找BERRY万座店。]]></val>
 	</item>
 	<item>
 		<key>###View Larger Map###</key>
@@ -429,11 +429,11 @@
 	</item>
 	<item>
 		<key>###Full Scuba Equipment###</key>
-		<val>全套潜水器材</val>
+		<val>全套器材</val>
 	</item>
 	<item>
 		<key>###Each Item###</key>
-		<val>每样器材</val>
+		<val>单个器材</val>
 	</item>
 	<item>
 		<key>###Full Set dt###</key>
@@ -465,7 +465,7 @@
 	</item>
 	<item>
 		<key>###Mobile###</key>
-		<val>移动電話</val>
+		<val>手机号码</val>
 	</item>
 	<item>
 		<key>###Date of Trip###</key>
@@ -505,7 +505,7 @@
 	</item>
 	<item>
 		<key>###Foot size###</key>
-		<val>脚的尺寸（厘米）</val>
+		<val>鞋码（厘米）</val>
 	</item>
 	<item>
 		<key>###Leisure Diving and Refresher Dive###</key>
@@ -525,7 +525,7 @@
 	</item>
 	<item>
 		<key>###Date last dive###</key>
-		<val>最後潜水时间</val>
+		<val>最近一次潜水时间</val>
 	</item>
 	<item>
 		<key>###For equipement rental dive###</key>
@@ -545,7 +545,7 @@
 	</item>
 	<item>
 		<key>###Do you need Hotel Transfer Onna###</key>
-		<val>是否需要酒店接送? (限恩納村內)</val>
+		<val>是否需要酒店接送? (限恩纳村內)</val>
 	</item>
 	<item>
 		<key>###Yes###</key>
@@ -557,7 +557,7 @@
 	</item>
 	<item>
 		<key>###Transportation Msg###</key>
-		<val>亲爱的客人您好, 不论您需不需要旅馆的接送服务, 我们都需要请您提供您在冲绳的酒店或是其它的住宿的联络资讯, 以便因天气或是任何其它状况发生时, 我们可以联络到您.</val>
+		<val>亲爱的客人，您好。无论您是否需要酒店接送服务，我们都希望您提供您在冲绳下榻的酒店或其他住宿地点的联络方式，以便因天气或其他意外状况发生时与您联络。</val>
 	</item>
 	<item>
 		<key>###Hotel Name###</key>
@@ -573,31 +573,31 @@
 	</item>
 	<item>
 		<key>###Hotel Pick-Up time###</key>
-		<val>酒店接送時間</val>
+		<val>酒店接送时间</val>
 	</item>
 	<item>
 		<key>###Hotel pick up time message###</key>
-		<val>酒店接送时间会在活动前一晚 18:00左右, 由住宿酒店转达</val>
+		<val>酒店接送时间会在活动前一晚 18:00左右, 由住宿酒店转达。</val>
 	</item>
 	<item>
 		<key>###For own transportation###</key>
-		<val>自行驾車</val>
+		<val>自行驾车</val>
 	</item>
 	<item>
 		<key>###For own transportation dt###</key>
-		<val><![CDATA[请在您的汽车导航系统中输入我们的电话: <strong>098 869 6329</strong> 或是输入 <strong>MAP CODE - 33246627*42</strong>來找到我们<br><span class="hl-red">注意* 自行驾车请在 08:00前到达我们 SEASIR那霸的店铺. 我们有免费的停车场.</span>]]></val>
+		<val><![CDATA[请您使用电话号码：<strong>098 869 6329</strong> 或 <strong>MAP CODE：33246627*42</strong>在汽车导航系统中查询那霸店。<br><span class="hl-red">注意：自行驾车请在早8:00前到达SEASIR那霸店。可以提供免费停车场。</span>]]></val>
 	</item>
 	<item>
 		<key>###For own transportation berry###</key>
-		<val>若您自行驾车, 我们有免费的停车场.</val>
+		<val>若您自行驾车, 我们有免费的停车场。</val>
 	</item>
 	<item>
 		<key>###For own transportation berry dt###</key>
-		<val><![CDATA[<ul><li>若要到 Marine Club BERRY 请在您的汽车导航系统中输入我们的电话: <strong>098 928 3800</strong></li><li>若要到 Kouki BEACH 请在您的汽车导航系统中输入我们的 MAP CODE: <strong>206444213 *85</strong></li></ul>]]></val>
+		<val><![CDATA[<ul><li>若要到 Marine Club BERRY 请在您的汽车导航系统中输入电话: <strong>098 928 3800</strong></li><li>若要到 Kouki BEACH 请在您的汽车导航系统中输入 MAP CODE: <strong>206444213 *85</strong></li></ul>]]></val>
 	</item>
 	<item>
 		<key>###CANCELLATION POLICY and HEALTH CHECK LIST###</key>
-		<val>关于预约取消和自我健检表</val>
+		<val>关于预约取消和健康自检表</val>
 	</item>
 	<item>
 		<key>###cancellation dt###</key>

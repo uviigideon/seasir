@@ -1,7 +1,7 @@
 <items>
     <item>
         <key>###H2###</key>
-        <val>PADI 水肺潜水课程预约表</val>
+        <val>PADI潜水课程 预约表</val>
     </item>
     <item>
         <key>###Open water Diver###</key>
@@ -53,7 +53,7 @@
     </item>
     <item>
         <key>###I would like bulabula###</key>
-        <val>我希望的课程日期 : </val>
+        <val>希望的课程日期 : </val>
     </item>
     <item>
         <key>###Date of Course###</key>
@@ -61,7 +61,7 @@
     </item>
     <item>
         <key>###Date of Course note###</key>
-        <val>“PADI水肺潜水後行程指导”建议您在一次潜水结束的12小时後再搭乘飞机，或数次潜水结束的18小时後再搭乘飞机。 (尽可能24小时後再搭乘)</val>
+        <val>一次潜水活动后，需休息12小时以上，方可搭乘飞机；数次潜水活动后，需休息18小时以上，方可搭乘飞机。</val>
     </item>
     <item>
         <key>###Check in Date###</key>

@@ -1,174 +1,150 @@
 <items>
-    <!-- {{{ Marine House SEASIR Naha -->
-    <item>
-        <key>###Marine House SEASIR Naha###</key>
-        <val>Marine House SEASIR 那霸</val>
-    </item>
-    <item>
-        <key>###Naha###</key>
-        <val>那霸</val>
-    </item>
-    <item>
-        <key>###Full day###</key>
-        <val>一日</val>
-    </item>
-    <item>
-        <key>###Half day###</key>
-        <val>半日</val>
-    </item>
-    <item>
-        <key>###Snorkeling package###</key>
-        <val>浮潜之旅</val>
-    </item>
-    <item>
-        <key>###Introductory Diving package###</key>
-        <val>体验潜水之旅</val>
-    </item>
-    <item>
-        <key>###Leisure Diving package###</key>
-        <val>休闲潜水之旅</val>
-    </item>
-    <item>
-        <key>###Refresher Diving course package###</key>
-        <val>复习潜水课程</val>
-    </item>
-    <item>
-        <key>###summer only###</key>
-        <val>(夏季限定)</val>
-    </item>
-    <item>
-        <key>###winter only###</key>
-        <val>(冬季限定)</val>
-    </item>
-    <!-- }}} Marine House SEASIR Naha -->
-    <!-- {{{ Marine House SEASIR AKA -->
-    <item>
-        <key>###Marine House SEASIR AKA###</key>
-        <val>Marine House SEASIR 阿嘉岛</val>
-    </item>
-    <item>
-        <key>###AKA###</key>
-        <val>阿嘉岛</val>
-    </item>
-    <item>
-        <key>###Pension###</key>
-        <val>住宿</val>
-    </item>
-    <item>
-        <key>###Snorkeling###</key>
-        <val>浮潜</val>
-    </item>
-    <item>
-        <key>###Introductory Diving###</key>
-        <val>体验潜水</val>
-    </item>
-    <item>
-        <key>###Leisure Diving###</key>
-        <val>休闲潜水</val>
-    </item>
-    <item>
-        <key>###Refresher Diving course###</key>
-        <val>复习潜水课程</val>
-    </item>
-    <item>
-        <key>###Night Dive###</key>
-        <val>夜潜</val>
-    </item>
-    <!-- }}} Marine House SEASIR AKA -->
-    <!-- {{{ Special Dive Trip & SEAPEOPLE -->
-    <item>
-        <key>###Special Dive Trip###</key>
-        <val>特色潜水行程</val>
-    </item>
-    <item>
-        <key>###Okinawa daily diving trip###</key>
-        <val>冲绳一日潜水行程</val>
-    </item>
-    <item>
-        <key>###Oversea diving trip###</key>
-        <val>海外潜水行程</val>
-    </item>
-    <item>
-        <key>###SEAPEOPLE retails###</key>
-        <val>SEAPEOPLE海人商店</val>
-    </item>
-    <item>
-        <key>###Equipment Brands###</key>
-        <val>专业潜水器材专卖店</val>
-    </item>
-    <item>
-        <key>###Location###</key>
-        <val>位置资讯</val>
-    </item>
-    <!-- }}} Special Dive Trip & SEAPEOPLE -->
-    <!-- {{{ Marine Club BERRY -->
-    <item>
-        <key>###Marine Club BERRY###</key>
-        <val>Marine Club BERRY</val>
-    </item>
-    <item>
-        <key>###Water Sports Activity###</key>
-        <val>水中活动: 海底漫步、浮潜、体验潜水、休闲潜水</val>
-    </item>
-    <item>
-        <key>###Jet Activity###</key>
-        <val>JET水上活动: 香蕉船、滑翔伞、水上钢铁人</val>
-    </item>
-    <item>
-        <key>###Kayak Activity###</key>
-        <val>独木舟活动: 海洋独木舟、红树林独木舟</val>
-    </item>
-    <item>
-        <key>###Paintball###</key>
-        <val>漆弹生存游戏</val>
-    </item>
-    <!-- }}} Marine Club BERRY -->
-    <!-- {{{ PADI diving Course -->
-    <item>
-        <key>###PADI diving Course###</key>
-        <val>PADI潜水课程</val>
-    </item>
-    <item>
-        <key>###PADI Open Water Diver Course###</key>
-        <val>PADI Open Water Diver 开放水域潜水员课程</val>
-    </item>
-    <item>
-        <key>###PADI Advanced Diver Course###</key>
-        <val>PADI Advanced Diver 进阶潜水员课程</val>
-    </item>
-    <item>
-        <key>###Emergency First Responder Course###</key>
-        <val>Emergency First Responder 课程</val>
-    </item>
-    <item>
-        <key>###PADI Rescue Diver Course###</key>
-        <val>PADI Rescue Diver 课程</val>
-    </item>
-    <!-- }}} PADI diving Course -->
-    <item>
-        <key>###MyPlace Guest House###</key>
-        <val>MyPlace青年旅馆</val>
-    </item>
-    <item>
-        <key>###Cool Okinawa travel###</key>
-        <val>酷酷冲绳游</val>
-    </item>
-    <item>
-        <key>###Cool Okinawa travel ln###</key>
-        <val><![CDATA[http://www.coolokinawa.com/cn/]]></val>
-    </item>
-    <item>
-        <key>###fotoShisa###</key>
-        <val>fotoShisa专业摄影</val>
-    </item>
-    <item>
-        <key></key>
-        <val></val>
-    </item>
-    <item>
-        <key></key>
-        <val><![CDATA[
-            ]]></val>
-    </item>
+	<item>
+		<key>###Marine House SEASIR Naha###</key>
+		<val>Marine House SEASIR 那霸</val>
+	</item>
+	<item>
+		<key>###Naha###</key>
+		<val>那霸</val>
+	</item>
+	<item>
+		<key>###Full day###</key>
+		<val>一日</val>
+	</item>
+	<item>
+		<key>###Half day###</key>
+		<val>半日</val>
+	</item>
+	<item>
+		<key>###Snorkeling package###</key>
+		<val>浮潜之旅</val>
+	</item>
+	<item>
+		<key>###Introductory Diving package###</key>
+		<val>体验潜水之旅</val>
+	</item>
+	<item>
+		<key>###Leisure Diving package###</key>
+		<val>休闲潜水之旅</val>
+	</item>
+	<item>
+		<key>###Refresher Diving course package###</key>
+		<val>复习潜水课程</val>
+	</item>
+	<item>
+		<key>###summer only###</key>
+		<val>(夏季限定)</val>
+	</item>
+	<item>
+		<key>###winter only###</key>
+		<val>(冬季限定)</val>
+	</item>
+	<item>
+		<key>###Marine House SEASIR AKA###</key>
+		<val>Marine House SEASIR 阿嘉岛</val>
+	</item>
+	<item>
+		<key>###AKA###</key>
+		<val>阿嘉岛</val>
+	</item>
+	<item>
+		<key>###Pension###</key>
+		<val>住宿</val>
+	</item>
+	<item>
+		<key>###Snorkeling###</key>
+		<val>浮潜</val>
+	</item>
+	<item>
+		<key>###Introductory Diving###</key>
+		<val>体验潜水</val>
+	</item>
+	<item>
+		<key>###Leisure Diving###</key>
+		<val>休闲潜水</val>
+	</item>
+	<item>
+		<key>###Refresher Diving course###</key>
+		<val>复习潜水课程</val>
+	</item>
+	<item>
+		<key>###Night Dive###</key>
+		<val>夜潜</val>
+	</item>
+	<item>
+		<key>###Special Dive Trip###</key>
+		<val>特色潜水行程</val>
+	</item>
+	<item>
+		<key>###Okinawa daily diving trip###</key>
+		<val>冲绳一日潜水行程</val>
+	</item>
+	<item>
+		<key>###Oversea diving trip###</key>
+		<val>海外潜水行程</val>
+	</item>
+	<item>
+		<key>###SEAPEOPLE retails###</key>
+		<val>SEAPEOPLE 海人商店</val>
+	</item>
+	<item>
+		<key>###Equipment Brands###</key>
+		<val>专业潜水器材专卖店</val>
+	</item>
+	<item>
+		<key>###Location###</key>
+		<val>位置资讯</val>
+	</item>
+	<item>
+		<key>###Marine Club BERRY###</key>
+		<val>Marine Club BERRY</val>
+	</item>
+	<item>
+		<key>###Water Sports Activity###</key>
+		<val>水中活动: 海底漫步、浮潜、体验潜水、休闲潜水</val>
+	</item>
+	<item>
+		<key>###Jet Activity###</key>
+		<val>JET水上活动: 香蕉船、滑翔伞、水上钢铁人</val>
+	</item>
+	<item>
+		<key>###Kayak Activity###</key>
+		<val>独木舟活动: 海洋独木舟、红树林独木舟</val>
+	</item>
+	<item>
+		<key>###Paintball###</key>
+		<val>彩弹射击</val>
+	</item>
+	<item>
+		<key>###PADI diving Course###</key>
+		<val>PADI 潜水课程</val>
+	</item>
+	<item>
+		<key>###PADI Open Water Diver Course###</key>
+		<val>PADI Open Water Diver 开放水域潜水员课程</val>
+	</item>
+	<item>
+		<key>###PADI Advanced Diver Course###</key>
+		<val>PADI Advanced Diver 进阶潜水员课程</val>
+	</item>
+	<item>
+		<key>###Emergency First Responder Course###</key>
+		<val>Emergency First Responder 课程</val>
+	</item>
+	<item>
+		<key>###PADI Rescue Diver Course###</key>
+		<val>PADI Rescue Diver 课程</val>
+	</item>
+	<item>
+		<key>###Cool Okinawa travel###</key>
+		<val>酷酷冲绳游</val>
+	</item>
+	<item>
+		<key>###Cool Okinawa travel ln###</key>
+		<val><![CDATA[http://www.coolokinawa.com/cn/]]></val>
+	</item>
+	<item>
+		<key>###fotoShisa###</key>
+		<val>fotoShisa 专业摄影</val>
+	</item>
 </items>
-

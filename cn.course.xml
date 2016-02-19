@@ -1,7 +1,7 @@
 <items>
 	<item>
 		<key>###headTitle###</key>
-		<val>冲绳 PADI 潜水课程</val>
+		<val>PADI潜水课程 提供英语、汉语、粤语教学服务</val>
 	</item>
 	<item>
 		<key>###headDesc###</key>
@@ -13,11 +13,11 @@
 	</item>
 	<item>
 		<key>###H2###</key>
-		<val>和说英文, 中文和广东话的教练一起学习 PADI 潜水课程.</val>
+		<val>PADI潜水课程 提供英语、汉语、粤语教学服务</val>
 	</item>
 	<item>
 		<key>###course intro###</key>
-		<val>我们以国际知名的 PADI 认证做为潜水课程的认证. 我们友善的教练会以英文, 中文, 广东話及马来西亚语指导您潜水技巧.</val>
+		<val>Marine House SEASIR为国际知名潜水组织PADI认证的五星级潜水中心及五星级教练发展中心，可以提供英语、汉语、粤语及马来西亚语教学服务。</val>
 	</item>
 	<item>
 		<key>###English or Mandarin###</key>
@@ -25,13 +25,16 @@
 	</item>
 	<item>
 		<key>###PADI Open Water Diver Course###</key>
-		<val>PADI Open Water 潜水课程</val>
+		<val>PADI Open Water Diver 训练课程</val>
+
+
+        
 	</item>
 	<item>
 		<key>###OW Schedule###</key>
 		<val><![CDATA[
-            <li>Day 1 - 学科课程及平静水域训练 (半天的游泳池训练)</li>
-            <li>Day 2 -开放水域第 1 潜及第 2 潜</li>
+            <li>Day 1 - 上午：学科课程；下午：平静水域训练（游泳池进行）</li>
+            <li>Day 2 - 开放水域第 1 潜及第 2 潜</li>
             <li>Day 3 - 开放水域第 3 潜及第 4 潜</li>
             ]]></val>
 	</item>
@@ -46,13 +49,13 @@
 	<item>
 		<key>###Requirement from candidate li###</key>
 		<val><![CDATA[
-            <li>请访问PADI官网: <a href="http://www.padi.com" target="_blank">www.padi.com</a> 购买e-learning课程并直接支付费用USD184。（该费用不包括在PADI Open Water Diver 课程费用中。）<br>您必须至少在开始训练课程的 <span style="text-decoration: underline">3天前</span>通过PADI 官网完成PADI e-learning课程。请下载 <a href="./data/OW E-Learning Course Info.docx">OW E-Learning课程</a> 详情了解更多信息。</li>
-          <li>请点击此链接Health Check List完成 <a href="./health.htm" target="_blank">SEASIR健康自检表</a> 如果在健康自检表中您有任何问题的答案为“是”，则要请您在开始水肺潜水学习之前咨询职业医生并提供职业医生开具的书面证明。</li>
+            <li>请访问PADI官网: <a href="http://www.padi.com" target="_blank">www.padi.com</a> 购买e-learning课程并直接支付费用USD184。（该费用不包括在PADI Open Water Diver 课程费用中。）<br>您必须至少在开始训练课程的<span style="text-decoration: underline">3天前</span>通过PADI 官网完成PADI e-learning课程。请下载 <a href="./data/OW E-Learning Course Info.docx">OW E-Learning课程</a> 详情了解更多信息。</li>
+          <li>请点击此链接Health Check List完成 <a href="./health.htm" target="_blank">SEASIR健康自检表</a>, 如果在健康自检表中您有任何问题的答案为“是”，须请您在开始水肺潜水学习之前咨询职业医生并提供职业医生开具的书面证明。</li>
           <li>如果您预约的日期属于旺季，则需要每人加付JPY5,000。关于淡旺季划分，请参考如下日历：
-                <ul><li>SEASIR 那霸店，<a href="./cal.htm#2016" target="_blank">旺季请参看2016淡旺季日历</a></li>
-                    <li>Marine Club BERRY，<a href="./cal.htm#2016" target="_blank">旺季请参看2016淡旺季日历</a></li>
-                    <li>SEASIR 阿嘉岛店，旺季：<ul class="hl-red"><li>2016年4月28日-5月8日</li><li>2016年6月11日-10月10日。</li></ul></li></ul></li>
-          <li>在您开始训练当天，请您带好您的eRecord（包含所有项目成绩）和泳衣/換洗衣物到店</li>
+                <ul><li>Marine House SEASIR那霸店：<a href="./cal.htm#2016" target="_blank">2016年淡旺季日历</a></li>
+                    <li>Marine Club BERRY店：<a href="./cal.htm#2016" target="_blank">2016年淡旺季日历</a></li>
+                    <li>Marine House SEASIR阿嘉岛店, 旺季：<ul class="hl-red"><li>2016年4月28日-5月8日</li><li>2016年6月11日-10月10日。</li></ul></li></ul></li>
+          <li>训练课程当天，请携带您的eRecord（包含所有项目成绩）和两张照片（护照照片大小）到店。</li>
             ]]></val>
 	</item>
 	<item>
@@ -81,11 +84,11 @@
 	</item>
 	<item>
 		<key>###Meal###</key>
-		<val>便当</val>
+		<val>午餐</val>
 	</item>
 	<item>
 		<key>###Meal dt###</key>
-		<val>开放水域训练时提供便当做为午餐</val>
+		<val>两天开放水域训练时提供日式便当做为午餐</val>
 	</item>
 	<item>
 		<key>###Boat fee###</key>
@@ -93,7 +96,7 @@
 	</item>
 	<item>
 		<key>###Boat fee dt###</key>
-		<val>2 两天开放水域训练的乘船费</val>
+		<val>两天开放水域训练的乘船费</val>
 	</item>
 	<item>
 		<key>###Item included in Course###</key>
@@ -133,12 +136,12 @@
 	<item>
 		<key>###Requirement from candidate aow li###</key>
 		<val><![CDATA[
-          <li>请点击此链接Health Check List完成 <a href="./health.htm" target="_blank">SEASIR健康自检表</a> 如果在健康自检表中您有任何问题的答案为“是”，则要请您在开始水肺潜水学习之前咨询职业医生并提供职业医生开具的书面证明。</li>
+          <li>请点击此链接Health Check List完成 <a href="./health.htm" target="_blank">SEASIR健康自检表</a>, 如果在健康自检表中您有任何问题的答案为“是”，须请您在开始水肺潜水学习之前咨询职业医生并提供职业医生开具的书面证明。</li>
           <li>如果您预约的日期属于旺季，则需要每人加付JPY5,000。关于淡旺季划分，请参考如下日历：
-                <ul><li>SEASIR 那霸店，<a href="./cal.htm#2016" target="_blank">旺季请参看2016淡旺季日历</a></li>
-                    <li>Marine Club BERRY，<a href="./cal.htm#2016" target="_blank">旺季请参看2016淡旺季日历</a></li>
-                    <li>SEASIR 阿嘉岛店，旺季：<ul class="hl-red"><li>2016年4月28日-5月8日</li><li>2016年6月11日-10月10日。</li></ul></li></ul></li>
-          <li>PADI Open Water Diver的有效执照或有同样效力的证明材料（请提前说明）。</li>
+                <ul><li>Marine House SEASIR那霸店：<a href="./cal.htm#2016" target="_blank">2016年淡旺季日历</a></li>
+                    <li>Marine Club BERRY店：<a href="./cal.htm#2016" target="_blank">2016年淡旺季日历</a></li>
+                    <li>Marine House SEASIR阿嘉岛店，旺季：<ul class="hl-red"><li>2016年4月28日-5月8日</li><li>2016年6月11日-10月10日。</li></ul></li></ul></li>
+          <li>您需持有PADI Open Water Diver的有效执照或有同样效力的证明材料（如使用执照以外的证明材料，请提前说明）。</li>
             ]]></val>
 	</item>
 	<item>
@@ -159,7 +162,7 @@
 	</item>
 	<item>
 		<key>###Training Period dt###</key>
-		<val>2 天 5 次潜水课程</val>
+		<val>两天五次潜水课程</val>
 	</item>
 	<item>
 		<key>###Emergency First Responder Course###</key>
@@ -192,19 +195,19 @@
 	<item>
 		<key>###res Schedule###</key>
 		<val><![CDATA[
-            <li>Day 1 - 学科课程及 2 次的实际练习</li>
-            <li>Day 2 - 3 次的实际练习</li>
+            <li>Day 1 - 学科课程及两次实际练习</li>
+            <li>Day 2 - 三次实际练习</li>
             ]]></val>
 	</item>
 	<item>
 		<key>###Requirement from candidate res li###</key>
 		<val><![CDATA[
-          <li>请点击此链接Health Check List完成 <a href="./health.htm" target="_blank">SEASIR健康自检表</a> 如果在健康自检表中您有任何问题的答案为“是”，则要请您在开始水肺潜水学习之前咨询职业医生并提供职业医生开具的书面证明。</li>
+          <li>请点击此链接Health Check List完成 <a href="./health.htm" target="_blank">SEASIR健康自检表</a>, 如果在健康自检表中您有任何问题的答案为“是”，须请您在开始水肺潜水学习之前咨询职业医生并提供职业医生开具的书面证明。</li>
           <li>如果您预约的日期属于旺季，则需要每人加付JPY5,000。关于淡旺季划分，请参考如下日历：
-                <ul><li>SEASIR 那霸店，<a href="./cal.htm#2016" target="_blank">旺季请参看2016淡旺季日历</a></li>
-                    <li>Marine Club BERRY，<a href="./cal.htm#2016" target="_blank">旺季请参看2016淡旺季日历</a></li>
-                    <li>SEASIR 阿嘉岛店，旺季：<ul class="hl-red"><li>2016年4月28日-5月8日</li><li>2016年6月11日-10月10日。</li></ul></li></ul></li>
-          <li>PADI Open Water Diver的有效执照或有同样效力的证明材料（请提前说明）。</li>
+                <ul><li>Marine House SEASIR那霸店：<a href="./cal.htm#2016" target="_blank">2016年淡旺季日历</a></li>
+                    <li>Marine Club BERRY店：<a href="./cal.htm#2016" target="_blank">2016年淡旺季日历</a></li>
+                    <li>Marine House SEASIR阿嘉岛店，旺季：<ul class="hl-red"><li>2016年4月28日-5月8日</li><li>2016年6月11日-10月10日。</li></ul></li></ul></li>
+          <li>您需持有PADI Open Water Diver的有效执照或有同样效力的证明材料（如使用执照以外的证明材料，请提前说明）。</li>
             ]]></val>
 	</item>
 	<item>
@@ -217,6 +220,6 @@
 	</item>
 	<item>
 		<key>###Booking procedure dt###</key>
-		<val><![CDATA[点击<span class="booking-blue">马上报名</span>后,您需要填入可以联系到您的邮箱和所需的信息,然后提交预约表。如果报名成功，您会收到SEASIR LTD.账户的PayPal预约金请求邮件。为确保您的预约，请在收到预约金请求的3天之内支付每人5,000日元的预约金。如果距您的预约日期不到3天，请在24小时之内支付完成预约金。若在期限内未收到您的预约金，您的预约将会被自动取消。]]></val>
+		<val><![CDATA[点击<span class="booking-blue">“马上报名”</span>后，您需要填入可以联系到您的邮箱和所需信息，然后提交预约表。24小时之内您将会收到SEASIR官方账号发出的预约金请求。请您在收到预约金请求后的三日内完成支付以保留预约，金额为每位5，000日元。如您预约时距离活动日期已不足三日，请您在24小时内完成支付。]]></val>
 	</item>
 </items>
