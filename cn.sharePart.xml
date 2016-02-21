@@ -89,7 +89,7 @@
 	</item>
 	<item>
 		<key>###leisureDiving Note###</key>
-		<val>如果您超过12个月未参加潜水并潜水总次数少于30次，请您参加复习潜水。</val>
+		<val>如果您超过12个月未参加潜水并且潜水总次数少于30次，请您参加复习潜水。</val>
 	</item>
 	<item>
 		<key>###rest Note###</key>
@@ -137,7 +137,7 @@
 	</item>
 	<item>
 		<key>###Refresher Diving Desc Full###</key>
-		<val>专为持有潜水证但已超过12个月并且少于30次潜水经验的潜水员所设计的课程。参加此课程可以让您复习之前学习过的潜水知识和潜水技能。</val>
+		<val>专为持有潜水证但已超过12个月并且潜水总次数少于30次的潜水员所设计的课程。参加此课程可以让您复习之前学习过的潜水知识和潜水技能。</val>
 	</item>
 	<item>
 		<key>###2 dives Package###</key>
@@ -181,15 +181,15 @@
 	</item>
 	<item>
 		<key>###Open Water Diver Course###</key>
-		<val>Open Water 潜水课程</val>
+		<val>开放水域潜水员(OW)</val>
 	</item>
 	<item>
 		<key>###Advance Open Water Course###</key>
-		<val>进阶潜水</val>
+		<val>进阶潜水员(AOW)</val>
 	</item>
 	<item>
 		<key>###Rescue Diver Course###</key>
-		<val>救援潜水课程</val>
+		<val>救援潜水员</val>
 	</item>
 	<item>
 		<key>###Aka###</key>
@@ -253,7 +253,7 @@
 	</item>
 	<item>
 		<key>###checkAllYearCalendar###</key>
-		<val>看全年淡旺季行事历</val>
+		<val>看全年淡旺季月历</val>
 	</item>
 	<item>
 		<key>###dives###</key>
@@ -577,7 +577,7 @@
 	</item>
 	<item>
 		<key>###Hotel pick up time message###</key>
-		<val>酒店接送时间会在活动前一晚 18:00左右, 由住宿酒店转达。</val>
+		<val>酒店接送时间请于活动前一日下午16:00后查阅邮件，或到酒店前台确认传真</val>
 	</item>
 	<item>
 		<key>###For own transportation###</key>

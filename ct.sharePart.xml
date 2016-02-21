@@ -505,7 +505,7 @@
 	</item>
 	<item>
 		<key>###Foot size###</key>
-		<val>腳的尺寸（釐米）</val>
+		<val>鞋碼（公分）</val>
 	</item>
 	<item>
 		<key>###Leisure Diving and Refresher Dive###</key>
@@ -577,7 +577,7 @@
 	</item>
 	<item>
 		<key>###Hotel pick up time message###</key>
-		<val>酒店接送時間會在活動前一晚 18:00左右, 由住宿酒店轉達</val>
+		<val>酒店接送時間請於活動前一日下午16:00後查閱郵件，或到酒店前台確認傳真。</val>
 	</item>
 	<item>
 		<key>###For own transportation###</key>
@@ -589,7 +589,7 @@
 	</item>
 	<item>
 		<key>###For own transportation berry###</key>
-		<val>若您自行駕車, 我們有免費的停車場.</val>
+		<val>若您自行駕車, 我們提供免費的停車場.</val>
 	</item>
 	<item>
 		<key>###For own transportation berry dt###</key>

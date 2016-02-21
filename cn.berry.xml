@@ -1,11 +1,11 @@
 <items>
 	<item>
 		<key>###headTitle###</key>
-		<val>冲绳水上活动中心 Marine Club Berry</val>
+		<val>冲绳水上活动中心 Marine Club BERRY</val>
 	</item>
 	<item>
 		<key>###headDesc###</key>
-		<val>Marine Club Berry 成立於 2001 年是冲绳全年无休的水上活动中心, 提供多样化的水上活动任您选择, 独木舟, 香蕉船, 水上摩托车, 水中漫步, 提供给您最精彩的水上活动经验.</val>
+		<val>Marine Club BERRY 成立於 2001 年是冲绳全年无休的水上活动中心, 提供多样化的水上活动任您选择, 独木舟, 香蕉船, 水上摩托车, 水中漫步, 提供给您最精彩的水上活动经验.</val>
 	</item>
 	<item>
 		<key>###headKeywords###</key>
@@ -13,11 +13,11 @@
 	</item>
 	<item>
 		<key>###theTeam###</key>
-		<val>MARINE CLUB Berry</val>
+		<val>Marine Club BERRY</val>
 	</item>
 	<item>
 		<key>###theTeamIntro###</key>
-		<val>Marine Club Berry 成立于2001年，是冲绳全年无休的水上活动中心，提供多样化的水上活动。Marine Club Berry 共有三个分店，范围覆盖冲绳东西两岸。您无需担心如何安排假期时间，无论何时 Marine Club Berry 都能带您体验最精彩的水上活动。</val>
+		<val>Marine Club BERRY 成立于2001年，是冲绳全年无休的水上活动中心，提供多样化的水上活动。Marine Club BERRY 共有三个分店，范围覆盖冲绳东西两岸。您无需担心如何安排假期时间，无论何时 Marine Club BERRY 都能带您体验最精彩的水上活动。</val>
 	</item>
 	<item>
 		<key>###Water Sports###</key>
@@ -89,7 +89,7 @@
 	</item>
 	<item>
 		<key>###Active 3###</key>
-		<val>三项水上活动</val>
+		<val>Active 3</val>
 	</item>
 	<item>
 		<key>###Active 3 dt###</key>
@@ -97,7 +97,7 @@
 	</item>
 	<item>
 		<key>###Scream4###</key>
-		<val>尖叫四项目</val>
+		<val>Scream 4</val>
 	</item>
 	<item>
 		<key>###Scream4 dt###</key>
