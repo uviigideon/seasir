@@ -1,23 +1,15 @@
 (function() {
+ var normal = window.normal = {
+    2016:{
+        "MAY":{14:1,21:1,28:1},
+        "JUNE":{4:1,12:30},
+        "JULY":{1:31},
+        "AUGUST":{1:31},
+        "SEPTEMBER":{1:30},
+        "OCTOBER":{1:10}
+    }
+ }
  var peak = window.peak = {
- /*    2014:{
-        "APRIL":{26:1,27:1,28:1,29:1,30:1},
-        "MAY":{1:1,2:1,3:1,4:1,5:1,6:1},
-        "JUNE":{14:1,21:1,28:1},
-        "JULY":{5:1,12:1,19:1,20:1,21:1,26:1},
-        "AUGUST":{2:1,9:1,10:1,11:1,12:1,13:1,14:1,15:1,16:1,23:1,30:1},
-        "SEPTEMBER":{6:1,13:1,14:1,15:1,20:1,21:1,22:1,23:1,27:1},
-        "OCTOBER":{4:1,11:1,12:1,13:1}
-     },
-     2015:{
-        "APRIL":{25:1,26:1,27:1,28:1,29:1,30:1},
-        "MAY":{1:1,2:1,3:1,4:1,5:1,6:1},
-        "JUNE":{13:1,20:1,27:1},
-        "JULY":{4:1,11:1,18:1,19:1,20:1,25:1},
-        "AUGUST":{1:1,8:1,12:1,13:1,14:1,15:1,16:1,17:1,22:1,29:1},
-        "SEPTEMBER":{5:1,12:1,19:1,20:1,21:1,22:1,23:1,26:1},
-        "OCTOBER":{3:1,10:1,11:1,12:1}
-     },*/
      2016:{
         "APRIL":{29:1,30:1},
         "MAY":{1:1,2:1,3:1,4:1,5:1,6:1,7:1,8:1},
@@ -30,6 +22,9 @@
  };
  var MONTH = ["JANUARY","FEBRUARY","MARCH","APRIL","MAY","JUNE","JULY","AUGUST","SEPTEMBER","OCTOBER","NOVEMBER","DECEMBER"];
  var WEEK = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+ var T_LOW = 0; var T_NORMAL = 1; var T_PEAK = 2;
+ var SEASON_TYPE = ["low","normal","peak"];
+ 
  var util = {
     getMonthEndDay: function(year,month){
         return (new Date(year,month,0)).getDate();
@@ -80,7 +75,6 @@
     },
     _genOneMonth: function(dt){
         var strArr = ['<table class="cal"><tr><th colspan="7">'];
-        var peakTable = peak[dt.getFullYear()][MONTH[dt.getMonth()]];
         strArr[strArr.length] = MONTH[dt.getMonth()];
         strArr[strArr.length] = '</th></tr><tr><td class="weekend">Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td class="weekend">Sat</td></tr><tr>';
         for (var i=0;i<dt.getDay();++i)
@@ -92,9 +86,9 @@
                 strArr[strArr.length] = '</tr><tr>';
                 ++r;
             }
-            strArr[strArr.length] = '<td';
-            if (peakTable && peakTable[dt.getDate()])
-                strArr[strArr.length] = ' class="peak"';
+            strArr[strArr.length] = '<td class=';
+
+            strArr[strArr.length] = SEASON_TYPE[this._getSeasonType(dt)];
             strArr[strArr.length] = '>';
             strArr[strArr.length] = dt.getDate();
             strArr[strArr.length] = '</td>';
@@ -112,6 +106,22 @@
             strArr[strArr.length] = '<tr><td colspan="7">&nbsp;</td></tr>';
         strArr[strArr.length] = '</table>';
         return strArr.join('');
+    },
+    _getSeasonType(dt){
+        var normalTable = normal[dt.getFullYear()][MONTH[dt.getMonth()]];
+        var peakTable = peak[dt.getFullYear()][MONTH[dt.getMonth()]];
+        var day = dt.getDate();
+        if (peakTable && this._testHit(peakTable,day)) return T_PEAK;
+        if (normalTable && this._testHit(normalTable,day)) return T_NORMAL; 
+        return T_LOW;
+    },
+    _testHit(table,day) {
+            for (var key in table) {
+                if (day == key) return true;
+                if (key < day && day <=table[key])
+                    return true;
+            }
+            return false;
     }
  }
  

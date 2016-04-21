@@ -120,6 +120,14 @@
         <val>Snorkeling</val>
     </item>
     <item>
+        <key>###Child###</key>
+        <val>Child (age 6 to 12)</val>
+    </item>
+    <item>
+        <key>###Adult###</key>
+        <val>Adult</val>
+    </item>
+    <item>
         <key>###Snorkeling Package###</key>
         <val>Snorkeling Package</val>
     </item>
@@ -154,6 +162,10 @@
     <item>
         <key>###2 dives with own equipments###</key>
         <val>2 dives with own equipments</val>
+    </item>
+    <item>
+        <key>###with own equipment###</key>
+        <val>with own equipment</val>
     </item>
     <item>
         <key>###Marine walk###</key>
@@ -298,6 +310,10 @@
         <val>more</val>
     </item>
     <item>
+        <key>###lowSeason###</key>
+        <val>Low Season</val>
+    </item>
+    <item>
         <key>###normalSeason###</key>
         <val>Normal Season</val>
     </item>
@@ -348,6 +364,24 @@
         <val>To make a booking</val>
     </item>   
     <!-- }}} RSTUVWXYZ -->
+    <!-- {{{ Month -->
+    <item>
+        <key>###October###</key>
+        <val>October</val>
+    </item>
+    <item>
+        <key>###June###</key>
+        <val>June</val>
+    </item>
+    <item>
+        <key>###July###</key>
+        <val>July</val>
+    </item>
+    <item>
+        <key>###September###</key>
+        <val>September</val>
+    </item>
+    <!-- }}} Month -->
     <!-- }}} item name -->
     <!-- {{{ addrs -->
     <item>

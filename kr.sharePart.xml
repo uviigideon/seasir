@@ -112,6 +112,14 @@
 		<val>스노클링</val>
 	</item>
 	<item>
+		<key>###Child###</key>
+		<val>어린이 (만 6 세~12 세)</val>
+	</item>
+	<item>
+		<key>###Adult###</key>
+		<val>성인</val>
+	</item>
+	<item>
 		<key>###Snorkeling Package###</key>
 		<val>스노클링 패키지</val>
 	</item>
@@ -146,6 +154,10 @@
 	<item>
 		<key>###2 dives with own equipments###</key>
 		<val>2 다이브(개인장비)</val>
+	</item>
+	<item>
+		<key>###with own equipment###</key>
+		<val>개인장비이용</val>
 	</item>
 	<item>
 		<key>###Marine walk###</key>
@@ -280,8 +292,12 @@
 		<val>보다 더</val>
 	</item>
 	<item>
+		<key>###lowSeason###</key>
+		<val>비성수기 </val>
+	</item>
+	<item>
 		<key>###normalSeason###</key>
-		<val>비성수기</val>
+		<val>성수기</val>
 	</item>
 	<item>
 		<key>###packageIncludes###</key>
@@ -289,7 +305,7 @@
 	</item>
 	<item>
 		<key>###peakSeason###</key>
-		<val>성수기</val>
+		<val>최고성수기</val>
 	</item>
 	<item>
 		<key>###priceFrom###</key>
@@ -326,6 +342,23 @@
 	<item>
 		<key>###To make a booking###</key>
 		<val>등록을 원하십니까?</val>
+	</item>
+	<item>
+		<key>###October###</key>
+		<val>10 월</val>
+	</item>
+	<item>
+		<key>###June###</key>
+		<val>6 월</val>
+	</item>
+	<item>
+		<key>###July###</key>
+		<val>7 월</val>
+		<val>July</val>
+	</item>
+	<item>
+		<key>###September###</key>
+		<val>9 월</val>
 	</item>
 	<item>
 		<key>###Marine House SEASIR###</key>

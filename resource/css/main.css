@@ -178,6 +178,7 @@ vertical-align: super;
 .cal td {height:20px;width:40px;padding:1px 0;}
 .weekend {color:#f33;}
 .peak {color:white;background-color:red;}
+.normal {background-color:yellow;}
 .cal-box {
     display:inline-block;
     width:30px;height:20px;
@@ -185,7 +186,8 @@ vertical-align: super;
     margin:0 10px 0 0;
     vertical-align:top;
 }
-.cal-red-box {background-color:red;margin-left:100px;}
+.cal-yellow-box {background-color:yellow;margin-left:60px;}
+.cal-red-box {background-color:red;margin-left:60px;}
 .cal-index {font-size:20px;font-weight:600;margin:10px 0}
 /* }}} cal */
 /* {{{ packages */

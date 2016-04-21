@@ -93,7 +93,7 @@
 	</item>
 	<item>
 		<key>###rest Note###</key>
-        <val>活动结束后需休息18小时以上，方可搭乘飞机。</val>
+		<val>活动结束后需休息18小时以上，方可搭乘飞机。</val>
 	</item>
 	<item>
 		<key>###introDiving###</key>
@@ -110,6 +110,14 @@
 	<item>
 		<key>###snorkeling###</key>
 		<val>浮潜</val>
+	</item>
+	<item>
+		<key>###Child###</key>
+		<val>小孩 (6~12 岁) </val>
+	</item>
+	<item>
+		<key>###Adult###</key>
+		<val>成人</val>
 	</item>
 	<item>
 		<key>###Snorkeling Package###</key>
@@ -141,11 +149,15 @@
 	</item>
 	<item>
 		<key>###2 dives Package###</key>
-		<val>2 潜行程</val>
+		<val>2 潜 (含全套租借器材)</val>
 	</item>
 	<item>
 		<key>###2 dives with own equipments###</key>
-		<val>2 潜行程且自带装备</val>
+		<val>2 潜 (不含租借器材)</val>
+	</item>
+	<item>
+		<key>###with own equipment###</key>
+		<val>不含租借器材</val>
 	</item>
 	<item>
 		<key>###Marine walk###</key>
@@ -280,8 +292,12 @@
 		<val>更多</val>
 	</item>
 	<item>
-		<key>###normalSeason###</key>
+		<key>###lowSeason###</key>
 		<val>淡季</val>
+	</item>
+	<item>
+		<key>###normalSeason###</key>
+		<val>平时</val>
 	</item>
 	<item>
 		<key>###packageIncludes###</key>
@@ -326,6 +342,22 @@
 	<item>
 		<key>###To make a booking###</key>
 		<val>想要报名?</val>
+	</item>
+	<item>
+		<key>###October###</key>
+		<val>10月</val>
+	</item>
+	<item>
+		<key>###June###</key>
+		<val>7月</val>
+	</item>
+	<item>
+		<key>###July###</key>
+		<val>6月</val>
+	</item>
+	<item>
+		<key>###September###</key>
+		<val>9月</val>
 	</item>
 	<item>
 		<key>###Marine House SEASIR###</key>

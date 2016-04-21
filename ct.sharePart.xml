@@ -112,6 +112,14 @@
 		<val>浮潛</val>
 	</item>
 	<item>
+		<key>###Child###</key>
+		<val>小孩 ( 6~12 歲 )</val>
+	</item>
+	<item>
+		<key>###Adult###</key>
+		<val>成人</val>
+	</item>
+	<item>
 		<key>###Snorkeling Package###</key>
 		<val>浮潛之旅</val>
 	</item>
@@ -141,11 +149,15 @@
 	</item>
 	<item>
 		<key>###2 dives Package###</key>
-		<val>2 潛行程</val>
+		<val>2 潛 (含全套租借器材)</val>
 	</item>
 	<item>
 		<key>###2 dives with own equipments###</key>
-		<val>2 潛行程且自帶裝備</val>
+		<val>2 潛 (不含租借器材)</val>
+	</item>
+	<item>
+		<key>###with own equipment###</key>
+		<val>不含租借器材</val>
 	</item>
 	<item>
 		<key>###Marine walk###</key>
@@ -280,6 +292,10 @@
 		<val>更多</val>
 	</item>
 	<item>
+		<key>###lowSeason###</key>
+		<val>淡季</val>
+	</item>
+	<item>
 		<key>###normalSeason###</key>
 		<val>平時</val>
 	</item>
@@ -289,7 +305,7 @@
 	</item>
 	<item>
 		<key>###peakSeason###</key>
-		<val>忙季</val>
+		<val>旺季</val>
 	</item>
 	<item>
 		<key>###priceFrom###</key>
@@ -326,6 +342,22 @@
 	<item>
 		<key>###To make a booking###</key>
 		<val>想要報名?</val>
+	</item>
+	<item>
+		<key>###October###</key>
+		<val>10月</val>
+	</item>
+	<item>
+		<key>###June###</key>
+		<val>6月</val>
+	</item>
+	<item>
+		<key>###July###</key>
+        <val>7月</val>
+	</item>
+	<item>
+		<key>###September###</key>
+		<val>9月</val>
 	</item>
 	<item>
 		<key>###Marine House SEASIR###</key>
