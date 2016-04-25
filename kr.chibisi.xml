@@ -1,95 +1,95 @@
 <items>
-    <!-- {{{ header -->
-    <item>
-        <key>###headTitle###</key>
-        <val>SEASIR 나하지점 반나절 다이빙, 스노클링 투어(Kerama Islands)</val>
-    </item>
-    <item>
-        <key>###headDesc###</key>
-        <val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI provide English, Mandarin and Cantonese speaking marine staff</val>
-    </item>
-    <item>
-        <key>###headKeywords###</key>
-        <val>Okinawa,Water,Sports,Dive,Diving,Snorkeling,English,Foreign,Cantonese,Chinese,Mandarin</val>
-    </item>
-    <!-- }}} header -->
-    <item>
-        <key>###theTeam###</key>
-        <val>SEASIR 나하지점 반나절 다이빙, 스노클링 투어(Kerama Islands)</val>
-    </item>
-    <item>
-        <key>###theTeamIntro###</key>
-        <val><![CDATA[케라마 국립공원은 눈부시게 푸른 바다와 화려한 색깔의 산호, 열대어들로 유명합니다. 케라마로의 반나절 투어는 오키나와를 방문했다면 절대로 빠트려서는 안 될 체험입니다. 스노클링과 다이빙으로 누구나 즐거운 기억을 남기실 수 있습니다. SEASIR나하 지점 근처 항구에서 출발합니다. 자세한 내용은 아래를 참고하세요.
+	<item>
+		<key>###headTitle###</key>
+		<val>SEASIR 나하지점 반나절 다이빙, 스노클링 투어(Kerama Islands)</val>
+	</item>
+	<item>
+		<key>###headDesc###</key>
+		<val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI provide English, Mandarin and Cantonese speaking marine staff</val>
+	</item>
+	<item>
+		<key>###headKeywords###</key>
+		<val>Okinawa,Water,Sports,Dive,Diving,Snorkeling,English,Foreign,Cantonese,Chinese,Mandarin</val>
+	</item>
+	<item>
+		<key>###theTeam###</key>
+		<val>SEASIR 나하지점 반나절 다이빙, 스노클링 투어(Kerama Islands)</val>
+	</item>
+	<item>
+		<key>###theTeamIntro###</key>
+		<val><![CDATA[케라마 국립공원은 눈부시게 푸른 바다와 화려한 색깔의 산호, 열대어들로 유명합니다. 케라마로의 반나절 투어는 오키나와를 방문했다면 절대로 빠트려서는 안 될 체험입니다. 스노클링과 다이빙으로 누구나 즐거운 기억을 남기실 수 있습니다. SEASIR나하 지점 근처 항구에서 출발합니다. 자세한 내용은 아래를 참고하세요.
 ]]></val>
-    </item>
-    <item>
-        <key>###Schedule###</key>
-        <val>일정</val>
-    </item>
-    <item>
-        <key>###AM TRIP###</key>
-        <val>AM TRIP</val>
-    </item>
-    <item>
-        <key>###PM TRIP###</key>
-        <val>PM TRIP</val>
-    </item>
-    <item>
-        <key>###Hotel Transfer###</key>
-        <val>호텔 픽업</val>
-    </item>
-    <item>
-        <key>###Registration and Equipment Preparation###</key>
-        <val>접수 및 장비 준비</val>
-    </item>
-    <item>
-        <key>###Depart to Kerama###</key>
-        <val>케라마 제도로 출발</val>
-    </item>
-    <item>
-        <key>###Snorkeling and Introductory Diving Activity###</key>
-        <val>스노클링 및 체험다이빙</val>
-    </item>
-    <item>
-        <key>###Depart back to Naha###</key>
-        <val>항구로 복귀</val>
-    </item>
-    <item>
-        <key>###Hotel Transfer Back###</key>
-        <val>호텔 송영</val>
-    </item>
-    <item>
-        <key>###Package Price and Detail###</key>
-        <val>가격 및 포함사항</val>
-    </item>
-    <item>
-        <key>###Package###</key>
-        <val>Package</val>
-    </item>
-    <item>
-        <key>###Snorkeling equipment###</key>
-        <val>스노클링 장비, 식수, 보험, 수건 및 호텔 송영 (나하 시내 한정)</val>
-    </item>
-    <item>
-        <key>###Same as Snorkeling Package###</key>
-        <val>스노클링 패키지 + 1회 스쿠버 다이빙 (약 20분)</val>
-    </item>
-    <item>
-        <key>###Booking procedure dt###</key>
-        <val><![CDATA[<div class="booking-procedure"><span class="booking-blue">지금 예약</span>을 클릭하신 후, 메일주소를 입력해 주십시오. 모든 정보를 입력한 후 제출해 주십시오. SEASIR LTD계정으로부터 예약금 결제를 위한 PayPal결제정보를 메일로 보내드립니다. 저희 PayPal 계정으로부터 결제요청을 받은 날로부터 3일 이내에 예약금 3,000엔을 결제하셔야 예약이 확정됩니다. 만약 출발일로부터 3일 이내에 예약할 경우, 24시간 이내에 결제하셔야 합니다. 결제하지 않을 경우, 모든 예약은 취소됩니다.</div>]]></val>
-        
-    </item>
-    <item>
-        <key>###Snorkeling Package Adult###</key>
-        <val>스노클링 패키지 (성인)</val>
-    </item>
-    <item>
-        <key>###Snorkeling Package Child###</key>
-        <val>스노클링 패키지 (어린이, 만 6~12세)</val>
-    </item>
-    <item>
-        <key>###Introductory Diving###</key>
-        <val>체험다이빙 (최소 연령 만 10세)</val>
-    </item>
+	</item>
+	<item>
+		<key>###Schedule###</key>
+		<val>일정</val>
+	</item>
+	<item>
+		<key>###AM TRIP###</key>
+		<val>AM TRIP</val>
+	</item>
+	<item>
+		<key>###PM TRIP###</key>
+		<val>PM TRIP</val>
+	</item>
+	<item>
+		<key>###Hotel Transfer###</key>
+		<val>호텔 픽업</val>
+	</item>
+	<item>
+		<key>###Registration and Equipment Preparation###</key>
+		<val>접수 및 장비 준비</val>
+	</item>
+	<item>
+		<key>###Depart to Kerama###</key>
+		<val>케라마 제도로 출발</val>
+	</item>
+	<item>
+		<key>###Snorkeling and Introductory Diving Activity###</key>
+		<val>스노클링 및 체험다이빙</val>
+	</item>
+	<item>
+		<key>###Depart back to Naha###</key>
+		<val>항구로 복귀</val>
+	</item>
+	<item>
+		<key>###Hotel Transfer Back###</key>
+		<val>호텔 송영</val>
+	</item>
+	<item>
+		<key>###Package Price and Detail###</key>
+		<val>가격 및 포함사항</val>
+	</item>
+	<item>
+		<key>###Package###</key>
+		<val>Package</val>
+	</item>
+	<item>
+		<key>###Booking procedure dt###</key>
+		<val><![CDATA[<div class="booking-procedure"><span class="booking-blue">지금 예약</span>을 클릭하신 후, 메일주소를 입력해 주십시오. 모든 정보를 입력한 후 제출해 주십시오. SEASIR LTD계정으로부터 예약금 결제를 위한 PayPal결제정보를 메일로 보내드립니다. 저희 PayPal 계정으로부터 결제요청을 받은 날로부터 3일 이내에 예약금 3,000엔을 결제하셔야 예약이 확정됩니다. 만약 출발일로부터 3일 이내에 예약할 경우, 24시간 이내에 결제하셔야 합니다. 결제하지 않을 경우, 모든 예약은 취소됩니다.</div>]]></val>
+	</item>
+	<item>
+		<key>###Snorkeling Package Adult###</key>
+		<val>스노클링 성인 </val>
+	</item>
+	<item>
+		<key>###Snorkeling Package Child###</key>
+		<val>어린이 (만 6 세~12 세)</val>
+	</item>
+	<item>
+		<key>###Introductory Diving###</key>
+        <val><![CDATA[체험다이빙 – 1 다이브<br>(만 10 세이상)]]></val>
+	</item>
+	<item>
+		<key>###Snorkeling equipment###</key>
+		<val>스노클링 장비, 식수, 보험, 수건 및 호텔 송영 (나하 시내 한정)</val>
+	</item>
+	<item>
+		<key>###Same as Snorkeling Package###</key>
+		<val>스노클링 패키지 + 1회 스쿠버 다이빙 (약 20분)</val>
+	</item>
+	<item>
+		<key>###leisure dt###</key>
+		<val>1 다이브 약 50~60 분.장비포함</val>
+	</item>
 </items>
-

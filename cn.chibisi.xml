@@ -1,94 +1,96 @@
 <items>
-    <!-- {{{ header -->
-    <item>
-        <key>###headTitle###</key>
-        <val>SEASIR 那霸 半日往返庆伊濑岛(庆良间诸岛) 体验潜水和浮潜之旅</val>
-    </item>
-    <item>
-        <key>###headDesc###</key>
-        <val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI provide English, Mandarin and Cantonese speaking marine staff</val>
-    </item>
-    <item>
-        <key>###headKeywords###</key>
-        <val>冲绳,冲縄,水上活动,潜水,浮潜,中文,广东话,台湾,中国,香港,外国人</val>
-    </item>
-    <!-- }}} header -->
-    <item>
-        <key>###theTeam###</key>
-        <val>SEASIR那霸 半日往返庆伊濑岛（庆良间诸岛）体验潜水和浮潜之旅</val>
-    </item>
-    <item>
-        <key>###theTeamIntro###</key>
-        <val><![CDATA[庆良间诸岛是日本的国立公园，因澄澈湛蓝的海水以及五彩斑斓的珊瑚鱼群而闻名于世，半天娱乐休闲行程的必去之处。在冲绳，绝不应该错过半天的庆良间诸岛纯美体验之旅。<br>
+	<item>
+		<key>###headTitle###</key>
+		<val>SEASIR 那霸 半日往返庆伊濑岛(庆良间诸岛) 体验潜水和浮潜之旅</val>
+	</item>
+	<item>
+		<key>###headDesc###</key>
+		<val>Okinawa Half Day Snorkeling and Introductory Diving to CHIBISI provide English, Mandarin and Cantonese speaking marine staff</val>
+	</item>
+	<item>
+		<key>###headKeywords###</key>
+		<val>冲绳,冲縄,水上活动,潜水,浮潜,中文,广东话,台湾,中国,香港,外国人</val>
+	</item>
+	<item>
+		<key>###theTeam###</key>
+		<val>SEASIR那霸 半日往返庆伊濑岛（庆良间诸岛）体验潜水和浮潜之旅</val>
+	</item>
+	<item>
+		<key>###theTeamIntro###</key>
+		<val><![CDATA[庆良间诸岛是日本的国立公园，因澄澈湛蓝的海水以及五彩斑斓的珊瑚鱼群而闻名于世，半天娱乐休闲行程的必去之处。在冲绳，绝不应该错过半天的庆良间诸岛纯美体验之旅。<br>
 在冲绳最好的潜水季节，SEASIR为您提供半天往返庆良间诸岛的体验潜水和浮潜套餐活动。从SEASIR那霸店附近的港口出发约30分钟可到达潜点。那霸市内酒店免费接送，方便快捷，让您轻松享受庆良间诸岛的魅力。详情如下。
 ]]></val>
-    </item>
-    <item>
-        <key>###Schedule###</key>
-        <val>行程安排</val>
-    </item>
-    <item>
-        <key>###AM TRIP###</key>
-        <val>上午行程</val>
-    </item>
-    <item>
-        <key>###PM TRIP###</key>
-        <val>下午行程</val>
-    </item>
-    <item>
-        <key>###Hotel Transfer###</key>
-        <val>那霸市内酒店接送</val>
-    </item>
-    <item>
-        <key>###Registration and Equipment Preparation###</key>
-        <val>信息登记和器材确认准备</val>
-    </item>
-    <item>
-        <key>###Depart to Kerama###</key>
-        <val>出发去庆良间诸岛</val>
-    </item>
-    <item>
-        <key>###Snorkeling and Introductory Diving Activity###</key>
-        <val>在庆良间诸岛享受体验潜水或浮潜</val>
-    </item>
-    <item>
-        <key>###Depart back to Naha###</key>
-        <val>返航回到那霸</val>
-    </item>
-    <item>
-        <key>###Hotel Transfer Back###</key>
-        <val>送回至那霸市内酒店</val>
-    </item>
-    <item>
-        <key>###Package Price and Detail###</key>
-        <val>套餐价格和详情</val>
-    </item>
-    <item>
-        <key>###Package###</key>
-        <val>套餐</val>
-    </item>
-    <item>
-        <key>###Snorkeling equipment###</key>
-        <val>浮潜器材, 冷热饮品, 保险, 1条浴巾,那霸市酒店接送</val>
-    </item>
-    <item>
-        <key>###Same as Snorkeling Package###</key>
-        <val>体验潜水1次（时长约20分钟），附加浮潜</val>
-    </item>
-    <item>
-        <key>###Booking procedure dt###</key>
-        <val><![CDATA[点击<b>“马上报名”</b>后，您需要填入可以联系到您的邮箱和所需信息，然后提交预约表。24小时之内您将会收到SEASIR官方账号发出的预约金请求。请您在收到预约金请求后的三日内完成支付以保留预约，金额为每位3，000日元。如您预约时距离活动日期已不足三日，请您在24小时内完成支付。]]></val>
-    </item>
-    <item>
-        <key>###Snorkeling Package Adult###</key>
-        <val>成人浮潜套餐</val>
-    </item>
-    <item>
-        <key>###Snorkeling Package Child###</key>
-        <val>儿童浮潜套餐 ( 6-12岁)</val>
-    </item>
-    <item>
-        <key>###Introductory Diving###</key>
-        <val>体验潜水套餐（年龄限制：10周岁以上）</val>
-    </item>
+	</item>
+	<item>
+		<key>###Schedule###</key>
+		<val>行程安排</val>
+	</item>
+	<item>
+		<key>###AM TRIP###</key>
+		<val>上午行程</val>
+	</item>
+	<item>
+		<key>###PM TRIP###</key>
+		<val>下午行程</val>
+	</item>
+	<item>
+		<key>###Hotel Transfer###</key>
+		<val>那霸市内酒店接送</val>
+	</item>
+	<item>
+		<key>###Registration and Equipment Preparation###</key>
+		<val>信息登记和器材确认准备</val>
+	</item>
+	<item>
+		<key>###Depart to Kerama###</key>
+		<val>出发去庆良间诸岛</val>
+	</item>
+	<item>
+		<key>###Snorkeling and Introductory Diving Activity###</key>
+		<val>在庆良间诸岛享受体验潜水或浮潜</val>
+	</item>
+	<item>
+		<key>###Depart back to Naha###</key>
+		<val>返航回到那霸</val>
+	</item>
+	<item>
+		<key>###Hotel Transfer Back###</key>
+		<val>送回至那霸市内酒店</val>
+	</item>
+	<item>
+		<key>###Package Price and Detail###</key>
+		<val>套餐价格和详情</val>
+	</item>
+	<item>
+		<key>###Package###</key>
+		<val>套餐</val>
+	</item>
+	<item>
+		<key>###Booking procedure dt###</key>
+		<val><![CDATA[点击<b>“马上报名”</b>后，您需要填入可以联系到您的邮箱和所需信息，然后提交预约表。24小时之内您将会收到SEASIR官方账号发出的预约金请求。请您在收到预约金请求后的三日内完成支付以保留预约，金额为每位3，000日元。如您预约时距离活动日期已不足三日，请您在24小时内完成支付。]]></val>
+	</item>
+	<item>
+		<key>###Snorkeling Package Adult###</key>
+		<val>浮潜 – 成人</val>
+	</item>
+	<item>
+		<key>###Snorkeling Package Child###</key>
+		<val>浮潜 – 小孩 (6~12 岁)</val>
+	</item>
+	<item>
+		<key>###Introductory Diving###</key>
+		<val>体验潜水 (10 岁以上)</val>
+	</item>
+	<item>
+		<key>###Snorkeling equipment###</key>
+		<val>浮潜器材, 冷热饮品, 保险, 1条浴巾, 那霸市酒店接送</val>
+	</item>
+	<item>
+		<key>###Same as Snorkeling Package###</key>
+		<val>体验潜水1次（时长约20分钟），附加浮潜</val>
+	</item>
+	<item>
+		<key>###leisure dt###</key>
+		<val>一次潜水(约 50~60 分钟)含全套租借器材，自带器材同价</val>
+	</item>
 </items>

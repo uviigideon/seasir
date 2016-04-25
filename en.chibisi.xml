@@ -68,14 +68,6 @@ A special design for a half day marine activity for anyone, this destination com
         <val>Package</val>
     </item>
     <item>
-        <key>###Snorkeling equipment###</key>
-        <val>Snorkeling equipment, drinking water, Insurance, Towel and Hotel Transfer(Naha City only)</val>
-    </item>
-    <item>
-        <key>###Same as Snorkeling Package###</key>
-        <val>Same as Snorkeling Package + 1 scuba dive (20 minutes)</val>
-    </item>
-    <item>
         <key>###Booking procedure dt###</key>
         <val><![CDATA[Click on <b>BOOKING NOW</b>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY3,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.]]></val>
     </item>
@@ -85,11 +77,25 @@ A special design for a half day marine activity for anyone, this destination com
     </item>
     <item>
         <key>###Snorkeling Package Child###</key>
-        <val>Snorkeling Package Child (age 6-12)</val>
+        <val><![CDATA[Snorkeling Package Child<br>(age 6 to 12)]]></val>
     </item>
     <item>
         <key>###Introductory Diving###</key>
-        <val>Introductory Diving (Minimum age 10)</val>
+        <val><![CDATA[Introductory Diving - 1 dive<br>(age 10 and above)]]></val>
+    </item>
+    <item>
+        <key>###Snorkeling equipment###</key>
+        <val>Snorkeling equipment, drinking water, Insurance, Towel and Hotel Transfer(Naha City only)</val>
+    </item>
+    <item>
+        <key>###Same as Snorkeling Package###</key>
+        <val>Same as Snorkeling Package + 1 scuba dive (20 minutes)</val>
+    </item>
+    <item>
+        <key>###leisure dt###</key>
+        <val>1 dive around 50~60 min, with
+rental equipment, no discount
+for own gear</val>
     </item>
 </items>
 
