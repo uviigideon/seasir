@@ -61,7 +61,11 @@
 	</item>
 	<item>
 		<key>###Weed Beach###</key>
-		<val>해초 비치</val>
+		<val>코우키 비치 (Kouki Beach)</val>
+	</item>
+	<item>
+		<key>###Weed Beach Addr###</key>
+		<val>117 Kouki, Nago City (베스트웨스턴리조트 오키나와 키세비치)</val>
 	</item>
 	<item>
 		<key>###Banana Boat Ride###</key>
@@ -134,6 +138,30 @@
 	<item>
 		<key>###Sea Kayak dt###</key>
 		<val>바다 카약 투어는 요도카리 섬 주변에서 푸른 동굴 중 한 곳을 방문하고 스노클링도 할 수 있습니다.</val>
+	</item>
+	<item>
+		<key>###gathering point###</key>
+		<val>집합장소</val>
+	</item>
+	<item>
+		<key>###ANA InterContinental Manza Beach Resort###</key>
+		<val>ANA InterContinental Manza Beach Resort –주차장</val>
+	</item>
+	<item>
+		<key>###SEA Kayak addr###</key>
+		<val>2260 Kunigami District, Onna Village, Okinawa</val>
+	</item>
+	<item>
+		<key>###Tel Number###</key>
+		<val>전화번호</val>
+	</item>
+	<item>
+		<key>###NATURE MIRAIKAN###</key>
+		<val>네이쳐미라이관</val>
+	</item>
+	<item>
+		<key>###Mangrove Kayak addr###</key>
+		<val>11818-2 Kin, Kin town, Okinawa</val>
 	</item>
 	<item>
 		<key>###Leisure Diveing dt###</key>

@@ -66,6 +66,10 @@
         <val>Kouki Beach</val>
     </item>
     <item>
+        <key>###Weed Beach Addr###</key>
+        <val>117 Kouki, Nago City (behind Hotel Best Western Okinawa Kouki Beach)</val>
+    </item>
+    <item>
         <key>###Banana Boat Ride###</key>
         <val>Banana Boat Ride</val>
     </item>
@@ -136,6 +140,30 @@
     <item>
         <key>###Sea Kayak dt###</key>
         <val>A sea kayak tour to visit one of the blue cave, and, snorkeling around at YODOKARI island.</val>
+    </item>
+    <item>
+        <key>###gathering point###</key>
+        <val>Location</val>
+    </item>
+    <item>
+        <key>###ANA InterContinental Manza Beach Resort###</key>
+        <val>ANA InterContinental Manza Beach Resort – Parking Area</val>
+    </item>
+    <item>
+        <key>###SEA Kayak addr###</key>
+        <val>2260 Kunigami District, Onna Village, Okinawa</val>
+    </item>
+    <item>
+        <key>###Tel Number###</key>
+        <val>Tel Number</val>
+    </item>
+    <item>
+        <key>###NATURE MIRAIKAN###</key>
+        <val>NATURE MIRAIKAN</val>
+    </item>
+    <item>
+        <key>###Mangrove Kayak addr###</key>
+        <val>11818-2 Kin, Kin town, Okinawa</val>
     </item>
     <item>
         <key>###Leisure Diveing dt###</key>

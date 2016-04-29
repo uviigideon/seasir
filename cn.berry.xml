@@ -61,7 +61,12 @@
 	</item>
 	<item>
 		<key>###Weed Beach###</key>
-		<val>Kouki Beach</val>
+		<val>幸喜海滩 (Kouki Beach)
+</val>
+	</item>
+	<item>
+		<key>###Weed Beach Addr###</key>
+		<val>名护市幸喜 117 (最佳西方度假酒店冲绳幸喜海滩)</val>
 	</item>
 	<item>
 		<key>###Banana Boat Ride###</key>
@@ -134,6 +139,30 @@
 	<item>
 		<key>###Sea Kayak dt###</key>
 		<val>海洋独木舟项目，可以在美丽的Yodokari岛附近进行浮潜。</val>
+	</item>
+	<item>
+		<key>###gathering point###</key>
+		<val>集合地点</val>
+	</item>
+	<item>
+		<key>###ANA InterContinental Manza Beach Resort###</key>
+		<val>ANA 洲际度假村酒店万座沙滩停车场</val>
+	</item>
+	<item>
+		<key>###SEA Kayak addr###</key>
+		<val>恩纳村濑良垣 2260</val>
+	</item>
+	<item>
+		<key>###Tel Number###</key>
+		<val>Tel Number</val>
+	</item>
+	<item>
+		<key>###NATURE MIRAIKAN###</key>
+		<val>自然未来舘 (NATURE MIRAIKAN)</val>
+	</item>
+	<item>
+		<key>###Mangrove Kayak addr###</key>
+		<val>冲绳县国头郡金武町金武 11818-2</val>
 	</item>
 	<item>
 		<key>###Leisure Diveing dt###</key>

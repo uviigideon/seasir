@@ -61,7 +61,11 @@
 	</item>
 	<item>
 		<key>###Weed Beach###</key>
-		<val>Kouki Beach</val>
+		<val>幸喜海灘 (Kouki Beach)</val>
+	</item>
+	<item>
+		<key>###Weed Beach Addr###</key>
+		<val>名護市幸喜 117 (最佳西方度假酒店沖繩幸喜海灘)</val>
 	</item>
 	<item>
 		<key>###Banana Boat Ride###</key>
@@ -134,6 +138,31 @@
 	<item>
 		<key>###Sea Kayak dt###</key>
 		<val>這是一個海洋獨木舟項目並且可以在美麗的 YODOKARI島附近進行浮潛.</val>
+	</item>
+	<item>
+		<key>###gathering point###</key>
+		<val>集合地點</val>
+	</item>
+	<item>
+		<key>###ANA InterContinental Manza Beach Resort###</key>
+		<val>ANA 全日空萬座海濱州際酒店-停車場</val>
+	</item>
+	<item>
+		<key>###SEA Kayak addr###</key>
+		<val>恩納村瀬良垣 2260
+</val>
+	</item>
+	<item>
+		<key>###Tel Number###</key>
+		<val>Tel Number</val>
+	</item>
+	<item>
+		<key>###NATURE MIRAIKAN###</key>
+		<val>自然未來館 (NATURE MIRAIKAN)</val>
+	</item>
+	<item>
+		<key>###Mangrove Kayak addr###</key>
+		<val>沖縄県国頭郡金武町金武 11818-2</val>
 	</item>
 	<item>
 		<key>###Leisure Diveing dt###</key>
