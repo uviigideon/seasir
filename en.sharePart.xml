@@ -211,6 +211,54 @@
         <key>###Rescue Diver Course###</key>
         <val>Rescue Diver Course</val>
     </item>
+    <item>
+        <key>###Marine Walk###</key>
+        <val>Marine Walk</val>
+    </item>
+    <item>
+        <key>###Introductory Diving###</key>
+        <val>Introductory Diving</val>
+    </item>
+    <item>
+        <key>###Snorkeling###</key>
+        <val>Snorkeling</val>
+    </item>
+    <item>
+        <key>###Active 3###</key>
+        <val>Active 3</val>
+    </item>
+    <item>
+        <key>###Scream 4###</key>
+        <val>Scream 4</val>
+    </item>
+    <item>
+        <key>###Flyboard###</key>
+        <val>Flyboard</val>
+    </item>
+    <item>
+        <key>###Parasailing###</key>
+        <val>Parasailing</val>
+    </item>
+    <item>
+        <key>###Leisure Diving###</key>
+        <val>Leisure Diving</val>
+    </item>
+    <item>
+        <key>###Refresh Course###</key>
+        <val>Refresh Course</val>
+    </item>
+    <item>
+        <key>###Sea Kayak###</key>
+        <val>Sea Kayak</val>
+    </item>
+    <item>
+        <key>###Mangrove Kayak###</key>
+        <val>Mangrove Kayak</val>
+    </item>
+    <item>
+        <key>###Location###</key>
+        <val>Location</val>
+    </item>
     <!-- }}} activies Name and Desc -->
     <!-- {{{ item name -->
     <!-- {{{ place name -->

@@ -204,6 +204,54 @@
 		<val>救援潜水员</val>
 	</item>
 	<item>
+		<key>###Marine Walk###</key>
+		<val>水底漫步</val>
+	</item>
+ 	<item>
+		<key>###Introductory Diving###</key>
+		<val>体验潜水</val>
+	</item>
+	<item>
+		<key>###Snorkeling###</key>
+		<val>浮潜</val>
+	</item>
+	<item>
+		<key>###Active 3###</key>
+		<val>水上活动 3 项</val>
+	</item>
+	<item>
+		<key>###Scream 4###</key>
+		<val>水上活动 4 项</val>
+	</item>
+	<item>
+		<key>###Flyboard###</key>
+		<val>水上钢铁人</val>
+	</item>
+	<item>
+		<key>###Parasailing###</key>
+		<val>海上滑翔伞</val>
+	</item>
+	<item>
+		<key>###Leisure Diving###</key>
+		<val>休闲潜水</val>
+	</item>
+	<item>
+		<key>###Refresh Course###</key>
+		<val>复习潜水</val>
+	</item>
+	<item>
+		<key>###Sea Kayak###</key>
+		<val>海洋独木舟</val>
+	</item>
+	<item>
+		<key>###Mangrove Kayak###</key>
+		<val>红树林独木舟</val>
+	</item>
+	<item>
+		<key>###Location###</key>
+		<val>集合資訊</val>
+	</item>
+	<item>
 		<key>###Aka###</key>
 		<val>阿嘉岛</val>
 	</item>

@@ -39,4 +39,51 @@
 		<key>###Refresh###</key>
 		<val>复习潜水</val>
 	</item>
+	<item>
+		<key>###BERRY Booking Information###</key>
+		<val>BERRY 活动预约注意事项</val>
+	</item>
+	<item>
+		<key>###We may need to contact you###</key>
+		<val>海上活动深受天气与海况影响，为了您的安全，本公司将依照实际情况判断行程等否出发。因为有调整行程或取消行程的可能性，敬请提供下榻酒店资讯或保持联络方式畅通，以便紧急连络。</val>
+	</item>
+	<item>
+		<key>###Meeting Point###</key>
+		<val><![CDATA[
+            集合地点 (以 Map Code 或电话设定导航)<br>
+                <span style="font-weight:normal">请于活动时间 30 分钟前抵达集合地点</style>
+            ]]></val>
+	</item>
+	<item>
+		<key>###Loc Koui Beach###</key>
+		<val><![CDATA[
+            幸喜海滩 (KOUKI BEACH)<br>
+            地址: 名护市幸喜 117<br>
+            Map Code: 206444213*85
+            ]]></val>
+	</item>
+	<item>
+		<key>###Loc Kise Beach###</key>
+		<val><![CDATA[
+            喜濑海滩 (KISE BEACH PALACE)<br>
+            地址: 名护市喜濑 115-2<br>
+            Map Code: 206413799*01
+            ]]></val>
+	</item>
+	<item>
+		<key>###Loc ANA Manza###</key>
+		<val><![CDATA[
+            ANA 万座海滩洲际度假酒店–停车场(海滩区)<br>
+            地址: 国头郡恩纳村字濑良垣 2260 番地<br>
+            Phone Number: 098 966 1211
+            ]]></val>
+	</item>
+	<item>
+		<key>###Loc Nature Miraikan###</key>
+		<val><![CDATA[
+            自然未来馆 (NATURE MIRAIKAN)<br>
+            地址: 国头郡金武町金武 11818-2<br>
+            Phone Number: 098 055 8880
+            ]]></val>
+	</item>
 </items>

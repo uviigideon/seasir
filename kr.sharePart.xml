@@ -204,6 +204,55 @@
 		<val>레스큐 코스</val>
 	</item>
 	<item>
+		<key>###Marine Walk###</key>
+		<val>마린워크</val>
+	</item>
+	<item>
+		<key>###Introductory Diving###</key>
+		<val>체험다이빙</val>
+	</item>
+	<item>
+		<key>###Snorkeling###</key>
+		<val>스노클링</val>
+	</item>
+	<item>
+		<key>###Active 3###</key>
+		<val>Active 3</val>
+	</item>
+	<item>
+		<key>###Scream 4###</key>
+		<val>스크림 4</val>
+	</item>
+	<item>
+		<key>###Flyboard###</key>
+		<val>플라이보드</val>
+	</item>
+	<item>
+		<key>###Parasailing###</key>
+		<val>패러세일링</val>
+	</item>
+	<item>
+		<key>###Leisure Diving###</key>
+		<val>펀다이빙</val>
+	</item>
+	<item>
+		<key>###Refresh Course###</key>
+		<val>리프레쉬 다이빙</val>
+	</item>
+	<item>
+		<key>###Sea Kayak###</key>
+        <val><![CDATA[바다 카약<br>
+            (야도카리 섬)]]></val>
+	</item>
+	<item>
+		<key>###Mangrove Kayak###</key>
+		<val>망그로브카약</val>
+	</item>
+	<item>
+		<key>###Location###</key>
+		<val>Location</val>
+	</item>
+	<item>
 		<key>###Aka###</key>
 		<val>아카</val>
 	</item>
@@ -354,7 +403,6 @@
 	<item>
 		<key>###July###</key>
 		<val>7 월</val>
-		<val>July</val>
 	</item>
 	<item>
 		<key>###September###</key>

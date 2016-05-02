@@ -204,6 +204,54 @@
 		<val>救援潛水課程</val>
 	</item>
 	<item>
+		<key>###Marine Walk###</key>
+		<val>水底漫步</val>
+	</item>
+	<item>
+		<key>###Introductory Diving###</key>
+		<val>體驗潛水</val>
+	</item>
+	<item>
+		<key>###Snorkeling###</key>
+		<val>浮潛</val>
+	</item>
+	<item>
+		<key>###Active 3###</key>
+		<val>水上活動 3 項</val>
+	</item>
+	<item>
+		<key>###Scream 4###</key>
+		<val>水上活動 4 項</val>
+	</item>
+	<item>
+		<key>###Flyboard###</key>
+		<val>水上鋼鐵人</val>
+	</item>
+	<item>
+		<key>###Parasailing###</key>
+		<val>海上滑翔傘</val>
+	</item>
+	<item>
+		<key>###Leisure Diving###</key>
+		<val>休閒潛水</val>
+	</item>
+	<item>
+		<key>###Refresh Course###</key>
+		<val>複習潛水</val>
+	</item>
+	<item>
+		<key>###Sea Kayak###</key>
+		<val>海洋獨木舟</val>
+	</item>
+	<item>
+		<key>###Mangrove Kayak###</key>
+		<val>紅樹林獨木舟</val>
+	</item>
+	<item>
+		<key>###Location###</key>
+		<val>集合資訊</val>
+	</item>
+	<item>
 		<key>###Aka###</key>
 		<val>阿嘉島</val>
 	</item>
@@ -353,7 +401,7 @@
 	</item>
 	<item>
 		<key>###July###</key>
-        <val>7月</val>
+		<val>7月</val>
 	</item>
 	<item>
 		<key>###September###</key>

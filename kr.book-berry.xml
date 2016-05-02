@@ -39,4 +39,57 @@
 		<key>###Refresh###</key>
 		<val>재교육 다이빙</val>
 	</item>
+	<item>
+		<key>###BERRY Booking Information###</key>
+		<val>BERRY Booking Information</val>
+	</item>
+	<item>
+		<key>###We may need to contact you###</key>
+		<val>날씨로 인한 일정 변경 등으로 연락을 드려야 할 경우가 있기에
+호텔 및 숙박정보를 기입해 주시기 바랍니다.</val>
+	</item>
+	<item>
+		<key>###Meeting Point###</key>
+		<val><![CDATA[
+            집합장소 (Map Code)<br>
+            <span style="font-weight:normal">집합시간 30 분전까지 접수장소에 집합해 주시기
+바랍니다</style>
+            ]]></val>
+	</item>
+	<item>
+		<key>###Loc Koui Beach###</key>
+		<val><![CDATA[
+            코우키비치 (KOUKI BEACH)<br>
+            주소: 117 Kouki, Nago City<br>
+            Map Code: 206444213*85
+            ]]></val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Loc Kise Beach###</key>
+		<val><![CDATA[
+            키세 비치 파레스 (KISE BEACH PALACE)<br>
+            주소: 115-2 Kise, Nago City<br>
+            Map Code: 206413799*01
+            ]]></val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Loc ANA Manza###</key>
+		<val><![CDATA[
+            ANA 만자 리조트 - 주차장<br>
+            주소: 260 Serakaki, Onna, Kunigami<br>
+            전화번호: 098 966 1211
+            ]]></val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Loc Nature Miraikan###</key>
+		<val><![CDATA[
+            네이쳐 미라이칸 (NATURE MIRAIKAN)<br>
+            주소: 11818-2 Kin Town, Kin<br>
+            전화번호: 098 055 8880
+            ]]></val>
+		<todo></todo>
+	</item>
 </items>

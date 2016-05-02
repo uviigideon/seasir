@@ -39,4 +39,52 @@
         <key>###Refresh###</key>
         <val>Refresh</val>
     </item>
+    <item>
+        <key>###BERRY Booking Information###</key>
+        <val>BERRY Booking Information</val>
+    </item>
+    <item>
+        <key>###We may need to contact you###</key>
+        <val>We may need to contact you for any reason related to weather, please provide
+us your Hotel or any accommodation information in Okinawa</val>
+    </item>
+    <item>
+        <key>###Meeting Point###</key>
+        <val><![CDATA[
+            Meeting Point (Map Code or Number)<br>
+                <span style="font-weight:normal">Please arrive at meeting point 30 min before the activity for preparation.</style>
+            ]]></val>
+    </item>
+    <item>
+        <key>###Loc Koui Beach###</key>
+        <val><![CDATA[
+            KOUKI BEACH<br>
+            Add: 117 Kouki, Nago City<br>
+            Map Code: 206444213*85
+            ]]></val>
+    </item>
+    <item>
+        <key>###Loc Kise Beach###</key>
+        <val><![CDATA[
+            KISE BEACH PALACE<br>
+            Add: 115-2 Kise, Nago City<br>
+            Map Code: 206413799*01
+            ]]></val>
+    </item>
+    <item>
+        <key>###Loc ANA Manza###</key>
+        <val><![CDATA[
+            ANA MANZA RESORT - Parking Area<br>
+            Add: 260 Serakaki, Onna, Kunigami<br>
+            Phone Number: 098 966 1211
+            ]]></val>
+    </item>
+    <item>
+        <key>###Loc Nature Miraikan###</key>
+        <val><![CDATA[
+            NATURE MIRAIKAN<br>
+            Add: 11818-2 Kin Town, Kin<br>
+            Phone Number: 098 055 8880
+            ]]></val>
+    </item>
 </items>
