@@ -107,7 +107,7 @@
         strArr[strArr.length] = '</table>';
         return strArr.join('');
     },
-    _getSeasonType(dt){
+    _getSeasonType: function(dt){
         var normalTable = normal[dt.getFullYear()][MONTH[dt.getMonth()]];
         var peakTable = peak[dt.getFullYear()][MONTH[dt.getMonth()]];
         var day = dt.getDate();
@@ -115,7 +115,7 @@
         if (normalTable && this._testHit(normalTable,day)) return T_NORMAL; 
         return T_LOW;
     },
-    _testHit(table,day) {
+    _testHit: function(table,day) {
             for (var key in table) {
                 if (day == key) return true;
                 if (key < day && day <=table[key])
