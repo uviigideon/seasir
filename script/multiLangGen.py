@@ -24,7 +24,7 @@ def getText(nodelist):
             rc.append(node.data)
     return ''.join(rc)
 def loadSharePartXml2Dict(langName,rpDict) :
-    xmlPath = "../" + langName + ".sharePart.xml"
+    xmlPath = pathBase + langName + ".sharePart.xml"
     print("read in dom", xmlPath)
     dom = xml.dom.minidom.parse(xmlPath)
     print("done dom:", xmlPath)
@@ -48,7 +48,7 @@ def processMultiLang(xmlPath,tmpPath,fileName,tmpFile):
         shareDict[langName] = {}
         loadSharePartXml2Dict(langName,shareDict[langName])
     # print(replaceDictionary)
-    fileNameWithFullPath = "../" + langName + "/" + fileName
+    fileNameWithFullPath = pathBase + langName + "/" + fileName
     # print(fileNameWithFullPath)
     # print("start write")
     #print("open file to read:"+tmpPath)
@@ -104,7 +104,7 @@ def processClip(fpath, tmpFile):
 
 
 def findMultiLangXMLPaths(idx):
-    return glob.glob("../*."+idx+".xml")
+    return glob.glob(pathBase + "*."+idx+".xml")
 def extractFirstFileName(path):
     # print(os.path.basename(path).split('.',1)[0])
     return os.path.basename(path).split('.',1)[0] 
