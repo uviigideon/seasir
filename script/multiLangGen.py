@@ -5,7 +5,7 @@ import tempfile
 import xml.dom.minidom
 
 # set things
-pathBase = ".." + os.sep
+pathBase = "/Users/uvii/proj/seasir/seasir" + os.sep
 clipPathBase = pathBase + "clip" + os.sep
 htmFilePathPtn = pathBase + "*.pl.htm"
 shareDict = {}
@@ -106,8 +106,8 @@ def processClip(fpath, tmpFile):
 def findMultiLangXMLPaths(idx):
     return glob.glob("../*."+idx+".xml")
 def extractFirstFileName(path):
-    # print(path)
-    return re.search(r"\\([a-zA-Z0-9\-\s]+)\.",path).group(1) 
+    # print(os.path.basename(path).split('.',1)[0])
+    return os.path.basename(path).split('.',1)[0] 
 def processTemplFileWithPath(fpath):
     print("processing file:",fpath)
     tmpFile = tempfile.TemporaryFile('w+',encoding='utf8')
