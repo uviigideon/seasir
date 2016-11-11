@@ -202,7 +202,7 @@
 	<item>
 		<key>###Note Marine Walk###</key>
 		<val><![CDATA[
-<li class="hl-red">肩宽长度需38公分以上。</li>
+<li class="hl-red">参加水底漫步者，肩宽长度需38公分以上。</li>
 <li class="hl-red">活动结束后需休息18小时以上，方可搭乘飞机。</li>
 ]]></val>
 	</item>
@@ -243,20 +243,6 @@
 <li>11:00</li>
 <li>13:30</li>
 <li>15:30</li>
-            ]]></val>
-	</item>
-	<item>
-		<key>###Active Schedule Time dive###</key>
-		<val><![CDATA[
-<li>08:30</li>
-<li>13:30</li>
-            ]]></val>
-	</item>
-	<item>
-		<key>###Active Schedule Time kayak###</key>
-		<val><![CDATA[
-<li>09:00</li>
-<li>14:00</li>
             ]]></val>
 	</item>
 </items>

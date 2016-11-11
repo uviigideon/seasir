@@ -204,7 +204,7 @@
     <item>
         <key>###Note Marine Walk###</key>
         <val><![CDATA[
-<li class="hl-red">Shoulder width should be above 38cm.</li>
+            <li class="hl-red">Marine Walk require your shoulder width above 38cm.</li>
 <li class="hl-red">Please make sure you have 18 hours resting hour before the flight.</li>
 ]]></val>
     </item>
@@ -262,20 +262,6 @@
 <li>11:00</li>
 <li>13:30</li>
 <li>15:30</li>
-            ]]></val>
-    </item>
-    <item>
-        <key>###Active Schedule Time dive###</key>
-        <val><![CDATA[
-<li>08:30</li>
-<li>13:30</li>
-            ]]></val>
-    </item>
-    <item>
-        <key>###Active Schedule Time kayak###</key>
-        <val><![CDATA[
-<li>09:00</li>
-<li>14:00</li>
             ]]></val>
     </item>
     <!-- }}} !!!DO NOT TRANSLATE BELOW!!! -->

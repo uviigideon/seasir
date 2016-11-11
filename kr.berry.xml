@@ -245,18 +245,4 @@
 <li>15:30</li>
             ]]></val>
 	</item>
-	<item>
-		<key>###Active Schedule Time dive###</key>
-		<val><![CDATA[
-<li>08:30</li>
-<li>13:30</li>
-            ]]></val>
-	</item>
-	<item>
-		<key>###Active Schedule Time kayak###</key>
-		<val><![CDATA[
-<li>09:00</li>
-<li>14:00</li>
-            ]]></val>
-	</item>
 </items>
