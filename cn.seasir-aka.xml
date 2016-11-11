@@ -48,9 +48,13 @@
 		<key>###3rd Floor Room Desc###</key>
 		<val>三楼有五间西式房间和两间和式房间，均可供两到三人入住。房间内设有独立卫生间和浴室。</val>
 	</item>
+    <item>
+        <key>###discount###</key>
+        <val>两晚以上连续住宿者，可享连泊优惠1,000日圆/每位/晚</val>
+    </item>
 	<item>
 		<key>###peakseason date###</key>
-		<val><![CDATA[2016 旺季: 2016年4月28日-5月8日；2016年6月11日-10月10日]]></val>
+		<val><![CDATA[2017 旺季: 4月28日-5月7日；6月10日-10月9日]]></val>
 	</item>
 	<item>
 		<key>###Season Price###</key>

@@ -47,9 +47,13 @@
 		<key>###3rd Floor Room Desc###</key>
 		<val>서양 스타일의 침실의 이인실 5개와 3인용의 일본식 다다미방 2개가 있습니다. 모든 방에는 화장실과 욕조시설이 갖춰져 있습니다.</val>
 	</item>
+    <item>
+        <key>###discount###</key>
+        <val>2박 이상의 숙박하시는 분은 박당 1,000엔 할인됩니다</val>
+    </item>
 	<item>
 		<key>###peakseason date###</key>
-		<val><![CDATA[2016년 성수기 : 4월28일~5월8일, 6월11일~10월 10일]]></val>
+		<val><![CDATA[2017년 성수기 : 4월28일~5월7일, 6월10일~10월 9일]]></val>
 	</item>
 	<item>
 		<key>###Season Price###</key>

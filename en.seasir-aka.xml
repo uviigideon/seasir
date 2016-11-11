@@ -56,8 +56,12 @@ archipelago.
         <val>5 rooms with western bed style for triple sharing and 2 Japanese Tatami room for triple sharing on 3rd floor. All room attach with toilet and bathroom.</val>
     </item>
     <item>
+        <key>###discount###</key>
+        <val>If booking over 2 nights, JPY1,000 off per night</val>
+    </item>
+    <item>
         <key>###peakseason date###</key>
-        <val><![CDATA[2016 Peak Season: <ul style="margin-top:0;padding-left:2em"><li>28th April to 8th May 2016</li><li>11th June to 10th October 2016</li></ul>]]></val>
+        <val><![CDATA[2017 Peak Season: <ul style="margin-top:0;padding-left:2em"><li>28th April to 7th May</li><li>10th June to 9th October</li></ul>]]></val>
     </item>
     <item>
         <key>###Season Price###</key>
