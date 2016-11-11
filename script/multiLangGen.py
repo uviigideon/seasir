@@ -106,7 +106,6 @@ def processClip(fpath, tmpFile):
 def findMultiLangXMLPaths(idx):
     return glob.glob(pathBase + "*."+idx+".xml")
 def extractFirstFileName(path):
-    # print(os.path.basename(path).split('.',1)[0])
     return os.path.basename(path).split('.',1)[0] 
 def processTemplFileWithPath(fpath):
     print("processing file:",fpath)

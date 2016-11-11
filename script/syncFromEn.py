@@ -8,7 +8,7 @@ import shutil
 import cgi
 
 # set things
-pathBase = ".." + os.sep
+pathBase = "/Users/uvii/proj/seasir/seasir" + os.sep
 newXmlPath = pathBase + "newXmls" + os.sep
 enFilePtn = pathBase + "en.*.xml"
 langDict = {"ct","cn","kr"}
@@ -67,7 +67,7 @@ def syncLangFile(baseDict, langXmlPath, keyIdx):
     # input("Enter")
 
 def extractFirstFileName(path):
-    return re.search(r"\\\w+\.([a-zA-Z0-9\-\s\.]+)",path).group(1) 
+    return os.path.basename(path).split('.',1)[1] 
 
 def processTemplFileWithPath(fpath):
     fileBody = extractFirstFileName(fpath)
