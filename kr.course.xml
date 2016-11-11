@@ -49,12 +49,21 @@
             <li>PADI 공식사이트에서 e-러닝 코스를<a href="http://www.padi.com" target="_blank">www.padi.com</a> 결재하셔야 합니다. E-러닝 코스 요금은USD184 입니다. (PADI 오픈워터 다이버 코스 강습비는 별도입니다)<br>강습에 참가하기 <span style="text-decoration: underline">3일전까지</span> PADI 공식 웹사이트에서 e-러닝 과정을 마치셔야 합니다. 구체적인 내용은<a href="./data/OW E-Learning Course Info.docx">오픈워터 E-러닝 코스 정보</a>를 내려받아서 확인해 주세요.</li>
             <li>SEASIR <a href="./health.htm" target="_blank">건강 체크 리스트</a>를 클릭하셔서 확인하시기 바랍니다. 만약 건강 체크 리스트의 질문 중 해당사항이 있으면, 스쿠버 다이빙 교육 프로그램에 참여하기 이전에 반드시 전문의와 상담 후 소견서 제출이 필요합니다.</li>
             <li>강습 일정이 성수기와 겹칠 경우, 1인당 5,000엔의 추가요금이 발생합니다. 하기의 시즌 캘린더에서 확인해 주시기 바랍니다 : 
-                <ul><li>SEASIR 나하 지점, 성수기 확인하기 <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
-                    <li>Marine Club BERRY, 성수기 <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
-                    <li>SEASIR 아카 지점, 성수기 <ul class="hl-red"><li>2016년 4월 8일~5월 8일</li><li>2016년 6월 11일~10월 10일</li></ul></li></ul></li>
+                <ul><li>SEASIR 나하 지점, 성수기 확인하기 <a href="./cal.htm#2017" target="_blank">2017 SEASON CALENDAR</a></li>
+                    <li>Marine Club BERRY, 성수기 <a href="./cal.htm#2017" target="_blank">2017 SEASON CALENDAR</a></li>
+                    <li>SEASIR 아카 지점, 성수기 <ul class="hl-red"><li>2017년 4월 8일~5월 7일</li><li>2017년 6월 10일~10월 9일</li></ul></li></ul></li>
                 <li>E-러닝 수료후 eRecord (각 챕터의 리뷰 점수 확인용)를 가져와 주시기 바랍니다</li>
             ]]></val>
 	</item>
+    <item>
+        <key>###season in li###</key>
+        <val><![CDATA[
+            <li>강습 일정이 성수기와 겹칠 경우, 1인당 5,000엔의 추가요금이 발생합니다. 하기의 시즌 캘린더에서 확인해 주시기 바랍니다 : 
+                <ul><li>SEASIR 나하 지점, 성수기 확인하기 <a href="./cal.htm#2017" target="_blank">2017 SEASON CALENDAR</a></li>
+                    <li>Marine Club BERRY, 성수기 <a href="./cal.htm#2017" target="_blank">2017 SEASON CALENDAR</a></li>
+                    <li>SEASIR 아카 지점, 성수기 <ul class="hl-red"><li>2017년 4월 8일~5월 7일</li><li>2017년 6월 10일~10월 9일</li></ul></li></ul></li>
+            ]]></val>
+    </item>
 	<item>
 		<key>###Training Material###</key>
 		<val>교육 자료</val>
@@ -135,9 +144,6 @@
 		<val><![CDATA[
             <li>SEASIR <a href="./health.htm" target="_blank">건강 체크 리스트</a>를 클릭하셔서 확인하시기 바랍니다. 만약 건강 체크 리스트의 질문 중 해당사항이 있으면, 스쿠버 다이빙 교육 프로그램에 참여하기 이전에 반드시 전문의와 상담 후 소견서 제출이 필요합니다.</li>
             <li>강습 일정이 성수기와 겹칠 경우, 1인당 5,000엔의 추가요금이 발생합니다. 하기의 시즌 캘린더에서 확인해 주시기 바랍니다 : 
-                <ul><li>SEASIR 나하 지점, 성수기 확인하기 <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
-                    <li>Marine Club BERRY, 성수기 <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
-                    <li>SEASIR 아카 지점, 성수기 <ul class="hl-red"><li>2016년 4월 8일~5월 8일</li><li>2016년 6월 11일~10월 10일</li></ul></li></ul></li>
             <li>유효한 PADI Open Water Diver 자격증 혹은 동등한 수준의 타 단체 자격증(사전 상담 필요)</li>
             ]]></val>
 	</item>
@@ -201,9 +207,6 @@
 		<val><![CDATA[
             <li>SEASIR <a href="./health.htm" target="_blank">건강 체크 리스트</a>를 클릭하셔서 확인하시기 바랍니다. 만약 건강 체크 리스트의 질문 중 해당사항이 있으면, 스쿠버 다이빙 교육 프로그램에 참여하기 이전에 반드시 전문의와 상담 후 소견서 제출이 필요합니다.</li>
             <li>강습 일정이 성수기와 겹칠 경우, 1인당 5,000엔의 추가요금이 발생합니다. 하기의 시즌 캘린더에서 확인해 주시기 바랍니다 : 
-                <ul><li>SEASIR 나하 지점, 성수기 확인하기 <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
-                    <li>Marine Club BERRY, 성수기 <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
-                    <li>SEASIR 아카 지점, 성수기 <ul class="hl-red"><li>2016년 4월 8일~5월 8일</li><li>2016년 6월 11일~10월 10일</li></ul></li></ul></li>
             <li>유효한 PADI Open Water Diver 자격증 혹은 동등한 수준의 타 단체 자격증(사전 상담 필요)</li>
             ]]></val>
 	</item>

@@ -72,7 +72,7 @@
             strArr[strArr.length] = num;
             strArr[strArr.length] = '-gender"><option value="Male">MR.</option><option value="Female">MS.</option></select><input type="text" class="guest-name" name="guest-';
             strArr[strArr.length] = num;
-            strArr[strArr.length] = '-name"></td><td><label>FDV</label><input type="checkbox" name="guest-';
+            strArr[strArr.length] = '-name"></td><td><input type="text" class="width-1" name="guest-NUM-age"></td><td><label>FDV</label><input type="checkbox" name="guest-';
             strArr[strArr.length] = num;
             strArr[strArr.length] = '-active" value="FDV">/<label>RD</label><input type="checkbox" name="guest-';
             strArr[strArr.length] = num;

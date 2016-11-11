@@ -48,12 +48,18 @@
         <val><![CDATA[
             <li>請上PADI官網: <a href="http://www.padi.com" target="_blank">www.padi.com</a> 購買e-learning課程並直接支付USD184。（該筆費用不包含在PADI Open Water Diver 課程費用內。）<br>請您務必至少在訓練課程開始的 <span style="text-decoration: underline">3天前</span> 完成PADI e-learning。請下載 <a href="./data/OW E-Learning Course Info.docx">OW E-Learning 課程資訊</a> 以了解詳情。</li>
             <li>請點此連結Health Check List完成 <a href="./health.htm" target="_blank">SEASIR 健康自檢表</a> 。如果在健康自檢表中您有任何項目回答“是”，則要請您在預約報名之前諮詢醫生並提供醫師證明。</li>
-            <li>如果您預約的日期課程屬於旺季，則需每人加收JPY5,000。關於淡旺季行事曆，請參考以下：                <ul><li>SEASIR那霸店，請參考<a href="./cal.htm#2016" target="_blank">2016淡旺季行事曆</a></li>
-                    <li>Marine Club BERRY，請參考<a href="./cal.htm#2016" target="_blank">2016淡旺季行事曆</a></li>
-                    <li>SEASIR阿嘉島店，旺季： <ul class="hl-red"><li>2016年4月28日-5月8日</li><li>2016年6月11日-10月10日</li></ul></li></ul></li>
                 <li>在訓練課程當天，請您攜帶eRecord（包含總項目的成績單）和泳衣/換洗衣物到店。</li>
         ]]></val>
 	</item>
+    <item>
+        <key>###season in li###</key>
+        <val><![CDATA[
+            <li>如果您預約的日期課程屬於旺季，則需每人加收JPY5,000。關於淡旺季行事曆，請參考以下：                
+                <ul><li>SEASIR那霸店，請參考<a href="./cal.htm#2017" target="_blank">2017淡旺季行事曆</a></li>
+                    <li>Marine Club BERRY，請參考<a href="./cal.htm#2017" target="_blank">2017淡旺季行事曆</a></li>
+                    <li>SEASIR阿嘉島店，旺季： <ul class="hl-red"><li>2017年4月28日-5月7日</li><li>2017年6月10日-10月9日</li></ul></li></ul></li>
+            ]]></val>
+    </item>
 	<item>
 		<key>###Training Material###</key>
 		<val>教材</val>
@@ -133,10 +139,7 @@
 		<key>###Requirement from candidate aow li###</key>
 		<val><![CDATA[
             <li>請點此連結Health Check List完成 <a href="./health.htm" target="_blank">SEASIR 健康自檢表</a> 。如果在健康自檢表中您有任何項目回答“是”，則要請您在預約報名之前諮詢醫生並提供醫師證明。</li>
-            <li>如果您預約的日期課程屬於旺季，則需每人加收JPY5,000。關於淡旺季行事曆，請參考以下：                <ul><li>SEASIR那霸店，請參考<a href="./cal.htm#2016" target="_blank">2016淡旺季行事曆</a></li>
-                    <li>Marine Club BERRY，請參考<a href="./cal.htm#2016" target="_blank">2016淡旺季行事曆</a></li>
-                    <li>SEASIR阿嘉島店，旺季： <ul class="hl-red"><li>2016年4月28日-5月8日</li><li>2016年6月11日-10月10日</li></ul></li></ul></li>
-                <li>PADI Open Water Diver潛水執照或有同等效力的證明文件（請提前說明討論）。</li>
+            <li>PADI Open Water Diver潛水執照或有同等效力的證明文件（請提前說明討論）。</li>
             ]]></val>
 	</item>
 	<item>
@@ -198,10 +201,6 @@
 		<key>###Requirement from candidate res li###</key>
 		<val><![CDATA[
             <li>請點此連結Health Check List完成 <a href="./health.htm" target="_blank">SEASIR 健康自檢表</a> 。如果在健康自檢表中您有任何項目回答“是”，則要請您在預約報名之前諮詢醫生並提供醫師證明。</li>
-            <li>如果您預約的日期課程屬於旺季，則需每人加收JPY5,000。關於淡旺季行事曆，請參考以下：
-                <ul><li>SEASIR那霸店，請參考<a href="./cal.htm#2016" target="_blank">2016淡旺季行事曆</a></li>
-                    <li>Marine Club BERRY，請參考<a href="./cal.htm#2016" target="_blank">2016淡旺季行事曆</a></li>
-                    <li>SEASIR阿嘉島店，旺季： <ul class="hl-red"><li>2016年4月28日-5月8日</li><li>2016年6月11日-10月10日</li></ul></li></ul></li>
             <li>PADI Open Water Diver潛水執照或有同等效力的證明文件（請提前說明討論）。</li>
             ]]></val>
 	</item>

@@ -51,12 +51,18 @@
         <val><![CDATA[
             <li>Please purchase e-learning course from PADI official website: <a href="http://www.padi.com" target="_blank">www.padi.com</a> and pay course fee USD184. (NOT included in the PADI Open Water Diver Course fee.)<br>MUST Complete PADI e-learning program from PADI official website <span style="text-decoration: underline">3 days before</span> the training course. Please download <a href="./data/OW E-Learning Course Info.docx">OW E-Learning Course Information</a> for more details.</li>
             <li>Please refer SEASIR <a href="./health.htm" target="_blank">Health Check List</a> at this link Health Check List . If any of the questions in the Health Check List answer apply “YES” to you, we must request that you consult with a physician and provide a proper document from your physician prior to participating in scuba diving training program.</li>
-            <li>Any courses date that fall in Peak Season in Season Calendar course fee add JPY5,000 per each candidate. Please kindly check the calendar as below:
-                <ul><li>SEASIR NAHA branch, Peak season refer to <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
-                    <li>Marine Club BERRY, Peak season refer to <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
-                    <li>SEASIR AKA branch, Peak season: <ul class="hl-red"><li>28th April to 8th May 2016</li><li>11th June to 10th October 2016.</li></ul></li></ul></li>
-                <li>Please bring your eRecord (with all the review score) and 2 of passport size photos to our shop on your training day.</li>
+            <li>Please bring your eRecord (with all the review score) and 2 of passport size photos to our shop on your training day.</li>
         ]]></val>
+    </item>
+    <item>
+        <key>###season in li###</key>
+        <val><![CDATA[
+            <li>Any courses date that fall in Peak Season in Season Calendar course fee add JPY5,000 per each candidate. Please kindly check the calendar as below:
+                <ul><li>SEASIR NAHA branch, Peak season refer to <a href="./cal.htm#2017" target="_blank">2017 SEASON CALENDAR</a></li>
+                    <li>Marine Club BERRY, Peak season refer to <a href="./cal.htm#2017" target="_blank">2017 SEASON CALENDAR</a></li>
+                    <li>SEASIR AKA branch, Peak season: <ul class="hl-red"><li>28th April to 7th May 2017</li><li>10th June to 9th October 2017.</li></ul></li></ul></li>
+            
+            ]]></val>
     </item>
     <item>
         <key>###Training Material###</key>
@@ -139,10 +145,6 @@
         <key>###Requirement from candidate aow li###</key>
         <val><![CDATA[
             <li>Please refer SEASIR <a href="./health.htm" target="_blank">Health Check List</a> at this link Health Check List . If any of the questions in the Health Check List answer apply “YES” to you, we must request that you consult with a physician and provide a proper document from your physician prior to participating in scuba diving training program.</li>
-            <li>Any courses date that fall in Peak Season in Season Calendar course fee add JPY5,000 per each candidate. Please kindly check the calendar as below:
-                <ul><li>SEASIR NAHA branch, Peak season refer to <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
-                    <li>Marine Club BERRY, Peak season refer to <a href="./cal.htm#2016" target="_blank">2016 SEASON CALENDAR</a></li>
-                    <li>SEASIR AKA branch, Peak season: <ul class="hl-red"><li>28th April to 8th May 2016</li><li>11th June to 10th October 2016.</li></ul></li></ul></li>
             <li>Valid PADI Open Water Diver License or equivalent (please advise in advance).</li>
             <li>2 of Passport size photos.
             ]]></val>
@@ -209,12 +211,6 @@
         <key>###Requirement from candidate res li###</key>
         <val><![CDATA[
             <li>Please refer SEASIR <a href="./health.htm" target="_blank">Health Check List</a>.If any of the questions in the Health Check List answer apply “YES” to you, we must request that you consult with a physician and provide a proper document from your physician prior to participating in scuba diving training program.</li>
-            <li>Any courses date that fall in Peak Season in Season Calendar course fee add JPY5,000 per each candidate.
-                <ul><li>Peak season for SEASIR NAHA branch, refer to this link <a href="http://www.seasir.com/en/cal.htm" target="_blank">http://www.seasir.com/en/cal.htm</a></li>
-                    <li>Peak season for Marine Club BERRY, refer to this link <a href="http://www.seasir.com/en/cal.htm" target="_blank">http://www.seasir.com/en/cal.htm</a></li>
-                    <li>Peak season for SEASIR AKA:	
-                        <br><span class="hl-red">29th April to 6th May 2015, 13th June to 30th September 2015, 10th October 2015 to 13th October 2015</span></li></ul></li>
-            <li>Valid PADI Advanced license or equivalent + PADI EFR (Medic First Aid) / CPR Rescue License or equivalent CPR certificate that recognized by PADI local office</li>
             <li>2 Passport size photograph.</li>
             <li>Training course start with minimum 2 candidates. For 1 candidate course fee will be JPY69,000.
             ]]></val>
