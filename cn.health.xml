@@ -13,7 +13,7 @@
     <item>
         <key>###health check li###</key>
         <val><![CDATA[
-<li>现在是否怀孕？</li>
+<li>现在是否怀孕？<span class="hl-red">怀孕者恕无法参加活动以及乘船。</span></li>
 <li>目前是否在服用任何药物（避孕药和抗疟疾药除外）？</li>
 <li>是否有哮喘、小儿哮喘、呼吸气喘、气喘或运动气喘？</li>
 <li>是否有花粉过敏或其他过敏？</li>

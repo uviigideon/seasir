@@ -1,36 +1,39 @@
-﻿<items>
-    <!-- {{{ header -->
-    <item>
-        <key>###headTitle###</key>
-        <val>SEA PEOPLE 스쿠버 다이빙 장비 매장</val>
-    </item>
-    <item>
-        <key>###headDesc###</key>
-        <val>From a standard Scuba set to a small accessory equipment, we have it all. We do carry the entire scuba equipment major brand in our retail including custom make wet and dry suit.</val>
-    </item>
-    <item>
-        <key>###headKeywords###</key>
-        <val>Okinawa,scuba,diving,equipment,retail,custom,wet,dry,suit</val>
-    </item>
-    <!-- }}} header -->
-    <item>
-        <key>###H2###</key>
-        <val>SEA PEOPLE 스쿠버 다이빙 장비 매장</val>
-    </item>
-    <item>
-        <key>###sea people brief###</key>
-        <val>SEA PEOPLE샵은 오키나와 나하시의 JEIS빌딩 1층에 있습니다. 다양한 다이빙 액세서리와 유명 업체 제품들을 취급하고 있습니다. 1998년부터 개점한 SEA PEOPLE은 도/소매 판매는 물론, 주문제작식 웻슈트와 드라이 슈트를 판매하며 장비 수리 및 점검도 가능합니다. 경험 많은 최고의 스태프들이 상주하고 있습니다.</val>
-    </item>
-    <item>
-        <key>###Below are the###</key>
-        <val>SEA PEOPLE에서 취급하고 있는 브랜드는 다음과 같습니다.</val>
-    </item>
-    <item>
-        <key>###Own Transportation dt###</key>
-        <val><![CDATA[차량 네비게이션용MAP CODE <span class="hl-red">33187632 *88</span>를 이용해 주세요.]]></val>
-    </item>
-    <item>
-        <key>###sea-people Addr###</key>
-        <val><![CDATA[3-1-8 Tomari, Naha city,<br>Okinawa 900-0001 Japan]]></val>
-    </item>
+<items>
+	<item>
+		<key>###headTitle###</key>
+		<val>SEA PEOPLE 스쿠버 다이빙 장비 매장</val>
+	</item>
+	<item>
+		<key>###headDesc###</key>
+		<val>From a standard Scuba set to a small accessory equipment, we have it all. We do carry the entire scuba equipment major brand in our retail including custom make wet and dry suit.</val>
+	</item>
+	<item>
+		<key>###headKeywords###</key>
+		<val>Okinawa,scuba,diving,equipment,retail,custom,wet,dry,suit</val>
+	</item>
+	<item>
+		<key>###H2###</key>
+		<val>SEA PEOPLE 스쿠버 다이빙 장비 매장</val>
+	</item>
+	<item>
+		<key>###sea people brief###</key>
+		<val>SEA PEOPLE샵은 오키나와 나하시의 JEIS빌딩 1층에 있습니다. 다양한 다이빙 액세서리와 유명 업체 제품들을 취급하고 있습니다. 1998년부터 개점한 SEA PEOPLE은 도/소매 판매는 물론, 주문제작식 웻슈트와 드라이 슈트를 판매하며 장비 수리 및 점검도 가능합니다. 경험 많은 최고의 스태프들이 상주하고 있습니다.</val>
+	</item>
+	<item>
+		<key>###alt site###</key>
+		<val></val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###Below are the###</key>
+		<val>SEA PEOPLE에서 취급하고 있는 브랜드는 다음과 같습니다.</val>
+	</item>
+	<item>
+		<key>###Own Transportation dt###</key>
+		<val><![CDATA[차량 네비게이션용MAP CODE <span class="hl-red">33187632 *88</span>를 이용해 주세요.]]></val>
+	</item>
+	<item>
+		<key>###sea-people Addr###</key>
+		<val><![CDATA[3-1-8 Tomari, Naha city,<br>Okinawa 900-0001 Japan]]></val>
+	</item>
 </items>
