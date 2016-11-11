@@ -7,6 +7,14 @@
         "AUGUST":{1:31},
         "SEPTEMBER":{1:30},
         "OCTOBER":{1:10}
+    },
+    2017:{
+        "MAY":{13:1,20:1,27:1},
+        "JUNE":{3:1,11:30},
+        "JULY":{1:31},
+        "AUGUST":{1:31},
+        "SEPTEMBER":{1:30},
+        "OCTOBER":{1:7}
     }
  }
  var peak = window.peak = {
@@ -18,6 +26,15 @@
         "AUGUST":{6:1,13:1,14:1,15:1,16:1,20:1,21:1,27:1},
         "SEPTEMBER":{3:1,10:1,17:1,18:1,19:1,22:1,23:1,24:1,25:1},
         "OCTOBER":{1:1,8:1,9:1,10:1}
+     },
+     2017:{
+        "APRIL":{29:30},
+        "MAY":{1:7},
+        "JUNE":{10:1,17:1,24:1},
+        "JULY":{1:1,8:1,15:17,22:1,29:1},
+        "AUGUST":{5:1,11:16,19:1,26:1},
+        "SEPTEMBER":{2:1,9:1,16:18,23:24,30:1},
+        "OCTOBER":{7:9}
      }
  };
  var MONTH = ["JANUARY","FEBRUARY","MARCH","APRIL","MAY","JUNE","JULY","AUGUST","SEPTEMBER","OCTOBER","NOVEMBER","DECEMBER"];

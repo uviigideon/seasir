@@ -19,7 +19,7 @@
     </item>
     <item>
         <key>###sub###</key>
-        <val>2015/16 Season start from 26th Dec to 3rd April</val>
+        <val>2016/17 Season start from 23th Dec to 9th April</val>
     </item>
     <item>
         <key>###whale intro###</key>
@@ -104,7 +104,7 @@
 <li>Boat fee</li>
 <li>Drinking water</li>
 <li>Guarantee of Whales (If no whale or dolphins spotted on the trip, get re-challenge coupon or full refund)</li>
-<li>Free Hotel transfer (Naha city only, reservation required, quantity limited.</li>
+<li>Free Hotel transfer (Naha city only, reservation required, quantity limited.)</li>
         ]]></val>
     </item>
     <item>
@@ -136,7 +136,16 @@
     </item>
     <item>
         <key>###Whale Note dt###</key>
-        <val>We will not guarantee to encounter the whale during the trip from 26th Dec 2015 until 3th Jan 2016. Marine House SEASIR NAHA will provide a coupon for you (no refund) if there is no whale spotted during the trip during this period of time.</val>
+        <val><![CDATA[
+            <ol class="hl-red">
+                <li>We will not guarantee to encounter the whale during the trip in following dates, Marine House SEASIR NAHA will provide a coupon for you (no refund) if there is no whale spotted during the trip during this period of time.</li>
+                <ul>
+                    <li>From 23th Dec 2016 to 3th Jan 2017</li>
+                    <li>From 1st April 2017 to 9th April 2017</li>
+                </ul>
+                <li>Infant under 3 year old, a baby carrier hardness which attached to an adult is required. Please prepare it by yourself. If the sea condition is too rocky to bring an infant, we will contact you to reschedule.</li>
+</ol>
+    ]]></val>
     </item>
     <item>
         <key>###Booking procedure dt###</key>

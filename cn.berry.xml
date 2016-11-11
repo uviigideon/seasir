@@ -113,12 +113,12 @@
 		<val>开放季节</val>
 	</item>
 	<item>
-		<key>###April-October###</key>
-		<val>4月 - 10月</val>
+		<key>###Season Sea Kayak###</key>
+		<val>3月 - 11月</val>
 	</item>
 	<item>
-		<key>###November-March###</key>
-		<val>11月 - 3月</val>
+		<key>###Season Mangrove Kayak###</key>
+		<val>10月 - 6月</val>
 	</item>
 	<item>
 		<key>###Mangrove Kayak###</key>

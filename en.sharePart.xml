@@ -474,6 +474,10 @@
         <val><![CDATA[Please use this phone number <span class="hl-red">098 982 3800</span> key in the Car Navigation system to locate our shop]]></val>
     </item>
     <item>
+        <key>###Own Transportation KISE###</key>
+        <val><![CDATA[Please use this phone number <span class="hl-red">098 982 3800</span> key in the Car Navigation system to locate our shop]]></val>
+    </item>
+    <item>
         <key>###View Larger Map###</key>
         <val>View Larger Map in Google Maps</val>
     </item>

@@ -447,6 +447,10 @@
 		<key>###Own Transportation Manza###</key>
 		<val><![CDATA[请在您的汽车导航系统中输入电话：<span class="hl-red">098 982 3800</span> 查找BERRY万座店。]]></val>
 	</item>
+    <item>
+        <key>###Own Transportation KISE###</key>
+		<val><![CDATA[请在您的汽车导航系统中输入电话：<span class="hl-red">098 982 3800</span> 查找BERRY万座店。]]></val>
+    </item>
 	<item>
 		<key>###View Larger Map###</key>
 		<val>在 Google 地图上寻找我们的位置</val>

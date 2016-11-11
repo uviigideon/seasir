@@ -1,7 +1,7 @@
 <items>
 	<item>
 		<key>###headTitle###</key>
-		<val>Marine House SEASIR 那霸 赏鲸之旅</val>
+		<val>冲绳赏鲸之旅</val>
 	</item>
 	<item>
 		<key>###headDesc###</key>
@@ -13,39 +13,45 @@
 	</item>
 	<item>
 		<key>###H2###</key>
-		<val>Marine House SEASIR 那霸 赏鲸之旅</val>
+		<val>SEASIR 那霸 赏鲸之旅</val>
 	</item>
 	<item>
 		<key>###sub###</key>
-		<val>2015/16 赏鲸季 从12月26日开始至4月3日结束</val>
+		<val>赏鲸季从2016年12月23日开始到2017年4月9日止</val>
 	</item>
 	<item>
 		<key>###whale intro###</key>
-		<val><![CDATA[<p>冬季到冲绳度假，最不能错过的行程就是SEASIR的赏鲸之旅，每一次赏鲸游览都是独一无二的旅程。每当鲸鱼出现总会引起客人的一片欢呼和赞叹！</p><p><span class="hl-red">Marine House SEASIR 那霸店</span>从2005年开始经营赏鲸行程，积累了大量经验，员工对鲸鱼的习性十分了解。自2005年起，<span class="hl-red">SEASIR那霸店</span>团队找寻鲸鱼的成功率都可达99%。可以说我们是冲绳最有组织和经验的赏鲸团队。快来和我们一起开始赏鲸之旅吧！</p>]]></val>
+        <val><![CDATA[
+<p>每年一月初到三月末, 赏鲸之旅是冬季在冲縄最流行的海上活动. 每一次的赏鲸游览都是独一无二的旅程. 很多的游客包括很多当地人甚至参加了多次的赏鲸之旅, 而每当鲸鱼出现在船的周围时, 总还是十分的兴奋和惊奇。</p><p><span class="hl-red">Marine House SEASIR NAHA </span> 从 2005 就开始经营赏鲸之旅. 每一年 <span class="hl-red">Marine House SEASIR NAHA </span> 团队对于找寻鲸鱼的成功率都有 99%. 快来和冲绳最有组织和经验的赏鲸团队一同出发! 千万别错过 <span class="hl-red">Marine House SEASIR NAHA </span>的赏鲸之旅.</p>
+            ]]></val>
 	</item>
 	<item>
 		<key>###Where is the Whale###</key>
-		<val>鲸鱼在哪里？</val>
+		<val>鲸鱼在哪</val>
 	</item>
 	<item>
 		<key>###Where is the Whale content###</key>
-		<val><![CDATA[<p>冲绳最常见的鲸鱼为座头鲸和海豚，大多数鲸鱼和海豚的活动范围在庆良间诸岛附近。</p>]]></val>
+		<val><![CDATA[<p>在冲绳最常见的鲸鱼为座头鲸和海豚(pseudorca crassidens). 大多数的鲸鱼和海豚，活动范围在 Chibishi岛的附近或在冲绳庆良间群岛出现.</p>]]></val>
 	</item>
 	<item>
 		<key>###How to prepare yourself###</key>
-		<val>要准备什么？</val>
+		<val>要准备什么</val>
 	</item>
 	<item>
 		<key>###How to prepare yourself li###</key>
-		<val><![CDATA[<li>如果您担心晕船，建议您在出发前一小时吃一些食物且在出发前半小时服用晕船药。</li>
-<li>如果您和小孩同行，建议您准备一些零食和玩具给孩子。</li>
-<li>为防止在船上滑倒，请穿运动鞋或胶底鞋乘船。</li>
-<li>建议您随身携带防寒外套。</li>
-<li>建议您携带望远镜，可以带给您不同的赏鲸体验。</li>]]></val>
+        <val><![CDATA[
+<li>如果您担心晕船, 建议您在出发前一小时吃一些食物且在出发前半小时服用晕船药.</li>
+<li>如果您和小孩同行, 建议您准备一些零食和玩具给他们.</li>
+<li>穿运动鞋或胶底鞋以防止在船上滑倒.</li>
+<li>有时天气可能会很冷, 建议您随身携带防寒外套.</li>
+<li>建议您可以携带望远镜, 可以给您更好的视野.</li>
+    ]]></val>
 	</item>
 	<item>
 		<key>###How to prepare yourself content###</key>
-		<val></val>
+        <val><![CDATA[
+    <p>在海况不佳或下雨時 <span class="hl-red">Marine House SEASIR NAHA </span> 会提供轻便雨衣给客人使用. <span class="hl-red">Marine House SEASIR NAHA </span> 保证, 如果旅程中没有一位旅客看到鲸鱼或海豚, 我们会全额退费.</p>
+    ]]></val>
 	</item>
 	<item>
 		<key>###Whale watching trip schedule###</key>
@@ -58,10 +64,11 @@
 	<item>
 		<key>###Am Trip li###</key>
 		<val><![CDATA[
-<li>08:15 - 在 <span class="hl-red">Marine House SEASIR 那霸店</span>集合</li>
-<li>08:45 - 进行安全知识讲解后出发</li>
-<li>09:00 - 11:30 赏鲸</li>
-<li>11:30 - 返回那霸市</li>]]></val>
+<li>08:15 - 在 <span class="hl-red">Marine House SEASIR NAHA</span>集合</li>
+<li>08:45 - 安全知识讲解及出航</li>
+<li>09:00 - 11:30 (赏鲸)</li>
+<li>11:30 - 返回那霸</li></ul>
+    ]]></val>
 	</item>
 	<item>
 		<key>###Pm Trip###</key>
@@ -70,22 +77,23 @@
 	<item>
 		<key>###Pm Trip li###</key>
 		<val><![CDATA[
-<li>13:15 - 在 <span class="hl-red">Marine House SEASIR 那霸店</span>集合</li>
-<li>13:45 - 进行安全知识讲解后出发</li>
-<li>14:00 - 16:30 赏鲸</li>
-<li>16:30 - 返回那霸市</li>]]></val>
+<li>13:15 - 在 <span class="hl-red">Marine House SEASIR NAHA</span>集合</li>
+<li>13:45 - 安全知识讲解及出航</li>
+<li>14:00 - 16:30 (赏鲸)</li>
+<li>16:30 - 返回那霸</li></ul>
+]]></val>
 	</item>
 	<item>
 		<key>###Adult###</key>
-		<val>13岁-成人</val>
+		<val>12岁-成人</val>
 	</item>
 	<item>
 		<key>###Child6###</key>
-		<val>儿童(6-12岁)</val>
+		<val>小孩(6-12岁)</val>
 	</item>
 	<item>
 		<key>###Child3###</key>
-		<val>儿童(3-5岁)</val>
+		<val>小孩(3-5岁)</val>
 	</item>
 	<item>
 		<key>###Marine House SEASIR Whale watching excursion###</key>
@@ -101,7 +109,7 @@
 <li>船费</li>
 <li>饮用水</li>
 <li>赏鲸保证（如未能看到鲸鱼，将会获得【再次挑战券】或全额退款）</li>
-<li>免费酒店接送（仅限那霸市市内地区，因席位有限，请在预约时注明）</li>]]></val>
+<li>免费酒店接送（仅限那霸市市内地区，请在预约时注明，席位有限）</li>]]></val>
 	</item>
 	<item>
 		<key>###Boat Facility###</key>
@@ -109,10 +117,11 @@
 	</item>
 	<item>
 		<key>###Boat Facility li###</key>
-		<val><![CDATA[<li>解说导游</li>
-<li>水下收音设备用于听鲸鱼唱歌</li>
+        <val><![CDATA[
+<li>水下收音设备(听鲸鱼唱歌)</li>
 <li>双层甲板, 厕所, 客室</li>
-<li>轻便雨衣</li>]]></val>
+<li>轻便雨衣. </li>
+]]></val>
 	</item>
 	<item>
 		<key>###Conditions###</key>
@@ -120,7 +129,7 @@
 	</item>
 	<item>
 		<key>###Conditions content###</key>
-		<val><![CDATA[<p>如果客人有以下的情况, <span class="hl-red">Marine House SEASIR 那霸店</span> 将不受理报名:</p>]]></val>
+        <val><![CDATA[<p>如果客人有以下的情況, <span class="hl-red">Marine House SEASIR NAHA</span> 将不受理报名:</p>]]></val>
 	</item>
 	<item>
 		<key>###Conditions li###</key>
@@ -132,15 +141,30 @@
 	</item>
 	<item>
 		<key>###Whale Note dt###</key>
-		<val>
-Marine House SEASIR 那霸店保证： 2015年12月26日到2016年1月3日期间，如果旅程中没有一位客人看到鲸鱼或海豚，SEASIR那霸店将提供【再次挑战券】，您可以凭券再次登船参与活动（如需使用，须提前联系店铺确认座位）；2016年1月4日到4月3日期间，如果旅程中没有一位客人看到鲸鱼或海豚，SEASIR那霸店将全额退费。</val>
+        <val><![CDATA[
+            <ol class="hl-red">
+                <li>报名以下日期的赏鲸行程，若在该次航程中没有看到鲸豚，本店将会提供【再次挑战券】（无法退款），欢迎再次光临！</li>
+                <ul>
+                    <li>2016年12月23日到 2017年1月3日</li>
+                    <li>2017年4月1日到2017年4月9日</li>
+                </ul>
+                <li>如有带有三岁以下的婴儿参加赏鲸活动，必须有大人以婴儿背带将婴儿抱在身上。请自备婴儿背带。如遇风浪较大不适合携带婴幼儿登船时，也会优先通知您调整行程。</li>
+            </ol>
+    ]]></val>
 	</item>
+    <item>
+        <key>###Whale Schedule###</key>
+        <val><![CDATA[
+<li>2016年12月23日到 2017年1月3日</li>
+<li>2017年4月1日到2017年4月9日</li>
+        ]]></val>
+    </item>
 	<item>
 		<key>###Booking procedure dt###</key>
-		<val><![CDATA[点击<span class="booking-blue">“马上报名”</span>后，您需要填入可以联系到您的邮箱和所需信息，然后提交预约表。24小时之内您将会收到SEASIR官方账号发出的预约金请求。请您在收到预约金请求后的三日内完成支付以保留预约，金额为每位2，000日元。如您预约时距离活动日期已不足三日，请您在24小时内完成支付。]]></val>
+		<val><![CDATA[点击<span class="booking-blue">马上报名</span>后,您需要填入可以联系到您的邮箱和所需的信息,然后提交预约表。如果报名成功，您会收到SEASIR LTD.账户的PayPal预约金请求邮件。为确保您的预约，请在收到预约金请求的3天之内支付每人2,000日元的预约金。如果距您的预约日期不到3天，请在24小时之内支付完成预约金。若在期限内未收到您的预约金，您的预约将会被自动取消。]]></val>
 	</item>
 	<item>
 		<key>###price###</key>
-		<val>价目表</val>
+		<val>价目</val>
 	</item>
 </items>

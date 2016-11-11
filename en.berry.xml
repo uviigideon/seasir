@@ -113,14 +113,14 @@
         <key>###Operating Season###</key>
         <val>Operating Season</val>
     </item>
-    <item>
-        <key>###April-October###</key>
-        <val>April-October</val>
-    </item>
-    <item>
-        <key>###November-March###</key>
-        <val>November-March</val>
-    </item>
+	<item>
+		<key>###Season Sea Kayak###</key>
+		<val>March-November</val>
+	</item>
+	<item>
+		<key>###Season Mangrove Kayak###</key>
+		<val>October-June</val>
+	</item>
     <item>
         <key>###Mangrove Kayak###</key>
         <val>Mangrove Kayak</val>
@@ -218,7 +218,10 @@
     </item>
     <item>
         <key>###Parasailing dt###</key>
-        <val>Parasailing wing is towed by a boat, you will to enjoy the great view from the sky. Riding experience around 10~15 mins.</val>
+        <val><![CDATA[
+            Parasailing wing is towed by a boat, you will to enjoy the great view from the sky. Riding experience around 10~15 mins.
+            <span class="hl-red">This activity requires body height120cm, and weight from 20 to 120kg.</span>
+            ]]></val>
     </item>
     <item>
         <key>###Flyboard dt###</key>
