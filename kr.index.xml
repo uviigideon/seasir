@@ -134,14 +134,6 @@
 		<val>해외 원정 투어</val>
 	</item>
 	<item>
-		<key>###Paintball###</key>
-		<val>Paintball</val>
-	</item>
-	<item>
-		<key>###brief Paintball text###</key>
-        <val><![CDATA[가족, 친구, 동료간<br>팀워크 향상을 위한<br>페인트볼 게임]]></val>
-	</item>
-	<item>
 		<key>###Basic plan###</key>
 		<val>베이직 플랜</val>
 	</item>

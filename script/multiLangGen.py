@@ -125,7 +125,7 @@ def processTemplFileWithPath(fpath):
 
 # main
 # 1. read in all clip name and body
-fpaths = glob.glob(clipPathBase + "*.*")
+fpaths = glob.glob(clipPathBase + "*")
 print("find", len(fpaths), "clips")
 clipDict = {}
 for fpath in fpaths:
