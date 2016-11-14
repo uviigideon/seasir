@@ -27,7 +27,7 @@ def loadSharePartXml2Dict(langName,rpDict) :
     xmlPath = pathBase + langName + ".sharePart.xml"
     print("read in dom", xmlPath)
     dom = xml.dom.minidom.parse(xmlPath)
-    print("done dom:", xmlPath)
+    # print("done dom:", xmlPath)
     items = dom.getElementsByTagName("item")
     for item in items:
         key = getText(item.getElementsByTagName("key")[0].childNodes)
@@ -36,7 +36,7 @@ def loadSharePartXml2Dict(langName,rpDict) :
 def processMultiLang(xmlPath,tmpPath,fileName,tmpFile):
     print("read in dom", xmlPath)
     dom = xml.dom.minidom.parse(xmlPath)
-    print("done dom:", xmlPath)
+    # print("done dom:", xmlPath)
     items = dom.getElementsByTagName("item")
     replaceDictionary = {}
     for item in items:
@@ -76,7 +76,7 @@ def processMultiLang(xmlPath,tmpPath,fileName,tmpFile):
         wFile.write(rtnStr)
     # rFile.close()
     wFile.close()    
-    print("done")
+    # print("done")
     if (0 != len(notes)):
         return '\n'.join(str(x) for x in notes)
         

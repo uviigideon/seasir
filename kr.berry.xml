@@ -215,7 +215,9 @@
 	</item>
 	<item>
 		<key>###Parasailing dt###</key>
-		<val>보트에 낙하산을 연결해서 10m상공에서 스릴을 즐기는 액티비티입니다.</val>
+        <val><![CDATA[보트에 낙하산을 연결해서 10m상공에서 스릴을 즐기는 액티비티입니다.
+            <span class="hl-red">신장 120cm이상, 체중 20~120kg까지</span>
+                ]]></val>
 	</item>
 	<item>
 		<key>###Flyboard dt###</key>
