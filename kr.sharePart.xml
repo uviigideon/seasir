@@ -41,7 +41,7 @@
 	</item>
 	<item>
 		<key>###topMenuLi01###</key>
-        <val><![CDATA[&nbsp;&nbsp;홈&nbsp;&nbsp;]]></val>
+		<val><![CDATA[&nbsp;&nbsp;홈&nbsp;&nbsp;]]></val>
 	</item>
 	<item>
 		<key>###topMenuLi02###</key>
@@ -98,6 +98,14 @@
 	<item>
 		<key>###rest Note###</key>
 		<val>마린워크 후 18시간 비행기 탑승금지.</val>
+	</item>
+	<item>
+		<key>###experience Note###</key>
+		<val>어드벤스 이상, 로그 50 이상</val>
+	</item>
+	<item>
+		<key>###underwater light Note###</key>
+		<val>나이트 다이빙은 수중랜턴 필수. 랜탈가능(유료)</val>
 	</item>
 	<item>
 		<key>###introDiving###</key>
@@ -373,6 +381,10 @@
 		<val>가격</val>
 	</item>
 	<item>
+		<key>###unit price###</key>
+		<val>가격</val>
+	</item>
+	<item>
 		<key>###Note###</key>
 		<val>주의</val>
 	</item>
@@ -521,6 +533,14 @@
 		<val>전체 스쿠버 장비</val>
 	</item>
 	<item>
+		<key>###Scuba Equipment###</key>
+		<val>Scuba Equipment</val>
+	</item>
+	<item>
+		<key>###Snorkeling Equipment###</key>
+		<val>Snorkeling Equipment</val>
+	</item>
+	<item>
 		<key>###Each Item###</key>
 		<val>각개 장비</val>
 	</item>
@@ -531,6 +551,34 @@
 	<item>
 		<key>###heavy eq###</key>
 		<val>BCD, 레귤레이터, 웻수트, 다이브 컴퓨터</val>
+	</item>
+	<item>
+		<key>###light eq###</key>
+		<val>마스크, 스노클, 부츠, 핀(오픈 힐)</val>
+	</item>
+	<item>
+		<key>###Underwater Camera###</key>
+		<val>수중카메라</val>
+	</item>
+	<item>
+		<key>###Camera with waterproof case###</key>
+		<val>Camera with waterproof case</val>
+	</item>
+	<item>
+		<key>###SD Card###</key>
+		<val>SD카드</val>
+	</item>
+	<item>
+		<key>###Nitrox Tank###</key>
+		<val>나이트록스 탱크랜탈</val>
+	</item>
+	<item>
+		<key>###Each Tank###</key>
+		<val></val>
+	</item>
+	<item>
+		<key>###Underwater Light###</key>
+		<val>수중랜턴</val>
 	</item>
 	<item>
 		<key>###Guest Information###</key>

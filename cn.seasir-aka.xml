@@ -121,10 +121,6 @@
 		<val>气瓶、配重、乘船费以及教练陪同</val>
 	</item>
 	<item>
-		<key>###light eq###</key>
-		<val>包含: 面镜, 呼吸管, 套鞋, 蛙鞋 (Open Heel)</val>
-	</item>
-	<item>
 		<key>###Daily Time Schedule###</key>
 		<val>每日行程表</val>
 	</item>

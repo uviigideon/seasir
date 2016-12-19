@@ -107,6 +107,14 @@
         <val>Please make sure you have more than 18 hours resting hour before your flight. </val>
     </item>
     <item>
+        <key>###experience Note###</key>
+        <val>Advance Open Water diver (or above) with over 50 logged dives experience. </val>
+    </item>
+    <item>
+        <key>###underwater light Note###</key>
+        <val>A underwater light (strobe) is  mandatory  to  dive  at  night with us </val>
+    </item>
+    <item>
         <key>###introDiving###</key>
         <val>Intro Diving</val>
     </item>
@@ -390,6 +398,10 @@
         <val>Prices</val>
     </item>
     <item>
+        <key>###unit price###</key>
+        <val>Price</val>
+    </item>
+    <item>
         <key>###Note###</key>
         <val>Note</val>
     </item>
@@ -553,6 +565,14 @@
         <val>Full Scuba Equipment</val>
     </item>
     <item>
+        <key>###Scuba Equipment###</key>
+        <val>Scuba Equipment</val>
+    </item>
+    <item>
+        <key>###Snorkeling Equipment###</key>
+        <val>Snorkeling Equipment</val>
+    </item>
+    <item>
         <key>###Each Item###</key>
         <val>Each Item</val>
     </item>
@@ -563,6 +583,34 @@
     <item>
         <key>###heavy eq###</key>
         <val>BCD, Regulator, Wetsuit, Dive Computer</val>
+    </item>
+    <item>
+        <key>###light eq###</key>
+        <val>Mask, Snorkel Tube, Bootie, Fins (Open Heel)</val>
+    </item>
+    <item>
+        <key>###Underwater Camera###</key>
+        <val>Underwater Camera</val>
+    </item>
+    <item>
+        <key>###Camera with waterproof case###</key>
+        <val>Camera with waterproof case</val>
+    </item>
+    <item>
+        <key>###SD Card###</key>
+        <val>SD Card</val>
+    </item>
+    <item>
+        <key>###Nitrox Tank###</key>
+        <val>Nitrox Tank</val>
+    </item>
+    <item>
+        <key>###Each Tank###</key>
+        <val>Each Tank</val>
+    </item>
+    <item>
+        <key>###Underwater Light###</key>
+        <val>Underwater Light</val>
     </item>
     <!-- }}} Equipment Rental -->
     <!-- {{{ booking form -->

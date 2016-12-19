@@ -120,10 +120,6 @@
 		<val>탱크, 웨이트, 보트, 다이빙 가이드</val>
 	</item>
 	<item>
-		<key>###light eq###</key>
-		<val>마스크, 스노클, 부츠, 핀(오픈 힐)</val>
-	</item>
-	<item>
 		<key>###Daily Time Schedule###</key>
 		<val>하루 스케줄</val>
 	</item>

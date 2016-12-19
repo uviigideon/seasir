@@ -100,6 +100,14 @@
 		<val>活動結束後需休息18小時以上方可搭乘飛機。</val>
 	</item>
 	<item>
+		<key>###experience Note###</key>
+		<val>需持Advance Open Water等級以上潛水證且總潛水支數為50隻以上</val>
+	</item>
+	<item>
+		<key>###underwater light Note###</key>
+		<val>夜潛時請自備潛水手電筒，或於報名時租借</val>
+	</item>
+	<item>
 		<key>###introDiving###</key>
 		<val>體驗潛水</val>
 	</item>
@@ -372,6 +380,10 @@
 		<val>價目</val>
 	</item>
 	<item>
+		<key>###unit price###</key>
+		<val>單價</val>
+	</item>
+	<item>
 		<key>###Note###</key>
 		<val>備註</val>
 	</item>
@@ -513,15 +525,23 @@
 	</item>
 	<item>
 		<key>###Equipment Rental###</key>
-		<val>器材租用</val>
+		<val>器材項目</val>
 	</item>
 	<item>
 		<key>###Full Scuba Equipment###</key>
 		<val>全套潛水器材</val>
 	</item>
 	<item>
+		<key>###Scuba Equipment###</key>
+		<val>重器材</val>
+	</item>
+	<item>
+		<key>###Snorkeling Equipment###</key>
+		<val>輕器材</val>
+	</item>
+	<item>
 		<key>###Each Item###</key>
-		<val>每樣器材</val>
+		<val>每樣</val>
 	</item>
 	<item>
 		<key>###Full Set dt###</key>
@@ -530,6 +550,34 @@
 	<item>
 		<key>###heavy eq###</key>
 		<val>BCD, Regulator, 溼式潛水衣, 潛水電腦錶</val>
+	</item>
+	<item>
+		<key>###light eq###</key>
+		<val>面鏡, 呼吸管, 套鞋, 蛙鞋 (Open Heel)</val>
+	</item>
+	<item>
+		<key>###Underwater Camera###</key>
+		<val>防水相機</val>
+	</item>
+	<item>
+		<key>###Camera with waterproof case###</key>
+		<val>相機、含防水殼</val>
+	</item>
+	<item>
+		<key>###SD Card###</key>
+		<val>SD記憶卡</val>
+	</item>
+	<item>
+		<key>###Nitrox Tank###</key>
+		<val>高氧氣瓶</val>
+	</item>
+	<item>
+		<key>###Each Tank###</key>
+		<val>每瓶</val>
+	</item>
+	<item>
+		<key>###Underwater Light###</key>
+		<val>潛水手電筒</val>
 	</item>
 	<item>
 		<key>###Guest Information###</key>

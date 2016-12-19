@@ -100,6 +100,14 @@
 		<val>活动结束后需休息18小时以上，方可搭乘飞机。</val>
 	</item>
 	<item>
+		<key>###experience Note###</key>
+		<val>需持Advance Open Water等级以上潜水证且总潜水支数为50支以上</val>
+	</item>
+	<item>
+		<key>###underwater light Note###</key>
+		<val>夜潜时请自备潜水电筒，或于报名时租借</val>
+	</item>
+	<item>
 		<key>###introDiving###</key>
 		<val>体验潜水</val>
 	</item>
@@ -372,6 +380,10 @@
 		<val>价格</val>
 	</item>
 	<item>
+		<key>###unit price###</key>
+		<val>价格</val>
+	</item>
+	<item>
 		<key>###Note###</key>
 		<val>备注</val>
 	</item>
@@ -520,8 +532,16 @@
 		<val>全套器材</val>
 	</item>
 	<item>
+		<key>###Scuba Equipment###</key>
+		<val>重器材</val>
+	</item>
+	<item>
+		<key>###Snorkeling Equipment###</key>
+		<val>轻器材</val>
+	</item>
+	<item>
 		<key>###Each Item###</key>
-		<val>单个器材</val>
+		<val>每样</val>
 	</item>
 	<item>
 		<key>###Full Set dt###</key>
@@ -530,6 +550,34 @@
 	<item>
 		<key>###heavy eq###</key>
 		<val>BCD, Regulator, 湿式潜水衣, 潜水电脑表</val>
+	</item>
+	<item>
+		<key>###light eq###</key>
+		<val>面镜, 呼吸管, 套鞋, 蛙鞋 (Open Heel)</val>
+	</item>
+	<item>
+		<key>###Underwater Camera###</key>
+		<val>防水相机</val>
+	</item>
+	<item>
+		<key>###Camera with waterproof case###</key>
+		<val>相机丶含防水壳</val>
+	</item>
+	<item>
+		<key>###SD Card###</key>
+		<val>SD记忆卡</val>
+	</item>
+	<item>
+		<key>###Nitrox Tank###</key>
+		<val>高氧气瓶</val>
+	</item>
+	<item>
+		<key>###Each Tank###</key>
+		<val>每瓶</val>
+	</item>
+	<item>
+		<key>###Underwater Light###</key>
+		<val>潜水电筒</val>
 	</item>
 	<item>
 		<key>###Guest Information###</key>
