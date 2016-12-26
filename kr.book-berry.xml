@@ -63,7 +63,15 @@
             주소: 117 Kouki, Nago City<br>
             Map Code: 206444213*85
             ]]></val>
-		<todo></todo>
+	</item>
+	<item>
+		<key>###Loc Kanucha###</key>
+		<val><![CDATA[
+            Mainly in winter season, the activity will be at<br>
+            카누차리조트 (Kanucha Resort Beach Counter)<br>
+            주소: 156-2 Abu, Nago, Okinawa, JAPAN<br>
+            MAP CODE: 485 159 341*57
+            ]]></val>
 	</item>
 	<item>
 		<key>###Loc Kise Beach###</key>
@@ -72,7 +80,6 @@
             주소: 115-2 Kise, Nago City<br>
             Map Code: 206413799*01
             ]]></val>
-		<todo></todo>
 	</item>
 	<item>
 		<key>###Loc ANA Manza###</key>
@@ -81,7 +88,6 @@
             주소: 260 Serakaki, Onna, Kunigami<br>
             전화번호: 098 966 1211
             ]]></val>
-		<todo></todo>
 	</item>
 	<item>
 		<key>###Loc Nature Miraikan###</key>
@@ -90,6 +96,5 @@
             주소: 11818-2 Kin Town, Kin<br>
             전화번호: 098 055 8880
             ]]></val>
-		<todo></todo>
 	</item>
 </items>
