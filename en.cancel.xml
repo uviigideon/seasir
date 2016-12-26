@@ -4,8 +4,8 @@
         <val>Cancellation Policy</val>
     </item>
     <item>
-        <key>###Charges###</key>
-        <val>Charges</val>
+        <key>###Terms and Condition###</key>
+        <val>Terms and Condition</val>
     </item>
     
     <item>
@@ -15,12 +15,13 @@
         <item>
         <key>###Non Refundable dt###</key>
         <val><![CDATA[
-<li>If cancellation make less than 14 days from trip date.</li>
+<li>If cancellation make less than 14 days from trip date, cancellation fee is caused.</li>
 <li>If guest NO SHOW on the trip day cause of any reason.</li>
 <li>If guest miss boat departure or activity booking time slot.</li>
 <li>If guest unable to turn up at designated meeting location and time for any reason.</li>
 <li>If the Captain of the boat or Instructor of SEASIR Ltd suspects this individual or group behavior could jeopardize other guest or overall safety measure or the guest under Recreation Drug or Alcohol influence.</li>
 <li>Any changes from the original booking cause of the cancellation. This is considering INSUFFICIENT INFORMATION.</li>        
+<li>Any medical or health conditions are not informed to SEASIR Ltd when booking was made. Please refer to <a href="./health.htm" target="_blank">Marine House SEASIR Health Check List</a> for detail.</li>
         ]]></val>
     </item>
     <item>
@@ -30,13 +31,13 @@
         <item>
         <key>###Deposit Refundable dt###</key>
         <val><![CDATA[
-<li>Deposit refund collection only at SEASIR NAHA BRANCH office or Marine Club BERRY Branch office only.</li>
+<li>Full Payment or deposit refund collection only at SEASIR NAHA BRANCH office or Marine Club BERRY Branch office only.</li>
 <li>Trip cancellation by SEASIR Ltd. management due to weather or dangerous sea condition.</li>
         ]]></val>
     </item>
     <item>
         <key>###Full Charge###</key>
-        <val>Full Charge</val>
+        <val>Full Charges for deposit collection category only</val>
     </item>
     <item>
         <key>###Full Charge dt###</key>
@@ -48,7 +49,7 @@
     </item> 
     <item>
         <key>###Deposit Collection###</key>
-        <val>Deposit Collection</val>
+        <val>Cancellation Fee Collection</val>
     </item>    
     <item>
         <key>###Deposit Collection dt###</key>
@@ -56,6 +57,7 @@
 <li>SEASIR NAHA branch full day activity JPY5,000 per person.</li>
 <li>SEASIR NAHA half day activity JPY3,000 per person.</li>
 <li>SEASIR AKA Branch accomodation and any activity JPY5,000 per person.</li>
+<li>Marine Club BERRY all activity and Paintball JPY4,000 per person.</li>
 <li>PADI diving course booking JPY5,000 per person</li>
 <li>Whale Watching Excursion Trip by SEASIR NAHA Branch JPY2,000 per person.</li>
         ]]></val>

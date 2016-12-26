@@ -69,7 +69,9 @@ A special design for a half day marine activity for anyone, this destination com
     </item>
     <item>
         <key>###Booking procedure dt###</key>
-        <val><![CDATA[Click on <b>BOOKING NOW</b>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit of JPY3,000 per person within 3 days start from the day you receive deposit request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.]]></val>
+        <val><![CDATA[
+            Click on <span class="booking-blue">BOOKING NOW</span>, you will require to fill in your email address as your contact. Fill in all information as required and summit. You will receive a PayPal payment request from SEASIR LTD. account, to secure your booking please make the payment within 3 days start from the day you receive payment request from our PayPal account, or within 24 hours if your booking request is less than less than 3 days from the departure date. All booking request will cancel if no deposit receive.
+            ]]></val>
     </item>
     <item>
         <key>###Snorkeling Package Adult###</key>

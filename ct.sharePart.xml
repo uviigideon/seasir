@@ -751,9 +751,23 @@
 		<key>###rest agreement###</key>
 		<val><![CDATA[如參加<span class="underline">體驗潛水</span>、<span class="underline">休閒潛水</span>或<span class="underline">海底漫步</span>，活動結束後需休息18小時以上方可搭乘飛機。]]></val>
 	</item>
+    <item>
+        <key>###deposit dt naha###</key>
+        <val><![CDATA[
+在活動預約成功之後，我將會收到來自SEASIR LTD.帳戶通過Paypal (線上刷卡系統)所寄出的訂金請求email，並於三日支付訂金以確認預約，如果活動日期自預約日算起未滿三日，此訂金費用需於24小時內支付。SEASIR那霸店一日活動、SEASIR阿嘉島住宿及活動預約以及PADI潛水課程的訂金收費：JPY5,000/每人。如果超過訂金支付期限，我所預約席次將會被自動取消。
+            ]]></val>
+    </item>
+    <item>
+        <key>###deposit dt berry###</key>
+        <val><![CDATA[
+在活動預約成功之後，我將會收到來自SEASIR LTD.帳戶通過Paypal (線上刷卡系統)所寄出的活動費用全額請求email，並於三日支付費用全額以確認預約，如果活動日期自預約日算起未滿三日，此費用需於24小時內完成支付。如果超過支付期限，我所預約席次將會被自動取消。
+            ]]></val>
+    </item>
 	<item>
 		<key>###deposit dt###</key>
-		<val><![CDATA[在活動預約成功之後，我將會收到來自SEASIR官方PayPal帳號寄送的訂金需求，SEASIR活動5,000日元/位；BERRY活動4,000日元/位；賞鯨活動日幣2,000日元/位，並於3日內支付訂金以確認預訂，<span class="seasir-red">(如活動日期在預約日算起未滿三日，敬請於24小時內支付訂金)</span>。如過期限，席次將可能被取消，再請來信詢問。]]></val>
+        <val><![CDATA[
+            在活動預約成功之後，我將會收到來自SEASIR官方PayPal帳號寄送的訂金需求，SEASIR活動5,000日元/位；BERRY活動4,000日元/位；賞鯨活動日幣2,000日元/位，並於3日內支付訂金以確認預訂，<span class="seasir-red">(如活動日期在預約日算起未滿三日，敬請於24小時內支付訂金)</span>。如過期限，席次將可能被取消，再請來信詢問。
+            ]]></val>
 	</item>
 	<item>
 		<key>###health dt###</key>

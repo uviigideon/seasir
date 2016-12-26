@@ -788,6 +788,18 @@
         <val><![CDATA[I will have more than 18 hours rest before my flight if I book for: <span class="underline">Leisure Diving</span>, <span class="underline">Introductory Diving</span>, <span class="underline">Marine Walk</span> before my flight.]]></val>
     </item>
     <item>
+        <key>###deposit dt naha###</key>
+        <val><![CDATA[
+I will receive a deposit payment request from SEASIR Co., Ltd. PayPal account. To secure and confirm my booking request I will have to make the deposit payment within 3 days from the date I receive this PayPal request. Or within 24 hours if my booking date is less than 3 days notice from my activity date. Deposit payment according as for SEASIR NAHA Full Day activity, SEASIR AKA accommodation and activity and PADI diving course is JPY5,000 per person. I understand and agreed if I did not make the deposit payment within 3 days, my booking request will be cancel.
+            ]]></val>
+    </item>
+    <item>
+        <key>###deposit dt berry###</key>
+        <val><![CDATA[
+I will receive a full payment request from SEASIR Co., Ltd. PayPal account. To secure and confirm my booking request I will have to make the full payment within 3 days from the date I receive this PayPal request. Or within 24 hours if my booking date is less than 3 days notice from my booking request date. I understand and agree if I did not make the deposit payment within 3 days, my booking request will be cancel.
+            ]]></val>
+    </item>
+    <item>
         <key>###deposit dt###</key>
         <val><![CDATA[I will receive a PayPal deposit request from SEASIR LTD. account, to secure your booking please make your deposit within 3 days start from the day I receive deposit request from our PayPal account, or within 24 hours if the booking request is less than 3 days notice from the departure date. <span class="seasir-red">(Deposit collection: SEASIR booking JPY5,000/person ; BERRY booking JPY5,000/person ; Whale Watching tour JPY2,000/person)</span>. All booking request will cancel if no deposit received.]]></val>
     </item>

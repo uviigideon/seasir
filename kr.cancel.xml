@@ -4,12 +4,12 @@
         <val>취소 규정</val>
     </item>
     <item>
-        <key>###Charges###</key>
+        <key>###Terms and Condition###</key>
         <val>요금</val>
     </item>
     <item>
         <key>###Non Refundable###</key>
-        <val><![CDATA[보증금 환불 불가]]></val>
+        <val><![CDATA[환불불가사항]]></val>
     </item>
         <item>
         <key>###Non Refundable dt###</key>
@@ -20,11 +20,12 @@
 <li>어떠한 이유에서라도 고객님이 예정된 집합 장소 및 시간에 출석하시지 않을 경우.</li>
 <li>선장 혹은 SEASIR Ltd측의 강사가, 특정 개인 및 단체의 행동이 타 고객이나 전반적인 안전사항을 위협할 수 있다고 판단한 경우, 또한 술이나 약물을섭취했다고 판단한 경우.</li>
 <li>취소에 따라 원래 예약에서 변경된 사항. 이 경우는 정보 불충분으로 처리됩니다.</li>
+<li>예약 시점에 있어서 고객님의 병력 혹은 건강상태가 SEASIR Ltd 측에 보고 되지 않았을 경우. 자세한 사항은, <a href="./health.htm" target="_blank">SEASIR 건강체크 리스트</a>를 참조해 주십시오.</li>
         ]]></val>
     </item>
     <item>
         <key>###Deposit Refundable###</key>
-        <val><![CDATA[보증금 환불 가능]]></val>
+        <val><![CDATA[환불 가능 조건]]></val>
     </item>
         <item>
         <key>###Deposit Refundable dt###</key>
@@ -35,19 +36,19 @@
     </item>
     <item>
         <key>###Full Charge###</key>
-        <val>전액</val>
+        <val>전액환불불가</val>
     </item>
     <item>
         <key>###Full Charge dt###</key>
         <val><![CDATA[
 <li>취소일로부터 투어일까지의 남은 시간이 24시간 미만일 경우에는 총 투어경비 전액을 부담하시게 됩니다. </li>
 <li>어떠한 이유에서라도 고객님이 예정된 집합 장소 및 시간에 출석하시지 않을 경우에는 총 투어경비 전액을 부담하시게 됩니다.</li>
-<li>예약 시점에 있어서 고객님의 병력 혹은 건강상태가 <a href="./health.htm" target="_blank">SEASIR Ltd 측에 보고 되지 않았을 경우. 자세한 사항은, SEASIR 건강체크 리스트</a>를 참조해 주십시오.</li>
+<li>예약 시점에 있어서 고객님의 병력 혹은 건강상태가 SEASIR Ltd 측에 보고 되지 않았을 경우. 자세한 사항은, <a href="./health.htm" target="_blank">SEASIR 건강체크 리스트</a>를 참조해 주십시오.</li>
         ]]></val>
     </item> 
     <item>
         <key>###Deposit Collection###</key>
-        <val>보증금  예치</val>
+        <val>캔슬료</val>
     </item>    
     <item>
         <key>###Deposit Collection dt###</key>
