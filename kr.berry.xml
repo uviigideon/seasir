@@ -60,11 +60,11 @@
 		<val>하루 일정</val>
 	</item>
 	<item>
-		<key>###Weed Beach###</key>
+		<key>###kouki beach###</key>
 		<val>코우키 비치 (Kouki Beach)</val>
 	</item>
 	<item>
-		<key>###Weed Beach Addr###</key>
+		<key>###kouki beach addr###</key>
 		<val>117 Kouki, Nago City (베스트웨스턴리조트 오키나와 키세비치)</val>
 	</item>
 	<item>
@@ -215,7 +215,7 @@
 	</item>
 	<item>
 		<key>###Parasailing dt###</key>
-        <val><![CDATA[보트에 낙하산을 연결해서 10m상공에서 스릴을 즐기는 액티비티입니다.
+		<val><![CDATA[보트에 낙하산을 연결해서 10m상공에서 스릴을 즐기는 액티비티입니다.
             <span class="hl-red">신장 120cm이상, 체중 20~120kg까지</span>
                 ]]></val>
 	</item>
@@ -239,12 +239,48 @@
 		<val>카약 액티비티</val>
 	</item>
 	<item>
+		<key>###note for mangrove kayak###</key>
+		<val>망글로브 카약 : 밀물썰물 시간에 의해 변동이 있으므로 확인이 필요합니다.</val>
+	</item>
+	<item>
+		<key>###note for water sports location###</key>
+		<val><![CDATA[※ 중요: 여름시즌(3월~10월) 개최 장소는 '코우키 비치' ; 겨울시즌(11월~2월) 개최장소는 카누차 리조트 비치 카운터입니다. 단, 해상상황, 날씨에 의해 바뀔 수 있으므로 예약일 하루전에 전화 혹은 메일로 확인 부탁드립니다.]]></val>
+	</item>
+	<item>
+		<key>###kanucha resort###</key>
+		<val>카누차리조트 (Kanucha Resort Beach Counter)</val>
+	</item>
+	<item>
+		<key>###kanucha resort addr###</key>
+		<val><![CDATA[156-2 Abu, Nago, Okinawa, JAPAN]]></val>
+	</item>
+	<item>
+		<key>###march october###</key>
+		<val>3월-10월</val>
+	</item>
+	<item>
+		<key>###november february###</key>
+		<val>11월–2월</val>
+	</item>
+	<item>
+		<key>###note for jet location###</key>
+		<val><![CDATA[플라이보드의 개최 장소는 키세비치파레(<a href="#location-kise">KISE BEACH PALACE</a>)]]></val>
+	</item>
+    <item>
+        <key>###KISE BEACH PALACE###</key>
+        <val>키세비치파레스(KISE BEACH PALACE)</val>
+    </item>
+	<item>
+		<key>###kise addr###</key>
+		<val><![CDATA[115-2 Kise, Nago City, Okinawa 905-0026 JAPAN]]></val>
+	</item>
+	<item>
 		<key>###Active Schedule Time###</key>
 		<val><![CDATA[
 <li>09:00</li>
 <li>11:00</li>
 <li>13:30</li>
-<li>15:30</li>
+<li>15:30 (4月-10月限定)</li>
             ]]></val>
 	</item>
 </items>

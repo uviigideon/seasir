@@ -48,10 +48,10 @@
 		<key>###3rd Floor Room Desc###</key>
 		<val>三楼有五间西式房间和两间和式房间，均可供两到三人入住。房间内设有独立卫生间和浴室。</val>
 	</item>
-    <item>
-        <key>###discount###</key>
-        <val>两晚以上连续住宿者，可享连泊优惠1,000日圆/每位/晚</val>
-    </item>
+	<item>
+		<key>###discount###</key>
+		<val>两晚以上连续住宿者，可享连泊优惠1,000日圆/每位/晚</val>
+	</item>
 	<item>
 		<key>###peakseason date###</key>
 		<val><![CDATA[2017 旺季: 4月28日-5月7日；6月10日-10月9日]]></val>
@@ -90,7 +90,8 @@
 	</item>
 	<item>
 		<key>###Daily###</key>
-		<val>每日</val>
+		<val>Daily</val>
+		<todo></todo>
 	</item>
 	<item>
 		<key>###Intro Diving###</key>
@@ -154,10 +155,6 @@
 	<item>
 		<key>###Dining Area And Sunroof Jacuzii Desc###</key>
 		<val><![CDATA[餐厅设在二楼，提供免费无线网络。<br><br>一整天的潜水之后，让按摩浴缸为您消除疲劳。]]></val>
-	</item>
-	<item>
-		<key>###Dive Computer###</key>
-		<val>潜水电脑表</val>
 	</item>
 	<item>
 		<key>###heavy eq###</key>

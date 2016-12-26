@@ -48,10 +48,10 @@ Marine House SEASIR 阿嘉島潛水公司成立於1983年. SEASIR 阿嘉島的�
 		<key>###3rd Floor Room Desc###</key>
 		<val>5間西式房間可以停留三個人或是 2間和式房可停留兩到三人. 所有的房間內都有分離的廁所和衛浴.</val>
 	</item>
-    <item>
-        <key>###discount###</key>
-        <val>兩晚以上連續住宿者，可享連泊優惠1,000日圓/每位/晚</val>
-    </item>
+	<item>
+		<key>###discount###</key>
+		<val>兩晚以上連續住宿者，可享連泊優惠1,000日圓/每位/晚</val>
+	</item>
 	<item>
 		<key>###peakseason date###</key>
 		<val><![CDATA[2017 旺季: 4月28日-5月7日；6月10日-10月9日]]></val>
@@ -90,7 +90,8 @@ Marine House SEASIR 阿嘉島潛水公司成立於1983年. SEASIR 阿嘉島的�
 	</item>
 	<item>
 		<key>###Daily###</key>
-		<val>每日</val>
+		<val>Daily</val>
+		<todo></todo>
 	</item>
 	<item>
 		<key>###Intro Diving###</key>
@@ -156,10 +157,6 @@ Marine House SEASIR 阿嘉島潛水公司成立於1983年. SEASIR 阿嘉島的�
 		<val><![CDATA[早餐和晚餐的餐廳位在 2樓有免費的無線網路可以使用.<br><br>在一整天的潛水之後, 讓按摩浴缸來為您消除疲勞.]]></val>
 	</item>
 	<item>
-		<key>###Dive Computer###</key>
-		<val>潛水錶</val>
-	</item>
-	<item>
 		<key>###heavy eq###</key>
 		<val>BCD（浮力控制器），呼吸器，溼式潛水衣</val>
 	</item>
@@ -178,7 +175,6 @@ Marine House SEASIR 阿嘉島潛水公司成立於1983年. SEASIR 阿嘉島的�
             <li>如何預約船票: 請上網預約（英文）</li>
             座間味村官方網站: <a href="http://www.vill.zamami.okinawa.jp/" target="_blank">http://www.vill.zamami.okinawa.jp/</a>
             ]]></val>
-		<todo></todo>
 	</item>
 	<item>
 		<key>###Active Schedule Time dive###</key>

@@ -62,11 +62,11 @@
         <val>Activity Daily Time Schedule</val>
     </item>
     <item>
-        <key>###Weed Beach###</key>
+        <key>###kouki beach###</key>
         <val>Kouki Beach</val>
     </item>
     <item>
-        <key>###Weed Beach Addr###</key>
+        <key>###kouki beach addr###</key>
         <val>117 Kouki, Nago City (behind Hotel Best Western Okinawa Kouki Beach)</val>
     </item>
     <item>
@@ -242,12 +242,40 @@
         <val>Kayak Activity</val>
     </item>
     <item>
-        <key></key>
-        <val></val>
+        <key>###note for mangrove kayak###</key>
+        <val>Mangrove Kayak: the time schedule is different depending on the ebb and flow of the tide.</val>
     </item>
     <item>
-        <key></key>
-        <val></val>
+        <key>###note for water sports location###</key>
+        <val><![CDATA[※ Important: Activity location on Summer season (March-October) will be at Kouki Beach ; on Winter season (November–February) will be at Kanucha Resort beach counter. Location is subject to change due to sea condition and windy day, Please contact us by email or phone call one day before activity to get the update.]]></val>
+    </item>
+    <item>
+        <key>###kanucha resort###</key>
+        <val>Kanucha Resort Beach Counter</val>
+    </item>
+    <item>
+        <key>###kanucha resort addr###</key>
+        <val><![CDATA[156-2 Abu, Nago, Okinawa, JAPAN]]></val>
+    </item>
+    <item>
+        <key>###march october###</key>
+        <val>March-October</val>
+    </item>
+    <item>
+        <key>###november february###</key>
+        <val>November–February</val>
+    </item>
+    <item>
+        <key>###note for jet location###</key>
+        <val><![CDATA[To join Flyboard, meeting point is at <a href="#location-kise">KISE BEACH PALACE</a> beach counter]]></val>
+    </item>
+    <item>
+        <key>###KISE BEACH PALACE###</key>
+        <val>KISE BEACH PALACE</val>
+    </item>
+    <item>
+        <key>###kise addr###</key>
+        <val><![CDATA[115-2 Kise, Nago City, Okinawa 905-0026 JAPAN]]></val>
     </item>
     <item>
         <key></key>
@@ -264,7 +292,7 @@
 <li>09:00</li>
 <li>11:00</li>
 <li>13:30</li>
-<li>15:30</li>
+<li>15:30 (April – October Only)</li>
             ]]></val>
     </item>
     <!-- }}} !!!DO NOT TRANSLATE BELOW!!! -->

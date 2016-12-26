@@ -352,6 +352,10 @@
         <key>###And###</key>
         <val>And</val>
     </item>
+    <item>
+        <key>###Daily###</key>
+        <val>Daily</val>
+    </item>
 
     <!-- }}} ABCDE -->
     <!-- {{{ FGHIJK -->
@@ -469,7 +473,7 @@
         <val><![CDATA[1860-4 Seragaki, Onna-son,<br>Okinawa 904-0404 JAPAN]]></val>
     </item>
     <item>
-        <key>###Weed Beach Addr###</key>
+        <key>###kouki beach addr###</key>
         <val><![CDATA[117 Kouki, Nago City,<br>Okinawa 905-0025 JAPAN]]></val>
     </item>
     <item>
@@ -587,6 +591,10 @@
     <item>
         <key>###light eq###</key>
         <val>Mask, Snorkel Tube, Bootie, Fins (Open Heel)</val>
+    </item>
+    <item>
+        <key>###Dive Computer###</key>
+        <val>Dive Computer</val>
     </item>
     <item>
         <key>###Underwater Camera###</key>

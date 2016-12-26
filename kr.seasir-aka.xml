@@ -47,10 +47,10 @@
 		<key>###3rd Floor Room Desc###</key>
 		<val>서양 스타일의 침실의 이인실 5개와 3인용의 일본식 다다미방 2개가 있습니다. 모든 방에는 화장실과 욕조시설이 갖춰져 있습니다.</val>
 	</item>
-    <item>
-        <key>###discount###</key>
-        <val>2박 이상의 숙박하시는 분은 박당 1,000엔 할인됩니다</val>
-    </item>
+	<item>
+		<key>###discount###</key>
+		<val>2박 이상의 숙박하시는 분은 박당 1,000엔 할인됩니다</val>
+	</item>
 	<item>
 		<key>###peakseason date###</key>
 		<val><![CDATA[2017년 성수기 : 4월28일~5월7일, 6월10일~10월 9일]]></val>
@@ -89,7 +89,8 @@
 	</item>
 	<item>
 		<key>###Daily###</key>
-		<val>하루</val>
+		<val>Daily</val>
+		<todo></todo>
 	</item>
 	<item>
 		<key>###Intro Diving###</key>
@@ -155,10 +156,6 @@
 		<val><![CDATA[식사는 2층 식당에서 제공되고 2층식당에선 무료 인터넷과 와이파이도 제공하고 있습니다.<br><br>다이빙을 마치고 자쿠지에서 편안히 휴식을 취할 수 있습니다.]]></val>
 	</item>
 	<item>
-		<key>###Dive Computer###</key>
-		<val>다이빙 컴퓨터</val>
-	</item>
-	<item>
 		<key>###heavy eq###</key>
 		<val>BCD / 레귤레이터 / 잠수복</val>
 	</item>
@@ -178,11 +175,6 @@
             자마미 페리 예약 사이트 : <a href="https://www.vill.zamami.okinawa.jp/zamami_web/enlog0101!doFormOpenLogin.action" target="_blank">https://www.vill.zamami.okinawa.jp/zamami_web/enlog0101!doFormOpenLogin.action</a><br>
 자마미촌 공식 홈페이지 : <a href="http://www.vill.zamami.okinawa.jp/" target="_blank"></a>http://www.vill.zamami.okinawa.jp/</a>           
             ]]></val>
-	
-	 
-
-        
-		<todo></todo>
 	</item>
 	<item>
 		<key>###Active Schedule Time dive###</key>

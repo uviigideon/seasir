@@ -4,6 +4,14 @@
 		<val><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="kr">]]></val>
 	</item>
 	<item>
+		<key>###Dive Computer###</key>
+		<val>다이빙 컴퓨터</val>
+	</item>
+	<item>
+		<key>###Daily###</key>
+		<val>하루</val>
+	</item>
+	<item>
 		<key>###headTitle###</key>
 		<val>오키나와 다이빙 마린 하우스 시사 Marine House Seasir</val>
 	</item>
@@ -445,7 +453,7 @@
 		<val><![CDATA[1860-4 Seragaki, Onna-son,<br>Okinawa 904-0404 JAPAN]]></val>
 	</item>
 	<item>
-		<key>###Weed Beach Addr###</key>
+		<key>###kouki beach addr###</key>
 		<val><![CDATA[117 Kouki, Nago City,<br>Okinawa 905-0025 JAPAN]]></val>
 	</item>
 	<item>

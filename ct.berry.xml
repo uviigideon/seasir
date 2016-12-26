@@ -60,11 +60,11 @@
 		<val>每日行程</val>
 	</item>
 	<item>
-		<key>###Weed Beach###</key>
+		<key>###kouki beach###</key>
 		<val>幸喜海灘 (Kouki Beach)</val>
 	</item>
 	<item>
-		<key>###Weed Beach Addr###</key>
+		<key>###kouki beach addr###</key>
 		<val>名護市幸喜 117 (最佳西方度假酒店沖繩幸喜海灘)</val>
 	</item>
 	<item>
@@ -219,7 +219,7 @@
 	</item>
 	<item>
 		<key>###Parasailing dt###</key>
-        <val><![CDATA[目前沖繩極具人氣的活動之一，藉由船隻的拖曳力量讓您翱翔在10公尺高，俯瞰海洋，周遭景色一覽無遺。
+		<val><![CDATA[目前沖繩極具人氣的活動之一，藉由船隻的拖曳力量讓您翱翔在10公尺高，俯瞰海洋，周遭景色一覽無遺。
             <span class="hl-red">本活動限參加者的身高超過120公分，體重介於20~120公斤</span>
             ]]></val>
 	</item>
@@ -242,12 +242,48 @@
 		<val>獨木舟活動</val>
 	</item>
 	<item>
+		<key>###note for mangrove kayak###</key>
+		<val>紅樹林獨木舟: 時間依照當天潮汐而定，請於報名時確認時段。</val>
+	</item>
+	<item>
+		<key>###note for water sports location###</key>
+		<val><![CDATA[※ 請注意: 夏季(3~10月)活動地點主要為Kouki Beach，冬季(11月~2月)活動地點主要為卡努洽渡假村。海上活動有可能受到風向跟海況影響而調整活動地點，請於活動前一日以郵件或電話，再次確認活動行程地點。]]></val>
+	</item>
+	<item>
+		<key>###kanucha resort###</key>
+		<val>卡努洽渡假村(Kanucha Resort)</val>
+	</item>
+	<item>
+		<key>###kanucha resort addr###</key>
+		<val><![CDATA[沖縄県名護市字安部156-2]]></val>
+	</item>
+	<item>
+		<key>###march october###</key>
+		<val>3月-10月</val>
+	</item>
+	<item>
+		<key>###november february###</key>
+		<val>11月–2月</val>
+	</item>
+	<item>
+		<key>###note for jet location###</key>
+		<val><![CDATA[Flyboard活動地點為喜瀨海灘(<a href="#location-kise">KISE BEACH PALACE</a>)海灘櫃台]]></val>
+	</item>
+    <item>
+        <key>###KISE BEACH PALACE###</key>
+        <val>喜瀨海灘(KISE BEACH PALACE)</val>
+    </item>
+	<item>
+		<key>###kise addr###</key>
+		<val><![CDATA[沖繩縣名護市,喜瀨115-2]]></val>
+	</item>
+	<item>
 		<key>###Active Schedule Time###</key>
 		<val><![CDATA[
 <li>09:00</li>
 <li>11:00</li>
 <li>13:30</li>
-<li>15:30</li>
+<li>15:30 (4月-10月限定)</li>
             ]]></val>
 	</item>
 </items>
