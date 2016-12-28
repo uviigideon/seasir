@@ -2,7 +2,7 @@
 
 base="/Users/uvii/proj/seasir/seasir/"
 langs=(en ct cn kr)
-subs=(css js img bf cgi download)
+subs=(css js img bf download)
 res="resource/"
 
 for lang in ${langs[*]}
