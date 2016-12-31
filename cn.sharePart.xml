@@ -376,10 +376,6 @@
 		<val>旺季</val>
 	</item>
 	<item>
-		<key>###priceFrom###</key>
-		<val>最便宜价格为</val>
-	</item>
-	<item>
 		<key>###price###</key>
 		<val>价格</val>
 	</item>
@@ -421,11 +417,11 @@
 	</item>
 	<item>
 		<key>###June###</key>
-		<val>7月</val>
+		<val>6月</val>
 	</item>
 	<item>
 		<key>###July###</key>
-		<val>6月</val>
+		<val>7月</val>
 	</item>
 	<item>
 		<key>###September###</key>

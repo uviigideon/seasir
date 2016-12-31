@@ -390,10 +390,6 @@
         <val>Peak Season</val>
     </item>
     <item>
-        <key>###priceFrom###</key>
-        <val>Price from</val>
-    </item>
-    <item>
         <key>###price###</key>
         <val>Price</val>
     </item>

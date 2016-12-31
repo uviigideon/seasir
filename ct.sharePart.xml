@@ -376,10 +376,6 @@
 		<val>旺季</val>
 	</item>
 	<item>
-		<key>###priceFrom###</key>
-		<val>最便宜價格為</val>
-	</item>
-	<item>
 		<key>###price###</key>
 		<val>價目</val>
 	</item>

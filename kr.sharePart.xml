@@ -377,10 +377,6 @@
 		<val>최고성수기</val>
 	</item>
 	<item>
-		<key>###priceFrom###</key>
-		<val>최소가</val>
-	</item>
-	<item>
 		<key>###price###</key>
 		<val>가격</val>
 	</item>
