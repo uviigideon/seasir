@@ -346,6 +346,10 @@ vertical-align: super;
     width:190px;
     height:135px;
 }
+
+img.frame {
+    padding:2px;
+}
 /* }}} image box */
 /* {{{ copyright */
 #copyright {

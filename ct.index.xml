@@ -148,6 +148,19 @@
 		<val>團體活動</val>
 	</item>
 	<item>
+		<key>###summer-combo###</key>
+		<val>夏季超值優惠組合</val>
+	</item>
+	<item>
+		<key>###summer-combo-url###</key>
+		<val><![CDATA[http://coolokinawa.com/ct/plan/marine/d/157]]></val>
+	</item>
+	<item>
+		<key>###brief summer-combo text###</key>
+		<val><![CDATA[<b>海中漫步+拖曳滑翔傘</b><br>
+沖繩超人氣必玩活動海中漫步和拖曳滑翔傘。這絕對是讓您充分享受沖繩藍天大海的超值優惠組合！]]></val>
+	</item>
+	<item>
 		<key>###seeMoreDetail###</key>
 		<val>了解更多</val>
 	</item>

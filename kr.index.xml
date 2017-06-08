@@ -149,6 +149,22 @@
 		<val>그룹 플랜</val>
 	</item>
 	<item>
+		<key>###summer-combo###</key>
+		<val>Summer Combo Set</val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###summer-combo-url###</key>
+		<val><![CDATA[http://coolokinawa.com/en/plan/marine/d/157]]></val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###brief summer-combo text###</key>
+      <val><![CDATA[<b>Mermaid Marine Walk + Parasailing</b><br>
+This is definitely the best outdoor activity combo set for this summer to embrace the beautiful ocean and blue sky in Okinawa.]]></val>
+		<todo></todo>
+	</item>
+	<item>
 		<key>###seeMoreDetail###</key>
 		<val>자세한 정보 보기</val>
 	</item>

@@ -148,6 +148,22 @@
 		<val>团队活动</val>
 	</item>
 	<item>
+		<key>###summer-combo###</key>
+		<val>夏季超值优惠组合</val>
+	</item>
+	<item>
+		<key>###summer-combo-url###</key>
+		<val><![CDATA[http://coolokinawa.com/cn/plan/marine/d/157]]></val>
+		<todo></todo>
+	</item>
+	<item>
+		<key>###brief summer-combo text###</key>
+		<val><![CDATA[<b>海中漫步+拖曳滑翔伞</b><br>
+冲绳超人气必玩活动海中漫步和拖曳滑翔伞。
+这绝对是让您充分享受冲绳蓝天大海的超值优惠组合！]]></val>
+		<todo></todo>
+	</item>
+	<item>
 		<key>###seeMoreDetail###</key>
 		<val>了解更多</val>
 	</item>

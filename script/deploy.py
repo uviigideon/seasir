@@ -1,3 +1,5 @@
+# usage python3 ./seasir/script/deploy.py < config.json
+
 import sys
 import json
 import pprint
