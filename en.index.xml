@@ -65,6 +65,10 @@
         <val>Located in the heart of Naha City, only few steps from Tomarin port terminal.</val>
     </item>
     <item>
+        <key>###myplace uri###</key>
+        <val><![CDATA[http://www.myplace-guesthouse.com/aboutmyplace]]></val>
+    </item>
+    <item>
         <key>###brief cool okinawa text###</key>
         <val>Okinawa local travel information, provide selected packages for all traveler.</val>
     </item>

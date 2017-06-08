@@ -60,6 +60,10 @@
 		<val>位於那霸市中心，距離泊港僅有數步之遙。</val>
 	</item>
 	<item>
+		<key>###myplace uri###</key>
+		<val><![CDATA[http://www.myplace-guesthouse.com/aboutmyplace]]></val>
+	</item>
+	<item>
 		<key>###brief cool okinawa text###</key>
 		<val>提供沖繩當地旅遊資訊與行程代訂服務</val>
 	</item>

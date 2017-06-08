@@ -21,11 +21,11 @@
 	</item>
 	<item>
 		<key>###briefNahaText###</key>
-        <val><![CDATA[스노클링, 다이빙을<br>위한 케라마제도]]></val>
+		<val><![CDATA[스노클링, 다이빙을<br>위한 케라마제도]]></val>
 	</item>
 	<item>
 		<key>###brief berry text###</key>
-        <val><![CDATA[각종 수상 액티비티 및<br>스쿠버 다이빙 가능,<br>종합 마린 레져센터]]></val>
+		<val><![CDATA[각종 수상 액티비티 및<br>스쿠버 다이빙 가능,<br>종합 마린 레져센터]]></val>
 	</item>
 	<item>
 		<key>###brief aka text###</key>
@@ -37,12 +37,11 @@
 	</item>
 	<item>
 		<key>###brief chibisi season###</key>
-        <val><![CDATA[기간 한정 : 2017년 6월<br>10일~11월 5일]]></val>
-		<todo></todo>
+		<val><![CDATA[기간 한정 : 2017년 6월<br>10일~11월 5일]]></val>
 	</item>
 	<item>
 		<key>###brief whale text###</key>
-        <val><![CDATA[최고의 겨울철 액티비티!<br>고래워칭이 1월부터<br>3월까지 개최됩니다]]></val>
+		<val><![CDATA[최고의 겨울철 액티비티!<br>고래워칭이 1월부터<br>3월까지 개최됩니다]]></val>
 	</item>
 	<item>
 		<key>###whale season###</key>
@@ -50,20 +49,24 @@
 	</item>
 	<item>
 		<key>###brief course text###</key>
-        <val><![CDATA[SEASIR는 PADI 5 STAR RESORT 이며 영어,<br>한국어, 일본어, 중국어,<br>광동어, 말레이어로<br>코스를 진행합니다]]></val>
+		<val><![CDATA[SEASIR는 PADI 5 STAR RESORT 이며 영어,<br>한국어, 일본어, 중국어,<br>광동어, 말레이어로<br>코스를 진행합니다]]></val>
 	</item>
 	<item>
 		<key>###brief sea people text###</key>
-        <val><![CDATA[각종 스쿠버 다이빙<br>유명 장비 취급점<br>
+		<val><![CDATA[각종 스쿠버 다이빙<br>유명 장비 취급점<br>
             영업시간: 11:00~20:00]]></val>
 	</item>
 	<item>
 		<key>###brief myplace text###</key>
-        <val><![CDATA[나하시 중심부에 위치.<br>토마린 터미널에서<br>도보로 접근가능]]></val>
+		<val><![CDATA[나하시 중심부에 위치.<br>토마린 터미널에서<br>도보로 접근가능]]></val>
+	</item>
+	<item>
+		<key>###myplace uri###</key>
+		<val><![CDATA[http://www.myplace-guesthouse.com/main-kr]]></val>
 	</item>
 	<item>
 		<key>###brief cool okinawa text###</key>
-        <val><![CDATA[오키나와 여행 정보 및<br>엄선된 투어상품을 소개]]></val>
+		<val><![CDATA[오키나와 여행 정보 및<br>엄선된 투어상품을 소개]]></val>
 	</item>
 	<item>
 		<key>###SEA PEOPLE Scuba Diving Equipment Retail###</key>
@@ -103,7 +106,7 @@
 	</item>
 	<item>
 		<key>###brief fotoshisa text###</key>
-        <val><![CDATA[프로페셔널 사진 촬영<br>서비스]]></val>
+		<val><![CDATA[프로페셔널 사진 촬영<br>서비스]]></val>
 	</item>
 	<item>
 		<key>###Underwater photo###</key>
@@ -123,7 +126,7 @@
 	</item>
 	<item>
 		<key>###brief special-dive-trip text###</key>
-        <val><![CDATA[시사가 추천 드리는<br>오키나와 각지 및 해외<br>다이빙 투어]]></val>
+		<val><![CDATA[시사가 추천 드리는<br>오키나와 각지 및 해외<br>다이빙 투어]]></val>
 	</item>
 	<item>
 		<key>###Oki Special Dive trip###</key>

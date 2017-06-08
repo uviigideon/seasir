@@ -10,7 +10,7 @@
     
     <item>
         <key>###Non Refundable###</key>
-        <val><![CDATA[Non Refundable<br>Deposit Condition]]></val>
+        <val><![CDATA[Non Refundable]]></val>
     </item>
         <item>
         <key>###Non Refundable dt###</key>
@@ -26,7 +26,7 @@
     </item>
     <item>
         <key>###Deposit Refundable###</key>
-        <val><![CDATA[Deposit Refundable<br>Condition]]></val>
+        <val><![CDATA[Refundable]]></val>
     </item>
         <item>
         <key>###Deposit Refundable dt###</key>

@@ -60,6 +60,10 @@
 		<val>地处那霸市中心地带，与泊港码头仅几步之遥。</val>
 	</item>
 	<item>
+		<key>###myplace uri###</key>
+		<val><![CDATA[http://www.myplace-guesthouse.com/main-cn]]></val>
+	</item>
+	<item>
 		<key>###brief cool okinawa text###</key>
 		<val>冲绳当地最完整旅游资讯网站，为您提供私人定制出行服务。</val>
 	</item>

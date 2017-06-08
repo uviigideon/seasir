@@ -14,11 +14,11 @@
         <item>
         <key>###Non Refundable dt###</key>
         <val><![CDATA[
-<li>在活動日起14日內取消預約</li>
-<li>基於任何原因客人在活動日沒有出現</li>
-<li>客人錯過船出發的時間或活動開始的時間</li>
-<li>基於任何原因客人沒有在指定的地點和時間到達</li>
-<li>船長或SEASIR Ltd 的教練懷疑該個人或團體的行為危及到其他客人或整體安全措施或客人有受消遣性藥物或酒精影響</li>
+<li>在活動日起14日內取消預約，將會收取取消費。</li>
+<li>基於任何原因客人在活動日沒有出現。</li>
+<li>客人錯過船出發的時間或活動開始的時間。</li>
+<li>基於任何原因客人沒有在指定的地點和時間到達。</li>
+<li>船長或SEASIR Ltd 的教練懷疑該個人或團體的行為危及到其他客人或整體安全措施或客人有受消遣性藥物或酒精影響。</li>
 <li>任何在原有的預約基礎上，所產生的任何變更而導致取消預約。</li>
 <li>任何預約時任何醫療或健康狀況問題沒有告知SEASIR Ltd 導致取消，詳情請參考<a href="./health.htm" target="_blank">SEASIR 健康檢查表</a>。</li>
         ]]></val>
@@ -30,7 +30,7 @@
         <item>
         <key>###Deposit Refundable dt###</key>
         <val><![CDATA[
-<li>押金退款只限在SEASIR 那霸分店或Marine Club BERRY 分店</li>
+<li>活動費用或訂金退款只限在SEASIR 那霸店或Marine Club BERRY 店</li>
 <li>基於天氣和危險的海況考慮,SEASIR Ltd. 取消活動行程</li>
         ]]></val>
     </item>
@@ -53,11 +53,11 @@
     <item>
         <key>###Deposit Collection dt###</key>
         <val><![CDATA[
-<li>SEASIR 那霸分店一日活動 JPY5,000/人</li>
-<li>SEASIR 那霸分店半日活動 JPY3,000/人</li>
-<li>SEASIR 阿嘉島分店住宿和任何活動JPY5,000/人</li>
+<li>SEASIR 那霸店一日活動 JPY5,000/人</li>
+<li>SEASIR 那霸店半日活動 JPY3,000/人</li>
+<li>SEASIR 阿嘉島店住宿和任何活動JPY5,000/人</li>
 <li>Marine Club BERRY 任何活動JPY5,000/人</li>
-<li>SEASIR 那霸分店的賞鯨行程活動JPY2,000/人</li>
+<li>SEASIR 那霸店的賞鯨行程活動JPY2,000/人</li>
         ]]></val>
     </item>
     <item>
