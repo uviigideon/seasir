@@ -842,5 +842,44 @@ I’ve READ and AGREED booking policy as below:
         <val>AKA booking form</val>
     </item>
     <!-- }}} booking form -->
+    <!-- {{{ age restrict -->
+    <item>
+        <key>###Age 10-60###</key>
+        <val>10 to 60 years old only</val>
+    </item>
+    <item>
+        <key>###Age 6-65###</key>
+        <val>6 to 65 years old only</val>
+    </item>
+    <item>
+        <key>###maximun up to 65###</key>
+        <val>maximum up to 65 years old only</val>
+    </item>
+    <item>
+        <key>###up to 65###</key>
+        <val>up to 65</val>
+    </item>
+    <item>
+        <key>###6-12###</key>
+        <val>6 to 12</val>
+    </item>
+    <item>
+        <key>###8-65###</key>
+        <val>8 to 65</val>
+    </item>
+    <item>
+        <key>###10-60###</key>
+        <val>10 to 60</val>
+    </item>
+    <item>
+        <key>###3-65###</key>
+        <val>3 to 65</val>
+    </item>
+    <item>
+        <key>###4-65###</key>
+        <val>4 to 65</val>
+    </item>
+    
+    <!-- }}} age restrict -->
 </items>
 

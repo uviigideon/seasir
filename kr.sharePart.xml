@@ -4,14 +4,6 @@
 		<val><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="kr">]]></val>
 	</item>
 	<item>
-		<key>###Dive Computer###</key>
-		<val>다이빙 컴퓨터</val>
-	</item>
-	<item>
-		<key>###Daily###</key>
-		<val>하루</val>
-	</item>
-	<item>
 		<key>###headTitle###</key>
 		<val>오키나와 다이빙 마린 하우스 시사 Marine House Seasir</val>
 	</item>
@@ -349,6 +341,10 @@
 		<val>그리고</val>
 	</item>
 	<item>
+		<key>###Daily###</key>
+		<val>하루</val>
+	</item>
+	<item>
 		<key>###lessDetail###</key>
 		<val>세부사항 닫음</val>
 	</item>
@@ -561,6 +557,10 @@
 		<val>마스크, 스노클, 부츠, 핀(오픈 힐)</val>
 	</item>
 	<item>
+		<key>###Dive Computer###</key>
+		<val>다이빙 컴퓨터</val>
+	</item>
+	<item>
 		<key>###Underwater Camera###</key>
 		<val>수중카메라</val>
 	</item>
@@ -748,19 +748,19 @@
 		<key>###rest agreement###</key>
 		<val><![CDATA[펀다이빙, 체험다이빙, 마린워크 이후 18시간은 비행금지.]]></val>
 	</item>
-    <item>
-        <key>###deposit dt naha###</key>
-        <val><![CDATA[
+	<item>
+		<key>###deposit dt naha###</key>
+		<val><![CDATA[
 예약을 확보하기 위해 SEASIR LTD 계정으로부터 PayPal 예약금입금 요청을 받게 됩니다. 저희 PayPal 계정으로부터 입금 요청을 받은날로부터 3일 이내에 1인당5,000엔 (예약금 : SEASIR 예약 1인당 5,000엔-나하점 1일투어, 아카지마점 메뉴, PADI 라이센스 취득 코스 )을 입금해 주세요. 만약 예약을 출발일로부터 3일 이내에 할 경우 24시간 이내에 입금하십시오. 입금을 하지않는 경우 모든
 예약은 취소됩니다.
             ]]></val>
-    </item>
-    <item>
-        <key>###deposit dt berry###</key>
-        <val><![CDATA[
+	</item>
+	<item>
+		<key>###deposit dt berry###</key>
+		<val><![CDATA[
 예약을 확보하기 위해 SEASIR LTD 계정으로부터 PayPal 예약금입금 요청을 받게 됩니다. 저희 PayPal 계정으로부터 입금 요청을 받은날로부터 3일 이내에 투어금액 전액을 입금해 주세요. 만약 예약일이 출발일로부터 3일 이내인 경우 24시간 이내에 입금해 주세요. 입금을 하지않는 경우 모든 예약은 취소됩니다.
             ]]></val>
-    </item>
+	</item>
 	<item>
 		<key>###deposit dt###</key>
 		<val><![CDATA[예약을 확보하기 위해 SEASIR LTD 계정으로부터 PayPal 예약금입금 요청을 받게 됩니다. 저희 PayPal 계정으로부터 입금 요청을 받은날로부터 3일 이내에 1인당5,000엔 <span class="seasir-red">(예약금 : SEASIR 예약 1인당 5,000엔 ; BERRY 예약 1인당 5,000엔 ; 고래워칭 1인당 2,000엔)</span>을 입금하십시오. 만약 예약을출발일로부터 3일 이내에 할 경우 24시간 이내에 입금하십시오. 입금을 하지않는 경우 모든]]></val>
@@ -805,5 +805,41 @@
 	<item>
 		<key>###AKA booking form###</key>
 		<val>아카 예약 양식</val>
+	</item>
+	<item>
+		<key>###Age 10-60###</key>
+		<val>만 10세부터 60세까지</val>
+	</item>
+	<item>
+		<key>###Age 6-65###</key>
+		<val>만 6세부터 65세까지</val>
+	</item>
+	<item>
+		<key>###maximun up to 65###</key>
+		<val>만 13세부터 65세까지</val>
+	</item>
+	<item>
+		<key>###up to 65###</key>
+		<val>만 13세부터 65세까지</val>
+	</item>
+	<item>
+		<key>###6-12###</key>
+		<val>만 6세부터 12세까지</val>
+	</item>
+	<item>
+		<key>###8-65###</key>
+		<val>만 8세부터65세까지</val>
+	</item>
+	<item>
+		<key>###10-60###</key>
+		<val>만 10세부터60세까지</val>
+	</item>
+	<item>
+		<key>###3-65###</key>
+		<val>만 3세부터65세까지</val>
+	</item>
+	<item>
+		<key>###4-65###</key>
+		<val>만 4세부터65세까지</val>
 	</item>
 </items>
